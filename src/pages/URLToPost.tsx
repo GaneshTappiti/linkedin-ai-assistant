@@ -2,14 +2,17 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
+import { Textarea } from "@/components/ui/textarea";
 import { Card } from "@/components/ui/card";
 import { useApp } from "@/context/AppContext";
 import { OutputDisplay } from "@/components/OutputDisplay";
 import { Globe, Sparkles } from "lucide-react";
 import { toast } from "sonner";
+import { extractPageText, generateLinkedinOutput } from "@/lib/localAgent";
 
 const URLToPost = () => {
   const [url, setUrl] = useState("");
+  const [notes, setNotes] = useState("");
   const { profile, setOutput, isGenerating, setIsGenerating } = useApp();
   const navigate = useNavigate();
 
@@ -32,21 +35,28 @@ const URLToPost = () => {
     }
 
     setIsGenerating(true);
-    // Simulate (will be replaced with edge function)
-    setTimeout(() => {
-      const domain = new URL(url).hostname;
-      setOutput({
-        hooks: [
-          `I just read this incredible article and had to share my take.`,
-          `This article from ${domain} changed how I think about the future.`,
-          `Everyone's talking about AI. But this article shows what nobody else sees.`,
-        ],
-        post: `Just came across a brilliant piece from ${domain} and it got me thinking.\n\nThe key insight that stood out:\n\nWe're moving from an era of information abundance to an era of attention scarcity. And this changes everything about how we build products, create content, and grow businesses.\n\nHere's what this means for you:\n\n→ Quality > Quantity (always)\n→ Your unique angle matters more than ever\n→ The winners will be those who can distill complexity into clarity\n\nAs someone working in ${profile.skills || "tech"}, I see this playing out daily.\n\nWhat's your take? Have you noticed this shift too?\n\n🔗 Link in comments`,
-        hashtags: ["#LinkedIn", "#Insights", "#ThoughtLeadership", "#ContentStrategy", "#Innovation"],
-        imagePrompt: `A sophisticated flat illustration of a professional reading and analyzing a digital article on a sleek tablet, with highlighted key insights floating around, modern blue gradient background, minimal corporate style for LinkedIn.`,
+    try {
+      let articleText = "";
+      try {
+        articleText = await extractPageText(url);
+      } catch {
+        toast.info("Could not read article directly (likely CORS). Using URL + your notes.");
+      }
+
+      const generated = await generateLinkedinOutput(profile, "url", {
+        url,
+        articleText,
+        notes,
       });
+
+      setOutput(generated);
+      toast.success("URL template ready. Tell me what you want!");
+    } catch (error) {
+      const message = error instanceof Error ? error.message : "Unknown error";
+      toast.error(`Failed to convert URL: ${message}`);
+    } finally {
       setIsGenerating(false);
-    }, 3000);
+    }
   };
 
   return (
@@ -70,6 +80,16 @@ const URLToPost = () => {
               />
             </div>
           </div>
+        </div>
+
+        <div className="space-y-2">
+          <label className="text-sm font-medium text-foreground">Key Notes (recommended)</label>
+          <Textarea
+            placeholder="Paste article highlights here for better output when the site blocks browser access..."
+            value={notes}
+            onChange={(e) => setNotes(e.target.value)}
+            rows={4}
+          />
         </div>
 
         <Button onClick={handleGenerate} disabled={isGenerating} className="w-full gap-2">

@@ -9,6 +9,7 @@ import { useApp } from "@/context/AppContext";
 import { OutputDisplay } from "@/components/OutputDisplay";
 import { Sparkles } from "lucide-react";
 import { toast } from "sonner";
+import { generateLinkedinOutput } from "@/lib/localAgent";
 
 const tones = [
   { value: "professional", label: "Professional" },
@@ -38,20 +39,21 @@ const CreatePost = () => {
     }
 
     setIsGenerating(true);
-    // Simulate AI generation (will be replaced with real edge function)
-    setTimeout(() => {
-      setOutput({
-        hooks: [
-          `Most people get ${topic} completely wrong. Here's what I learned after years in the trenches.`,
-          `I spent 3 months studying ${topic}. The results changed everything.`,
-          `Stop scrolling. If you care about ${topic}, this will save you months.`,
-        ],
-        post: `${context ? context + "\n\n" : ""}Here's my take on ${topic}:\n\nAfter working in ${profile.skills || "this space"} for years, I've noticed a pattern that most people miss.\n\nThe key insight? It's not about doing more — it's about doing the right things differently.\n\n3 lessons I've learned:\n\n1. Start with the fundamentals, not the trends\n2. Consistency beats intensity every single time\n3. Your unique perspective IS your competitive advantage\n\nThe bottom line: ${topic} isn't just another buzzword. It's a shift in how we think about value creation.\n\nWhat's your experience with this? Drop a comment below 👇`,
-        hashtags: ["#LinkedIn", "#AI", `#${topic.replace(/\s+/g, "")}`, "#PersonalBrand", "#ContentCreator"],
-        imagePrompt: `A modern, minimalist illustration showing a professional figure confidently sharing knowledge about ${topic}, with abstract tech elements and a warm gradient background in blue and purple tones. Clean, corporate style suitable for LinkedIn.`,
+    try {
+      const generated = await generateLinkedinOutput(profile, "manual", {
+        topic,
+        context,
+        tone,
       });
+
+      setOutput(generated);
+      toast.success("Post template ready. Waiting for custom content...");
+    } catch (error) {
+      const message = error instanceof Error ? error.message : "Unknown error";
+      toast.error(`Failed to generate post: ${message}`);
+    } finally {
       setIsGenerating(false);
-    }, 2500);
+    }
   };
 
   return (
