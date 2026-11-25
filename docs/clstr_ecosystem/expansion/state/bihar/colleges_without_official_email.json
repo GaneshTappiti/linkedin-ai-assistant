@@ -1,0 +1,14 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Patna",
+      "state_or_union_territory": "Bihar",
+      "college_name": "Netaji Subhas Institute of Technology"
+    },
+    {
+      "city": "Patna",
+      "state_or_union_territory": "Bihar",
+      "college_name": "Netaji Subhas Institute of Technology (Bihta)"
+    }
+  ]
+}

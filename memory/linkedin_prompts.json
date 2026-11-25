@@ -1,0 +1,31 @@
+{
+  "created_at": "2026-04-26T03:15:30Z",
+  "anonymized": true,
+  "anonymization_notes": [
+    "Prompt templates contain no private contact data.",
+    "Templates are generic and reusable."
+  ],
+  "purpose": "Reusable prompt templates derived from captured profile + activity",
+  "prompts": [
+    {
+      "id": "p1_weekly_founder_update",
+      "prompt": "Write a LinkedIn post in Ganesh's voice: this week I shipped [feature], solved [specific blocker], and learned [insight]. Include one metric and one question to founders."
+    },
+    {
+      "id": "p2_design_engineering_breakdown",
+      "prompt": "Create a product design + engineering breakdown post: problem context, design decision, technical implementation, outcome metric, and key lesson. Keep practical and student-founder friendly."
+    },
+    {
+      "id": "p3_campus_growth_story",
+      "prompt": "Generate a campus-growth story about Clstr: starting challenge, activation strategy, early traction signals, and what changed after execution. Add 3 clear takeaways."
+    },
+    {
+      "id": "p4_resilience_case_study",
+      "prompt": "Turn an infra incident into a concise case study: incident summary, immediate mitigations, long-term architecture changes, and founder-level lesson on reliability."
+    },
+    {
+      "id": "p5_ai_work_transition",
+      "prompt": "Write a thought-leadership post on AI and career transition with practical steps for students and early professionals, avoiding hype and focusing on execution."
+    }
+  ]
+}

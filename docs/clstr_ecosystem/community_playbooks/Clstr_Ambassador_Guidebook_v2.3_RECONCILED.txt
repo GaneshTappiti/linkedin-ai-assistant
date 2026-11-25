@@ -1,0 +1,492 @@
+﻿
+CLSTR.IN
+Campus Ambassador
+Official Guidebook
+
+Version 2.3 — Reconciled Community Edition  ·  2026 Academic Year
+For selected ambassadors only  ·  Confidential
+
+Includes: Real issues. Honest solutions. What actually works.
+
+3–5 hrs/week
+Manageable commitment
+Real ownership
+You are the Clstr founder on campus
+Verified results
+Performance tracked, rewards earned
+
+00
+Contents
+
+01
+Welcome and What This Program Is About
+02
+Your Role as Campus Captain
+03
+The Domain Team Structure
+04
+Domain Leads — Who Does What
+05
+Your Weekly Action Plan
+06
+KPIs — What You Are Measured On
+07
+Real Issues You Will Face — and How to Solve Them
+08
+Objection Handling — What to Say When They Say No
+09
+Tools and Resources
+10
+Incentives and Recognition
+11
+Your Path Into the Vizag Community
+12
+Reporting and Communication
+13
+Dos and Don'ts — Upgraded
+14
+FAQ — Honest Answers
+
+01
+Welcome
+
+Congratulations on being selected. This is not a certificate program. This is a real leadership role with real responsibilities, real outcomes, and real rewards — and it comes with real challenges that nobody warned you about in v1.0.
+
+This version of the guidebook is different. It is honest. It tells you not just what to do, but what will go wrong and exactly how to handle it. Every section has been upgraded based on what Campus Captains encountered in the field.
+
+What is Clstr?
+Clstr is a Vizag-focused, cross-college student community built for students across the city. clstr.in is the supporting layer for identity, discovery, event participation and continuity. Where institutional verification is available and operating, it should be described accurately as a verification process—not as proof that every user is automatically trustworthy or safe.
+
+What is this program about?
+You are not here to forward links. You are here to own Clstr at your college — recruit, activate, run events, build a domain team, and report results. You are the founder of Clstr on your campus.
+
+3–5 hrs/week
+Expected weekly commitment. Manageable alongside academics.
+Real outcomes
+KPIs tracked. Results visible. Top performers fast-tracked.
+Full ownership
+You are the Campus Captain. Not a volunteer. The leader.
+
+02
+Your Role as Campus Captain
+
+As Campus Captain, your job is to own Clstr on your campus the way a founder would own their startup in a city. Everything that happens on Clstr at your college flows through you.
+
+YOUR CORE MISSION
+Make Clstr a trusted part of student life at your college. Help students discover the community, help relevant clubs share approved activities, and direct official Clstr event participation through clstr.in. Do not promise that every student, club or opportunity will use it.
+
+What You Own
+RESPONSIBILITY
+WHAT IT MEANS
+Community growth
+Drive verified and meaningfully active student participation. User-count milestones are planning targets only and never replace activation, repeat participation, safety or retention metrics.
+Club activation
+Bring clubs onto the platform. Get them posting events and engaging members on Clstr.
+Domain team
+Recruit 4–5 Domain Leads under you. Each owns one campus domain. You lead.
+Events and campaigns
+Run or support campus events that create real FOMO for non-users.
+Alumni and mentors
+Work with your Placement Lead to connect students with verified alumni on Clstr.
+Weekly reporting
+Submit progress report every Monday. Numbers only. No fluff.
+Content pipeline
+Capture campus moments and student stories. Send raw content to the Clstr team.
+Outreach
+WhatsApp broadcasts, Instagram stories, and physical poster campaigns at your college.
+
+What Success Looks Like at 30 Days
+500+ users
+First milestone hit. Campus is live.
+2 clubs active
+Events are posting. Club presidents are on board.
+4 Domain Leads
+Your team is recruited, onboarded, and running.
+
+03
+The Domain Team Structure
+
+You cannot do everything alone. That is why you have a Domain Team. Each Domain Lead owns one specific area of campus activity. You lead the team — they execute in their domain.
+
+ROLE
+DOMAIN
+ONE-LINE MISSION
+Campus Captain (You)
+Overall ownership
+Own Clstr at your college. Lead the team. Report results.
+Clubs and Events Lead
+Clubs and Events
+Get every club on Clstr and every event posted here first.
+Placement and Career Lead
+Jobs and Mentorship
+Connect students with opportunities and alumni mentors.
+Community Lead
+Feed and Content
+Keep the campus feed active, quality, and campus-native.
+Growth and Outreach Lead
+Signups and Reach
+Drive new student registrations and campus visibility.
+CollabHub Lead
+Projects and Collaboration
+Get students building together via CollabHub and EcoCampus.
+
+How the Team Works
+• Hold a weekly team check-in — 20 minutes, WhatsApp call or in-person. Non-negotiable.
+• Each Domain Lead owns their tasks independently — you review outputs, not every step.
+• Escalate any blocker to the Ambassador Program Manager within 24 hours — not after 3 days.
+• Every Domain Lead feeds their progress into your Monday report.
+• Foot soldiers (up to 5 per campus) support whichever domain needs extra help that week.
+• When a Domain Lead goes inactive, escalate immediately and recruit a replacement. Do not absorb their work yourself.
+
+04
+Domain Leads — Who Does What
+
+Each Domain Lead has one clear area of ownership. Below is exactly what they do, what they are responsible for, and the most common failure mode in each role.
+
+★  Clubs and Events Lead
+RESPONSIBILITIES
+• Onboard all active clubs onto Clstr
+• Get clubs to post events on the platform
+• Drive RSVP and attendance for every campus event
+• Bridge between club presidents and Clstr
+COMMON FAILURE + FIX
+Failure: Club president agrees verbally but never posts.
+Fix: Help them post the first event yourself. One completed post creates habit. Never leave it as a verbal yes.
+
+◆  Placement and Career Lead
+RESPONSIBILITIES
+• Share internship and job posts in the feed
+• Connect students with alumni mentors
+• Promote AI career assistant to final-year students
+• Coordinate with TPO office for listings
+COMMON FAILURE + FIX
+Failure: TPO is unresponsive or indifferent to the pitch.
+Fix: Don't sell the app. Sell the outcome. Frame it as: 'Students can now access verified alumni referrals for placements without burdening your office.' TPOs care about student outcomes, not technology.
+
+●  Community Lead
+RESPONSIBILITIES
+• Keep the campus feed active daily
+• Encourage students to post achievements, projects, wins
+• Moderate tone and quality of campus content
+• Drive meaningful engagement — not just likes
+COMMON FAILURE + FIX
+Failure: Feed goes cold after the first week of excitement.
+Fix: Create a private 'Campus Creators' WhatsApp group with 10–15 students who agree to post once a week. Give them prompts. Seed the feed yourself when it stalls. One active post resets momentum.
+
+▲  Growth and Outreach Lead
+RESPONSIBILITIES
+• Run WhatsApp broadcasts and Instagram Stories
+• Recruit new students to join Clstr
+• Manage physical posters and QR code distribution
+• Track signup numbers and report weekly
+COMMON FAILURE + FIX
+Failure: High QR code scans but low signup completions.
+Fix: The email OTP step has friction. Stand next to the poster during high-traffic times and personally walk the first 10 students through signup. Track the actual completion rate of assisted onboarding versus passive QR scans. Do not claim a multiplier until Clstr has measured it from a defined sample.
+
+◈  CollabHub Lead
+RESPONSIBILITIES
+• Promote CollabHub to students building projects
+• Facilitate team formations for hackathons
+• Help students create and share project portfolios
+• Drive EcoCampus adoption for reuse and exchange
+COMMON FAILURE + FIX
+Failure: Students say 'I'll use it for the next hackathon' and never do.
+Fix: Do not wait for a hackathon. Create a live Team-Up post right now for a real problem — 'Looking for a designer for a mini app project.' Show them the tool works with an active post, not a concept.
+
+05
+Your Weekly Action Plan
+
+This is not a suggestion. This is your operating rhythm. Follow it and you will hit your targets. Skip it and your campus will go cold.
+
+WEEK
+THEME
+KEY TASKS
+Wk 1
+Onboarding and Setup
+Attend onboarding call with Ambassador PM. Set up your Clstr profile completely. Meet your Domain Leads and assign roles. Join the ambassador WhatsApp group. Post your first piece of content on the campus feed.
+Wk 2
+Campus Mapping
+List all active clubs. Identify 10 high-influence students. Map TPO and admin contacts. Send first WhatsApp broadcast. Meet one club president in person.
+Wk 3
+First Activations
+Onboard at least 2 clubs. Get first campus event posted. Recruit 100+ students. Put QR code posters in 5 high-traffic spots. Create one live Team-Up post on CollabHub.
+Wk 4
+Growth Sprint
+Run first on-campus info session. Hit 500 registered users — Milestone 1. Share first testimonial. Submit Week 4 progress report.
+Wk 5–6
+Activation Loops
+Push mentorship signups. Get alumni engaged via TPO connection. Drive daily feed activity. Target 1,000 users and 4 active clubs — Milestone 2.
+Ongoing
+Sustain and Scale
+Monday report every week. Target 1,500 users + all clubs active — Milestone 3. Target 2,000 users — Milestone 4. Build bench for next semester.
+
+DAILY MINIMUM — 30 MINUTES
+Check ambassador team group and reply to blockers  •  Post or share one piece of content on the campus feed  •  Follow up on one pending task from your weekly checklist  •  Check your signup numbers — are they growing?
+
+06
+KPIs — What You Are Measured On
+
+Every ambassador is on a leaderboard. Your position determines your recognition, your rewards, and your path to the Clstr core team. These are the only numbers that matter.
+
+2,000+
+Planning target: verified and meaningfully active users
+All clubs
+Active and posting
+Events
+Only as many as the community, budget and safety plan can support
+Weekly
+Report submitted — no exceptions
+
+Full KPI Breakdown
+KPI
+DEFINITION + TARGET
+Signup growth
+New verified users from your college each week. Milestones: 500 → 1,000 → 1,500 → 2,000. Do not justify a target using an unverified college denominator. Targets must be set from the college’s documented reachable population and revised after observed conversion and retention.
+Club activation
+Clubs who have posted at least one event on Clstr. Target: 5 clubs by Week 6.
+Event RSVP rate
+Percentage of RSVP-ed students who actually attended. Target: 60%+.
+Feed activity
+Posts, comments, and reactions on your campus feed each week. Target: 50+ actions/week.
+Domain Lead output
+Percentage of your Domain Leads who completed their weekly task. Target: 100%.
+Report submission
+Did you submit your Monday report on time? Binary: yes or no. Missed = leaderboard drop.
+Referral rate
+Students you directly referred who signed up and completed onboarding.
+Alumni engagement
+Verified alumni connected to students through mentorship from your college.
+
+07
+Real Issues You Will Face — and How to Solve Them
+
+This section did not exist in v1.0. It exists now because every Campus Captain hits these same walls. Here they are, named honestly, with the exact fix.
+
+ISSUE 01 — High signups, low daily active users
+WHY IT HAPPENS
+Students sign up to support you personally. Once they're in, there's no compelling reason to return the next day. The feed is empty. Their friends aren't posting. The platform feels dead.
+THE FIX
+Create one irreplaceable daily signal. The safer option is to help an authorised college or club partner share a relevant update on Clstr with written permission. Never promise exclusivity, placement access or official institutional content without approval. Retention must come from useful, voluntary community participation—not forced dependence on a single information source.
+
+ISSUE 02 — WhatsApp group more active than the Clstr feed
+WHY IT HAPPENS
+WhatsApp has zero friction. Students are already there. You're asking them to open a new app to do something they can already do. The activation energy is high and the habit isn't built yet.
+THE FIX
+Don't fight WhatsApp. Use it as your distribution channel. Post a short summary of campus activity in WhatsApp, then add: 'Full update + RSVP on Clstr.' Redirect the existing habit toward the new platform. In 3–4 weeks, early adopters will begin posting directly on Clstr because it feels more permanent and professional.
+
+ISSUE 03 — Domain Leads go inactive after Week 2
+WHY IT HAPPENS
+They signed up with enthusiasm but their role feels abstract. No clear weekly output. No immediate recognition. Exams hit. They drift. You absorb their work and burn out.
+THE FIX
+Make their contribution visible. Shout them out in the ambassador group when they hit a small win. Give each lead exactly ONE task for the week — not a list, one task. Review it together on the weekly call. The moment a Domain Lead's work is seen and celebrated publicly, they re-engage. Vague responsibility kills motivation. Specific visible tasks sustain it.
+
+ISSUE 04 — Email OTP step is blocking signups
+WHY IT HAPPENS
+Some college email portals are slow. The OTP arrives late, or students don't check their college email habitually, or the signup flow loses them at the verification step.
+THE FIX
+When running live onboarding sessions, tell every student to open their college email inbox FIRST, before they even start signup. This cuts abandonment dramatically. For students whose OTP fails, flag it to the Ambassador PM immediately — this is a technical issue with a known fix. Do not let a broken OTP become the reason someone never joins.
+
+ISSUE 05 — Clubs say yes, then do nothing
+WHY IT HAPPENS
+Club presidents are busy. Your request goes on a mental to-do list that never gets actioned. They said yes to you, not to the task.
+THE FIX
+Post their first event for them. Sit with the club president, open Clstr on your phone, and complete the event creation while they watch. The activation moment is the first post — not the agreement. After one post is live, most clubs will continue independently because they can see it working.
+
+ISSUE 06 — You are doing everything yourself and burning out
+WHY IT HAPPENS
+Domain Leads are underperforming. You don't want to look bad on the leaderboard. You start absorbing their work. By Week 4 you are exhausted and inconsistent.
+THE FIX
+Escalate to Ambassador PM. This is what they are there for. A Campus Captain who flags a problem early and gets help is more valuable than one who silently burns out. Replace underperforming leads. Cut tasks, not quality. The program is designed for delegation — trust it.
+
+08
+Objection Handling — What to Say When They Say No
+
+You will hear these exact responses. Here is what to say back. Do not memorise these word for word. Understand the logic so you can adapt naturally.
+
+WHAT THEY SAY
+WHAT YOU SAY
+"We already have WhatsApp groups for this."
+WhatsApp groups work until seniors graduate and the group goes silent. Clstr preserves your college's knowledge and network permanently. Your batch's opportunities stay visible to every junior who comes after you. That is not a WhatsApp group.
+"I don't have time to use another app."
+Clstr is not asking for time. Your campus feed is already happening — placements, events, team formations. Clstr just makes it structured and searchable instead of buried in 15 noisy groups. You spend 30 seconds, not 30 minutes.
+"LinkedIn already does this."
+LinkedIn doesn't know you are a CSE third-year at this college. It doesn't show you events from your campus, textbooks for sale from your seniors, or hackathon teammates from your batch. Clstr is contextual in a way LinkedIn can never be.
+"I'll join after exams."
+Understood. Can I help you sign up right now — just the account, takes 2 minutes — so you're in when you're ready? The feed will be live with campus activity when you return. You don't have to post anything today.
+"What's the point? Nobody I know is on it."
+That is exactly why it matters that you join now. Early adopters shape what the community looks like. If the people worth connecting with are on it, everyone else joins. You are that person for your batch.
+"My college email doesn't work for sign-up."
+Flag this to me right now. I will escalate it to the technical team today and get it fixed. This is the most common issue and it has a direct fix — your domain just needs to be whitelisted.
+
+09
+Tools and Resources
+
+You will be given access to everything you need. Do not wait to be reminded. Use these tools from Day 1.
+
+TOOL
+HOW TO USE IT
+Clstr platform — clstr.in
+Your primary tool. Profile, campus feed, club management, event creation. Log in daily.
+Ambassador tracker
+Shared sheet provided by Ambassador PM. Update your numbers every Monday before 10am.
+WhatsApp ambassador group
+Primary channel with Ambassador PM and other Campus Captains. Respond within 6 hours on weekdays.
+Asset library
+Canva templates, posters, QR codes, branded assets. Request with 48-hour notice via Ambassador PM.
+Pitch deck
+Use when approaching TPOs, club presidents, or college admin. Do not pitch cold without this.
+Weekly report template
+Sent by Ambassador PM. Fill it and submit every Monday. It takes 15 minutes.
+Support contact
+Your Ambassador Program Manager. DM on WhatsApp for any blocker. Do not wait 3 days.
+
+10
+Incentives and Recognition
+
+Real talk, upfront: Clstr cannot pay you right now. No funding, no fixed salary — not for you, not for the founder, not for anyone on the team yet. That is the honest starting point and this guidebook will not pretend otherwise. What you get instead is below — and it is more than it sounds like.
+
+M01
+500 verified users + 2 active clubs
+Clstr-branded merchandise — hoodie or cap. Shipped directly. First proof your campus is alive on Clstr.
+
+M02
+1,000 verified users + 4 active clubs
+Clstr tee + free VIP passes to every upcoming Vizag Community event + public recognition on Clstr LinkedIn and Instagram.
+
+M03
+1,500 verified users + all domain clubs active
+Official Clstr Campus Leader Certificate — printed, signed by the founder, shareable on LinkedIn.
+
+M04
+2,000 verified users — full campus activation
+Fast-tracked for Campus Node Coordinator (see Section 11) + official appreciation letter from Clstr founder on company letterhead.
+
+M05
+Top performer — end of semester
+Fast-track interview for Clstr core team or paid internship. Direct LinkedIn recommendation from the founder. Featured as a case study on Clstr.
+
+
+WHY THIS IS BIGGER THAN THE MERCH
+This is not a college ambassador program where you promote an app for a t-shirt. Here is what you are actually building toward:
+Your whole college will know your name — not as ‘that guy who does surveys,’ but as the person who brought something real to campus.  •  Free passes to every Clstr Vizag Community event, always, zero ticket cost, first access, for as long as you are part of this.  •  A real shot at the actual core team of the Clstr Vizag Student Community — not the app, the real, physical, in-person community at vizag.clstr.in, with real founding members and real events, right now, while it is still small enough that you would be one of the people who built it, not someone who joined after it was already big.
+This is the responsibility being handed to you. It is bigger than it sounds. If that is not for you, that is completely fine — no hard feelings. But if it is, show up like it matters. Because it actually does.
+
+RESUME-READY CREDENTIALS
+Official selection letter on Clstr letterhead  •  Role title: Clstr Campus Leader — [Your College]  •  LinkedIn recommendation from founder for top performers  •  Featured on Clstr social channels  •  Priority alumni network and mentor access
+
+11
+Your Path Into the Vizag Community
+
+Campus Captain is not the ceiling — it’s the tryout. The Clstr Vizag Community is the physical, citywide network of clubs, events, and student leaders across every partner college. It runs on its own volunteer leadership layer — and that layer is recruited directly from the Ambassador Program. No new application, no separate hiring process. The best-performing Campus Captains get promoted.
+
+L2
+Campus Node Coordinator — One Per College
+Promoted from the single best-performing Campus Captain at your college once you hit your milestones — not a new application. Reports to the Community/Collab Lead and keeps your college's community presence alive permanently, beyond the 90-day sprint. Recognition-based: verified ‘Community Node Lead’ badge on your Clstr profile, your name on the Vizag Community website, first access to every community event at zero ticket cost, and a signed founder recommendation letter at the 6-month mark.
+
+This is not automatic. The role goes to Ambassadors who have already hit at least one milestone, are known and trusted on their own campus, and respond reliably within 24 hours — not to whoever simply stayed longest. Once promoted, your first task is to find at least one student from each Guild (skill-based groups — Build, Design, Career, Grow, Hustle) and each Circle (interest-based groups — Foodie, Sports, Travel, Music, Movie) at your college within the first month. This is what makes the community’s cross-skill, cross-interest promise real instead of accidental.
+
+WHAT THIS MEANS FOR YOU RIGHT NOW
+Hitting your milestones is literally the audition  •  Node Coordinators are chosen after Week 13, not during it — stay active through the finish line  •  One per college — this is competitive, not participation-based  •  Not promoted? You keep every reward you already earned as Campus Captain — nothing is at risk
+
+Two other volunteer leadership paths exist alongside Campus Node Coordinator — Guild & Circle Leads (own a specific interest or skill group across colleges) and Community Hype & Content Creators (produce raw, campus-native content for the main community account). Both are open to any active community member, not just Ambassadors. Ask your Ambassador PM if either interests you.
+
+12
+Reporting and Communication
+
+One reporting chain: you report to the Ambassador Program Manager. When something is blocked, escalate same day — not after 3 days of silence.
+
+Weekly Monday Report — What to Include
+• Total registered users from your college this week vs last week
+• Number of active clubs and any new clubs onboarded
+• Events posted and RSVP numbers
+• Domain Lead update — who completed their task, who did not
+• One win from this week
+• One blocker that needs help from Ambassador PM
+
+Communication Rules
+RULE
+DETAIL
+Response time
+Reply to Ambassador PM messages within 6 hours on weekdays.
+Escalation rule
+If blocked for more than 24 hours, message Ambassador PM on WhatsApp. Do not wait for the weekly call.
+Report deadline
+Monday by 10am. Late reports affect your leaderboard position.
+Meeting cadence
+Monthly ambassador sync call — mandatory. Weekly team call with Domain Leads — mandatory.
+Content sharing
+Send raw campus content — photos, student wins, event moments — to the Clstr content team same day.
+
+13
+Dos and Don'ts — Upgraded
+
+The original rules, plus the new ones learned from what actually happened in the field.
+
+DO THIS
+NOT THAT
+✓  Send one WhatsApp broadcast per week with a real campus update
+✗  Spam forwards of generic promotional posters that students instantly mute
+✓  Own your numbers — check signups daily before 9am
+✗  Wait for Ambassador PM to ask what your numbers are
+✓  Recruit Domain Leads in Week 1
+✗  Try to do every domain task yourself and burn out by Week 3
+✓  Escalate blockers same day — escalation is strength, not weakness
+✗  Wait silently and miss your targets while hoping the problem resolves itself
+✓  Submit your Monday report on time every single week
+✗  Skip a week because nothing big happened — the absence of news is the news
+✓  Post campus moments and real student wins on the feed
+✗  Only share Clstr-branded promotional content — it kills organic credibility
+✓  Use the pitch deck when approaching TPOs
+✗  Make promises to college admin that require Clstr approval
+✓  Recognise your Domain Leads publicly when they deliver
+✗  Take all the credit — your team's output is your output
+✓  Walk new students through signup in person when possible
+✗  Rely on QR codes alone and wonder why completion rates are low
+✓  Post their first event for a club — sit with the president and do it together
+✗  Accept a verbal yes from a club and wait for them to act
+✓  Flag a Domain Lead going inactive in Week 1 of absence
+✗  Absorb their work and say nothing until you are already overwhelmed
+✓  Use Clstr yourself. Post on it. Use the AI assistant. Be seen on the platform.
+✗  Ambassador who never uses Clstr trying to convince others to use it
+
+14
+FAQ — Honest Answers
+
+These are the questions every Campus Captain asks. Here are the unhedged answers.
+
+Q: How many hours per week does this actually take?
+A: 3 to 5 hours if you are organised. The daily minimum is 30 minutes. The weekly report takes 15 minutes. Domain Leads handle the rest. If you are spending more than 5 hours, you are doing your Domain Leads' work for them — stop and delegate.
+
+Q: What if a Domain Lead goes inactive?
+A: Escalate to Ambassador PM immediately. You have permission to recruit a replacement without waiting for approval. Inactive leads cost you leaderboard points and momentum. Do not absorb their work — replace them.
+
+Q: Can I run this alongside other ambassador programs?
+A: Yes. But do not take this role if you cannot commit the weekly effort. One focused Campus Captain outperforms five passive ones. Quality over quantity — this applies to your own time too.
+
+Q: What if a club president or TPO says no?
+A: That is normal. Come back with the pitch deck. Focus on the outcome for them — event visibility, student engagement, NAAC reporting. Not the app. The outcome. If they say no twice, move to the next club and return to this one in 3 weeks with a case study from another club.
+
+Q: My college email domain is not working for signup. What do I do?
+A: Flag this to the Ambassador PM immediately with the full domain name. This is a whitelisting issue with a known fix. Do not let this block signups — escalate it the same day you discover it.
+
+Q: What if I miss my Monday report?
+A: Your leaderboard position drops for that week. Two consecutive misses trigger a check-in call from Ambassador PM. Three consecutive misses and your role is reviewed. The report takes 15 minutes — do not miss it.
+
+Q: How do I get more promotional materials?
+A: Request from the content team via Ambassador PM. Give 48 hours' notice. Specify: format, platform, occasion, and specific messaging needed. If you need something for tomorrow, ask today.
+
+Q: What is the path from Ambassador to Clstr core team?
+A: Two paths run in parallel. Top 3 performers at the end of each semester get priority access to internship interviews or paid campus roles at Clstr. Separately, the single best-performing Campus Captain at your college is promoted to Campus Node Coordinator — a permanent Layer 2 leadership role in the Clstr Vizag Community itself (see Section 11). Both paths are performance-based, not seniority-based. Your leaderboard rank is your application to both.
+
+Q: What if students say there is nothing useful on the platform yet?
+A: They are right — and it is your job to change that. Post the first event. Post the first job. Post the first team-up. The platform is live but your campus content is what you bring to it. You are not activating an existing community — you are building one.
+
+Q: Can I recruit students from other colleges?
+A: No. Your domain is your college only. If you want to expand to a neighbouring college, speak with the Ambassador PM — that is a separate onboarding process and requires approval.
+
+
+You were selected because you are the kind of person who makes things happen on campus.
+
+Now go make Clstr happen.
+
+clstr.in

@@ -1,0 +1,51 @@
+[
+  {
+    "college_name": "Dronacharya College of Engineering",
+    "alternative_names": [
+      "DCE Gurgaon"
+    ],
+    "aishe_code": "C-28105",
+    "district": "Gurugram",
+    "city": "Gurugram",
+    "full_address": "Khentawas, Farrukhnagar, Gurugram - 123506",
+    "state_or_union_territory": "Haryana",
+    "affiliated_university": "Gurugram University",
+    "official_website": "http://www.dronacharya.info",
+    "emails_found": [
+      "dce_gurgaon@yahoo.com",
+      "info@dronacharya.info"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "dronacharya.info"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://gurugramuniversity.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official university affiliation database audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for regulatory desk; students lack college-owned email.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2800,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 17.5,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 59.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "captured_at": "2026-04-26T03:18:57Z",
+  "anonymized": true,
+  "crawl_scope": [
+    "recent-activity/all",
+    "recent-activity/posts",
+    "recent-activity/comments",
+    "recent-activity/videos",
+    "recent-activity/documents"
+  ],
+  "high_depth_pass_2_file": "linkedin_high_depth_pass2.json",
+  "tabs": {
+    "all": {
+      "loaded_url": "https://www.linkedin.com/in/ganeshtappiti/recent-activity/all/",
+      "status": "data_extracted_in_pass_2",
+      "parsed_count": 14,
+      "notes": [
+        "High-depth auto-scroll pass surfaced older timeline entries (2mo to 9mo).",
+        "See linkedin_high_depth_pass2.json for extracted previews and impressions."
+      ]
+    },
+    "posts": {
+      "loaded_url": "https://www.linkedin.com/in/ganeshtappiti/recent-activity/articles/",
+      "status": "limited_or_empty_in_current_view",
+      "parsed_count": 0,
+      "notes": [
+        "Tab redirected to activity/articles and did not expose post cards in this session.",
+        "No reliable post entities extracted from this tab during this pass."
+      ]
+    },
+    "comments": {
+      "loaded_url": "https://www.linkedin.com/in/ganeshtappiti/recent-activity/comments/",
+      "status": "data_extracted_in_pass_2",
+      "parsed_count": 8,
+      "notes": [
+        "Initial pass was sparse, but high-depth pass extracted comment-linked activity entries.",
+        "See linkedin_high_depth_pass2.json for extracted previews and counts."
+      ]
+    },
+    "videos": {
+      "loaded_url": "https://www.linkedin.com/in/ganeshtappiti/recent-activity/videos/",
+      "status": "data_extracted",
+      "parsed_count": 2,
+      "items": [
+        {
+          "index": 1,
+          "duration": "0:28",
+          "summary": "Motivational short on persistence and mastery through repeated attempts.",
+          "tags": ["Motivation", "GrowthMindset", "Resilience", "Consistency"]
+        },
+        {
+          "index": 2,
+          "duration": "0:34",
+          "summary": "Buildtrix.dev update on RAG-powered prompt generation for no-code/AI builder workflows.",
+          "tags": ["Buildtrix", "RAG", "NoCode", "AIWorkflows"]
+        }
+      ]
+    },
+    "documents": {
+      "loaded_url": "https://www.linkedin.com/in/ganeshtappiti/recent-activity/documents/",
+      "status": "data_extracted",
+      "parsed_count": 10,
+      "items": [
+        {"title": "Buildtrix.dev The AI-Powered Innovation Studio", "pages": 7},
+        {"title": "Selected", "pages": 2},
+        {"title": "Oracle Certified AI Foundations Associate", "pages": 1},
+        {"title": "Offer Letter", "pages": 1},
+        {"title": "Selected for Cohort 4 of the 2025 Aspire Leaders Program", "pages": 1},
+        {"title": "Selected as VENIX Campus Ambassador IIM Bangalore VCAP 2025", "pages": 1},
+        {"title": "You're Overwhelmed | A Visual Thought on Mental Clutter", "pages": 8},
+        {"title": "Innovation Ambassador Training Certified", "pages": 1},
+        {"title": "Basic outline of the website designed in figma", "pages": 6},
+        {"title": "Advanced Professional Photoshop Course to Become Expert", "pages": 1}
+      ]
+    }
+  },
+  "privacy": {
+    "email_redacted": true,
+    "contact_details_policy": "Only public profile URL retained across exports."
+  }
+}

@@ -1,0 +1,16 @@
+﻿{
+    "loaded":  true,
+    "loadedAtUtc":  "2026-11-12T06:01:53.4128737Z",
+    "requiredCount":  5,
+    "loadedCount":  5,
+    "loadedFiles":  [
+                        "memory/normalized_2026-04-26/linkedin_master_export_deduped.json",
+                        "memory/normalized_2026-04-26/goals_vision_building_focus.json",
+                        "memory/normalized_2026-04-26/profile_comprehensive_analysis.json",
+                        "memory/normalized_2026-04-26/normalization_summary_report.json",
+                        "memory/normalized_2026-04-26/PERSONAL_SYNTHESIS_GANESH.md"
+                    ],
+    "missingFiles":  [
+
+                     ]
+}

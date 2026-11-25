@@ -1,0 +1,5785 @@
+[
+  {
+    "college_name": "Malla Reddy Engineering College",
+    "city": "Hyderabad",
+    "district": "Medchal-Malkajgiri",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-19825",
+    "aicte_status": "Approved",
+    "official_website": "http://www.mrec.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "mrec.ac.in"
+    ],
+    "emails_found": [
+      "mrec.principal@gmail.com",
+      "principal@mrec.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 97,
+    "priority_tier": "A",
+    "student_population": 4200,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in",
+      "http://www.mrec.ac.in"
+    ]
+  },
+  {
+    "college_name": "Sreenidhi Institute of Science and Technology",
+    "city": "Hyderabad",
+    "district": "Medchal-Malkajgiri",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-19866",
+    "aicte_status": "Approved",
+    "official_website": "http://www.sreenidhi.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "sreenidhi.edu.in"
+    ],
+    "emails_found": [
+      "principal@sreenidhi.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 97,
+    "priority_tier": "A",
+    "student_population": 4800,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Sinhgad College of Engineering",
+    "city": "Pune",
+    "district": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-41556",
+    "aicte_status": "Approved",
+    "official_website": "http://www.sinhgad.edu",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "sinhgad.edu"
+    ],
+    "emails_found": [
+      "principal.scoe@sinhgad.edu"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 97,
+    "priority_tier": "A",
+    "student_population": 4400,
+    "research_sources": [
+      "https://cetcell.mahacet.org"
+    ]
+  },
+  {
+    "college_name": "Pimpri Chinchwad College of Engineering",
+    "city": "Pune",
+    "district": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-41544",
+    "aicte_status": "Approved",
+    "official_website": "https://www.pccoepune.com",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "pccoepune.com"
+    ],
+    "emails_found": [
+      "pccoeadmin@gmail.com",
+      "principal@pccoepune.org"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 97,
+    "priority_tier": "A",
+    "student_population": 4200,
+    "research_sources": [
+      "https://cetcell.mahacet.org"
+    ]
+  },
+  {
+    "college_name": "Vasireddy Venkatadri Institute of Technology",
+    "city": "Guntur",
+    "district": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-18062",
+    "aicte_status": "Approved",
+    "official_website": "https://www.vvitguntur.com",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "vvitguntur.com",
+      "vvit.net"
+    ],
+    "emails_found": [
+      "vvitguntur@gmail.com",
+      "principal@vvit.net"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 3800,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://www.vvitguntur.com"
+    ]
+  },
+  {
+    "college_name": "Sri Indu College of Engineering and Technology",
+    "city": "Hyderabad",
+    "district": "Rangareddy",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-19865",
+    "aicte_status": "Approved",
+    "official_website": "http://www.sriindu.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "sriindu.ac.in"
+    ],
+    "emails_found": [
+      "indu_engg@yahoo.com",
+      "principal@sriindu.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 3600,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "TKR College of Engineering and Technology",
+    "city": "Hyderabad",
+    "district": "Rangareddy",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-19871",
+    "aicte_status": "Approved",
+    "official_website": "http://www.tkrcet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "tkrcet.ac.in"
+    ],
+    "emails_found": [
+      "tkrcet@yahoo.com",
+      "principal@tkrcet.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 3500,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Malla Reddy College of Engineering and Technology",
+    "city": "Hyderabad",
+    "district": "Medchal-Malkajgiri",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-19824",
+    "aicte_status": "Approved",
+    "official_website": "http://www.mrcet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "mrcet.ac.in"
+    ],
+    "emails_found": [
+      "mrcet2004@gmail.com",
+      "principal@mrcet.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 3800,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "CMR College of Engineering and Technology",
+    "city": "Hyderabad",
+    "district": "Medchal-Malkajgiri",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-19808",
+    "aicte_status": "Approved",
+    "official_website": "http://www.cmrcet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "cmrcet.ac.in"
+    ],
+    "emails_found": [
+      "principal@cmrcet.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 3600,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Vidya Jyothi Institute of Technology",
+    "city": "Hyderabad",
+    "district": "Rangareddy",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-19875",
+    "aicte_status": "Approved",
+    "official_website": "http://www.vjit.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "vjit.ac.in"
+    ],
+    "emails_found": [
+      "principal@vjit.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 3800,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Panimalar Engineering College",
+    "city": "Chennai",
+    "district": "Tiruvallur",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-16625",
+    "aicte_status": "Approved",
+    "official_website": "http://www.panimalar.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "panimalar.ac.in"
+    ],
+    "emails_found": [
+      "panimalar_engg@yahoo.com",
+      "principal@panimalar.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 4800,
+    "research_sources": [
+      "https://www.tneaonline.org",
+      "http://www.panimalar.ac.in"
+    ]
+  },
+  {
+    "college_name": "Jeppiaar Engineering College",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-16584",
+    "aicte_status": "Approved",
+    "official_website": "http://www.jeppiaarcollege.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "jeppiaarcollege.org"
+    ],
+    "emails_found": [
+      "jeppiaar_college@yahoo.co.in",
+      "principal@jeppiaarcollege.org"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 3800,
+    "research_sources": [
+      "https://www.tneaonline.org"
+    ]
+  },
+  {
+    "college_name": "Saveetha Engineering College",
+    "city": "Chennai",
+    "district": "Kanchipuram",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-16556",
+    "aicte_status": "Approved",
+    "official_website": "https://www.saveetha.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "saveetha.ac.in"
+    ],
+    "emails_found": [
+      "principal@saveetha.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 4600,
+    "research_sources": [
+      "https://www.tneaonline.org"
+    ]
+  },
+  {
+    "college_name": "Rajalakshmi Engineering College",
+    "city": "Chennai",
+    "district": "Kanchipuram",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-16546",
+    "aicte_status": "Approved",
+    "official_website": "https://www.rajalakshmi.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "rajalakshmi.org"
+    ],
+    "emails_found": [
+      "principal@rajalakshmi.edu.in",
+      "admin@rajalakshmi.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 4900,
+    "research_sources": [
+      "https://www.tneaonline.org"
+    ]
+  },
+  {
+    "college_name": "St. Joseph's College of Engineering",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-16568",
+    "aicte_status": "Approved",
+    "official_website": "https://stjosephs.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "stjosephs.ac.in"
+    ],
+    "emails_found": [
+      "josephs@stjosephs.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 4400,
+    "research_sources": [
+      "https://www.tneaonline.org"
+    ]
+  },
+  {
+    "college_name": "The Oxford College of Engineering",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state_or_union_territory": "Karnataka",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-1284",
+    "aicte_status": "Approved",
+    "official_website": "http://www.theoxford.edu",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "theoxford.edu"
+    ],
+    "emails_found": [
+      "enggprincipal@theoxford.edu"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 3800,
+    "research_sources": [
+      "http://kea.kar.nic.in",
+      "http://www.theoxford.edu"
+    ]
+  },
+  {
+    "college_name": "RNS Institute of Technology",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state_or_union_territory": "Karnataka",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-1270",
+    "aicte_status": "Approved",
+    "official_website": "http://www.rnsit.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "rnsit.ac.in"
+    ],
+    "emails_found": [
+      "principal@rnsit.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 4200,
+    "research_sources": [
+      "http://kea.kar.nic.in"
+    ]
+  },
+  {
+    "college_name": "MVJ College of Engineering",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state_or_union_territory": "Karnataka",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-1250",
+    "aicte_status": "Approved",
+    "official_website": "http://www.mvjce.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "mvjce.edu.in"
+    ],
+    "emails_found": [
+      "principalmvjce@gmail.com",
+      "contact@mvjce.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 3800,
+    "research_sources": [
+      "http://kea.kar.nic.in"
+    ]
+  },
+  {
+    "college_name": "Acharya Institute of Technology",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state_or_union_territory": "Karnataka",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-1202",
+    "aicte_status": "Approved",
+    "official_website": "https://www.acharya.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "acharya.ac.in"
+    ],
+    "emails_found": [
+      "info@acharya.ac.in",
+      "principalait@acharya.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 4600,
+    "research_sources": [
+      "http://kea.kar.nic.in"
+    ]
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering",
+    "city": "Pune",
+    "district": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-41505",
+    "aicte_status": "Approved",
+    "official_website": "https://www.dypcoeakurdi.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "dypcoeakurdi.ac.in"
+    ],
+    "emails_found": [
+      "principal@dypcoeakurdi.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 4100,
+    "research_sources": [
+      "https://cetcell.mahacet.org"
+    ]
+  },
+  {
+    "college_name": "JSPM's Rajarshi Shahu College of Engineering",
+    "city": "Pune",
+    "district": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-41525",
+    "aicte_status": "Approved",
+    "official_website": "http://www.jspm.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "jspm.edu.in"
+    ],
+    "emails_found": [
+      "rscoe@jspm.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 96,
+    "priority_tier": "A",
+    "student_population": 3800,
+    "research_sources": [
+      "https://cetcell.mahacet.org"
+    ]
+  },
+  {
+    "college_name": "J.B. Institute of Engineering and Technology",
+    "city": "Hyderabad",
+    "district": "Rangareddy",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-19819",
+    "aicte_status": "Approved",
+    "official_website": "http://www.jbiet.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "jbiet.edu.in"
+    ],
+    "emails_found": [
+      "principal@jbiet.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 95,
+    "priority_tier": "A",
+    "student_population": 3600,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Sri Sairam Engineering College",
+    "city": "Chennai",
+    "district": "Kanchipuram",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-16564",
+    "aicte_status": "Approved",
+    "official_website": "https://sairam.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "sairam.edu.in"
+    ],
+    "emails_found": [
+      "sairam@sairam.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 95,
+    "priority_tier": "A",
+    "student_population": 4500,
+    "research_sources": [
+      "https://www.tneaonline.org"
+    ]
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering",
+    "city": "Pune",
+    "district": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-41501",
+    "aicte_status": "Approved",
+    "official_website": "http://www.aissmscoe.com",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "aissmscoe.com"
+    ],
+    "emails_found": [
+      "aissms_coe@yahoo.com",
+      "principal@aissmscoe.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 95,
+    "priority_tier": "A",
+    "student_population": 3600,
+    "research_sources": [
+      "https://cetcell.mahacet.org",
+      "http://www.aissmscoe.com"
+    ]
+  },
+  {
+    "college_name": "Avanthi Institute of Engineering and Technology (Tagarapuvalasa)",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24017",
+    "aicte_status": "Approved",
+    "official_website": "http://www.avanthi.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "avanthi.edu.in"
+    ],
+    "emails_found": [
+      "avanthi_engg@yahoo.com",
+      "principal_aiet@avanthi.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 94,
+    "priority_tier": "A",
+    "student_population": 3400,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://www.jntuk.edu.in"
+    ]
+  },
+  {
+    "college_name": "St. Martin's Engineering College",
+    "city": "Hyderabad",
+    "district": "Medchal-Malkajgiri",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-19864",
+    "aicte_status": "Approved",
+    "official_website": "http://www.smec.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "smec.ac.in"
+    ],
+    "emails_found": [
+      "principal@smec.ac.in",
+      "smec.principal@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 94,
+    "priority_tier": "A",
+    "student_population": 3400,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Geethanjali College of Engineering and Technology",
+    "city": "Hyderabad",
+    "district": "Medchal-Malkajgiri",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-19815",
+    "aicte_status": "Approved",
+    "official_website": "http://www.geethanjaliinstitutions.com",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "geethanjaliinstitutions.com"
+    ],
+    "emails_found": [
+      "info@gcet.edu.in",
+      "principal@gcet.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 94,
+    "priority_tier": "A",
+    "student_population": 3400,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "CMR Technical Campus",
+    "city": "Hyderabad",
+    "district": "Medchal-Malkajgiri",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-19809",
+    "aicte_status": "Approved",
+    "official_website": "http://www.cmrtc.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "cmrtc.ac.in"
+    ],
+    "emails_found": [
+      "director@cmrtc.ac.in",
+      "cmrtc.principal@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 93,
+    "priority_tier": "A",
+    "student_population": 3200,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Guru Nanak Institute of Technology",
+    "city": "Hyderabad",
+    "district": "Rangareddy",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-19816",
+    "aicte_status": "Approved",
+    "official_website": "http://www.gnit.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "gnit.ac.in"
+    ],
+    "emails_found": [
+      "principal.gnit@gniindia.org"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 93,
+    "priority_tier": "A",
+    "student_population": 3200,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Don Bosco Institute of Technology",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state_or_union_territory": "Karnataka",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-1254",
+    "aicte_status": "Approved",
+    "official_website": "http://www.dbit.co.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "dbit.co.in"
+    ],
+    "emails_found": [
+      "dbit_blr@yahoo.com",
+      "principal@dbit.co.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 93,
+    "priority_tier": "A",
+    "student_population": 3200,
+    "research_sources": [
+      "https://cetonline.karnataka.gov.in/kea",
+      "http://www.dbit.co.in"
+    ]
+  },
+  {
+    "college_name": "Cambridge Institute of Technology",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state_or_union_territory": "Karnataka",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-1214",
+    "aicte_status": "Approved",
+    "official_website": "https://www.cambridge.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "cambridge.edu.in"
+    ],
+    "emails_found": [
+      "info@cambridge.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 93,
+    "priority_tier": "A",
+    "student_population": 3200,
+    "research_sources": [
+      "http://kea.kar.nic.in"
+    ]
+  },
+  {
+    "college_name": "Sinhgad Academy of Engineering",
+    "city": "Pune",
+    "district": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-41551",
+    "aicte_status": "Approved",
+    "official_website": "http://www.sinhgad.edu",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "sinhgad.edu"
+    ],
+    "emails_found": [
+      "saoe_kondhwa@yahoo.com",
+      "principal.saoe@sinhgad.edu"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 93,
+    "priority_tier": "A",
+    "student_population": 3200,
+    "research_sources": [
+      "https://cetcell.mahacet.org"
+    ]
+  },
+  {
+    "college_name": "Dr. Lankapalli Bullayya College of Engineering",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24018",
+    "aicte_status": "Approved",
+    "official_website": "http://www.bullayyacollege.info",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "bullayyacollege.info",
+      "bullayya.ac.in"
+    ],
+    "emails_found": [
+      "bullayyaengg@yahoo.com",
+      "principal@bullayyacollege.info"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 92,
+    "priority_tier": "A",
+    "student_population": 2800,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.bullayyacollege.info/contact",
+      "https://dashboard.aishe.gov.in"
+    ]
+  },
+  {
+    "college_name": "Bharat Institute of Engineering and Technology",
+    "city": "Hyderabad",
+    "district": "Rangareddy",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-19823",
+    "aicte_status": "Approved",
+    "official_website": "http://www.biet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "biet.ac.in"
+    ],
+    "emails_found": [
+      "biet.ibp@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 92,
+    "priority_tier": "A",
+    "student_population": 3100,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Swami Keshvanand Institute of Technology",
+    "city": "Jaipur",
+    "district": "Jaipur",
+    "state_or_union_territory": "Rajasthan",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-24896",
+    "aicte_status": "Approved",
+    "official_website": "http://www.skit.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "skit.ac.in"
+    ],
+    "emails_found": [
+      "info@skit.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 92,
+    "priority_tier": "A",
+    "student_population": 4400,
+    "research_sources": [
+      "http://hte.rajasthan.gov.in"
+    ]
+  },
+  {
+    "college_name": "Poornima College of Engineering",
+    "city": "Jaipur",
+    "district": "Jaipur",
+    "state_or_union_territory": "Rajasthan",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-24883",
+    "aicte_status": "Approved",
+    "official_website": "http://www.poornima.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "poornima.org"
+    ],
+    "emails_found": [
+      "info@poornima.org"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 92,
+    "priority_tier": "A",
+    "student_population": 4100,
+    "research_sources": [
+      "http://hte.rajasthan.gov.in"
+    ]
+  },
+  {
+    "college_name": "Jaipur Engineering College and Research Centre",
+    "city": "Jaipur",
+    "district": "Jaipur",
+    "state_or_union_territory": "Rajasthan",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-24874",
+    "aicte_status": "Approved",
+    "official_website": "http://www.jecrc.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "jecrc.in"
+    ],
+    "emails_found": [
+      "principal@jecrc.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 92,
+    "priority_tier": "A",
+    "student_population": 4200,
+    "research_sources": [
+      "http://hte.rajasthan.gov.in"
+    ]
+  },
+  {
+    "college_name": "Narasaraopeta Engineering College",
+    "city": "Guntur",
+    "district": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-18047",
+    "aicte_status": "Approved",
+    "official_website": "https://www.nrtec.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "nrtec.in"
+    ],
+    "emails_found": [
+      "nrtec_principal@yahoo.com",
+      "principal@nrtec.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 91,
+    "priority_tier": "A",
+    "student_population": 3200,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Bhojreddy Engineering College for Women",
+    "city": "Hyderabad",
+    "district": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Women's Engineering College",
+    "aishe_code": "C-25610",
+    "aicte_status": "Approved",
+    "official_website": "http://www.brecw.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "brecw.ac.in"
+    ],
+    "emails_found": [
+      "brecw@yahoo.com",
+      "principal@brecw.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 91,
+    "priority_tier": "A",
+    "student_population": 2800,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in",
+      "http://www.brecw.ac.in"
+    ]
+  },
+  {
+    "college_name": "East West Institute of Technology",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state_or_union_territory": "Karnataka",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-1256",
+    "aicte_status": "Approved",
+    "official_website": "http://www.ewit.edu",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "ewit.edu"
+    ],
+    "emails_found": [
+      "ewit_blr@yahoo.co.in",
+      "principal@ewit.edu"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 91,
+    "priority_tier": "A",
+    "student_population": 3000,
+    "research_sources": [
+      "https://cetonline.karnataka.gov.in/kea"
+    ]
+  },
+  {
+    "college_name": "Marathwada Mitra Mandal's College of Engineering",
+    "city": "Pune",
+    "district": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-41538",
+    "aicte_status": "Approved",
+    "official_website": "http://www.mmcoe.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "mmcoe.edu.in"
+    ],
+    "emails_found": [
+      "mmcoe@mmcoe.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 91,
+    "priority_tier": "A",
+    "student_population": 2900,
+    "research_sources": [
+      "https://cetcell.mahacet.org"
+    ]
+  },
+  {
+    "college_name": "DVR & Dr. HS MIC College of Technology",
+    "city": "Vijayawada",
+    "district": "NTR",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-17960",
+    "aicte_status": "Approved",
+    "official_website": "https://www.mictech.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "mictech.edu.in",
+      "mictech.ac.in"
+    ],
+    "emails_found": [
+      "office@mictech.ac.in",
+      "principal@mictech.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 90,
+    "priority_tier": "A",
+    "student_population": 3000,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Stanley College of Engineering and Technology for Women",
+    "city": "Hyderabad",
+    "district": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Women's Engineering College",
+    "aishe_code": "C-25662",
+    "aicte_status": "Approved",
+    "official_website": "http://www.stanley.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "stanley.edu.in"
+    ],
+    "emails_found": [
+      "stanleycollege@yahoo.com",
+      "principal@stanley.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 90,
+    "priority_tier": "A",
+    "student_population": 2600,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Lords Institute of Engineering and Technology",
+    "city": "Hyderabad",
+    "district": "Rangareddy",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-19822",
+    "aicte_status": "Approved",
+    "official_website": "http://www.lords.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "lords.ac.in"
+    ],
+    "emails_found": [
+      "principal@lords.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 90,
+    "priority_tier": "A",
+    "student_population": 3000,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Sri Krishna College of Engineering and Technology",
+    "city": "Coimbatore",
+    "district": "Coimbatore",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-16634",
+    "aicte_status": "Approved",
+    "official_website": "https://www.skcet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "skcet.ac.in"
+    ],
+    "emails_found": [
+      "info@skcet.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 90,
+    "priority_tier": "A",
+    "student_population": 4600,
+    "research_sources": [
+      "https://www.tneaonline.org"
+    ]
+  },
+  {
+    "college_name": "Swami Keshvanand Institute of Technology, Management and Gramothan",
+    "city": "Jaipur",
+    "district": "Jaipur",
+    "state_or_union_territory": "Rajasthan",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-25085",
+    "aicte_status": "Approved",
+    "official_website": "http://www.skit.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "skit.ac.in"
+    ],
+    "emails_found": [
+      "skit_jaipur@yahoo.com",
+      "info@skit.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 90,
+    "priority_tier": "A",
+    "student_population": 3900,
+    "research_sources": [
+      "https://www.rtu.ac.in",
+      "http://www.skit.ac.in"
+    ]
+  },
+  {
+    "college_name": "Arya College of Engineering and Information Technology",
+    "city": "Jaipur",
+    "district": "Jaipur",
+    "state_or_union_territory": "Rajasthan",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24866",
+    "aicte_status": "Approved",
+    "official_website": "https://www.aryacollege.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "aryacollege.in"
+    ],
+    "emails_found": [
+      "info@aryacollege.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 90,
+    "priority_tier": "A",
+    "student_population": 3800,
+    "research_sources": [
+      "http://hte.rajasthan.gov.in"
+    ]
+  },
+  {
+    "college_name": "Institute of Engineering and Management",
+    "city": "Kolkata",
+    "district": "North 24 Parganas",
+    "state_or_union_territory": "West Bengal",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-6208",
+    "aicte_status": "Approved",
+    "official_website": "https://iem.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "iem.edu.in"
+    ],
+    "emails_found": [
+      "director@iemcal.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 90,
+    "priority_tier": "A",
+    "student_population": 4200,
+    "research_sources": [
+      "https://wbjeeb.nic.in"
+    ]
+  },
+  {
+    "college_name": "Ajay Kumar Garg Engineering College",
+    "city": "Ghaziabad",
+    "district": "Ghaziabad",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-46101",
+    "aicte_status": "Approved",
+    "official_website": "https://www.akgec.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "akgec.ac.in"
+    ],
+    "emails_found": [
+      "generalinfo@akgec.ac.in",
+      "director@akgec.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 90,
+    "priority_tier": "A",
+    "student_population": 4600,
+    "research_sources": [
+      "https://aktu.ac.in"
+    ]
+  },
+  {
+    "college_name": "KIET Group of Institutions",
+    "city": "Ghaziabad",
+    "district": "Ghaziabad",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-46142",
+    "aicte_status": "Approved",
+    "official_website": "https://www.kiet.edu",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "kiet.edu"
+    ],
+    "emails_found": [
+      "director@kiet.edu",
+      "admissions@kiet.edu"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 90,
+    "priority_tier": "A",
+    "student_population": 4400,
+    "research_sources": [
+      "https://aktu.ac.in"
+    ]
+  },
+  {
+    "college_name": "SRK Institute of Technology",
+    "city": "Vijayawada",
+    "district": "NTR",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-17983",
+    "aicte_status": "Approved",
+    "official_website": "http://www.srkit.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "srkit.in"
+    ],
+    "emails_found": [
+      "srkitcollege@gmail.com",
+      "principal@srkit.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 89,
+    "priority_tier": "A",
+    "student_population": 2600,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.srkit.in"
+    ]
+  },
+  {
+    "college_name": "Dhanekula Institute of Engineering and Technology",
+    "city": "Vijayawada",
+    "district": "NTR",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-17961",
+    "aicte_status": "Approved",
+    "official_website": "http://www.diet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "diet.ac.in"
+    ],
+    "emails_found": [
+      "diet2009@rediffmail.com",
+      "diet.principal@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 89,
+    "priority_tier": "A",
+    "student_population": 2800,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.diet.ac.in"
+    ]
+  },
+  {
+    "college_name": "Holy Mary Institute of Technology and Science",
+    "city": "Hyderabad",
+    "district": "Medchal-Malkajgiri",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-19837",
+    "aicte_status": "Approved",
+    "official_website": "http://www.hits.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "hits.ac.in"
+    ],
+    "emails_found": [
+      "hits.principal@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 89,
+    "priority_tier": "A",
+    "student_population": 2700,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "ABES Engineering College",
+    "city": "Ghaziabad",
+    "district": "Ghaziabad",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-46098",
+    "aicte_status": "Approved",
+    "official_website": "https://www.abes.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "abes.ac.in"
+    ],
+    "emails_found": [
+      "info@abes.ac.in",
+      "admissions@abes.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 89,
+    "priority_tier": "A",
+    "student_population": 4200,
+    "research_sources": [
+      "https://aktu.ac.in"
+    ]
+  },
+  {
+    "college_name": "BABA Institute of Technology and Sciences",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24012",
+    "aicte_status": "Approved",
+    "official_website": "http://www.bitsvizag.com",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "bitsvizag.com",
+      "bitsvizag.edu.in"
+    ],
+    "emails_found": [
+      "principal@bitsvizag.com",
+      "ao@bitsvizag.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 88,
+    "priority_tier": "A",
+    "student_population": 2600,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.bitsvizag.com"
+    ]
+  },
+  {
+    "college_name": "Joginpally B.R. Engineering College",
+    "city": "Hyderabad",
+    "district": "Rangareddy",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-19842",
+    "aicte_status": "Approved",
+    "official_website": "http://www.jbrec.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "jbrec.edu.in"
+    ],
+    "emails_found": [
+      "jbrec_principal@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 88,
+    "priority_tier": "A",
+    "student_population": 2600,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Sridevi Women's Engineering College",
+    "city": "Hyderabad",
+    "district": "Rangareddy",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Women's Engineering College",
+    "aishe_code": "C-19867",
+    "aicte_status": "Approved",
+    "official_website": "http://www.srideviengg.com",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "srideviengg.com"
+    ],
+    "emails_found": [
+      "srideviengg@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 88,
+    "priority_tier": "A",
+    "student_population": 2600,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Hindusthan College of Engineering and Technology",
+    "city": "Coimbatore",
+    "district": "Coimbatore",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-16592",
+    "aicte_status": "Approved",
+    "official_website": "http://www.hindusthan.net",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "hindusthan.net"
+    ],
+    "emails_found": [
+      "hindusthancoe@gmail.com",
+      "principal@hicet.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 88,
+    "priority_tier": "A",
+    "student_population": 4200,
+    "research_sources": [
+      "https://www.tneaonline.org"
+    ]
+  },
+  {
+    "college_name": "Heritage Institute of Technology",
+    "city": "Kolkata",
+    "district": "Kolkata",
+    "state_or_union_territory": "West Bengal",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-6228",
+    "aicte_status": "Approved",
+    "official_website": "http://www.heritageit.edu",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "heritageit.edu"
+    ],
+    "emails_found": [
+      "heritage_kolkata@yahoo.com",
+      "admin@heritageit.edu"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 88,
+    "priority_tier": "A",
+    "student_population": 4100,
+    "research_sources": [
+      "https://makautwb.ac.in",
+      "http://www.heritageit.edu"
+    ]
+  },
+  {
+    "college_name": "Techno Main Salt Lake",
+    "city": "Kolkata",
+    "district": "North 24 Parganas",
+    "state_or_union_territory": "West Bengal",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-6232",
+    "aicte_status": "Approved",
+    "official_website": "http://www.tict.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "tict.edu.in"
+    ],
+    "emails_found": [
+      "info@tict.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 88,
+    "priority_tier": "A",
+    "student_population": 4100,
+    "research_sources": [
+      "https://wbjeeb.nic.in"
+    ]
+  },
+  {
+    "college_name": "Netaji Subhash Engineering College",
+    "city": "Kolkata",
+    "district": "South 24 Parganas",
+    "state_or_union_territory": "West Bengal",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-6221",
+    "aicte_status": "Approved",
+    "official_website": "http://www.nsec.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "nsec.ac.in"
+    ],
+    "emails_found": [
+      "info@nsec.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 88,
+    "priority_tier": "A",
+    "student_population": 3600,
+    "research_sources": [
+      "https://wbjeeb.nic.in"
+    ]
+  },
+  {
+    "college_name": "Vignan's Institute of Engineering for Women",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Women's Engineering College",
+    "aishe_code": "C-24050",
+    "aicte_status": "Approved",
+    "official_website": "https://www.view.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "view.edu.in"
+    ],
+    "emails_found": [
+      "viewprincipal@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 87,
+    "priority_tier": "A",
+    "student_population": 2400,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://www.view.edu.in"
+    ]
+  },
+  {
+    "college_name": "Andhra Loyola Institute of Engineering and Technology",
+    "city": "Vijayawada",
+    "district": "NTR",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Minority Engineering College",
+    "aishe_code": "C-17955",
+    "aicte_status": "Approved",
+    "official_website": "https://www.aliet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "aliet.ac.in"
+    ],
+    "emails_found": [
+      "alietbza@gmail.com",
+      "principal@aliet.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 87,
+    "priority_tier": "A",
+    "student_population": 2600,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Kallam Haranadhareddy Institute of Technology",
+    "city": "Guntur",
+    "district": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-18042",
+    "aicte_status": "Approved",
+    "official_website": "http://www.khitguntur.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "khitguntur.ac.in"
+    ],
+    "emails_found": [
+      "khitguntur@gmail.com",
+      "principal@khitguntur.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 87,
+    "priority_tier": "A",
+    "student_population": 2500,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.khitguntur.ac.in"
+    ]
+  },
+  {
+    "college_name": "KKR & KSR Institute of Technology and Sciences",
+    "city": "Guntur",
+    "district": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-18043",
+    "aicte_status": "Approved",
+    "official_website": "https://www.kitsguntur.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "kitsguntur.ac.in"
+    ],
+    "emails_found": [
+      "kitsguntur@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 87,
+    "priority_tier": "A",
+    "student_population": 2600,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Methodist College of Engineering and Technology",
+    "city": "Hyderabad",
+    "district": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-25642",
+    "aicte_status": "Approved",
+    "official_website": "http://www.methodist.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "methodist.edu.in"
+    ],
+    "emails_found": [
+      "methodist.abids@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 87,
+    "priority_tier": "A",
+    "student_population": 2500,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Matrusri Engineering College",
+    "city": "Hyderabad",
+    "district": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-25641",
+    "aicte_status": "Approved",
+    "official_website": "http://www.matrusri.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "matrusri.edu.in"
+    ],
+    "emails_found": [
+      "matrusri.principal@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 87,
+    "priority_tier": "A",
+    "student_population": 2400,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Narasimha Reddy Engineering College",
+    "city": "Hyderabad",
+    "district": "Medchal-Malkajgiri",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-19839",
+    "aicte_status": "Approved",
+    "official_website": "http://www.nrcm.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "nrcm.org"
+    ],
+    "emails_found": [
+      "nrcm.principal@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 87,
+    "priority_tier": "A",
+    "student_population": 2600,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Aurora's Technological and Research Institute",
+    "city": "Hyderabad",
+    "district": "Medchal-Malkajgiri",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-19800",
+    "aicte_status": "Approved",
+    "official_website": "http://www.atri.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "atri.edu.in"
+    ],
+    "emails_found": [
+      "director@atri.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 87,
+    "priority_tier": "A",
+    "student_population": 2600,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Jerusalem College of Engineering",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-16516",
+    "aicte_status": "Approved",
+    "official_website": "http://www.jerusalemengg.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "jerusalemengg.ac.in"
+    ],
+    "emails_found": [
+      "jerusalemengg@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 87,
+    "priority_tier": "A",
+    "student_population": 2600,
+    "research_sources": [
+      "https://www.tneaonline.org"
+    ]
+  },
+  {
+    "college_name": "SNS College of Technology",
+    "city": "Coimbatore",
+    "district": "Coimbatore",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-16644",
+    "aicte_status": "Approved",
+    "official_website": "http://www.snsct.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "snsct.org"
+    ],
+    "emails_found": [
+      "snsct_principal@yahoo.com",
+      "office@snsct.org"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 87,
+    "priority_tier": "A",
+    "student_population": 3600,
+    "research_sources": [
+      "https://www.tneaonline.org",
+      "http://www.snsct.org"
+    ]
+  },
+  {
+    "college_name": "Karpagam College of Engineering",
+    "city": "Coimbatore",
+    "district": "Coimbatore",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-16591",
+    "aicte_status": "Approved",
+    "official_website": "http://www.kce.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "kce.ac.in"
+    ],
+    "emails_found": [
+      "kce_principal@yahoo.com",
+      "principal@kce.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 87,
+    "priority_tier": "A",
+    "student_population": 3900,
+    "research_sources": [
+      "https://www.tneaonline.org"
+    ]
+  },
+  {
+    "college_name": "Chaitanya Engineering College",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24021",
+    "aicte_status": "Approved",
+    "official_website": "http://www.cecvzp.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "cecvzp.org"
+    ],
+    "emails_found": [
+      "chaitanyaengg@gmail.com",
+      "principal@cecvzp.org"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 86,
+    "priority_tier": "A",
+    "student_population": 2200,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.cecvzp.org",
+      "https://www.jntuk.edu.in"
+    ]
+  },
+  {
+    "college_name": "Sanketika Vidya Parishad Engineering College",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24045",
+    "aicte_status": "Approved",
+    "official_website": "http://www.svpec.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "svpec.edu.in"
+    ],
+    "emails_found": [
+      "svpec.vsp@gmail.com",
+      "info@svpec.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 86,
+    "priority_tier": "A",
+    "student_population": 2400,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://www.andhrauniversity.edu.in"
+    ]
+  },
+  {
+    "college_name": "Usha Rama College of Engineering and Technology",
+    "city": "Vijayawada",
+    "district": "Krishna",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-17986",
+    "aicte_status": "Approved",
+    "official_website": "https://usharama.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "usharama.edu.in",
+      "usharama.in"
+    ],
+    "emails_found": [
+      "info@usharama.in",
+      "principal@usharama.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 85,
+    "priority_tier": "A",
+    "student_population": 2500,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Meenakshi Sundararajan Engineering College",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-16611",
+    "aicte_status": "Approved",
+    "official_website": "http://www.msec.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "msec.edu.in"
+    ],
+    "emails_found": [
+      "msec_principal@yahoo.com",
+      "contact@msec.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 85,
+    "priority_tier": "A",
+    "student_population": 2200,
+    "research_sources": [
+      "https://www.tneaonline.org"
+    ]
+  },
+  {
+    "college_name": "Potti Sriramulu Chalavadi Mallikarjuna Rao College of Engineering and Technology",
+    "city": "Vijayawada",
+    "district": "NTR",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-17978",
+    "aicte_status": "Approved",
+    "official_website": "https://www.pscmr.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "pscmr.ac.in"
+    ],
+    "emails_found": [
+      "info@pscmr.ac.in",
+      "principal@pscmr.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 84,
+    "priority_tier": "B",
+    "student_population": 2200,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Amrita Sai Institute of Science and Technology",
+    "city": "Vijayawada",
+    "district": "NTR",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-17954",
+    "aicte_status": "Approved",
+    "official_website": "https://amritasai.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "amritasai.edu.in",
+      "amritasai.org.in"
+    ],
+    "emails_found": [
+      "info@amritasai.org.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 84,
+    "priority_tier": "B",
+    "student_population": 2400,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Chalapathi Institute of Engineering and Technology",
+    "city": "Guntur",
+    "district": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-18031",
+    "aicte_status": "Approved",
+    "official_website": "http://www.chalapathiengg.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "chalapathiengg.ac.in"
+    ],
+    "emails_found": [
+      "chalapathiengg@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 84,
+    "priority_tier": "B",
+    "student_population": 2300,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://www.nagarjunauniversity.ac.in"
+    ]
+  },
+  {
+    "college_name": "AVN Institute of Engineering and Technology",
+    "city": "Hyderabad",
+    "district": "Rangareddy",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-19818",
+    "aicte_status": "Approved",
+    "official_website": "http://www.avniet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "avniet.ac.in"
+    ],
+    "emails_found": [
+      "avn.principal@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 84,
+    "priority_tier": "B",
+    "student_population": 2200,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Scient Institute of Technology",
+    "city": "Hyderabad",
+    "district": "Rangareddy",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-19860",
+    "aicte_status": "Approved",
+    "official_website": "http://www.scient.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "scient.ac.in"
+    ],
+    "emails_found": [
+      "scient_inst_tech@yahoo.co.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 84,
+    "priority_tier": "B",
+    "student_population": 2200,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Sambhram Institute of Technology",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state_or_union_territory": "Karnataka",
+    "college_type": "Affiliated Higher Education Institute",
+    "aishe_code": "C-1282",
+    "aicte_status": "Approved",
+    "official_website": "http://www.sambhram.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "yahoo.co.in",
+      "sambhram.org"
+    ],
+    "emails_found": [
+      "sambhram_engg@yahoo.co.in",
+      "principal@sambhram.org"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 84,
+    "priority_tier": "B",
+    "student_population": 2500,
+    "research_sources": [
+      "https://cetonline.karnataka.gov.in/kea"
+    ]
+  },
+  {
+    "college_name": "IMS Engineering College",
+    "city": "Ghaziabad",
+    "district": "Ghaziabad",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_type": "Affiliated Higher Education Institute",
+    "aishe_code": "C-46152",
+    "aicte_status": "Approved",
+    "official_website": "http://www.imsec.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "yahoo.com",
+      "imsec.ac.in"
+    ],
+    "emails_found": [
+      "imsec_gzb@yahoo.com",
+      "director@imsec.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 84,
+    "priority_tier": "B",
+    "student_population": 3200,
+    "research_sources": [
+      "https://aktu.ac.in"
+    ]
+  },
+  {
+    "college_name": "Avanthi Institute of Engineering and Technology (Makavarapalem)",
+    "city": "Anakapalli",
+    "district": "Anakapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24016",
+    "aicte_status": "Approved",
+    "official_website": "http://www.avanthi.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "avanthi.edu.in"
+    ],
+    "emails_found": [
+      "avanthi_engg@yahoo.com",
+      "principal_aiet@avanthi.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 83,
+    "priority_tier": "B",
+    "student_population": 2500,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://www.jntuk.edu.in"
+    ]
+  },
+  {
+    "college_name": "Nimra College of Engineering and Technology",
+    "city": "Vijayawada",
+    "district": "NTR",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Minority Engineering College",
+    "aishe_code": "C-17972",
+    "aicte_status": "Approved",
+    "official_website": "http://www.nimra.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "nimra.edu.in"
+    ],
+    "emails_found": [
+      "nimraengg@yahoo.co.in",
+      "nimra.principal@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 83,
+    "priority_tier": "B",
+    "student_population": 2200,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Jaya Engineering College",
+    "city": "Chennai",
+    "district": "Tiruvallur",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Affiliated Higher Education Institute",
+    "aishe_code": "C-16583",
+    "aicte_status": "Approved",
+    "official_website": "http://www.jayaengg.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "yahoo.co.in"
+    ],
+    "emails_found": [
+      "jayaengg_college@yahoo.co.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 83,
+    "priority_tier": "B",
+    "student_population": 2400,
+    "research_sources": [
+      "https://www.tneaonline.org"
+    ]
+  },
+  {
+    "college_name": "Nadimpalli Satyanarayana Raju Institute of Technology",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24031",
+    "aicte_status": "Approved",
+    "official_website": "http://www.nsrit.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "nsrit.edu.in"
+    ],
+    "emails_found": [
+      "office.nsriet@gmail.com",
+      "office@nsrit.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 82,
+    "priority_tier": "B",
+    "student_population": 2000,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Avanthi's Research and Technological Academy",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24018",
+    "aicte_status": "Approved",
+    "official_website": "http://www.arta.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "arta.ac.in"
+    ],
+    "emails_found": [
+      "hq.principal@gmail.com",
+      "avanthi_arta@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 82,
+    "priority_tier": "B",
+    "student_population": 1900,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.arta.ac.in"
+    ]
+  },
+  {
+    "college_name": "Vikas College of Engineering and Technology",
+    "city": "Vijayawada",
+    "district": "NTR",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-17992",
+    "aicte_status": "Approved",
+    "official_website": "http://www.vikasengg.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "vikasengg.ac.in"
+    ],
+    "emails_found": [
+      "vikascet.nunna@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 82,
+    "priority_tier": "B",
+    "student_population": 2100,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Tirumala Engineering College",
+    "city": "Guntur",
+    "district": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-18060",
+    "aicte_status": "Approved",
+    "official_website": "http://www.tecn.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "tecn.ac.in"
+    ],
+    "emails_found": [
+      "tecn99@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 82,
+    "priority_tier": "B",
+    "student_population": 2200,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "City Engineering College",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state_or_union_territory": "Karnataka",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-1250",
+    "aicte_status": "Approved",
+    "official_website": "http://www.cityengineeringcollege.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "cityengineeringcollege.ac.in"
+    ],
+    "emails_found": [
+      "city_engg_blr@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 82,
+    "priority_tier": "B",
+    "student_population": 1900,
+    "research_sources": [
+      "https://cetonline.karnataka.gov.in/kea"
+    ]
+  },
+  {
+    "college_name": "Chandigarh Group of Colleges (Landran)",
+    "city": "Mohali",
+    "district": "Sahibzada Ajit Singh Nagar",
+    "state_or_union_territory": "Punjab",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-10444",
+    "aicte_status": "Approved",
+    "official_website": "https://www.cgc.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "cgc.edu.in"
+    ],
+    "emails_found": [
+      "info@cgc.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 82,
+    "priority_tier": "B",
+    "student_population": 5200,
+    "research_sources": [
+      "https://www.ptu.ac.in"
+    ]
+  },
+  {
+    "college_name": "Sanketika Institute of Technology and Management",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24041",
+    "aicte_status": "Approved",
+    "official_website": "http://sanketikajntuk.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "sanketikajntuk.in"
+    ],
+    "emails_found": [
+      "sitamcollege6d@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 81,
+    "priority_tier": "B",
+    "student_population": 1800,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Dadi Institute of Engineering and Technology",
+    "city": "Anakapalli",
+    "district": "Anakapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-24020",
+    "aicte_status": "Approved",
+    "official_website": "https://diet.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "diet.edu.in"
+    ],
+    "emails_found": [
+      "principal@diet.edu.in",
+      "admissions@diet.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 81,
+    "priority_tier": "B",
+    "student_population": 2400,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://diet.edu.in"
+    ]
+  },
+  {
+    "college_name": "Chandigarh Group of Colleges (Jhanjeri)",
+    "city": "Mohali",
+    "district": "Sahibzada Ajit Singh Nagar",
+    "state_or_union_territory": "Punjab",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-10445",
+    "aicte_status": "Approved",
+    "official_website": "https://www.cgc.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "cgc.ac.in"
+    ],
+    "emails_found": [
+      "info@cgc.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 81,
+    "priority_tier": "B",
+    "student_population": 4400,
+    "research_sources": [
+      "https://www.ptu.ac.in"
+    ]
+  },
+  {
+    "college_name": "Viswanadha Institute of Technology and Management",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24052",
+    "aicte_status": "Approved",
+    "official_website": "http://www.vitam.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "vitam.edu.in"
+    ],
+    "emails_found": [
+      "vitam_vsp@yahoo.co.in",
+      "vitam.engg@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 80,
+    "priority_tier": "B",
+    "student_population": 1800,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://www.jntuk.edu.in"
+    ]
+  },
+  {
+    "college_name": "Nova College of Engineering and Technology",
+    "city": "Vijayawada",
+    "district": "NTR",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-17975",
+    "aicte_status": "Approved",
+    "official_website": "http://www.nova.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "nova.edu.in"
+    ],
+    "emails_found": [
+      "novacolegeibp@yahoo.com",
+      "principalnova@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 80,
+    "priority_tier": "B",
+    "student_population": 1900,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Samskruti College of Engineering and Technology",
+    "city": "Hyderabad",
+    "district": "Medchal-Malkajgiri",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Affiliated Higher Education Institute",
+    "aishe_code": "C-19857",
+    "aicte_status": "Approved",
+    "official_website": "http://www.samskruti.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "gmail.com"
+    ],
+    "emails_found": [
+      "samskruticet@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 80,
+    "priority_tier": "B",
+    "student_population": 2200,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Vaagdevi College of Engineering",
+    "city": "Warangal",
+    "district": "Warangal",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-27415",
+    "aicte_status": "Approved",
+    "official_website": "http://www.vaagdevi.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "vaagdevi.edu.in"
+    ],
+    "emails_found": [
+      "vaagdevice@gmail.com",
+      "principal@vaagdevi.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 80,
+    "priority_tier": "B",
+    "student_population": 3800,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Kakatiya Institute of Technology and Science",
+    "city": "Warangal",
+    "district": "Hanamkonda",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-27407",
+    "aicte_status": "Approved",
+    "official_website": "https://www.kitsw.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "kitsw.ac.in"
+    ],
+    "emails_found": [
+      "principal@kitsw.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 80,
+    "priority_tier": "B",
+    "student_population": 3600,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Rajagiri School of Engineering and Technology",
+    "city": "Kochi",
+    "district": "Ernakulam",
+    "state_or_union_territory": "Kerala",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-11756",
+    "aicte_status": "Approved",
+    "official_website": "http://www.rajagiritech.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "rajagiritech.ac.in"
+    ],
+    "emails_found": [
+      "office@rajagiritech.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 80,
+    "priority_tier": "B",
+    "student_population": 3600,
+    "research_sources": [
+      "http://www.cee-kerala.org"
+    ]
+  },
+  {
+    "college_name": "Federal Institute of Science and Technology",
+    "city": "Kochi",
+    "district": "Ernakulam",
+    "state_or_union_territory": "Kerala",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-11738",
+    "aicte_status": "Approved",
+    "official_website": "http://www.fisat.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "fisat.ac.in"
+    ],
+    "emails_found": [
+      "mail@fisat.ac.in",
+      "principal@fisat.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 80,
+    "priority_tier": "B",
+    "student_population": 3400,
+    "research_sources": [
+      "http://www.cee-kerala.org"
+    ]
+  },
+  {
+    "college_name": "Lakshmi Narain College of Technology",
+    "city": "Bhopal",
+    "district": "Bhopal",
+    "state_or_union_territory": "Madhya Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-36015",
+    "aicte_status": "Approved",
+    "official_website": "http://www.lnct.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "lnct.ac.in"
+    ],
+    "emails_found": [
+      "lnct_bhopal@yahoo.com",
+      "principal@lnct.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 80,
+    "priority_tier": "B",
+    "student_population": 4600,
+    "research_sources": [
+      "https://www.rgpv.ac.in",
+      "http://www.lnct.ac.in"
+    ]
+  },
+  {
+    "college_name": "Silicon Institute of Technology",
+    "city": "Bhubaneswar",
+    "district": "Khordha",
+    "state_or_union_territory": "Odisha",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-30125",
+    "aicte_status": "Approved",
+    "official_website": "https://silicon.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "silicon.ac.in"
+    ],
+    "emails_found": [
+      "info@silicon.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 80,
+    "priority_tier": "B",
+    "student_population": 3600,
+    "research_sources": [
+      "https://ojee.nic.in"
+    ]
+  },
+  {
+    "college_name": "C.V. Raman Global University",
+    "city": "Bhubaneswar",
+    "district": "Khordha",
+    "state_or_union_territory": "Odisha",
+    "college_type": "Private Engineering Institute",
+    "aishe_code": "C-30048",
+    "aicte_status": "Approved",
+    "official_website": "https://cgu-odisha.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "cgu-odisha.ac.in"
+    ],
+    "emails_found": [
+      "info@cgu-odisha.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 80,
+    "priority_tier": "B",
+    "student_population": 4200,
+    "research_sources": [
+      "https://ojee.nic.in"
+    ]
+  },
+  {
+    "college_name": "Chandigarh Group of Colleges",
+    "city": "Mohali",
+    "district": "SAS Nagar Mohali",
+    "state_or_union_territory": "Punjab",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-48512",
+    "aicte_status": "Approved",
+    "official_website": "http://www.cgc.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "cgc.ac.in"
+    ],
+    "emails_found": [
+      "cgc_jhanjeri@yahoo.com",
+      "info@cgc.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 80,
+    "priority_tier": "B",
+    "student_population": 4200,
+    "research_sources": [
+      "https://ptu.ac.in"
+    ]
+  },
+  {
+    "college_name": "MVR College of Engineering and Technology",
+    "city": "Vijayawada",
+    "district": "NTR",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-17968",
+    "aicte_status": "Approved",
+    "official_website": "http://www.mvrcoe.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "mvrcoe.ac.in"
+    ],
+    "emails_found": [
+      "principal.mvrcoe@gmail.com",
+      "mvrcoe.paritala@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 79,
+    "priority_tier": "B",
+    "student_population": 1800,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Chebrolu Engineering College",
+    "city": "Guntur",
+    "district": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-18033",
+    "aicte_status": "Approved",
+    "official_website": "http://www.chebroluengg.com",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "chebroluengg.com"
+    ],
+    "emails_found": [
+      "chebroluengg@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 79,
+    "priority_tier": "B",
+    "student_population": 1900,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Thadomal Shahani Engineering College",
+    "city": "Mumbai",
+    "district": "Mumbai Suburban",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-33824",
+    "aicte_status": "Approved",
+    "official_website": "http://www.thadomal.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "thadomal.org"
+    ],
+    "emails_found": [
+      "tsec_bandra@yahoo.com",
+      "principal@thadomal.org"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 79,
+    "priority_tier": "B",
+    "student_population": 3100,
+    "research_sources": [
+      "https://cetcell.mahacet.org"
+    ]
+  },
+  {
+    "college_name": "Oriental Institute of Science and Technology",
+    "city": "Bhopal",
+    "district": "Bhopal",
+    "state_or_union_territory": "Madhya Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-36072",
+    "aicte_status": "Approved",
+    "official_website": "http://www.oriental.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "oriental.ac.in"
+    ],
+    "emails_found": [
+      "oistbpl@oriental.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 79,
+    "priority_tier": "B",
+    "student_population": 3800,
+    "research_sources": [
+      "https://dte.mponline.gov.in"
+    ]
+  },
+  {
+    "college_name": "Technocrats Institute of Technology",
+    "city": "Bhopal",
+    "district": "Bhopal",
+    "state_or_union_territory": "Madhya Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-36085",
+    "aicte_status": "Approved",
+    "official_website": "http://www.titbhopal.net",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "titbhopal.net"
+    ],
+    "emails_found": [
+      "titprincipal@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 79,
+    "priority_tier": "B",
+    "student_population": 3900,
+    "research_sources": [
+      "https://dte.mponline.gov.in"
+    ]
+  },
+  {
+    "college_name": "Avanthi Institute of Engineering and Technology",
+    "city": "Anakapalli",
+    "district": "Anakapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Affiliated Higher Education Institute",
+    "aishe_code": "C-24016",
+    "aicte_status": "Approved",
+    "official_website": "http://www.avanthi.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "yahoo.com",
+      "avanthi.edu.in"
+    ],
+    "emails_found": [
+      "avanthi_engg@yahoo.com",
+      "principal_aiet@avanthi.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 78,
+    "priority_tier": "B",
+    "student_population": 2500,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in"
+    ]
+  },
+  {
+    "college_name": "L.J. Institute of Engineering and Technology",
+    "city": "Ahmedabad",
+    "district": "Ahmedabad",
+    "state_or_union_territory": "Gujarat",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-6338",
+    "aicte_status": "Approved",
+    "official_website": "https://ljiet.ljku.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "ljku.edu.in"
+    ],
+    "emails_found": [
+      "ljiet@ljku.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 78,
+    "priority_tier": "B",
+    "student_population": 3800,
+    "research_sources": [
+      "https://www.jacpcldce.ac.in"
+    ]
+  },
+  {
+    "college_name": "Gandhi Institute for Technological Advancement",
+    "city": "Bhubaneswar",
+    "district": "Khordha",
+    "state_or_union_territory": "Odisha",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-30125",
+    "aicte_status": "Approved",
+    "official_website": "http://www.gita.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "gita.edu.in"
+    ],
+    "emails_found": [
+      "gita_bbsr@yahoo.com",
+      "info@gita.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 78,
+    "priority_tier": "B",
+    "student_population": 3600,
+    "research_sources": [
+      "https://www.bput.ac.in",
+      "http://www.gita.edu.in"
+    ]
+  },
+  {
+    "college_name": "Dr. Akhilesh Das Gupta Institute of Technology & Management",
+    "city": "Delhi",
+    "district": "East Delhi",
+    "state_or_union_territory": "Delhi",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-32865",
+    "aicte_status": "Approved",
+    "official_website": "http://www.adgitmdelhi.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "adgitmdelhi.ac.in"
+    ],
+    "emails_found": [
+      "adgitm_delhi@yahoo.com",
+      "director@adgitmdelhi.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 78,
+    "priority_tier": "B",
+    "student_population": 3600,
+    "research_sources": [
+      "http://www.ipu.ac.in",
+      "http://www.adgitmdelhi.ac.in"
+    ]
+  },
+  {
+    "college_name": "Sai Ganapathi Engineering College",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24039",
+    "aicte_status": "Approved",
+    "official_website": "http://www.sgec.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "sgec.edu.in"
+    ],
+    "emails_found": [
+      "saiganapathi.engg@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 77,
+    "priority_tier": "B",
+    "student_population": 1600,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://www.jntuk.edu.in"
+    ]
+  },
+  {
+    "college_name": "Al-Ameer College of Engineering and Information Technology",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Minority Engineering College",
+    "aishe_code": "C-24010",
+    "aicte_status": "Approved",
+    "official_website": "http://www.alameer.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "alameer.in"
+    ],
+    "emails_found": [
+      "mailus@alameer.in",
+      "principal@alameer.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 77,
+    "priority_tier": "B",
+    "student_population": 1600,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "QIS College of Engineering and Technology",
+    "city": "Ongole",
+    "district": "Prakasam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-18055",
+    "aicte_status": "Approved",
+    "official_website": "http://www.qiscet.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "qiscet.edu.in"
+    ],
+    "emails_found": [
+      "qiscet@gmail.com",
+      "principal@qiscet.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 77,
+    "priority_tier": "B",
+    "student_population": 3200,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Rajiv Gandhi Institute of Technology",
+    "city": "Mumbai",
+    "district": "Mumbai Suburban",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-33895",
+    "aicte_status": "Approved",
+    "official_website": "http://www.mctrgit.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "mctrgit.ac.in"
+    ],
+    "emails_found": [
+      "mctrgit@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 77,
+    "priority_tier": "B",
+    "student_population": 2900,
+    "research_sources": [
+      "https://cetcell.mahacet.org"
+    ]
+  },
+  {
+    "college_name": "Galgotias College of Engineering and Technology",
+    "city": "Greater Noida",
+    "district": "Gautam Buddha Nagar",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-46142",
+    "aicte_status": "Approved",
+    "official_website": "http://www.galgotiacollege.edu",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "galgotiacollege.edu"
+    ],
+    "emails_found": [
+      "gcet_gnoida@yahoo.com",
+      "admissions@galgotiacollege.edu"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 77,
+    "priority_tier": "B",
+    "student_population": 4500,
+    "research_sources": [
+      "https://aktu.ac.in",
+      "http://www.galgotiacollege.edu"
+    ]
+  },
+  {
+    "college_name": "GL Bajaj Institute of Technology and Management",
+    "city": "Greater Noida",
+    "district": "Gautam Buddha Nagar",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-46144",
+    "aicte_status": "Approved",
+    "official_website": "http://www.glbitm.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "glbitm.org"
+    ],
+    "emails_found": [
+      "glbitm_gnoida@yahoo.com",
+      "director@glbitm.org"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 77,
+    "priority_tier": "B",
+    "student_population": 4200,
+    "research_sources": [
+      "https://aktu.ac.in"
+    ]
+  },
+  {
+    "college_name": "Gonna Institute of Information Technology and Sciences",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24023",
+    "aicte_status": "Approved",
+    "official_website": "http://www.giits.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "giits.in"
+    ],
+    "emails_found": [
+      "giitscollege@gmail.com",
+      "principal@giits.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 76,
+    "priority_tier": "B",
+    "student_population": 1500,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.giits.in"
+    ]
+  },
+  {
+    "college_name": "Pydah Kaushik College of Engineering",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24036",
+    "aicte_status": "Approved",
+    "official_website": "http://www.pydah.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "pydah.org"
+    ],
+    "emails_found": [
+      "kaushikcoe@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 76,
+    "priority_tier": "B",
+    "student_population": 1400,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Sri Venkateswara College of Engineering",
+    "city": "Tirupati",
+    "district": "Tirupati",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-26922",
+    "aicte_status": "Approved",
+    "official_website": "http://www.svct.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "svct.edu.in"
+    ],
+    "emails_found": [
+      "svce.tpt@gmail.com",
+      "principal@svct.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 76,
+    "priority_tier": "B",
+    "student_population": 2800,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.svct.edu.in"
+    ]
+  },
+  {
+    "college_name": "Silver Oak College of Engineering and Technology",
+    "city": "Ahmedabad",
+    "district": "Ahmedabad",
+    "state_or_union_territory": "Gujarat",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-255",
+    "aicte_status": "Approved",
+    "official_website": "http://www.socet.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "socet.edu.in"
+    ],
+    "emails_found": [
+      "socet_ahmedabad@yahoo.com",
+      "info@socet.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 76,
+    "priority_tier": "B",
+    "student_population": 3600,
+    "research_sources": [
+      "https://gtu.ac.in"
+    ]
+  },
+  {
+    "college_name": "Sahyadri College of Engineering and Management",
+    "city": "Mangaluru",
+    "district": "Dakshina Kannada",
+    "state_or_union_territory": "Karnataka",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-1273",
+    "aicte_status": "Approved",
+    "official_website": "http://www.sahyadri.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "sahyadri.edu.in"
+    ],
+    "emails_found": [
+      "sahyadri@sahyadri.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 76,
+    "priority_tier": "B",
+    "student_population": 3600,
+    "research_sources": [
+      "http://kea.kar.nic.in"
+    ]
+  },
+  {
+    "college_name": "G.H. Raisoni College of Engineering",
+    "city": "Nagpur",
+    "district": "Nagpur",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-18815",
+    "aicte_status": "Approved",
+    "official_website": "https://ghrce.raisoni.net",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "raisoni.net"
+    ],
+    "emails_found": [
+      "ghrce@raisoni.net"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 76,
+    "priority_tier": "B",
+    "student_population": 4100,
+    "research_sources": [
+      "https://cetcell.mahacet.org"
+    ]
+  },
+  {
+    "college_name": "JSS Academy of Technical Education",
+    "city": "Noida",
+    "district": "Gautam Buddha Nagar",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-46139",
+    "aicte_status": "Approved",
+    "official_website": "http://www.jssaten.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "jssaten.ac.in"
+    ],
+    "emails_found": [
+      "principal@jssaten.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 76,
+    "priority_tier": "B",
+    "student_population": 3800,
+    "research_sources": [
+      "https://aktu.ac.in"
+    ]
+  },
+  {
+    "college_name": "PACE Institute of Technology and Sciences",
+    "city": "Ongole",
+    "district": "Prakasam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-18049",
+    "aicte_status": "Approved",
+    "official_website": "http://www.pace.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "pace.ac.in"
+    ],
+    "emails_found": [
+      "pace_engg@yahoo.com",
+      "principal@pace.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 74,
+    "priority_tier": "B",
+    "student_population": 2800,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "SCMS School of Engineering and Technology",
+    "city": "Kochi",
+    "district": "Ernakulam",
+    "state_or_union_territory": "Kerala",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-43845",
+    "aicte_status": "Approved",
+    "official_website": "http://www.scmsgroup.org/sset",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "scmsgroup.org"
+    ],
+    "emails_found": [
+      "scms_sett@yahoo.com",
+      "sset@scmsgroup.org"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 74,
+    "priority_tier": "B",
+    "student_population": 2600,
+    "research_sources": [
+      "https://ktu.edu.in"
+    ]
+  },
+  {
+    "college_name": "Rungta College of Engineering and Technology",
+    "city": "Bhilai",
+    "district": "Durg",
+    "state_or_union_territory": "Chhattisgarh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-21585",
+    "aicte_status": "Approved",
+    "official_website": "http://www.rungta.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "rungta.ac.in"
+    ],
+    "emails_found": [
+      "rungta_bhilai@yahoo.com",
+      "info@rungta.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 74,
+    "priority_tier": "B",
+    "student_population": 3600,
+    "research_sources": [
+      "https://csvtu.ac.in"
+    ]
+  },
+  {
+    "college_name": "Tula's Institute",
+    "city": "Dehradun",
+    "district": "Dehradun",
+    "state_or_union_territory": "Uttarakhand",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24758",
+    "aicte_status": "Approved",
+    "official_website": "https://tulas.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "tulas.edu.in"
+    ],
+    "emails_found": [
+      "info@tulas.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 74,
+    "priority_tier": "B",
+    "student_population": 3200,
+    "research_sources": [
+      "https://uktech.ac.in"
+    ]
+  },
+  {
+    "college_name": "Pillai College of Engineering",
+    "city": "Navi Mumbai",
+    "district": "Raigad",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-33887",
+    "aicte_status": "Approved",
+    "official_website": "https://www.pce.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "pce.ac.in"
+    ],
+    "emails_found": [
+      "pce@mes.ac.in",
+      "principal@pce.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 74,
+    "priority_tier": "B",
+    "student_population": 3800,
+    "research_sources": [
+      "https://cetcell.mahacet.org"
+    ]
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering",
+    "city": "Nagpur",
+    "district": "Nagpur",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Affiliated Higher Education Institute",
+    "aishe_code": "C-18865",
+    "aicte_status": "Approved",
+    "official_website": "http://www.ycce.edu",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "yahoo.com",
+      "ycce.edu"
+    ],
+    "emails_found": [
+      "ycce_nagpur@yahoo.com",
+      "principal@ycce.edu"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 74,
+    "priority_tier": "B",
+    "student_population": 4200,
+    "research_sources": [
+      "https://cetcell.mahacet.org"
+    ]
+  },
+  {
+    "college_name": "Pranveer Singh Institute of Technology",
+    "city": "Kanpur",
+    "district": "Kanpur Nagar",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-46162",
+    "aicte_status": "Approved",
+    "official_website": "https://www.psit.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "psit.in"
+    ],
+    "emails_found": [
+      "info@psit.in",
+      "director@psit.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 74,
+    "priority_tier": "B",
+    "student_population": 4800,
+    "research_sources": [
+      "https://aktu.ac.in"
+    ]
+  },
+  {
+    "college_name": "Parul Institute of Engineering and Technology",
+    "city": "Vadodara",
+    "district": "Vadodara",
+    "state_or_union_territory": "Gujarat",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-6362",
+    "aicte_status": "Approved",
+    "official_website": "https://www.paruluniversity.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "paruluniversity.ac.in"
+    ],
+    "emails_found": [
+      "piet@paruluniversity.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 74,
+    "priority_tier": "B",
+    "student_population": 5400,
+    "research_sources": [
+      "https://www.jacpcldce.ac.in"
+    ]
+  },
+  {
+    "college_name": "Acropolis Institute of Technology and Research",
+    "city": "Indore",
+    "district": "Indore",
+    "state_or_union_territory": "Madhya Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-36052",
+    "aicte_status": "Approved",
+    "official_website": "https://www.acropolis.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "acropolis.in"
+    ],
+    "emails_found": [
+      "info@acropolis.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 74,
+    "priority_tier": "B",
+    "student_population": 3600,
+    "research_sources": [
+      "https://dte.mponline.gov.in"
+    ]
+  },
+  {
+    "college_name": "Indo American Institutions Technical Campus",
+    "city": "Anakapalli",
+    "district": "Anakapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24025",
+    "aicte_status": "Approved",
+    "official_website": "http://www.iaitc.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "iaitc.in"
+    ],
+    "emails_found": [
+      "contact@iaitc.in",
+      "careers@iaitc.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 73,
+    "priority_tier": "B",
+    "student_population": 1600,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Vizag Institute of Technology",
+    "city": "Anakapalli",
+    "district": "Anakapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24054",
+    "aicte_status": "Approved",
+    "official_website": "http://www.vizaginstitute.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "vizaginstitute.edu.in"
+    ],
+    "emails_found": [
+      "vizag.tech@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 73,
+    "priority_tier": "B",
+    "student_population": 1500,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Bapatla Engineering College",
+    "city": "Bapatla",
+    "district": "Bapatla",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-18028",
+    "aicte_status": "Approved",
+    "official_website": "http://www.becbapatla.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "becbapatla.ac.in"
+    ],
+    "emails_found": [
+      "bec_principal@rediffmail.com",
+      "bec.bapatla@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 73,
+    "priority_tier": "B",
+    "student_population": 3400,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.becbapatla.ac.in"
+    ]
+  },
+  {
+    "college_name": "Bhilai Institute of Technology",
+    "city": "Bhilai",
+    "district": "Durg",
+    "state_or_union_territory": "Chhattisgarh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-21512",
+    "aicte_status": "Approved",
+    "official_website": "http://www.bitdurg.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "bitdurg.ac.in"
+    ],
+    "emails_found": [
+      "bit@bitdurg.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 73,
+    "priority_tier": "B",
+    "student_population": 3200,
+    "research_sources": [
+      "https://cgdteraipur.cgstate.gov.in"
+    ]
+  },
+  {
+    "college_name": "Al-Aman College of Engineering",
+    "city": "Visakhapatnam",
+    "district": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Minority Engineering College",
+    "aishe_code": "C-24011",
+    "aicte_status": "Approved",
+    "official_website": "",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [],
+    "emails_found": [
+      "alamanengg@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 72,
+    "priority_tier": "B",
+    "student_population": 1200,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://dashboard.aishe.gov.in"
+    ]
+  },
+  {
+    "college_name": "Siddharth Institute of Engineering & Technology",
+    "city": "Puttur",
+    "district": "Tirupati",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-26920",
+    "aicte_status": "Approved",
+    "official_website": "http://www.siddharthgroup.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "siddharthgroup.ac.in"
+    ],
+    "emails_found": [
+      "info.siddharth@gmail.com",
+      "sih_07@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 72,
+    "priority_tier": "B",
+    "student_population": 3200,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Narayana Engineering College",
+    "city": "Nellore",
+    "district": "Sri Potti Sriramulu Nellore",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-26890",
+    "aicte_status": "Approved",
+    "official_website": "http://www.necn.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "necn.ac.in"
+    ],
+    "emails_found": [
+      "principalnecne@gmail.com",
+      "principal@necn.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 72,
+    "priority_tier": "B",
+    "student_population": 3000,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.necn.ac.in"
+    ]
+  },
+  {
+    "college_name": "Shri Ramswaroop Memorial College of Engineering and Management",
+    "city": "Lucknow",
+    "district": "Lucknow",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-46182",
+    "aicte_status": "Approved",
+    "official_website": "http://www.srmcem.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "srmcem.ac.in"
+    ],
+    "emails_found": [
+      "srmcem_lko@yahoo.com",
+      "registrar@srmcem.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 72,
+    "priority_tier": "B",
+    "student_population": 3500,
+    "research_sources": [
+      "https://aktu.ac.in"
+    ]
+  },
+  {
+    "college_name": "Assam Engineering College",
+    "city": "Guwahati",
+    "district": "Kamrup Metropolitan",
+    "state_or_union_territory": "Assam",
+    "college_type": "Government Engineering College",
+    "aishe_code": "C-17210",
+    "aicte_status": "Approved",
+    "official_website": "http://www.aec.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "aec.ac.in"
+    ],
+    "emails_found": [
+      "principal@aec.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 72,
+    "priority_tier": "B",
+    "student_population": 2600,
+    "research_sources": [
+      "https://dte.assam.gov.in"
+    ]
+  },
+  {
+    "college_name": "Sri Manakula Vinayagar Engineering College",
+    "city": "Puducherry",
+    "district": "Puducherry",
+    "state_or_union_territory": "Puducherry",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-6515",
+    "aicte_status": "Approved",
+    "official_website": "http://www.smvec.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "smvec.ac.in"
+    ],
+    "emails_found": [
+      "smvec_puducherry@yahoo.com",
+      "director@smvec.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 72,
+    "priority_tier": "B",
+    "student_population": 3800,
+    "research_sources": [
+      "https://www.pondiuni.edu.in",
+      "http://www.smvec.ac.in"
+    ]
+  },
+  {
+    "college_name": "Sona College of Technology",
+    "city": "Salem",
+    "district": "Salem",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-16624",
+    "aicte_status": "Approved",
+    "official_website": "https://www.sonatech.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "sonatech.ac.in"
+    ],
+    "emails_found": [
+      "info@sonatech.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 72,
+    "priority_tier": "B",
+    "student_population": 4200,
+    "research_sources": [
+      "https://www.tneaonline.org"
+    ]
+  },
+  {
+    "college_name": "Vidyavardhaka College of Engineering",
+    "city": "Mysuru",
+    "district": "Mysuru",
+    "state_or_union_territory": "Karnataka",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-1300",
+    "aicte_status": "Approved",
+    "official_website": "http://www.vvce.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "vvce.ac.in"
+    ],
+    "emails_found": [
+      "principal@vvce.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 72,
+    "priority_tier": "B",
+    "student_population": 3400,
+    "research_sources": [
+      "http://kea.kar.nic.in"
+    ]
+  },
+  {
+    "college_name": "K.K. Wagh Institute of Engineering Education and Research",
+    "city": "Nashik",
+    "district": "Nashik",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-41528",
+    "aicte_status": "Approved",
+    "official_website": "https://kkwagh.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "kkwagh.edu.in"
+    ],
+    "emails_found": [
+      "kkwieer@kkwagh.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 72,
+    "priority_tier": "B",
+    "student_population": 3800,
+    "research_sources": [
+      "https://cetcell.mahacet.org"
+    ]
+  },
+  {
+    "college_name": "Sarvajanik College of Engineering and Technology",
+    "city": "Surat",
+    "district": "Surat",
+    "state_or_union_territory": "Gujarat",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-6372",
+    "aicte_status": "Approved",
+    "official_website": "http://www.scet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "scet.ac.in"
+    ],
+    "emails_found": [
+      "principal@scet.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 72,
+    "priority_tier": "B",
+    "student_population": 3600,
+    "research_sources": [
+      "https://www.jacpcldce.ac.in"
+    ]
+  },
+  {
+    "college_name": "Dr. B.C. Roy Engineering College",
+    "city": "Durgapur",
+    "district": "Paschim Bardhaman",
+    "state_or_union_territory": "West Bengal",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-6202",
+    "aicte_status": "Approved",
+    "official_website": "https://www.bcrec.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "bcrec.ac.in"
+    ],
+    "emails_found": [
+      "info@bcrec.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 72,
+    "priority_tier": "B",
+    "student_population": 3500,
+    "research_sources": [
+      "https://wbjeeb.nic.in"
+    ]
+  },
+  {
+    "college_name": "Guru Nanak Dev Engineering College",
+    "city": "Ludhiana",
+    "district": "Ludhiana",
+    "state_or_union_territory": "Punjab",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-10332",
+    "aicte_status": "Approved",
+    "official_website": "https://gndec.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "gndec.ac.in"
+    ],
+    "emails_found": [
+      "principal@gndec.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 72,
+    "priority_tier": "B",
+    "student_population": 3600,
+    "research_sources": [
+      "https://www.ptu.ac.in"
+    ]
+  },
+  {
+    "college_name": "Chadalawada Ramanamma Engineering College",
+    "city": "Tirupati",
+    "district": "Tirupati",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-26903",
+    "aicte_status": "Approved",
+    "official_website": "http://www.crectirupati.com",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "crectirupati.com"
+    ],
+    "emails_found": [
+      "chadalawada_engg@yahoo.com",
+      "principal@crectirupati.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 71,
+    "priority_tier": "B",
+    "student_population": 2400,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Kakinada Institute of Engineering & Technology",
+    "city": "Kakinada",
+    "district": "Kakinada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24027",
+    "aicte_status": "Approved",
+    "official_website": "http://www.kietgroup.com",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "kietgroup.com"
+    ],
+    "emails_found": [
+      "kietgroup@gmail.com",
+      "principal@kietgroup.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 70,
+    "priority_tier": "B",
+    "student_population": 3000,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Jayamukhi Institute of Technological Sciences",
+    "city": "Warangal",
+    "district": "Warangal",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-27404",
+    "aicte_status": "Approved",
+    "official_website": "http://www.jits.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "jits.in"
+    ],
+    "emails_found": [
+      "jits.npt@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 70,
+    "priority_tier": "B",
+    "student_population": 2500,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Netaji Subhas Institute of Technology (Bihta)",
+    "city": "Patna",
+    "district": "Patna",
+    "state_or_union_territory": "Bihar",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-29532",
+    "aicte_status": "Approved",
+    "official_website": "https://nsit.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "nsit.in"
+    ],
+    "emails_found": [
+      "info@nsit.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 70,
+    "priority_tier": "B",
+    "student_population": 2800,
+    "research_sources": [
+      "https://bceceboard.bihar.gov.in"
+    ]
+  },
+  {
+    "college_name": "HMR Institute of Technology and Management",
+    "city": "Delhi",
+    "district": "North Delhi",
+    "state_or_union_territory": "Delhi",
+    "college_type": "Affiliated Higher Education Institute",
+    "aishe_code": "C-32870",
+    "aicte_status": "Approved",
+    "official_website": "http://www.hmritm.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "yahoo.com"
+    ],
+    "emails_found": [
+      "hmritm_delhi@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 70,
+    "priority_tier": "B",
+    "student_population": 2800,
+    "research_sources": [
+      "http://www.ipu.ac.in"
+    ]
+  },
+  {
+    "college_name": "Annamacharya Institute of Technology and Sciences",
+    "city": "Tirupati",
+    "district": "Tirupati",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-26901",
+    "aicte_status": "Approved",
+    "official_website": "http://www.aits-tpt.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "aits-tpt.edu.in"
+    ],
+    "emails_found": [
+      "aits.tpt@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 69,
+    "priority_tier": "C",
+    "student_population": 2200,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Annamacharya Institute of Technology and Sciences",
+    "city": "Rajampet",
+    "district": "Annamayya",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-26878",
+    "aicte_status": "Approved",
+    "official_website": "http://www.aitsrajampet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "aitsrajampet.ac.in"
+    ],
+    "emails_found": [
+      "aitsap@yahoo.co.in",
+      "principal@aitsrajampet.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 69,
+    "priority_tier": "C",
+    "student_population": 3100,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Fr. Conceicao Rodrigues College of Engineering",
+    "city": "Mumbai",
+    "district": "Mumbai Suburban",
+    "state_or_union_territory": "Maharashtra",
+    "college_type": "Affiliated Higher Education Institute",
+    "aishe_code": "C-33785",
+    "aicte_status": "Approved",
+    "official_website": "http://www.frcrce.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "yahoo.com",
+      "frcrce.ac.in"
+    ],
+    "emails_found": [
+      "crce_bandra@yahoo.com",
+      "principal@frcrce.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 69,
+    "priority_tier": "C",
+    "student_population": 2200,
+    "research_sources": [
+      "https://cetcell.mahacet.org"
+    ]
+  },
+  {
+    "college_name": "Netaji Subhas Institute of Technology",
+    "city": "Patna",
+    "district": "Patna",
+    "state_or_union_territory": "Bihar",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-8215",
+    "aicte_status": "Approved",
+    "official_website": "http://www.nsit.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "nsit.in"
+    ],
+    "emails_found": [
+      "nsit_bihta@yahoo.com",
+      "info@nsit.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 69,
+    "priority_tier": "C",
+    "student_population": 2800,
+    "research_sources": [
+      "http://akubihar.ac.in"
+    ]
+  },
+  {
+    "college_name": "Girijananda Chowdhury Institute of Management and Technology",
+    "city": "Guwahati",
+    "district": "Kamrup Metropolitan",
+    "state_or_union_territory": "Assam",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-17215",
+    "aicte_status": "Approved",
+    "official_website": "http://www.gimt-guwahati.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "gimt-guwahati.ac.in"
+    ],
+    "emails_found": [
+      "gimt_guwahati@rediffmail.com",
+      "principal@gimt-guwahati.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 69,
+    "priority_tier": "C",
+    "student_population": 2400,
+    "research_sources": [
+      "https://dte.assam.gov.in"
+    ]
+  },
+  {
+    "college_name": "KSRM College of Engineering",
+    "city": "Kadapa",
+    "district": "YSR Kadapa",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-26888",
+    "aicte_status": "Approved",
+    "official_website": "http://www.ksrmce.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "ksrmce.ac.in"
+    ],
+    "emails_found": [
+      "ksrmcerc@gmail.com",
+      "principal@ksrmce.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 68,
+    "priority_tier": "C",
+    "student_population": 2900,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.ksrmce.ac.in"
+    ]
+  },
+  {
+    "college_name": "Sir C.R. Reddy College of Engineering",
+    "city": "Eluru",
+    "district": "Eluru",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-24044",
+    "aicte_status": "Approved",
+    "official_website": "http://www.sircrrengg.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "sircrrengg.ac.in"
+    ],
+    "emails_found": [
+      "crr_coe@yahoo.co.in",
+      "principal@sircrrengg.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 68,
+    "priority_tier": "C",
+    "student_population": 2900,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.sircrrengg.ac.in"
+    ]
+  },
+  {
+    "college_name": "Mar Baselios College of Engineering and Technology",
+    "city": "Thiruvananthapuram",
+    "district": "Thiruvananthapuram",
+    "state_or_union_territory": "Kerala",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-43825",
+    "aicte_status": "Approved",
+    "official_website": "http://www.mbcet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "mbcet.ac.in"
+    ],
+    "emails_found": [
+      "mbcet_tvm@yahoo.com",
+      "principal@mbcet.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 68,
+    "priority_tier": "C",
+    "student_population": 2900,
+    "research_sources": [
+      "https://ktu.edu.in",
+      "http://www.mbcet.ac.in"
+    ]
+  },
+  {
+    "college_name": "Dronacharya College of Engineering",
+    "city": "Gurugram",
+    "district": "Gurugram",
+    "state_or_union_territory": "Haryana",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-28105",
+    "aicte_status": "Approved",
+    "official_website": "http://www.dronacharya.info",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "dronacharya.info"
+    ],
+    "emails_found": [
+      "dce_gurgaon@yahoo.com",
+      "info@dronacharya.info"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 68,
+    "priority_tier": "C",
+    "student_population": 2800,
+    "research_sources": [
+      "https://gurugramuniversity.ac.in"
+    ]
+  },
+  {
+    "college_name": "RISE Krishna Sai Gandhi Group of Institutions",
+    "city": "Ongole",
+    "district": "Prakasam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-18057",
+    "aicte_status": "Approved",
+    "official_website": "http://www.risekrishnasaigandhi.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "risekrishnasaigandhi.edu.in"
+    ],
+    "emails_found": [
+      "rise_gandhi@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 67,
+    "priority_tier": "C",
+    "student_population": 2100,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Shivalik College of Engineering",
+    "city": "Dehradun",
+    "district": "Dehradun",
+    "state_or_union_territory": "Uttarakhand",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-44580",
+    "aicte_status": "Approved",
+    "official_website": "http://www.shivalikcollege.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "shivalikcollege.edu.in"
+    ],
+    "emails_found": [
+      "shivalik_dehradun@yahoo.com",
+      "info@shivalikcollege.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 67,
+    "priority_tier": "C",
+    "student_population": 2500,
+    "research_sources": [
+      "https://uktech.ac.in"
+    ]
+  },
+  {
+    "college_name": "St. Ann's College of Engineering and Technology",
+    "city": "Chirala",
+    "district": "Bapatla",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-18063",
+    "aicte_status": "Approved",
+    "official_website": "http://www.sacet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "sacet.ac.in"
+    ],
+    "emails_found": [
+      "sacet_chirala@yahoo.co.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 66,
+    "priority_tier": "C",
+    "student_population": 2400,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Government Degree & Engineering Extension Campus, Parvathipuram",
+    "city": "Parvathipuram",
+    "district": "Parvathipuram Manyam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Government Higher Education College",
+    "aishe_code": "C-24075",
+    "aicte_status": "Approved",
+    "official_website": "http://gdcparvathipuram.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "gdcparvathipuram.ac.in"
+    ],
+    "emails_found": [
+      "gdc.parvathipuram@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 66,
+    "priority_tier": "C",
+    "student_population": 1600,
+    "research_sources": [
+      "https://apcce.gov.in",
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "DNR College of Engineering and Technology",
+    "city": "Bhimavaram",
+    "district": "West Godavari",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24023",
+    "aicte_status": "Approved",
+    "official_website": "http://www.dnrcet.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "dnrcet.org"
+    ],
+    "emails_found": [
+      "dnrcet@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 66,
+    "priority_tier": "C",
+    "student_population": 2200,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Velammal College of Engineering and Technology",
+    "city": "Madurai",
+    "district": "Madurai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-25121",
+    "aicte_status": "Approved",
+    "official_website": "http://www.vcet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "vcet.ac.in"
+    ],
+    "emails_found": [
+      "principal@vcet.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 66,
+    "priority_tier": "C",
+    "student_population": 2800,
+    "research_sources": [
+      "https://www.tneaonline.org"
+    ]
+  },
+  {
+    "college_name": "Vidya Academy of Science and Technology",
+    "city": "Thrissur",
+    "district": "Thrissur",
+    "state_or_union_territory": "Kerala",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-11776",
+    "aicte_status": "Approved",
+    "official_website": "http://www.vidyaacademy.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "vidyaacademy.ac.in"
+    ],
+    "emails_found": [
+      "principal@vidyaacademy.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 66,
+    "priority_tier": "C",
+    "student_population": 2800,
+    "research_sources": [
+      "http://www.cee-kerala.org"
+    ]
+  },
+  {
+    "college_name": "Sri Venkateswara Technical Institute",
+    "city": "Parvathipuram",
+    "district": "Parvathipuram Manyam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Technical College",
+    "aishe_code": "C-24082",
+    "aicte_status": "Approved",
+    "official_website": "",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [],
+    "emails_found": [
+      "svdc.pvm@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 65,
+    "priority_tier": "C",
+    "student_population": 1400,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Model Institute of Engineering and Technology",
+    "city": "Jammu",
+    "district": "Jammu",
+    "state_or_union_territory": "Jammu and Kashmir",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-55102",
+    "aicte_status": "Approved",
+    "official_website": "http://www.mietjammu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "mietjammu.in"
+    ],
+    "emails_found": [
+      "miet_jammu@yahoo.com",
+      "info@mietjammu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 65,
+    "priority_tier": "C",
+    "student_population": 2600,
+    "research_sources": [
+      "https://jammuuniversity.ac.in"
+    ]
+  },
+  {
+    "college_name": "Canara Engineering College",
+    "city": "Mangaluru",
+    "district": "Dakshina Kannada",
+    "state_or_union_territory": "Karnataka",
+    "college_type": "Affiliated Higher Education Institute",
+    "aishe_code": "C-1249",
+    "aicte_status": "Approved",
+    "official_website": "http://www.canaraengineering.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "yahoo.com",
+      "canaraengineering.in"
+    ],
+    "emails_found": [
+      "canara_engg@yahoo.com",
+      "principal@canaraengineering.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 65,
+    "priority_tier": "C",
+    "student_population": 2400,
+    "research_sources": [
+      "https://cetonline.karnataka.gov.in/kea"
+    ]
+  },
+  {
+    "college_name": "Scholar's Institute of Technology and Management",
+    "city": "Guwahati",
+    "district": "Kamrup Metropolitan",
+    "state_or_union_territory": "Assam",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-51025",
+    "aicte_status": "Approved",
+    "official_website": "http://www.sitmguwahati.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "sitmguwahati.ac.in"
+    ],
+    "emails_found": [
+      "sitm_guwahati@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 64,
+    "priority_tier": "C",
+    "student_population": 1900,
+    "research_sources": [
+      "https://astu.ac.in"
+    ]
+  },
+  {
+    "college_name": "Sree Chaitanya College of Engineering",
+    "city": "Karimnagar",
+    "district": "Karimnagar",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-19859",
+    "aicte_status": "Approved",
+    "official_website": "http://www.scce.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "scce.ac.in"
+    ],
+    "emails_found": [
+      "scce.knr@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 64,
+    "priority_tier": "C",
+    "student_population": 2600,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Audisankara College of Engineering and Technology",
+    "city": "Gudur",
+    "district": "Sri Potti Sriramulu Nellore",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Autonomous Engineering College",
+    "aishe_code": "C-26880",
+    "aicte_status": "Approved",
+    "official_website": "http://www.audisankara.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "audisankara.ac.in"
+    ],
+    "emails_found": [
+      "aits_gdr@yahoo.co.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 63,
+    "priority_tier": "C",
+    "student_population": 2500,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Government Degree College, Parvathipuram",
+    "city": "Parvathipuram",
+    "district": "Parvathipuram Manyam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Affiliated Higher Education Institute",
+    "aishe_code": "C-24075",
+    "aicte_status": "Approved",
+    "official_website": "http://gdcparvathipuram.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "gmail.com"
+    ],
+    "emails_found": [
+      "gdc.parvathipuram@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 63,
+    "priority_tier": "C",
+    "student_population": 1600,
+    "research_sources": [
+      "https://apcce.gov.in",
+      "https://cets.apsche.ap.gov.in"
+    ]
+  },
+  {
+    "college_name": "Cambridge Institute of Technology",
+    "city": "Ranchi",
+    "district": "Ranchi",
+    "state_or_union_territory": "Jharkhand",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-14510",
+    "aicte_status": "Approved",
+    "official_website": "http://www.citranchi.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "citranchi.ac.in"
+    ],
+    "emails_found": [
+      "cit_ranchi@yahoo.com",
+      "principal@citranchi.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 63,
+    "priority_tier": "C",
+    "student_population": 2600,
+    "research_sources": [
+      "http://jutranchi.ac.in"
+    ]
+  },
+  {
+    "college_name": "PVKK Institute of Technology",
+    "city": "Anantapur",
+    "district": "Ananthapuramu",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-26865",
+    "aicte_status": "Approved",
+    "official_website": "http://www.pvkkit.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "pvkkit.ac.in"
+    ],
+    "emails_found": [
+      "pvkkit@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 62,
+    "priority_tier": "C",
+    "student_population": 1900,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Sri Venkateswara Degree & Technical College",
+    "city": "Parvathipuram",
+    "district": "Parvathipuram Manyam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Affiliated Higher Education Institute",
+    "aishe_code": "C-24082",
+    "aicte_status": "Approved",
+    "official_website": "",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "gmail.com"
+    ],
+    "emails_found": [
+      "svdc.pvm@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 62,
+    "priority_tier": "C",
+    "student_population": 1400,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in"
+    ]
+  },
+  {
+    "college_name": "Sri Sivani College of Engineering",
+    "city": "Srikakulam",
+    "district": "Srikakulam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24046",
+    "aicte_status": "Approved",
+    "official_website": "http://www.srisivani.com",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "srisivani.com"
+    ],
+    "emails_found": [
+      "sivanissce@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 62,
+    "priority_tier": "C",
+    "student_population": 1900,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Santhiram Engineering College",
+    "city": "Nandyal",
+    "district": "Nandyal",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-26868",
+    "aicte_status": "Approved",
+    "official_website": "http://www.srecnandyal.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "srecnandyal.edu.in"
+    ],
+    "emails_found": [
+      "srec_nandyal@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 61,
+    "priority_tier": "C",
+    "student_population": 2200,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Intell Engineering College",
+    "city": "Anantapur",
+    "district": "Ananthapuramu",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-26859",
+    "aicte_status": "Approved",
+    "official_website": "http://www.intellatp.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "intellatp.in"
+    ],
+    "emails_found": [
+      "intellatp@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 61,
+    "priority_tier": "C",
+    "student_population": 1800,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "BVC Engineering College",
+    "city": "Amalapuram",
+    "district": "Dr. B.R. Ambedkar Konaseema",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24019",
+    "aicte_status": "Approved",
+    "official_website": "http://www.bvcec.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "bvcec.org"
+    ],
+    "emails_found": [
+      "bvc.engg@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 60,
+    "priority_tier": "C",
+    "student_population": 2200,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Dr. K.V. Subba Reddy Institute of Technology",
+    "city": "Kurnool",
+    "district": "Kurnool",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-26856",
+    "aicte_status": "Approved",
+    "official_website": "http://www.drkvsrit.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "drkvsrit.in"
+    ],
+    "emails_found": [
+      "drkvsr.it@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 60,
+    "priority_tier": "C",
+    "student_population": 2100,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Priyadarshini College of Engineering",
+    "city": "Nellore",
+    "district": "Sri Potti Sriramulu Nellore",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-26895",
+    "aicte_status": "Approved",
+    "official_website": "http://www.priyadarshininlr.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "priyadarshininlr.ac.in"
+    ],
+    "emails_found": [
+      "priyadarshini.nellore@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 60,
+    "priority_tier": "C",
+    "student_population": 1700,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Chirala Engineering College",
+    "city": "Chirala",
+    "district": "Bapatla",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-18035",
+    "aicte_status": "Approved",
+    "official_website": "http://www.cecc.co.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "cecc.co.in"
+    ],
+    "emails_found": [
+      "cecc_college@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 59,
+    "priority_tier": "C",
+    "student_population": 1700,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "International School of Technology and Sciences for Women",
+    "city": "Rajahmundry",
+    "district": "East Godavari",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Women's Engineering College",
+    "aishe_code": "C-24026",
+    "aicte_status": "Approved",
+    "official_website": "http://www.ists.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "ists.ac.in"
+    ],
+    "emails_found": [
+      "ists.engg@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 59,
+    "priority_tier": "C",
+    "student_population": 1900,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Bhimavaram Institute of Engineering and Technology",
+    "city": "Bhimavaram",
+    "district": "West Godavari",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24020",
+    "aicte_status": "Approved",
+    "official_website": "http://www.bietbvrm.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "bietbvrm.ac.in"
+    ],
+    "emails_found": [
+      "biet.bvr@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 59,
+    "priority_tier": "C",
+    "student_population": 1600,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Priyadarshini Institute of Technology and Science",
+    "city": "Tenali",
+    "district": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-18053",
+    "aicte_status": "Approved",
+    "official_website": "http://www.priyadarshiniengg.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "priyadarshiniengg.ac.in"
+    ],
+    "emails_found": [
+      "priyadarshini.gnt@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 58,
+    "priority_tier": "C",
+    "student_population": 1800,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "National Institute of Technology Agartala (Affiliated College / TIT)",
+    "city": "Agartala",
+    "district": "West Tripura",
+    "state_or_union_territory": "Tripura",
+    "college_type": "Government Engineering College",
+    "aishe_code": "C-6510",
+    "aicte_status": "Approved",
+    "official_website": "http://www.titagartala.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "titagartala.ac.in"
+    ],
+    "emails_found": [
+      "tit_agartala@yahoo.co.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 58,
+    "priority_tier": "C",
+    "student_population": 1800,
+    "research_sources": [
+      "https://highereducation.tripura.gov.in"
+    ]
+  },
+  {
+    "college_name": "Don Bosco College of Engineering",
+    "city": "Margao",
+    "district": "South Goa",
+    "state_or_union_territory": "Goa",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-30812",
+    "aicte_status": "Approved",
+    "official_website": "http://www.dbcegoa.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "dbcegoa.ac.in"
+    ],
+    "emails_found": [
+      "dbcefatorda@dbcegoa.ac.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 58,
+    "priority_tier": "C",
+    "student_population": 1800,
+    "research_sources": [
+      "https://dte.goa.gov.in"
+    ]
+  },
+  {
+    "college_name": "Ellenki College of Engineering and Technology",
+    "city": "Patancheru",
+    "district": "Sangareddy",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Affiliated Higher Education Institute",
+    "aishe_code": "C-19830",
+    "aicte_status": "Approved",
+    "official_website": "http://www.ellenkicet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "yahoo.co.in"
+    ],
+    "emails_found": [
+      "ellenki_college@yahoo.co.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 58,
+    "priority_tier": "C",
+    "student_population": 2100,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Tripura Institute of Technology",
+    "city": "Agartala",
+    "district": "West Tripura",
+    "state_or_union_territory": "Tripura",
+    "college_type": "Government Engineering College",
+    "aishe_code": "C-53105",
+    "aicte_status": "Approved",
+    "official_website": "http://www.titagartala.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "titagartala.ac.in"
+    ],
+    "emails_found": [
+      "tit_agartala@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 57,
+    "priority_tier": "C",
+    "student_population": 1600,
+    "research_sources": [
+      "https://tripurauniv.ac.in"
+    ]
+  },
+  {
+    "college_name": "Nalanda Institute of Engineering and Technology",
+    "city": "Sattenapalli",
+    "district": "Palnadu",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-18046",
+    "aicte_status": "Approved",
+    "official_website": "http://www.nalanda.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "nalanda.edu.in"
+    ],
+    "emails_found": [
+      "nalanda_sattenapalli@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 56,
+    "priority_tier": "C",
+    "student_population": 1900,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Kuppam Engineering College",
+    "city": "Kuppam",
+    "district": "Chittoor",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-26910",
+    "aicte_status": "Approved",
+    "official_website": "http://www.kec.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "kec.ac.in"
+    ],
+    "emails_found": [
+      "principal@kec.ac.in",
+      "keckuppam@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 56,
+    "priority_tier": "C",
+    "student_population": 1800,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Sri Vaishnavi College of Engineering",
+    "city": "Srikakulam",
+    "district": "Srikakulam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24049",
+    "aicte_status": "Approved",
+    "official_website": "http://www.svcesrikakulam.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "svcesrikakulam.org"
+    ],
+    "emails_found": [
+      "svce.sklm@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 56,
+    "priority_tier": "C",
+    "student_population": 1400,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Padre Conceicao College of Engineering",
+    "city": "Verna",
+    "district": "South Goa",
+    "state_or_union_territory": "Goa",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-30810",
+    "aicte_status": "Approved",
+    "official_website": "http://www.pccegoa.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "pccegoa.edu.in"
+    ],
+    "emails_found": [
+      "pcce@pccegoa.edu.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 56,
+    "priority_tier": "C",
+    "student_population": 1600,
+    "research_sources": [
+      "https://dte.goa.gov.in"
+    ]
+  },
+  {
+    "college_name": "SSM College of Engineering",
+    "city": "Baramulla",
+    "district": "Baramulla",
+    "state_or_union_territory": "Jammu and Kashmir",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-21415",
+    "aicte_status": "Approved",
+    "official_website": "http://www.ssmce.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "ssmce.ac.in"
+    ],
+    "emails_found": [
+      "ssmceprincipal@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 56,
+    "priority_tier": "C",
+    "student_population": 1800,
+    "research_sources": [
+      "http://www.kashmiruniversity.net"
+    ]
+  },
+  {
+    "college_name": "Sumathi Reddy Institute of Technology for Women",
+    "city": "Hanamkonda",
+    "district": "Hanamkonda",
+    "state_or_union_territory": "Telangana",
+    "college_type": "Affiliated Higher Education Institute",
+    "aishe_code": "C-27412",
+    "aicte_status": "Approved",
+    "official_website": "http://www.sritw.org",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "gmail.com"
+    ],
+    "emails_found": [
+      "sritw.wgl@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 56,
+    "priority_tier": "C",
+    "student_population": 1900,
+    "research_sources": [
+      "https://eapcet.tsche.ac.in"
+    ]
+  },
+  {
+    "college_name": "Newton's Institute of Engineering",
+    "city": "Macherla",
+    "district": "Palnadu",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-18047",
+    "aicte_status": "Approved",
+    "official_website": "http://www.newtons.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "newtons.edu.in"
+    ],
+    "emails_found": [
+      "newtonsengg@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 55,
+    "priority_tier": "C",
+    "student_population": 1800,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Gokul Group of Institutions",
+    "city": "Bobbili",
+    "district": "Vizianagaram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24024",
+    "aicte_status": "Approved",
+    "official_website": "http://www.gokulcollege.com",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "gokulcollege.com"
+    ],
+    "emails_found": [
+      "gokul_college@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 55,
+    "priority_tier": "C",
+    "student_population": 1700,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Green Hills Engineering College",
+    "city": "Solan",
+    "district": "Solan",
+    "state_or_union_territory": "Himachal Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-29515",
+    "aicte_status": "Approved",
+    "official_website": "http://www.ghec.co.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "ghec.co.in"
+    ],
+    "emails_found": [
+      "ghec_solan@yahoo.com",
+      "contact@ghec.co.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 55,
+    "priority_tier": "C",
+    "student_population": 1800,
+    "research_sources": [
+      "https://himtu.ac.in"
+    ]
+  },
+  {
+    "college_name": "St. Johns College of Engineering and Technology",
+    "city": "Yemmiganur",
+    "district": "Kurnool",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-26873",
+    "aicte_status": "Approved",
+    "official_website": "http://www.sjcet.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "sjcet.ac.in"
+    ],
+    "emails_found": [
+      "sjcet.yemmiganur@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 54,
+    "priority_tier": "D",
+    "student_population": 1600,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Vaagdevi Institute of Technology and Science",
+    "city": "Proddatur",
+    "district": "YSR Kadapa",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-26900",
+    "aicte_status": "Approved",
+    "official_website": "http://www.vitspdtr.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "vitspdtr.ac.in"
+    ],
+    "emails_found": [
+      "vits_pdr@yahoo.co.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 54,
+    "priority_tier": "D",
+    "student_population": 1600,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Avanthi's St. Theressa Institute of Engineering and Technology",
+    "city": "Garividi",
+    "district": "Vizianagaram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24017",
+    "aicte_status": "Approved",
+    "official_website": "http://www.st-theressa.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "st-theressa.edu.in"
+    ],
+    "emails_found": [
+      "st.theressa@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 54,
+    "priority_tier": "D",
+    "student_population": 1500,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "DJR College of Engineering and Technology",
+    "city": "Machilipatnam",
+    "district": "Krishna",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-17959",
+    "aicte_status": "Approved",
+    "official_website": "http://www.djrcet.edu.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "djrcet.edu.in"
+    ],
+    "emails_found": [
+      "djr.principal@gmail.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 53,
+    "priority_tier": "D",
+    "student_population": 1500,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "BIT Institute of Technology",
+    "city": "Hindupur",
+    "district": "Sri Sathya Sai",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-26853",
+    "aicte_status": "Approved",
+    "official_website": "http://www.bitit.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "bitit.ac.in"
+    ],
+    "emails_found": [
+      "bit_hup@yahoo.co.in"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 53,
+    "priority_tier": "D",
+    "student_population": 1500,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Manipur Institute of Technology",
+    "city": "Imphal",
+    "district": "Imphal West",
+    "state_or_union_territory": "Manipur",
+    "college_type": "Constituent Engineering College",
+    "aishe_code": "C-54120",
+    "aicte_status": "Approved",
+    "official_website": "http://www.mitimphal.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "mitimphal.in"
+    ],
+    "emails_found": [
+      "mit_imphal@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 51,
+    "priority_tier": "D",
+    "student_population": 1400,
+    "research_sources": [
+      "https://manipuruniv.ac.in"
+    ]
+  },
+  {
+    "college_name": "Dr. B.R. Ambedkar Institute of Technology",
+    "city": "Port Blair",
+    "district": "South Andaman",
+    "state_or_union_territory": "Andaman and Nicobar Islands",
+    "college_type": "Government Engineering College",
+    "aishe_code": "C-6610",
+    "aicte_status": "Approved",
+    "official_website": "http://www.dbrait.andaman.gov.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "dbrait.andaman.gov.in"
+    ],
+    "emails_found": [
+      "dbrait_portblair@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 51,
+    "priority_tier": "D",
+    "student_population": 1600,
+    "research_sources": [
+      "https://www.pondiuni.edu.in"
+    ]
+  },
+  {
+    "college_name": "Lenora College of Engineering",
+    "city": "Rampachodavaram",
+    "district": "Alluri Sitharama Raju",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_type": "Private Engineering College",
+    "aishe_code": "C-24032",
+    "aicte_status": "Approved",
+    "official_website": "http://www.lce.ac.in",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [
+      "lce.ac.in"
+    ],
+    "emails_found": [
+      "lenora_engg@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 50,
+    "priority_tier": "D",
+    "student_population": 1400,
+    "research_sources": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ]
+  },
+  {
+    "college_name": "Shillong Engineering College",
+    "city": "Shillong",
+    "district": "East Khasi Hills",
+    "state_or_union_territory": "Meghalaya",
+    "college_type": "State Affiliated Engineering College",
+    "aishe_code": "C-52110",
+    "aicte_status": "Approved",
+    "official_website": "",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [],
+    "emails_found": [
+      "sec_shillong@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 50,
+    "priority_tier": "D",
+    "student_population": 1200,
+    "research_sources": [
+      "https://nehu.ac.in"
+    ]
+  },
+  {
+    "college_name": "Government Engineering College Daman",
+    "city": "Daman",
+    "district": "Daman",
+    "state_or_union_territory": "Dadra and Nagar Haveli and Daman and Diu",
+    "college_type": "Government Engineering College",
+    "aishe_code": "C-6715",
+    "aicte_status": "Approved",
+    "official_website": "",
+    "official_email_found": false,
+    "verified_official_edu_domain": false,
+    "domains_checked": [],
+    "emails_found": [
+      "gec_daman@yahoo.com"
+    ],
+    "verification_confidence": "high",
+    "verification_date": "2026-09-11",
+    "clstr_priority_score": 48,
+    "priority_tier": "D",
+    "student_population": 1100,
+    "research_sources": [
+      "https://gtu.ac.in"
+    ]
+  }
+]

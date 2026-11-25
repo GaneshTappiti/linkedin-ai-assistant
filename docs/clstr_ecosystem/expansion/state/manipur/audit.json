@@ -1,0 +1,49 @@
+[
+  {
+    "college_name": "Manipur Institute of Technology",
+    "alternative_names": [
+      "MIT Imphal"
+    ],
+    "aishe_code": "C-54120",
+    "district": "Imphal West",
+    "city": "Imphal",
+    "full_address": "Takyelpat, Imphal, Manipur - 795004",
+    "state_or_union_territory": "Manipur",
+    "affiliated_university": "Manipur University",
+    "official_website": "http://www.mitimphal.in",
+    "emails_found": [
+      "mit_imphal@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://manipuruniv.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official university affiliation directory audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Yahoo Mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1400,
+    "clstr_advantage_score": 9.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 3.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 8.8,
+    "ambassador_adv": 9.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 3.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 43.0,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  }
+]

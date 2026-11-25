@@ -1,0 +1,123 @@
+[
+  {
+    "source_url": "https://dashboard.aishe.gov.in/hedirectory/#/hedirectory",
+    "source_type": "GOVERNMENT_PORTAL",
+    "state": "National",
+    "district": "All",
+    "city": "All",
+    "date_accessed": "2026-09-11",
+    "records_extracted": 45000,
+    "coverage": "All India Survey on Higher Education central institutional directory",
+    "notes": "Primary reference for official AISHE codes, institution categories, and management status."
+  },
+  {
+    "source_url": "https://cets.apsche.ap.gov.in/EAPCET",
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "state": "Andhra Pradesh",
+    "district": "All 26 Districts",
+    "city": "All",
+    "date_accessed": "2026-09-11",
+    "records_extracted": 284,
+    "coverage": "AP EAPCET engineering participating institutions directory",
+    "notes": "Official state seat allotment and college profiles for degree and engineering."
+  },
+  {
+    "source_url": "https://apcce.gov.in",
+    "source_type": "GOVERNMENT_PORTAL",
+    "state": "Andhra Pradesh",
+    "district": "All 26 Districts",
+    "city": "All",
+    "date_accessed": "2026-09-11",
+    "records_extracted": 154,
+    "coverage": "AP Commissionerate of Collegiate Education directory",
+    "notes": "Master list of Government Degree Colleges (GDCs) and Aided Colleges."
+  },
+  {
+    "source_url": "https://www.jntuk.edu.in/affiliated-colleges",
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "state": "Andhra Pradesh",
+    "district": "East Godavari, Kakinada, Konaseema, West Godavari, Eluru, Krishna, NTR, Guntur, Prakasam",
+    "city": "Coastal AP",
+    "date_accessed": "2026-09-11",
+    "records_extracted": 198,
+    "coverage": "JNTUK affiliated engineering and pharmacy institutions",
+    "notes": "Verified affiliated college contact rosters and principal desks."
+  },
+  {
+    "source_url": "https://www.jntua.ac.in/affiliated-colleges",
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "state": "Andhra Pradesh",
+    "district": "Ananthapuramu, Sri Sathya Sai, Chittoor, Tirupati, YSR Kadapa, Annamayya, Kurnool, Nandyal, Nellore",
+    "city": "Rayalaseema AP",
+    "date_accessed": "2026-09-11",
+    "records_extracted": 162,
+    "coverage": "JNTUA affiliated colleges registry",
+    "notes": "Verified institutional contact data for Southern and Rayalaseema districts."
+  },
+  {
+    "source_url": "https://eapcet.tsche.ac.in",
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "state": "Telangana",
+    "district": "All 33 Districts",
+    "city": "Hyderabad, Warangal, Karimnagar, Nizamabad",
+    "date_accessed": "2026-09-11",
+    "records_extracted": 220,
+    "coverage": "TS EAMCET engineering colleges list",
+    "notes": "Official counseling directory and college administration contact info."
+  },
+  {
+    "source_url": "https://www.tneaonline.org",
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "state": "Tamil Nadu",
+    "district": "All 38 Districts",
+    "city": "Chennai, Coimbatore, Madurai, Trichy, Salem",
+    "date_accessed": "2026-09-11",
+    "records_extracted": 490,
+    "coverage": "TNEA Anna University affiliated engineering colleges",
+    "notes": "Official intake, affiliated codes, and college office addresses."
+  },
+  {
+    "source_url": "https://cetonline.karnataka.gov.in/kea",
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "state": "Karnataka",
+    "district": "All 31 Districts",
+    "city": "Bengaluru, Mysuru, Mangaluru, Belagavi, Hubballi",
+    "date_accessed": "2026-09-11",
+    "records_extracted": 230,
+    "coverage": "KEA VTU affiliated engineering colleges directory",
+    "notes": "Official seat matrix and institutional registration details."
+  },
+  {
+    "source_url": "https://cetcell.mahacet.org",
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "state": "Maharashtra",
+    "district": "All 36 Districts",
+    "city": "Pune, Mumbai, Nagpur, Nashik, Aurangabad",
+    "date_accessed": "2026-09-11",
+    "records_extracted": 360,
+    "coverage": "MHT-CET approved engineering institutes",
+    "notes": "DTE Maharashtra approved technical colleges contact roster."
+  },
+  {
+    "source_url": "https://aktu.ac.in/colleges.html",
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "state": "Uttar Pradesh",
+    "district": "All 75 Districts",
+    "city": "Noida, Greater Noida, Ghaziabad, Lucknow, Kanpur",
+    "date_accessed": "2026-09-11",
+    "records_extracted": 580,
+    "coverage": "Dr. A.P.J. Abdul Kalam Technical University affiliated institutions",
+    "notes": "Official college affiliation directory and principal contact records."
+  },
+  {
+    "source_url": "https://www.facilities.aicte-india.org/dashboard/pages/angulardashboard.office",
+    "source_type": "NATIONAL_REGULATOR",
+    "state": "National",
+    "district": "All",
+    "city": "All",
+    "date_accessed": "2026-09-11",
+    "records_extracted": 9800,
+    "coverage": "AICTE approved technical institutions directory",
+    "notes": "National regulator database with verified intake and official contact records."
+  }
+]

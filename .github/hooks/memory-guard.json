@@ -1,0 +1,18 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "type": "command",
+        "windows": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/hooks/bootstrap_memory_guard.ps1",
+        "timeout": 20
+      }
+    ],
+    "PreToolUse": [
+      {
+        "type": "command",
+        "windows": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/hooks/pretool_memory_guard.ps1",
+        "timeout": 10
+      }
+    ]
+  }
+}

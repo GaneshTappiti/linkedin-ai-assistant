@@ -1,0 +1,198 @@
+{
+  "source": "https://clstr.in/campus-ambassadors",
+  "extracted_at": "2026-05-04T13:27:00Z",
+  "version": "2.2-guidebook-upgraded",
+  "program_identity": {
+    "name": "Clstr Campus Ambassador Program",
+    "tagline": "Build your network, earn rewards, and unlock real opportunities, not just a title.",
+    "hero_headline": "Become a Clstr Campus Leader",
+    "positioning": "Most ambassador programs give you tasks. Clstr gives you ownership.",
+    "social_proof": "Already active across 47 colleges (45 verified nodes, 575 registered students)",
+    "scope": "Weekly community activation, event participation, and peer-to-peer onboarding for your campus network."
+  },
+  "what_clstr_offers": {
+    "differentiators": [
+      "Real leadership ownership in your college ecosystem",
+      "Real impact through campaigns, communities, and events",
+      "Direct access to alumni, founders, and growth mentors"
+    ],
+    "key_promise": "Ownership, not just tasks"
+  },
+  "responsibilities": {
+    "core_activities": [
+      "Organize campaigns, activations, and campus events",
+      "Represent Clstr as an official campus leader",
+      "Peer-to-peer onboarding of students to the campus network"
+    ],
+    "time_commitment": "3-5 hours per week",
+    "weekly_snapshot": {
+      "week_3": "Event support or campaign execution",
+      "week_4": "Progress report and next-month planning"
+    }
+  },
+  "benefits_and_perks": {
+    "resume": "Official selection letter and a leadership role that stands out",
+    "internship_access": "Top performers receive internship opportunities and letter of recommendation support",
+    "rewards": "Amazon vouchers, cash incentives, and performance-based perks",
+    "recognition_goodies": "Hoodies, caps, exclusive merch, and featured recognition",
+    "network": "Direct access to alumni, founders, and high-agency student peers"
+  },
+  "outcomes": [
+    "Official ambassador title with selection letter",
+    "Resume-worthy leadership experience",
+    "Internship + LOR opportunity for top performers",
+    "Amazon vouchers and cash incentives",
+    "Exclusive merch (hoodies, caps)",
+    "Network with alumni, founders, mentors",
+    "Real campus impact \u2014 events, campaigns, community building"
+  ],
+  "eligibility": {
+    "apply_if": [
+      "You want real leadership experience",
+      "You enjoy networking, organizing, and bringing people together",
+      "You want impact and opportunities, not just certificates",
+      "You are self-driven and proactive"
+    ],
+    "do_not_apply_if": [
+      "You are only looking for certificates",
+      "You cannot commit 3-5 hours weekly",
+      "You want passive participation"
+    ],
+    "requirement": "Any currently enrolled student can apply. No prior ambassador experience required."
+  },
+  "application_process": {
+    "steps": [
+      "Apply \u2014 Fill the form in a few minutes",
+      "Review \u2014 Team reviews fit and intent",
+      "Onboarding Call \u2014 Meet the team and align on campus plan",
+      "Activation \u2014 Start building your campus community"
+    ],
+    "review_model": "Rolling basis",
+    "urgency": "Applications close soon",
+    "seats_per_college": "Limited \u2014 usually 2-3 per college",
+    "form_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__6tJDx9UMDRUNU4yTlJDNFZSMVBYNEkxSFpaWVlIRy4u&route=shorturl"
+  },
+  "faqs": [
+    {
+      "q": "Who can apply?",
+      "a": "Any enrolled student wanting leadership experience."
+    },
+    {
+      "q": "Is there a stipend?",
+      "a": "Top performers are eligible for vouchers, performance perks, and growth opportunities."
+    },
+    {
+      "q": "How many hours per week?",
+      "a": "3-5 hours per week."
+    },
+    {
+      "q": "How many ambassadors are selected per college?",
+      "a": "Usually 2-3 ambassadors per college."
+    }
+  ],
+  "contact": {
+    "email": "clstr.network@gmail.com",
+    "instagram": "@clstr.network",
+    "linkedin": "@clstrnetwork",
+    "twitter_x": "@clstrnetwork"
+  },
+  "outreach_intelligence": {
+    "key_hook_for_dms": "Ownership, not just tasks \u2014 real impact at your campus",
+    "prospect_pain_addressed": "Tired of ambassador programs that only give certificates",
+    "strong_prospect_signals": [
+      "campus ambassador",
+      "student council",
+      "event coordinator",
+      "TEDx organizer",
+      "club president",
+      "NSS/NCC coordinator",
+      "college fest organizer"
+    ],
+    "role_fit_mapping": {
+      "campus_ambassador": "Weekly activations, events, peer onboarding",
+      "benefits_to_lead_with": [
+        "Leadership letter + resume boost",
+        "Network with founders and alumni",
+        "Amazon vouchers and performance perks",
+        "Only 2-3 seats per college \u2014 exclusive"
+      ],
+      "first_message_angle": "Ask about their campus experience, NOT pitch clstr immediately",
+      "conversion_trigger": "When they show interest \u2014 share form: https://forms.gle/2NYjiunqeUk3WUDh9 + WhatsApp: 9441467303"
+    }
+  },
+  "guidebook_metadata": {
+    "time_commitment": "3-5 hrs/week",
+    "ownership_level": "You are the Clstr founder on campus (Campus Captain)",
+    "compensation_policy": "No external funding. Recognition, merchandise, VIP passes, and equity/surplus sharing once events generate surplus."
+  },
+  "campus_captain_team_structure": {
+    "campus_captain": "Overall campus founder & coordinator",
+    "domain_leads": [
+      {
+        "role": "Clubs and Events Lead",
+        "mission": "Get every club on Clstr and every event posted here first"
+      },
+      {
+        "role": "Placement and Career Lead",
+        "mission": "Connect students with opportunities and alumni mentors via TPO"
+      },
+      {
+        "role": "Community Lead",
+        "mission": "Keep the campus feed active, quality, and campus-native"
+      },
+      {
+        "role": "Growth and Outreach Lead",
+        "mission": "Drive new student registrations and campus visibility"
+      },
+      {
+        "role": "CollabHub Lead",
+        "mission": "Get students building together via CollabHub and EcoCampus"
+      }
+    ],
+    "foot_soldiers": "Up to 5 student volunteers per campus supporting weekly sprints"
+  },
+  "milestones_and_rewards": {
+    "M01": {
+      "target": "500 verified users + 2 active clubs",
+      "reward": "Clstr merchandise (hoodie or cap)"
+    },
+    "M02": {
+      "target": "1,000 verified users + 4 active clubs",
+      "reward": "Clstr tee + free VIP passes to every Vizag Community event + LinkedIn/IG shoutout"
+    },
+    "M03": {
+      "target": "1,500 verified users + all domain clubs active",
+      "reward": "Official Clstr Campus Leader Certificate signed by Founder"
+    },
+    "M04": {
+      "target": "2,000 verified users (full activation)",
+      "reward": "Promotion to Campus Node Coordinator (L2 Leader) + official recommendation letter"
+    },
+    "M05": {
+      "target": "Top Performer semester-end",
+      "reward": "Core team fast-track interview / paid internship + Founder LinkedIn recommendation"
+    }
+  },
+  "field_issue_playbook": [
+    {
+      "issue": "High signups, low DAU",
+      "fix": "Get TPO/faculty to post placement shortlists or deadlines exclusively on Clstr."
+    },
+    {
+      "issue": "WhatsApp more active than feed",
+      "fix": "Use WhatsApp as distribution link ('Full update + RSVP on Clstr')."
+    },
+    {
+      "issue": "Domain leads drift/inactive",
+      "fix": "Give ONE clear visible weekly task per lead; praise small wins publicly; replace non-responsive leads."
+    },
+    {
+      "issue": "Email OTP friction",
+      "fix": "Have students open inbox before initiating signup; walk first 10 students through signup in person."
+    },
+    {
+      "issue": "Clubs say yes but don't post",
+      "fix": "Sit with club president and post the first event for them on phone."
+    }
+  ]
+}

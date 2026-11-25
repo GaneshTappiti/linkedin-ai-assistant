@@ -1,0 +1,188 @@
+﻿
+VIZAG.CLSTR.IN
+Core Team — Structure, Hiring, and How to Run It
+
+Two People Per Department. Both Can Run It.
+Competence first. Confidence second. Charisma third.
+
+Confidential — Internal Use Only  ·  clstr.in  ·  vizag.clstr.in
+
+
+Contents
+
+01
+The Org Chart — 5 Departments, 2 People Each
+02
+Who to Pick — The Order That Matters
+03
+The Structural Rules
+04
+The Application Form
+05
+How to Read the Form
+06
+The Interview — Scenarios and What to Listen For
+07
+After Selection
+08
+The Two Things That Actually Kill Teams
+
+
+01 — The Org Chart
+
+Five departments for the vizag.clstr.in community. Every single one gets two people who can both run it — no "lead and assistant." This replaces the old single-owner model everywhere in the community's structure.
+
+DEPARTMENT
+WHAT IT OWNS
+MAPS TO EXISTING ROLE(S)
+Logistics
+Events, venue, run-of-show, day-of execution, vendor coordination
+Events & Logistics Coordinator (now 2 people, not 1)
+Design + Social
+Content, brand, Instagram, event creatives, campus-specific handles
+Brand & Content Lead + a Hype Creator promoted in
+Outreach
+Sponsors, companies, colleges, ambassador coordination
+Partnerships & Sponsorship Manager (now 2 people)
+Tech + Web
+vizag.clstr.in site upkeep, form fixes, CollabHub support, basic troubleshooting
+New — did not exist as a named department before
+Finance + Ticketing
+Event budgets, ticket sales tracking, sponsor payment records, surplus reporting
+New — was previously folded informally into Events
+
+Founder sits above all five, not inside any one
+Vision, key relationships (colleges, major sponsors), and hiring decisions stay with the Founder. Day-to-day department execution belongs to the two people running each one — not routed back through the Founder for every decision.
+
+Community/Collab Lead and Campus Ops Lead (from the Team Playbook) sit as coordinators ACROSS departments, not inside one — they connect Outreach + Logistics + the Guild/Circle/Campus Captain layer so nothing falls into a gap between departments.
+
+
+Reconciling with the Growth / Product / Campus engine trim
+The five departments above and the Growth / Product / Campus "engine" language used elsewhere describe the same structure, not two competing ones. The trim already agreed for the Growth and Campus engines maps directly onto Design + Social and Outreach below.
+
+DEPARTMENT
+CORE SEATS (2 PER DEPT.)
+EXECUTION / VOLUNTEER LAYER
+Design + Social
+Growth & Mktg Lead + one generalist covering Content/Social/Design
+Split into named Content, Social, and Design owners once volume justifies growing to 3 (Section 03)
+Outreach
+Campus Partnerships & Ops Lead + Amb. Program Mgr (absorbs the former Partnerships Associate seat)
+Community & Ops, Campus Captain ×N, Domain Leads ×3, Foot Soldiers — the ambassador network these 2 run, not extra core headcount
+Tech + Web
+Dev Lead (Product Anchor) + one more dev
+Dev 1, Dev 2, QA — same as the Product Engine, unchanged by the trim
+Logistics
+Events & Logistics Coordinator ×2
+Not covered by the engine model
+Finance + Ticketing
+2 people
+Not covered by the engine model
+
+The engine sub-roles are not additional core headcount. They're either the department's 2 required people (Design + Social, Outreach, Tech + Web) or the volunteer/ambassador layer those 2 people run — the same relationship as Guild/Circle Leads and Campus Node Coordinators in the Team Playbook.
+
+
+02 — Who to Pick — The Order That Matters
+
+ORDER
+WHAT IT MEANS
+1. Competence
+Can they actually do the job you're picking them for. Not "could learn to." Can, today, or close enough.
+2. Confidence
+Will they put their name on something in public — an Instagram post, a sponsor email, a stage intro.
+3. Charisma
+Do people like being around them. Real, but the tiebreaker, never the entry test.
+
+Confidence and charisma decide between two competent people. They never substitute for competence. A charismatic person who can't execute is a liability with good PR.
+
+
+03 — The Structural Rules
+
+    • Two people per department, every single one, no exceptions.
+    • Both must be able to run it solo. Not "lead and assistant" — if one disappears for two weeks, the department does not stall.
+    • Swap who's primary each event. Rotating primary keeps both people sharp and prevents one from quietly becoming the backup permanently.
+    • If a department grows to three, give each a specific named piece — "owns Instagram Reels," not "helps with design." Vague ownership is how things get dropped.
+    • The Community/Collab Lead and Founder assign roles. This is not put to a team vote — voting optimizes for popularity, not competence.
+    • Every recurring job gets a doc. A new Campus Node Coordinator or Domain Lead should be able to run their part from the doc alone, without a live handoff call.
+
+This is the single biggest structural change from the earlier Team Playbook: every Layer 1 role there was written as one person. It becomes two, immediately, for every department above.
+
+
+04 — The Application Form
+
+What goes on the actual form — and what has to be there before selection, not revealed after.
+
+FIELD
+WHY IT'S THERE
+Name, phone, email, year, department(s) — multi-select
+Basics. Multi-select departments so second-choice interest is visible.
+Portfolio link — website, GitHub, Instagram, Notion, Drive folder, anything
+If they don't have one, making one IS the assignment. State plainly that an Instagram page or a Drive folder counts — don't filter for people with time and money to build something polished.
+What do you want to get out of this?
+The most important question on the form. A specific answer ("I want to run a real sponsor conversation start to finish") is worth more than any credential.
+What's the coolest thing you've ever done?
+Look for them being the one doing it, not attending it. A certificate is not an achievement.
+Hobbies / free time
+Signals real bandwidth and real personality, not just resume padding.
+Other clubs and commitments
+Surfaces conflicts before they become a mid-semester surprise.
+Hours per week — as a number
+Not "a few hours," a number. Vague time commitments are how departments end up one person short.
+Two people who've worked with you, and how to reach them
+Real references, checked, not decorative.
+
+The hours commitment and the "you can't be in five other clubs" rule go ON the form, not sprung after selection. Surprising someone with a rule after they've already said yes is how good people quietly resent the team.
+
+
+05 — How to Read the Form
+
+    • A portfolio built by AI or a friend is fine. The story on it must be true, and the applicant must be able to talk about it at the level it's written at — that's what the interview checks.
+    • "What do you want out of this" — a specific answer is good. "Improve my skills" is nothing. Push for specificity, don't accept the vague version.
+    • "Coolest thing you've ever done" — look for a moment it could have gone wrong, and whether they were the one steering it. A certificate isn't an achievement; a decision under pressure is.
+    • Compare what they ticked (departments, hours) against what their portfolio actually shows. A mismatch here is worth flagging before the interview, not discovering after.
+
+
+06 — The Interview
+
+Structure
+    • Two interviewers, same questions for everyone applying to the same department.
+    • Both score separately before discussing — comparing notes before scoring just produces one opinion wearing two names.
+
+Scenarios to use
+    1. Main speaker cancels 14 hours before. Room booked, 120 registered. What do you do in the next two hours?
+    2. Registrations at 30% with two days left. First thing you do, and what you won't do.
+    3. Teammate goes quiet for five days, their part isn't done, event is day after tomorrow.
+    4. Venue changes on the morning of.
+    5. Someone posts something angry about the event in the group chat, and they're partly right.
+
+What separates a good answer from a weak one
+GOOD ANSWER
+WEAK ANSWER
+Gets specific fast — who to call, what to say, in what order. Asks clarifying questions before committing to a plan.
+Stays on feelings. "I'd stay calm and communicate transparently" — sounds fine, says nothing.
+Accepts a bad outcome and acts on it.
+Keeps inventing rescues instead of accepting the situation is bad and moving.
+
+The single most useful check: does the person in the room match the person on the portfolio? A mismatch — someone whose written story is sharp but who goes vague and generic live — is your answer, regardless of how good the paper looks.
+
+
+07 — After Selection
+
+    • Access on day one — logins, shared inbox, socials. Not just the Founder holding every password.
+    • One real deliverable in the first month. Not onboarding, not shadowing — an actual thing they own and ship.
+    • Keep one doc with every person's answer to "what do you want out of this." Read it monthly. Check who hasn't gotten anything close to it yet, and fix that before it becomes a reason they quietly leave.
+    • Fixed terms — one semester or one event cycle — then an actual conversation about renewing. Not an indefinite, undiscussed default.
+    • Exit form at the end of every tenure, same questions for everyone: what worked, what didn't, what did you actually get out of this. Read these, don't just file them.
+    • Make it safe to say "I'm behind." The person who spots a problem and stays quiet out of fear is how events fall apart — not the person who admits it early.
+    • If the community makes money, write down what the team gets before the first event, not after the first profitable one. Retroactive promises breed resentment even when well-intentioned.
+
+
+08 — The Two Things That Actually Kill Teams
+
+1. One person is the only one who can do something
+Fixed by the two-deep rule (Section 01/03) and by writing everything down as a doc (Section 03). If losing one person for two weeks breaks a department, that department was built wrong.
+
+2. People never get to do the thing they joined for
+Fixed by asking on day one ("what do you want to get out of this" — Section 04) and checking monthly (Section 07). Most people don't leave because the work is hard. They leave because they never got near the reason they showed up.
+
+Everything above is one system: pick right (Sections 02, 04, 05, 06), structure right (Sections 01, 03), and keep checking after (Section 07) — so neither of these two failure modes gets the chance to quietly compound.

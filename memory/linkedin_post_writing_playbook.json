@@ -1,0 +1,532 @@
+{
+  "version": "3.1.0",
+  "description": "LinkedIn post-writing playbook distilled from expert strategy videos + 2026 deep research + scraped inspiration profiles (eordax, Ghadeer, Rishabh, Johnny C. Taylor Jr.). Aligned with LINKEDIN_ORIGINAL_POST_RULES.md v10.0 (consolidated).",
+  "created_at": "2026-05-13T23:30:00+05:30",
+  "sources": [
+    {
+      "title": "How to BEAT the new LinkedIn algorithm in 6 minutes",
+      "creator": "Tommy Clark",
+      "url": "https://www.youtube.com/watch?v=DGYZ04X5pk4",
+      "views": "N/A",
+      "likes": "1.6K",
+      "subscribers": "11.4K"
+    },
+    {
+      "title": "The Best LinkedIn Growth Strategy For 2025 (Full Course)",
+      "creator": "Neil Patel",
+      "url": "https://www.youtube.com/watch?v=zBlvV0W4bDc",
+      "views": "245K",
+      "likes": "7.6K",
+      "subscribers": "1.57M"
+    },
+    {
+      "title": "How I write LinkedIn Posts that get 100,000+ views",
+      "creator": "Pierre Herubel",
+      "url": "https://www.youtube.com/watch?v=i-YDUfx84f8",
+      "views": "129K",
+      "likes": "4.2K",
+      "subscribers": "11.2K"
+    },
+    {
+      "title": "Let Me Fix Your LinkedIn Strategy in 12 Minutes",
+      "creator": "Lara Acosta",
+      "url": "https://www.youtube.com/watch?v=r7nnmWBTHUk",
+      "views": "N/A",
+      "likes": "N/A",
+      "subscribers": "N/A"
+    }
+  ],
+  "algorithm_rules_2025_2026": {
+    "summary": "LinkedIn 2026 runs on an Interest Graph (not Social Graph). It matches content to TOPIC interest, not connections. Niche authority + dwell time + saves + meaningful comments are the top signals. External links, AI-sounding content, and engagement bait are suppressed.",
+    "key_changes": [
+      "LinkedIn now prioritizes 'knowledge and advice' content over generic motivational posts",
+      "Niche content gets pushed to the RIGHT audience, not just the BIGGEST audience",
+      "External links are suppressed \u00e2\u20ac\u201d keep content native to LinkedIn",
+      "Photos outperform videos on LinkedIn (opposite of Instagram/TikTok)",
+      "Text-only posts and text + single image posts get the most organic reach",
+      "Comments are weighted 2x+ MORE than reactions for algorithmic boost",
+      "Saves (bookmarks) are now the #1 quality signal \u00e2\u20ac\u201d even above comments",
+      "The algorithm now detects and penalizes AI-generated content patterns",
+      "Interest Graph means your content reaches people interested in your TOPIC, not just your connections",
+      "Bridge behavior (funneling users to first comment for links) is increasingly detected and penalized",
+      "First 90 minutes after posting determine the post's trajectory",
+      "Posting 3-5 times per week is optimal (daily can hurt if quality drops)",
+      "The algorithm looks at 'dwell time' \u00e2\u20ac\u201d how long someone spends reading your post"
+    ],
+    "what_gets_suppressed": [
+      "Posts with external links (put links in comments instead)",
+      "Generic motivational quotes without substance",
+      "Engagement bait ('like if you agree', 'tag someone who...')",
+      "Posts that look AI-generated (perfect formatting, generic phrases, robotic repetition)",
+      "Bridge behavior \u00e2\u20ac\u201d explicitly funneling users to first comment for a link",
+      "Engagement pods \u00e2\u20ac\u201d LinkedIn's 2026 AI detection can shadowban accounts",
+      "Identical/near-identical content posted repeatedly",
+      "Posts with too many hashtags (max 3-5)",
+      "Content that gets ignored in the first 90 minutes"
+    ],
+    "what_gets_amplified": [
+      "Posts that spark genuine conversation in comments",
+      "Native content (no outbound links in the post body)",
+      "Niche expertise posts that attract a specific professional audience",
+      "Personal stories with a clear professional takeaway",
+      "Posts where people spend time reading (dwell time)",
+      "Content from accounts that engage authentically with others' posts",
+      "Consistent posters who maintain quality (3-5x/week sweet spot)"
+    ]
+  },
+  "four_best_post_types": {
+    "source": "Diandra Escobar - The 4 Best Post Types to BLOW UP on LinkedIn",
+    "context": "Tested across dozens of clients - founders, executives, B2B brands",
+    "formats": [
+      {
+        "name": "Brandjacking",
+        "description": "Attach your insight to a well-known brand, trend, or company. Borrow their recognition to amplify your message.",
+        "how_it_works": "Reference a recognizable brand/trend as the hook, then pivot to YOUR unique insight about it. The brand's name is the click-magnet.",
+        "example_hook": "Tesla just proved something most SaaS founders keep ignoring.",
+        "key_mechanic": "The Boomerang Effect \u00e2\u20ac\u201d you throw attention at a big brand, and it boomerangs back to YOU because you provided the unique take.",
+        "results": "VP of Creative at Liquid Death engaging on a Brandjacking post"
+      },
+      {
+        "name": "Newsjacking",
+        "description": "Take breaking news or trending topics and add your expert angle within hours of the event.",
+        "how_it_works": "Speed matters. Be one of the first to provide an expert perspective on news your audience cares about.",
+        "example_hook": "Google I/O just announced [X]. Here's what no one is talking about.",
+        "results": "208,000 impressions from a single Newsjacking post"
+      },
+      {
+        "name": "Namejacking",
+        "description": "Reference a well-known person (CEO, founder, thought leader) and react to their statement or idea.",
+        "how_it_works": "Quote or reference someone famous in your industry, then add your own take that either agrees, disagrees, or extends their idea.",
+        "example_hook": "Sam Altman said something last week that most founders missed.",
+        "results": "147,000 impressions when Stephen Bartlett commented on a Namejacking post"
+      },
+      {
+        "name": "Hot Take",
+        "description": "Share a contrarian or bold opinion that challenges conventional wisdom in your niche.",
+        "how_it_works": "State a strong position that some people will disagree with. The disagreement drives comments, which drives the algorithm.",
+        "example_hook": "Unpopular opinion: Most 'AI startups' are just wrappers around ChatGPT.",
+        "results": "390 comments and 300 reposts from one Hot Take post"
+      }
+    ]
+  },
+  "writing_frameworks": {
+    "PASS_framework": {
+      "source": "Lara Acosta",
+      "steps": {
+        "P": "Problem \u00e2\u20ac\u201d Identify the reader's pain point clearly",
+        "A": "Agitate \u00e2\u20ac\u201d Make them feel the urgency of the problem",
+        "S": "Solution \u00e2\u20ac\u201d Introduce your perspective/approach/mechanism",
+        "S2": "Summarize \u00e2\u20ac\u201d Key takeaway or CTA"
+      },
+      "best_for": "Educational posts, how-to content, product insights"
+    },
+    "SLAY_framework": {
+      "source": "Lara Acosta",
+      "steps": {
+        "S": "Story \u00e2\u20ac\u201d Hook them with a personal narrative",
+        "L": "Lesson \u00e2\u20ac\u201d Share one practical, clear insight",
+        "A": "Action \u00e2\u20ac\u201d Tell them exactly what to do",
+        "Y": "Yield \u00e2\u20ac\u201d Highlight the expected outcome/results"
+      },
+      "best_for": "Storytelling posts, build-in-public updates, founder lessons"
+    },
+    "pierre_herubel_method": {
+      "source": "Pierre Herubel - 30M views in 365 days",
+      "core_principle": "Get the right idea FIRST, then format well. 80% of a post's success is the idea, 20% is the writing.",
+      "idea_generation": [
+        "Consume niche content daily (newsletters, podcasts, X/Twitter threads)",
+        "Keep an 'idea bank' \u00e2\u20ac\u201d save every interesting insight you encounter",
+        "Reframe existing ideas through YOUR unique lens and experience",
+        "Ask: 'What do I know that most people in my industry don't?'",
+        "Look for 'so you can reuse it' \u00e2\u20ac\u201d take one idea, express it in many formats"
+      ],
+      "writing_rules": [
+        "First 2 lines are EVERYTHING \u00e2\u20ac\u201d they determine if people click 'see more'",
+        "Use short sentences (5-12 words ideal)",
+        "One idea per sentence, one sentence per line",
+        "White space is your friend \u00e2\u20ac\u201d break up text aggressively",
+        "Remove every unnecessary word (edit ruthlessly)",
+        "Read your post out loud \u00e2\u20ac\u201d if you stumble, rewrite",
+        "End with a question or a perspective, never a generic CTA"
+      ]
+    }
+  },
+  "hook_formulas": {
+    "description": "Proven hook patterns that consistently drive 'see more' clicks on LinkedIn",
+    "patterns": [
+      {
+        "name": "Contrarian Statement",
+        "formula": "[Widely accepted belief] is wrong. Here's why.",
+        "examples": [
+          "Most founders are solving the wrong problem.",
+          "Your morning routine doesn't matter. Your systems do.",
+          "Stop building features. Start building distribution."
+        ]
+      },
+      {
+        "name": "Curiosity Gap",
+        "formula": "I [did X] and [unexpected result happened].",
+        "examples": [
+          "I deleted my entire tech stack last week. Revenue went up.",
+          "I stopped posting on LinkedIn for 30 days. Here's what happened.",
+          "I asked 50 founders one question. Same answer every time."
+        ]
+      },
+      {
+        "name": "Pattern Interrupt",
+        "formula": "[Shocking statement]. [Context that makes you want to read more].",
+        "examples": [
+          "I got fired. Best thing that ever happened to my startup.",
+          "Google just made apps irrelevant. And nobody noticed.",
+          "The best code I ever wrote was the code I deleted."
+        ]
+      },
+      {
+        "name": "Direct Authority",
+        "formula": "[Specific number/result]. Here's exactly how.",
+        "examples": [
+          "3 tools I actually use daily. Not hype. Not trendy.",
+          "208,000 impressions from one LinkedIn post. Here's the format.",
+          "We went from 0 to 5,000 users with zero ad spend."
+        ]
+      },
+      {
+        "name": "Question Hook",
+        "formula": "Why do [most people] [do X] when [Y is clearly better]?",
+        "examples": [
+          "Why do most developers still build like it's 2020?",
+          "Why are founders still chasing features over distribution?",
+          "Why does nobody talk about the hardest part of building?"
+        ]
+      },
+      {
+        "name": "Newsjack Hook",
+        "formula": "[Company/Person] just [did something]. [Your hot take in 1 line].",
+        "examples": [
+          "Google just shipped something that changes everything for builders.",
+          "Sam Altman dropped a blog post. The real message is between the lines.",
+          "Claude just became a creative control center. Here's why that matters."
+        ]
+      }
+    ]
+  },
+  "sergebulaev_v3_reference": {
+    "description": "V3 hook formulas (F1-F20) from sergebulaev/linkedin-skills reference library. Parallel to Ganesh's H1-H21 tuned set; do not delete existing hooks.",
+    "goal_first_picker": "Select hook formula based on post goal: F1-F5 for data/posts, F6-F10 for hot takes, F11-F15 for stories, F16-F20 for brandjacking/newsjacking",
+    "reach_caveats_2026": {
+      "external_links_suppressed": true,
+      "ai_content_penalty": true,
+      "max_hashtags": 3,
+      "optimal_post_length_words": 120,
+      "peak_engagement_ist": "8-10 AM IST, Tue-Thu",
+      "daily_post_cap": 1,
+      "weekday_only": true
+    },
+    "formulas": {
+      "F1": {"name": " shocking_stat", "template": "[Shocking number]% of [audience] [do X]. The real reason is [Y]."},
+      "F2": {"name": "contrarian_flip", "template": "Everyone says [X]. The opposite happened: [Y]."},
+      "F3": {"name": "personal_curse", "template": "I used to [X] until [Y]. Now I [Z]."},
+      "F4": {"name": "tool_discovery", "template": "I tried [tool] for [time]. Here's what actually happened."},
+      "F5": {"name": "data_headline", "template": "Scanned [N] sources. Here are the [X] [findings]."},
+      "F6": {"name": "founder_journey", "template": "From [start] to [now]: the one thing that changed everything."},
+      "F7": {"name": "vibe_tradeoff", "template": "Vibe coding vs traditional dev: why [X] matters more than [Y]."},
+      "F8": {"name": "security_paranoid", "template": "I spent [time] hardening security. Here's what I learned."},
+      "F9": {"name": "pwa_vs_native", "template": "PWA over native app: the builder's realistic choice."},
+      "F10": {"name": "campus_infrastructure", "template": "Building campus OS for [audience]: real metrics."},
+      "F11": {"name": "brandjacking_intro", "template": "[Brand] just did [X]. Here's what founders should really note."},
+      "F12": {"name": "namejacking_insight", "template": "[Person] said [X]. The angle nobody's talking about: [Y]."},
+      "F13": {"name": "hot_take_contrarian", "template": "Unpopular opinion: [X] is actually [Y], not [Z]."},
+      "F14": {"name": "mv p_val", "template": "% of MVPs fail post-launch. Here's the #1 reason why."},
+      "F15": {"name": "skill_gap_report", "template": "What Indian founders actually need vs what colleges teach."},
+      "F16": {"name": "brandjacking_pivot", "template": "Attach your insight to [Brand]: the boomerang effect."},
+      "F17": {"name": "newsjack_urgent", "template": "[Company] just announced [X]. Here's the builder's angle."},
+      "F18": {"name": "data_comparison", "template": "Side-by-side: [Option A] vs [Option B] — the numbers don't lie."},
+      "F19": {"name": "first_person_brutal", "template": "I built this. It failed these 3 ways. Here's how I fixed it."},
+      "F20": {"name": "campus_ecosystem_snapshot", "template": "One week in the life of a campus founder: metrics that matter."}
+    }
+  },
+  "content_strategy": {
+    "unique_mechanism": {
+      "source": "Lara Acosta",
+      "definition": "A named system or process that solves a specific problem \u00e2\u20ac\u201d becomes your signature framework",
+      "purpose": "Tells audience WHAT you do, WHO you do it for, HOW you do it",
+      "ganesh_application": "Ganesh could develop 'The Campus OS Playbook' or 'The Builder's Validation Framework' as his unique mechanism"
+    },
+    "5_posts_from_1_idea": {
+      "source": "Lara Acosta",
+      "method": "Transform one core idea into 5 different post types",
+      "types": [
+        "Educational \u00e2\u20ac\u201d How-to guide explaining the concept",
+        "Case Study \u00e2\u20ac\u201d Real results/proof showing it works",
+        "Story \u00e2\u20ac\u201d Personal narrative behind the idea",
+        "Lead Magnet \u00e2\u20ac\u201d Valuable resource offer",
+        "Direct/Sales \u00e2\u20ac\u201d Clear call-to-action"
+      ]
+    },
+    "content_pillars_for_ganesh": [
+      {
+        "pillar": "Build in Public",
+        "angle": "Real updates from Scollab, Buildtrix, clstr.in \u00e2\u20ac\u201d metrics, failures, decisions",
+        "post_types": [
+          "Story",
+          "Case Study",
+          "Hot Take"
+        ]
+      },
+      {
+        "pillar": "AI-Enabled Building",
+        "angle": "How AI tools change the way founders ship \u00e2\u20ac\u201d practical, not theoretical",
+        "post_types": [
+          "Newsjacking",
+          "Educational",
+          "Brandjacking"
+        ]
+      },
+      {
+        "pillar": "Campus Ecosystem",
+        "angle": "Building infrastructure for Indian college students \u00e2\u20ac\u201d networks, tools, opportunities",
+        "post_types": [
+          "Story",
+          "Educational",
+          "Case Study"
+        ]
+      },
+      {
+        "pillar": "Founder Psychology",
+        "angle": "The mental game of building while in college \u00e2\u20ac\u201d discipline, tradeoffs, resilience",
+        "post_types": [
+          "Story",
+          "Hot Take",
+          "Contrarian"
+        ]
+      },
+      {
+        "pillar": "Design \u00c3\u2014 Engineering",
+        "angle": "Product decisions \u00e2\u20ac\u201d why design-first matters, security, architecture choices",
+        "post_types": [
+          "Educational",
+          "Case Study",
+          "Namejacking"
+        ]
+      }
+    ]
+  },
+  "formatting_rules": {
+    "golden_rules": [
+      "First 2 lines = your hook. They appear before 'see more'. Make them count.",
+      "Max 1-3 sentences per paragraph",
+      "Use line breaks generously (LinkedIn rewards readability)",
+      "Keep total post between 50-200 words for highest engagement",
+      "Longer posts (200-400 words) work for stories and case studies",
+      "Never exceed 400 words \u00e2\u20ac\u201d LinkedIn truncates and people scroll past",
+      "Use numbered lists sparingly \u00e2\u20ac\u201d max 3-5 items",
+      "Bullet points for technical breakdowns only",
+      "No more than 1-2 emojis per post (LinkedIn is professional)",
+      "Hashtags: 2-3 max, at the very end, relevant to topic",
+      "No external links in post body \u00e2\u20ac\u201d put them in first comment",
+      "End with a question to drive comments (comments > reactions for algorithm)"
+    ],
+    "visual_strategy": [
+      "Personal photos > stock photos > AI images > no image",
+      "Selfies and behind-the-scenes photos build trust fastest",
+      "Screenshots of data/results perform well for credibility posts",
+      "Text-only posts often outperform image posts for thought leadership",
+      "Never use generic stock photography \u00e2\u20ac\u201d it kills authenticity",
+      "If using an image, make sure it adds context, not just decoration"
+    ],
+    "master_image_prompt_template": {
+      "description": "Use this template for EVERY LinkedIn post image. Replace the placeholder with a scene matching the post topic.",
+      "template": "A vibrant flat vector illustration of [INSERT YOUR MAIN TOPIC/SCENE HERE]. The art style is quirky modern editorial with thin, uniform black outlines, and bright, highly saturated solid colors with no gradients. The characters have exaggerated proportions, rosy cheeks, dot eyes, and diverse appearances wearing fun patterned clothing. The composition is divided into a grid of multiple square and rectangular panels, each with a different brightly colored background. Crucially, the characters and objects are breaking the fourth wall by reaching across the panel borders to interact directly with the people and objects in the neighboring frames. Playful, dynamic, detailed.",
+      "scene_examples": {
+        "google_io": "developers excitedly watching AI agents control their phones and computers",
+        "build_in_public": "a young founder coding late at night surrounded by sticky notes and coffee cups",
+        "security": "engineers frantically patching servers while hackers try to break in",
+        "campus_tech": "college students building apps in a vibrant co-working space",
+        "ai_tools": "a team of diverse tech workers surrounded by floating AI assistants helping them code",
+        "startup_failure": "a founder picking themselves up after a spectacular product crash"
+      }
+    }
+  },
+  "posting_cadence": {
+    "optimal_frequency": "3-5 times per week (Mon-Fri daily if quality can be maintained)",
+    "best_times": "Weekday mornings 8-10 AM IST, Tuesday-Thursday peak engagement, 10AM-12PM secondary window",
+    "consistency_rule": "A sustainable 3x/week beats an unsustainable daily schedule",
+    "quality_over_quantity": "One great post > three mediocre posts",
+    "rest_days": "Take weekends off \u00e2\u20ac\u201d LinkedIn engagement drops significantly Sat/Sun"
+  },
+  "engagement_strategy": {
+    "before_posting": [
+      "Spend 10-15 minutes engaging with others' posts BEFORE publishing yours",
+      "Leave thoughtful comments (3+ sentences) on posts in your niche",
+      "This 'warms up' the algorithm and puts your profile in circulation"
+    ],
+    "after_posting": [
+      "Reply to EVERY comment within the first 90 minutes",
+      "Ask follow-up questions to commenters to keep the thread going",
+      "The first 90 minutes determine if the algorithm pushes your post wider",
+      "Pin the best/most insightful comment if LinkedIn allows it"
+    ],
+    "comment_strategy": [
+      "Comments on other people's posts are a growth engine",
+      "Treat every comment as a mini-post \u00e2\u20ac\u201d add value, don't just agree",
+      "Comment on posts from people 1-2 levels above your audience size",
+      "Avoid generic comments ('Great post!', 'Love this!')"
+    ]
+  },
+  "common_mistakes": [
+    "Posting external links directly (always put in comments — eordax rule)",
+    "Writing in AI voice (robotic, overly structured, generic)",
+    "Posting without a clear hook — most people never click 'see more'",
+    "Writing walls of text with no spacing or visual breaks",
+    "Being generic — LinkedIn rewards niche expertise, not broad advice",
+    "Posting inconsistently — algorithm rewards consistent creators",
+    "Ignoring comments — replying drives algorithmic push",
+    "Using too many hashtags (MAX 3, ideally 1-2 like eordax)",
+    "Copying trending formats without adding your own perspective",
+    "Posting motivational fluff without actionable insight",
+    "100% single-niche feed like Ghadeer — rotate across topic families",
+    "Zero personal/human content — at least 1 personal post per 5",
+    "Same hook opener pattern repeated (max 2x in 10 posts)",
+    "Follow/Repost/Save CTA footer (Ghadeer mistake) — use genuine questions",
+    "Same joke structure repeated like Rishabh's ChatGPT memes",
+    "Over-emoji decoration (🚀🔥💡✨ — use max 2-3 as punctuation)",
+    "Ending with generic 'Thoughts?' — ask specific questions instead",
+    "Posting without fresh research — must search_web for latest trends first",
+    "Same format every post — use 3+ formats per 7 posts (image, text, video, carousel)"
+  ],
+  "ganesh_specific_adaptations": {
+    "voice_calibration": "Ganesh's voice is sharp, direct, slightly informal, builder-focused. Not a marketer. Not a motivational speaker. A 21-year-old founder who ships things.",
+    "newsjacking_opportunity": "AI/tech news drops daily. Ganesh can newsjack Google, OpenAI, Anthropic announcements through his builder lens \u00e2\u20ac\u201d how does this affect founders shipping MVPs?",
+    "brandjacking_opportunity": "Reference well-known startups (Y Combinator, Stripe, Notion) and connect their decisions to lessons for campus builders.",
+    "hot_take_angle": "Ganesh has genuine contrarian views (vibe coding tradeoffs, security while shipping fast, PWA over native apps) \u00e2\u20ac\u201d these are natural hot takes.",
+    "story_bank": "Build from real experiences: Supabase outage response, CIC I3 Conclave, building clstr.in, leading 16-person design team.",
+    "repurposing_rule": "When repurposing Instagram content, always filter through: 'How would a 21-year-old founder building campus infrastructure react to this news?' \u00e2\u20ac\u201d that's the LinkedIn angle."
+  },
+  "isha_singh_growth_system": {
+    "follower_acquisition_loop": "Drive top-of-funnel reach with viral memes/quote cards, convert with vulnerable milestone posts.",
+    "see_more_bypasser": "Write extremely short captions (1-3 words) to force eyes to the image, drastically increasing image dwell time.",
+    "vulnerable_mile_marker": "Use short, single-sentence paragraphs to build emotional resonance (Before vs After contrast).",
+    "double_tap_schedule": {
+      "Morning_Slot": "10:00 AM - 11:30 AM IST: Relatable industry memes or personal photos for broad reach.",
+      "Evening_Slot": "7:00 PM - 8:30 PM IST: Low-effort, high-engagement quote cards to drive comments."
+    },
+    "new_visual_styles": [
+      "Style 1: Twitter/X-Style Quote Cards (Dev-Designer focus)",
+      "Style 2: Personal-Brand Memes (Office/Building struggles)",
+      "Style 3: Flork/Illustrated Memes (Tool wars like Canva vs Figma, or Cursor vs Supabase)",
+      "Style 4: Social Proof Collages (Event milestones with layered testimonial screenshots)"
+    ]
+  },
+  "inspiration_profiles_v9": {
+    "scraped_date": "2026-06-22",
+    "profiles": [
+      {
+        "name": "Eduardo Ordax (eordax)",
+        "url": "https://www.linkedin.com/in/eordax/",
+        "followers": "200K+",
+        "avg_reactions": 830,
+        "top_post_reactions": 5177,
+        "content_mix": "40% humor + 30% tool discovery + 20% deep takes + 10% personal",
+        "adopt_strategies": [
+          "Tool discovery posts — find new GitHub repos/tools early, explain WHY not just WHAT",
+          "Links ALWAYS in first comment, never in post body",
+          "Ultra-minimal hashtags (1-2 max, usually just #ai)",
+          "Arrow lists with → for visual flow",
+          "Alert siren 🚨🚨🚨 for breaking discoveries",
+          "Mix formats: image + video + text-only in same week",
+          "Personal voice: 'My 2 cents...', 'I've been playing with it'",
+          "End with genuine question + 👇"
+        ],
+        "avoid_patterns": [
+          "2-3 posts/day volume — too much for Ganesh's stage",
+          "100% AI niche — no personal/campus content",
+          "Some posts are lazy reshares with no original thought",
+          "Sponsored/paid content (Atlassian post)"
+        ]
+      },
+      {
+        "name": "Ghadeer Al-Ruwaishedi",
+        "url": "https://www.linkedin.com/in/ghadeer-al-ruwaishedi/",
+        "followers": "50K+",
+        "avg_reactions": 340,
+        "top_post_reactions": 1184,
+        "content_mix": "60% frameworks + 30% contrarian takes + 10% tips",
+        "adopt_strategies": [
+          "Contrarian flip hooks: 'Everyone says X. The opposite happened.'",
+          "Framework/mental model posts with named concepts",
+          "Data anchoring: cite McKinsey, specific percentages, real numbers",
+          "One sentence per line formatting for mobile readability",
+          "High comment ratio (avg 60+ comments) from discussion-driving questions",
+          "Data escalation pattern: Level 1 → Level 2 → Level 3 → Level 4"
+        ],
+        "avoid_patterns": [
+          "100% AI niche — zero personal stories, zero humor, zero behind-the-scenes",
+          "Same 'Follow/Repost/Save' CTA footer on every post — BANNED",
+          "6 of 11 posts start with 'Everyone says X' — repetitive hook",
+          "100% image+text format — no variety (no text-only, no video, no carousel)",
+          "Some posts are 300+ words — over-long frameworks lose attention"
+        ]
+      },
+      {
+        "name": "Rishabh Jain",
+        "url": "https://www.linkedin.com/in/rishabh-jain-enris/",
+        "followers": "100K+",
+        "avg_reactions": 630,
+        "top_post_reactions": 1624,
+        "content_mix": "70% memes/humor + 20% career irony + 10% insight",
+        "adopt_strategies": [
+          "Ultra-short humor posts (≤50 words) — let the image carry the joke",
+          "Relatable irony: 'the thing you wanted becomes the problem you have'",
+          "Emoji as emotional punctuation (😂 😶 👀) not decoration",
+          "High share/tag behavior from humor posts",
+          "Mix text-only and image formats"
+        ],
+        "avoid_patterns": [
+          "5+ hashtags per post — dilutes reach (MAX 3, ideally 1-2)",
+          "Zero depth — most posts have no learning takeaway",
+          "Repetitive ChatGPT joke structure (3 variations of same joke)",
+          "No build-in-public content — zero founder journey",
+          "No original thought — mostly reshared memes with no personal angle"
+        ]
+      },
+      {
+        "name": "Johnny C. Taylor Jr.",
+        "url": "https://www.linkedin.com/in/johnnyctaylorjr/",
+        "followers": "1M+",
+        "content_mix": "8 pillars × 6 formats × 3 audience levels",
+        "adopt_strategies": [
+          "Multi-pillar content rotation — never stuck in one niche",
+          "Recurring 'Ask HR' column format — creates audience habit",
+          "Multi-audience targeting (executives, workers, students)",
+          "SHRM data/research anchoring for credibility",
+          "Signature series for weekly consistency"
+        ],
+        "avoid_patterns": [
+          "Corporate/institutional tone — too polished for Ganesh's builder voice"
+        ]
+      }
+    ],
+    "weekly_content_cocktail": {
+      "humor_memes": {"posts_per_week": "2-3", "source": "Rishabh + eordax"},
+      "tool_discovery": {"posts_per_week": "1-2", "source": "eordax"},
+      "deep_insight_framework": {"posts_per_week": "1-2", "source": "Ghadeer"},
+      "personal_story_bts": {"posts_per_week": "1", "source": "Johnny C. Taylor Jr."},
+      "hot_take_contrarian": {"posts_per_week": "1", "source": "Ghadeer + eordax"}
+    },
+    "hard_block_anti_patterns": [
+      "100% single-niche feed (rotate across 8 topic families)",
+      "Zero personal content (min 1 personal/story per 5 posts)",
+      "Zero humor (min 1 humor/meme per 5 posts)",
+      "Same format every post (min 3 formats in 7 posts)",
+      "Same hook opener more than 2x in 10 posts",
+      "Follow/Repost/Save CTA footer (end with genuine question)",
+      "5+ hashtags (MAX 3, ideally 1-2)",
+      "Same joke structure repeated (context fingerprint dedup for humor)",
+      "Links in post body (ALWAYS put in first comment)",
+      "Over-emoji decoration (max 2-3 emojis, use as punctuation)",
+      "Generic 'Thoughts?' or 'Agree?' endings (ask SPECIFIC questions)",
+      "Copying exact post structure from inspiration profiles (adapt PATTERN only)",
+      "Posting without fresh research (must search_web first for latest trends)"
+    ]
+  }
+}

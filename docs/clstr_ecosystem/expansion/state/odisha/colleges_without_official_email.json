@@ -1,0 +1,19 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Bhubaneswar",
+      "state_or_union_territory": "Odisha",
+      "college_name": "Gandhi Institute for Technological Advancement"
+    },
+    {
+      "city": "Bhubaneswar",
+      "state_or_union_territory": "Odisha",
+      "college_name": "Silicon Institute of Technology"
+    },
+    {
+      "city": "Bhubaneswar",
+      "state_or_union_territory": "Odisha",
+      "college_name": "C.V. Raman Global University"
+    }
+  ]
+}

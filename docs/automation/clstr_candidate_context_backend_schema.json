@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.0.0",
+  "service": "clstr-hiring-context-store",
+  "description": "Backend schema for storing candidate context on every inbound/outbound message and state change.",
+  "entities": {
+    "candidate": {
+      "primary_key": "candidate_id",
+      "fields": {
+        "candidate_id": "string",
+        "full_name": "string",
+        "linkedin_url": "string",
+        "college_name": "string",
+        "graduation_year": "string",
+        "headline": "string",
+        "selected_role": "string",
+        "score_total": "number",
+        "score_breakdown": "object",
+        "current_stage": "string",
+        "state": "string",
+        "owner_contact": "string",
+        "application_link": "string",
+        "created_at_utc": "string",
+        "updated_at_utc": "string"
+      },
+      "indexes": [
+        "linkedin_url_unique",
+        "selected_role",
+        "current_stage",
+        "state",
+        "updated_at_utc"
+      ]
+    },
+    "candidate_event": {
+      "primary_key": "event_id",
+      "fields": {
+        "event_id": "string",
+        "candidate_id": "string",
+        "event_type": "string",
+        "direction": "string",
+        "channel": "string",
+        "actor": "string",
+        "message_text": "string",
+        "message_hash": "string",
+        "event_timestamp_utc": "string",
+        "stage_before": "string",
+        "stage_after": "string",
+        "state_after_event": "string",
+        "idempotency_key": "string",
+        "metadata": "object"
+      },
+      "indexes": [
+        "candidate_id_event_timestamp_desc",
+        "event_type",
+        "idempotency_key_unique"
+      ]
+    },
+    "candidate_context_snapshot": {
+      "primary_key": "snapshot_id",
+      "fields": {
+        "snapshot_id": "string",
+        "candidate_id": "string",
+        "snapshot_timestamp_utc": "string",
+        "summary": "string",
+        "last_inbound_message": "string",
+        "last_outbound_message": "string",
+        "last_10_events": "array",
+        "pending_follow_up": "boolean",
+        "next_action": "string",
+        "risk_flags": "array"
+      },
+      "indexes": [
+        "candidate_id_snapshot_timestamp_desc"
+      ]
+    }
+  },
+  "api_contract": {
+    "upsert_candidate": {
+      "method": "POST",
+      "path": "/api/candidates/upsert",
+      "required_body_fields": [
+        "candidate_id",
+        "full_name",
+        "linkedin_url",
+        "selected_role",
+        "current_stage",
+        "state"
+      ]
+    },
+    "append_event": {
+      "method": "POST",
+      "path": "/api/candidates/{candidate_id}/events",
+      "required_body_fields": [
+        "event_type",
+        "direction",
+        "channel",
+        "actor",
+        "message_text",
+        "event_timestamp_utc",
+        "idempotency_key"
+      ]
+    },
+    "get_context": {
+      "method": "GET",
+      "path": "/api/candidates/{candidate_id}/context",
+      "response_fields": [
+        "candidate_profile",
+        "current_stage",
+        "selected_role",
+        "score_breakdown",
+        "last_10_events",
+        "pending_follow_up",
+        "next_action"
+      ]
+    },
+    "update_stage": {
+      "method": "POST",
+      "path": "/api/candidates/{candidate_id}/stage",
+      "required_body_fields": [
+        "stage_after",
+        "state_after_event",
+        "event_timestamp_utc"
+      ]
+    }
+  },
+  "runtime_rules": {
+    "before_sending_reply": [
+      "call get_context",
+      "verify selected_role exists",
+      "verify latest inbound event is stored",
+      "generate reply using context"
+    ],
+    "after_reading_message": [
+      "append message_read event",
+      "refresh candidate context snapshot"
+    ],
+    "after_sending_message": [
+      "append message_sent event",
+      "update stage/state if needed",
+      "refresh candidate context snapshot"
+    ]
+  },
+  "security": {
+    "pii": [
+      "phone",
+      "email"
+    ],
+    "requirements": [
+      "store timestamps in UTC",
+      "use auth token for API calls",
+      "avoid logging secrets in plaintext"
+    ]
+  }
+}

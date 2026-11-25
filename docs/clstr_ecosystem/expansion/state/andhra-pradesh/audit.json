@@ -1,0 +1,3923 @@
+[
+  {
+    "college_name": "Dr. Lankapalli Bullayya College of Engineering",
+    "alternative_names": [
+      "Bullayya Engineering College",
+      "DLBCE Visakhapatnam"
+    ],
+    "aishe_code": "C-24018",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "52-14-75, Survey No. 44, National Highway 16, New Resapuvanipalem, Visakhapatnam - 530013",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Andhra University",
+    "official_website": "http://www.bullayyacollege.info",
+    "emails_found": [
+      "bullayyaengg@yahoo.com",
+      "principal@bullayyacollege.info"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "bullayyacollege.info"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in",
+      "http://www.bullayyacollege.info/contact"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official admissions portal cross-referenced with domain contact inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "College uses yahoo.com email for official communication and has no institution-owned email system for students.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2800,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 17.5,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 87.0,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Chaitanya Engineering College",
+    "alternative_names": [
+      "CEC Vizag"
+    ],
+    "aishe_code": "C-24021",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Chaitanya Valley, Kommadi, Madhurawada, Visakhapatnam - 530048",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.cecvzp.org",
+    "emails_found": [
+      "principal@cecvzp.org",
+      "chaitanyaengg@gmail.com"
+    ],
+    "domains_found": [
+      "cecvzp.org",
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in",
+      "http://www.cecvzp.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET roster & institutional site audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admin and student admissions routed via gmail.com; lacks student email domain infrastructure.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 13.8,
+    "ambassador_adv": 11.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 80.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Sanketika Vidya Parishad Engineering College",
+    "alternative_names": [
+      "SVPEC Visakhapatnam"
+    ],
+    "aishe_code": "C-24045",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Behind Cricket Stadium, PM Palem, Visakhapatnam - 530041",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Andhra University",
+    "official_website": "http://www.svpec.edu.in",
+    "emails_found": [
+      "svpec.vsp@gmail.com",
+      "info@svpec.edu.in"
+    ],
+    "domains_found": [
+      "gmail.com",
+      "svpec.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in",
+      "http://www.svpec.edu.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official university affiliation inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "College uses Gmail for admissions, exams, and principal communication; no student institutional email accounts exist.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2400,
+    "clstr_advantage_score": 10.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 15.0,
+    "ambassador_adv": 10.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 80.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Sai Ganapathi Engineering College",
+    "alternative_names": [
+      "SGEC Vizag"
+    ],
+    "aishe_code": "C-24039",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Gidijala, Anandapuram Mandal, Visakhapatnam - 531173",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.sgec.edu.in",
+    "emails_found": [
+      "saiganapathi.engg@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official APSCHE records",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Primary contact is public Gmail; no email service hosted on domain.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1600,
+    "clstr_advantage_score": 9.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 10.0,
+    "ambassador_adv": 9.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 72.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Viswanadha Institute of Technology and Management",
+    "alternative_names": [
+      "VITAM Visakhapatnam"
+    ],
+    "aishe_code": "C-24052",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Mindivanipalem, Sontyam, Anandapuram, Visakhapatnam - 531173",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.vitam.edu.in",
+    "emails_found": [
+      "vitam_vsp@yahoo.co.in",
+      "vitam.engg@gmail.com"
+    ],
+    "domains_found": [
+      "yahoo.co.in",
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUK Affiliation records audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official records show public yahoo and gmail addresses; no institutional student email accounts.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1800,
+    "clstr_advantage_score": 9.5,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 11.2,
+    "ambassador_adv": 9.5,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 74.2,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Al-Aman College of Engineering",
+    "alternative_names": [
+      "AACE Visakhapatnam"
+    ],
+    "aishe_code": "C-24011",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Aman Nagar, Cantt Board, Bheemunipatnam, Visakhapatnam - 531163",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "",
+    "emails_found": [
+      "alamanengg@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE registry inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "No working standalone website, uses public gmail for all administrative correspondence.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1200,
+    "clstr_advantage_score": 8.5,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.0,
+    "operational_access_score": 3.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 7.5,
+    "ambassador_adv": 8.5,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.0,
+    "op_access": 3.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 68.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Avanthi Institute of Engineering and Technology",
+    "alternative_names": [
+      "AIET Makavarapalem"
+    ],
+    "aishe_code": "C-24016",
+    "district": "Anakapalli",
+    "city": "Anakapalli",
+    "full_address": "Tamaram Village, Makavarapalem Mandal, Narsipatnam Road, Anakapalli - 531113",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.avanthi.edu.in",
+    "emails_found": [
+      "avanthi_engg@yahoo.com",
+      "principal_aiet@avanthi.edu.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "avanthi.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official college website & JNTUK records",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student affairs handled through public email; students do not receive @avanthi.edu.in inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2500,
+    "clstr_advantage_score": 10.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 15.6,
+    "ambassador_adv": 10.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 5.0,
+    "nearby_colleges_score": 6.2,
+    "clstr_expansion_score": 60.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Vizag Institute of Technology",
+    "alternative_names": [
+      "VIT Dakamarri"
+    ],
+    "aishe_code": "C-24054",
+    "district": "Anakapalli",
+    "city": "Anakapalli",
+    "full_address": "Dakamarri, Bheemili Mandal, Anakapalli District - 531162",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.vizaginstitute.edu.in",
+    "emails_found": [
+      "vizag.tech@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE directory audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses gmail exclusively for institution communication; lacks campus mail exchange server.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1500,
+    "clstr_advantage_score": 9.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 9.4,
+    "ambassador_adv": 9.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 5.0,
+    "nearby_colleges_score": 6.2,
+    "clstr_expansion_score": 53.1,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "SRK Institute of Technology",
+    "alternative_names": [
+      "SRKIT Vijayawada"
+    ],
+    "aishe_code": "C-17983",
+    "district": "NTR",
+    "city": "Vijayawada",
+    "full_address": "Enikepadu, Vijayawada, NTR District - 521108",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.srkit.in",
+    "emails_found": [
+      "srkitcollege@gmail.com",
+      "principal@srkit.in"
+    ],
+    "domains_found": [
+      "gmail.com",
+      "srkit.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in",
+      "http://www.srkit.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official contact page inspection and EAPCET registry",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Administrative and placement correspondence conducted through Gmail; no student institutional email.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 11.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 11.0,
+    "nearby_colleges_score": 13.8,
+    "clstr_expansion_score": 80.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Nova College of Engineering and Technology",
+    "alternative_names": [
+      "Nova Engineering College Ibrahimpatnam"
+    ],
+    "aishe_code": "C-17975",
+    "district": "NTR",
+    "city": "Vijayawada",
+    "full_address": "Jafferguda, Ibrahimpatnam, Vijayawada, NTR District - 521456",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.nova.edu.in",
+    "emails_found": [
+      "novacolegeibp@yahoo.com",
+      "principalnova@gmail.com"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE portal verification",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Public yahoo/gmail accounts used for official administrative interactions.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1900,
+    "clstr_advantage_score": 10.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 11.9,
+    "ambassador_adv": 10.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 11.0,
+    "nearby_colleges_score": 13.8,
+    "clstr_expansion_score": 71.7,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Vikas College of Engineering and Technology",
+    "alternative_names": [
+      "VCET Nunna"
+    ],
+    "aishe_code": "C-17992",
+    "district": "NTR",
+    "city": "Vijayawada",
+    "full_address": "Nunna, Vijayawada Rural, NTR District - 521212",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.vikasengg.ac.in",
+    "emails_found": [
+      "vikascet.nunna@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUK affiliation audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official EAPCET contact is Gmail; domain has no student email service configured.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2100,
+    "clstr_advantage_score": 10.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 13.1,
+    "ambassador_adv": 10.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 11.0,
+    "nearby_colleges_score": 13.8,
+    "clstr_expansion_score": 72.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Nimra College of Engineering and Technology",
+    "alternative_names": [
+      "NCET Ibrahimpatnam"
+    ],
+    "aishe_code": "C-17972",
+    "district": "NTR",
+    "city": "Vijayawada",
+    "full_address": "Nimra Nagar, Jupudi, Ibrahimpatnam, NTR District - 521456",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.nimra.edu.in",
+    "emails_found": [
+      "nimraengg@yahoo.co.in",
+      "nimra.principal@gmail.com"
+    ],
+    "domains_found": [
+      "yahoo.co.in",
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official state higher ed records",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo/Gmail for all official institutional correspondence.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 10.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 13.8,
+    "ambassador_adv": 10.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 11.0,
+    "nearby_colleges_score": 13.8,
+    "clstr_expansion_score": 74.1,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "MVR College of Engineering and Technology",
+    "alternative_names": [
+      "MVRCET Paritala"
+    ],
+    "aishe_code": "C-17968",
+    "district": "NTR",
+    "city": "Vijayawada",
+    "full_address": "Beside NH-9, Paritala, Kanchikacherla Mandal, NTR District - 521180",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.mvrcoe.ac.in",
+    "emails_found": [
+      "principal.mvrcoe@gmail.com",
+      "mvrcoe.paritala@yahoo.com"
+    ],
+    "domains_found": [
+      "gmail.com",
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET counseling records",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Domain lacks student mailbox provisioning; uses public email for admin desks.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1800,
+    "clstr_advantage_score": 9.5,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 11.2,
+    "ambassador_adv": 9.5,
+    "youth_eco": 7.5,
+    "dig_adopt": 8.0,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 11.0,
+    "nearby_colleges_score": 13.8,
+    "clstr_expansion_score": 69.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "DJR College of Engineering and Technology",
+    "alternative_names": [
+      "DJRCET Vijayawada"
+    ],
+    "aishe_code": "C-17959",
+    "district": "Krishna",
+    "city": "Machilipatnam",
+    "full_address": "DJR Nagar, Velpur, Gudavalli, Krishna District - 521104",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.djrcet.edu.in",
+    "emails_found": [
+      "djr.principal@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Gmail address registered with university and state council.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1500,
+    "clstr_advantage_score": 8.5,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.0,
+    "pop_score": 9.4,
+    "ambassador_adv": 8.5,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 42.6,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Kallam Haranadhareddy Institute of Technology",
+    "alternative_names": [
+      "KHIT Guntur"
+    ],
+    "aishe_code": "C-18042",
+    "district": "Guntur",
+    "city": "Guntur",
+    "full_address": "NH-5, Chowdavaram, Guntur - 522019",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.khitguntur.ac.in",
+    "emails_found": [
+      "khitguntur@gmail.com",
+      "principal@khitguntur.ac.in"
+    ],
+    "domains_found": [
+      "gmail.com",
+      "khitguntur.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in",
+      "http://www.khitguntur.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official admissions contact check & web inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official admissions, exam branch and student affairs route through khitguntur@gmail.com. No student institutional email provisioning.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2500,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 15.6,
+    "ambassador_adv": 11.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 67.9,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Chalapathi Institute of Engineering and Technology",
+    "alternative_names": [
+      "CIET Lam Guntur"
+    ],
+    "aishe_code": "C-18031",
+    "district": "Guntur",
+    "city": "Guntur",
+    "full_address": "Chalapathi Nagar, Lam, Guntur - 522034",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Acharya Nagarjuna University",
+    "official_website": "http://www.chalapathiengg.ac.in",
+    "emails_found": [
+      "chalapathiengg@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "ANU affiliated colleges roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Gmail address for all official college transactions.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2300,
+    "clstr_advantage_score": 10.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 14.4,
+    "ambassador_adv": 10.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 65.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Chebrolu Engineering College",
+    "alternative_names": [
+      "CHEC Chebrolu"
+    ],
+    "aishe_code": "C-18033",
+    "district": "Guntur",
+    "city": "Guntur",
+    "full_address": "Chebrolu Mandal, Guntur District - 522212",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.chebroluengg.com",
+    "emails_found": [
+      "chebroluengg@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET list",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Public Gmail address used for regulatory listings; no student institutional accounts.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1900,
+    "clstr_advantage_score": 9.5,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 11.9,
+    "ambassador_adv": 9.5,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 60.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Priyadarshini Institute of Technology and Science",
+    "alternative_names": [
+      "PITT Tenali"
+    ],
+    "aishe_code": "C-18053",
+    "district": "Guntur",
+    "city": "Tenali",
+    "full_address": "Near Tenali, Chintalapudi, Guntur District - 522306",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.priyadarshiniengg.ac.in",
+    "emails_found": [
+      "priyadarshini.gnt@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE directory audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and administration conducted through public Gmail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1800,
+    "clstr_advantage_score": 9.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.0,
+    "pop_score": 11.2,
+    "ambassador_adv": 9.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 45.4,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Bapatla Engineering College",
+    "alternative_names": [
+      "BEC Bapatla"
+    ],
+    "aishe_code": "C-18028",
+    "district": "Bapatla",
+    "city": "Bapatla",
+    "full_address": "Bapatla, Bapatla District - 522101",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Acharya Nagarjuna University",
+    "official_website": "http://www.becbapatla.ac.in",
+    "emails_found": [
+      "bec_principal@rediffmail.com",
+      "bec.bapatla@gmail.com"
+    ],
+    "domains_found": [
+      "rediffmail.com",
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in",
+      "http://www.becbapatla.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official university affiliation portal",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Historic college utilizing Rediffmail and Gmail for administrative channels; does not issue student institutional email.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3400,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 21.2,
+    "ambassador_adv": 12.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 61.4,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Chirala Engineering College",
+    "alternative_names": [
+      "CECC Chirala"
+    ],
+    "aishe_code": "C-18035",
+    "district": "Bapatla",
+    "city": "Chirala",
+    "full_address": "Ramapuram Beach Road, Chirala, Bapatla District - 523157",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.cecc.co.in",
+    "emails_found": [
+      "cecc_college@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "EAPCET official database",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for regulatory desk; students lack college-owned email.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1700,
+    "clstr_advantage_score": 8.5,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.0,
+    "pop_score": 10.6,
+    "ambassador_adv": 8.5,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 46.1,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Newton's Institute of Engineering",
+    "alternative_names": [
+      "NIE Macherla"
+    ],
+    "aishe_code": "C-18047",
+    "district": "Palnadu",
+    "city": "Macherla",
+    "full_address": "Alugunurajupally, Macherla, Palnadu District - 522426",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.newtons.edu.in",
+    "emails_found": [
+      "newtonsengg@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET roster & JNTUK directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Gmail for official institution correspondence; students have no institutional email.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1800,
+    "clstr_advantage_score": 8.5,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.0,
+    "operational_access_score": 3.5,
+    "strategic_fit_score": 4.0,
+    "pop_score": 11.2,
+    "ambassador_adv": 8.5,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.0,
+    "op_access": 3.5,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 43.4,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Nalanda Institute of Engineering and Technology",
+    "alternative_names": [
+      "NIET Sattenapalli"
+    ],
+    "aishe_code": "C-18046",
+    "district": "Palnadu",
+    "city": "Sattenapalli",
+    "full_address": "Siddhartha Nagar, Kantepudi, Sattenapalli, Palnadu District - 522438",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.nalanda.edu.in",
+    "emails_found": [
+      "nalanda_sattenapalli@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE directory audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and administration conducted through Yahoo Mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1900,
+    "clstr_advantage_score": 9.0,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.0,
+    "pop_score": 11.9,
+    "ambassador_adv": 9.0,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 45.6,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Sri Venkateswara College of Engineering",
+    "alternative_names": [
+      "SVCE Tirupati"
+    ],
+    "aishe_code": "C-26922",
+    "district": "Tirupati",
+    "city": "Tirupati",
+    "full_address": "Karakambadi Road, Mangalam (P.O.), Tirupati - 517507",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.svct.edu.in",
+    "emails_found": [
+      "svce.tpt@gmail.com",
+      "principal@svct.edu.in"
+    ],
+    "domains_found": [
+      "gmail.com",
+      "svct.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in",
+      "http://www.svct.edu.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET roster & contact page audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student affairs handled through Gmail; no student email domain.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2800,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 17.5,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 62.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Chadalawada Ramanamma Engineering College",
+    "alternative_names": [
+      "CREC Tirupati"
+    ],
+    "aishe_code": "C-26903",
+    "district": "Tirupati",
+    "city": "Tirupati",
+    "full_address": "Chadalawada Nagar, Renigunta Road, Tirupati - 517506",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.crectirupati.com",
+    "emails_found": [
+      "chadalawada_engg@yahoo.com",
+      "principal@crectirupati.com"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "crectirupati.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUA affiliated college inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official correspondence conducted via Yahoo Mail; no student email accounts.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2400,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 15.0,
+    "ambassador_adv": 11.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.0,
+    "op_access": 5.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 58.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Siddharth Institute of Engineering & Technology",
+    "alternative_names": [
+      "SIET Puttur"
+    ],
+    "aishe_code": "C-26920",
+    "district": "Tirupati",
+    "city": "Puttur",
+    "full_address": "Siddharth Nagar, Narayanavanam Road, Puttur, Tirupati District - 517583",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.siddharthgroup.ac.in",
+    "emails_found": [
+      "info.siddharth@gmail.com",
+      "sih_07@yahoo.com"
+    ],
+    "domains_found": [
+      "gmail.com",
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE directory audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Administration and placements operate using Gmail and Yahoo Mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3200,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 20.0,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 59.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Annamacharya Institute of Technology and Sciences",
+    "alternative_names": [
+      "AITS Tirupati"
+    ],
+    "aishe_code": "C-26901",
+    "district": "Tirupati",
+    "city": "Tirupati",
+    "full_address": "Venkatapuram, Karakambadi Post, Renigunta, Tirupati - 517520",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.aits-tpt.edu.in",
+    "emails_found": [
+      "aits.tpt@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET roster",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Primary institutional email is public Gmail; no student inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 10.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 13.8,
+    "ambassador_adv": 10.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 56.1,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Kuppam Engineering College",
+    "alternative_names": [
+      "KEC Kuppam"
+    ],
+    "aishe_code": "C-26910",
+    "district": "Chittoor",
+    "city": "Kuppam",
+    "full_address": "KES Nagar, Kuppam, Chittoor District - 517425",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.kec.ac.in",
+    "emails_found": [
+      "principal@kec.ac.in",
+      "keckuppam@gmail.com"
+    ],
+    "domains_found": [
+      "kec.ac.in",
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUA directory audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Administration uses keckuppam@gmail.com; students lack college-owned email accounts.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1800,
+    "clstr_advantage_score": 9.0,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 3.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 11.2,
+    "ambassador_adv": 9.0,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.5,
+    "op_access": 3.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 44.9,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Kakinada Institute of Engineering & Technology",
+    "alternative_names": [
+      "KIET Korangi"
+    ],
+    "aishe_code": "C-24027",
+    "district": "Kakinada",
+    "city": "Kakinada",
+    "full_address": "Yanam Road, Korangi, Kakinada District - 533461",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.kietgroup.com",
+    "emails_found": [
+      "kietgroup@gmail.com",
+      "principal@kietgroup.com"
+    ],
+    "domains_found": [
+      "gmail.com",
+      "kietgroup.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET roster & contact page audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Gmail; no student domain provisioning.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3000,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 18.8,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 58.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "BVC Engineering College",
+    "alternative_names": [
+      "BVCEC Odalarevu"
+    ],
+    "aishe_code": "C-24019",
+    "district": "Dr. B.R. Ambedkar Konaseema",
+    "city": "Amalapuram",
+    "full_address": "Odalarevu, Allavaram Mandal, Konaseema District - 533210",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.bvcec.org",
+    "emails_found": [
+      "bvc.engg@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUK affiliated colleges roster",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Gmail for official institutional communications; no student email setup.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 9.5,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 13.8,
+    "ambassador_adv": 9.5,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 49.0,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Lenora College of Engineering",
+    "alternative_names": [
+      "LCE Rampachodavaram"
+    ],
+    "aishe_code": "C-24032",
+    "district": "Alluri Sitharama Raju",
+    "city": "Rampachodavaram",
+    "full_address": "Rampachodavaram, Alluri Sitharama Raju District - 533288",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.lce.ac.in",
+    "emails_found": [
+      "lenora_engg@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Public Yahoo email registered with regulatory bodies.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1400,
+    "clstr_advantage_score": 8.0,
+    "youth_ecosystem_score": 6.5,
+    "digital_adoption_score": 7.0,
+    "operational_access_score": 3.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 8.8,
+    "ambassador_adv": 8.0,
+    "youth_eco": 6.5,
+    "dig_adopt": 7.0,
+    "op_access": 3.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 40.0,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "International School of Technology and Sciences for Women",
+    "alternative_names": [
+      "ISTS Rajahmundry"
+    ],
+    "aishe_code": "C-24026",
+    "district": "East Godavari",
+    "city": "Rajahmundry",
+    "full_address": "NH-16, East Gonagudem, Rajanagaram, Rajahmundry - 533294",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.ists.ac.in",
+    "emails_found": [
+      "ists.engg@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET data audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official contacts route via Gmail; no student institutional email accounts.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1900,
+    "clstr_advantage_score": 10.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 11.9,
+    "ambassador_adv": 10.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 49.1,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Santhiram Engineering College",
+    "alternative_names": [
+      "SREC Nandyal"
+    ],
+    "aishe_code": "C-26868",
+    "district": "Nandyal",
+    "city": "Nandyal",
+    "full_address": "NH-18, Nandyal, Nandyal District - 518501",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.srecnandyal.edu.in",
+    "emails_found": [
+      "srec_nandyal@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official JNTUA affiliation roster",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Public Yahoo email registered with regulatory bodies; no student inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 10.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 13.8,
+    "ambassador_adv": 10.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 49.5,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Dr. K.V. Subba Reddy Institute of Technology",
+    "alternative_names": [
+      "KVSRIT Kurnool"
+    ],
+    "aishe_code": "C-26856",
+    "district": "Kurnool",
+    "city": "Kurnool",
+    "full_address": "Opp. Dupadu Railway Station, NH-7, Lakshmipuram Post, Kurnool - 518218",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.drkvsrit.in",
+    "emails_found": [
+      "drkvsr.it@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE directory audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Gmail address for all regulatory and student contact.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2100,
+    "clstr_advantage_score": 10.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 13.1,
+    "ambassador_adv": 10.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 49.3,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "St. Johns College of Engineering and Technology",
+    "alternative_names": [
+      "SJCET Yemmiganur"
+    ],
+    "aishe_code": "C-26873",
+    "district": "Kurnool",
+    "city": "Yemmiganur",
+    "full_address": "Yerrakota, Yemmiganur, Kurnool District - 518360",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.sjcet.ac.in",
+    "emails_found": [
+      "sjcet.yemmiganur@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET list",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses public Gmail; no student domain provisioning.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1600,
+    "clstr_advantage_score": 8.5,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.0,
+    "operational_access_score": 3.5,
+    "strategic_fit_score": 4.0,
+    "pop_score": 10.0,
+    "ambassador_adv": 8.5,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.0,
+    "op_access": 3.5,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 42.2,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Intell Engineering College",
+    "alternative_names": [
+      "IEC Anantapur"
+    ],
+    "aishe_code": "C-26859",
+    "district": "Ananthapuramu",
+    "city": "Anantapur",
+    "full_address": "Akuthotapally, Kalyanadurg Road, Anantapur - 515004",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.intellatp.in",
+    "emails_found": [
+      "intellatp@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUA affiliated college inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and correspondence conducted through Gmail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1800,
+    "clstr_advantage_score": 9.5,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 11.2,
+    "ambassador_adv": 9.5,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 48.7,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "PVKK Institute of Technology",
+    "alternative_names": [
+      "PVKKIT Anantapur"
+    ],
+    "aishe_code": "C-26865",
+    "district": "Ananthapuramu",
+    "city": "Anantapur",
+    "full_address": "Sanapa Road, Rudrampampalli, Anantapur - 515002",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.pvkkit.ac.in",
+    "emails_found": [
+      "pvkkit@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE directory audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Public Gmail registered for all institutional matters.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1900,
+    "clstr_advantage_score": 9.5,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 11.9,
+    "ambassador_adv": 9.5,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 49.4,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "BIT Institute of Technology",
+    "alternative_names": [
+      "BITIT Hindupur"
+    ],
+    "aishe_code": "C-26853",
+    "district": "Sri Sathya Sai",
+    "city": "Hindupur",
+    "full_address": "BIT Knowledge City, B.S. Road, Hindupur, Sri Sathya Sai District - 515201",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.bitit.ac.in",
+    "emails_found": [
+      "bit_hup@yahoo.co.in"
+    ],
+    "domains_found": [
+      "yahoo.co.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET list",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for regulatory desk; students lack college-owned email.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1500,
+    "clstr_advantage_score": 8.5,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.0,
+    "operational_access_score": 3.5,
+    "strategic_fit_score": 4.0,
+    "pop_score": 9.4,
+    "ambassador_adv": 8.5,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.0,
+    "op_access": 3.5,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 41.6,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Narayana Engineering College",
+    "alternative_names": [
+      "NEC Nellore"
+    ],
+    "aishe_code": "C-26890",
+    "district": "Sri Potti Sriramulu Nellore",
+    "city": "Nellore",
+    "full_address": "Narayana Avenue, Muthukur Road, Nellore - 524004",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.necn.ac.in",
+    "emails_found": [
+      "principalnecne@gmail.com",
+      "principal@necn.ac.in"
+    ],
+    "domains_found": [
+      "gmail.com",
+      "necn.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in",
+      "http://www.necn.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official contact page & JNTUA affiliation records",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Principal and student admissions use principalnecne@gmail.com; students receive no @necn.ac.in mailboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3000,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 18.8,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 60.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Audisankara College of Engineering and Technology",
+    "alternative_names": [
+      "ASCET Gudur"
+    ],
+    "aishe_code": "C-26880",
+    "district": "Sri Potti Sriramulu Nellore",
+    "city": "Gudur",
+    "full_address": "NH-5 Bypass Road, Aravinda Nagar, Gudur, Nellore District - 524101",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.audisankara.ac.in",
+    "emails_found": [
+      "aits_gdr@yahoo.co.in"
+    ],
+    "domains_found": [
+      "yahoo.co.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUA affiliation roster",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official administrative correspondence routes via Yahoo Mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2500,
+    "clstr_advantage_score": 10.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 15.6,
+    "ambassador_adv": 10.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 52.8,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Priyadarshini College of Engineering",
+    "alternative_names": [
+      "PCE Nellore"
+    ],
+    "aishe_code": "C-26895",
+    "district": "Sri Potti Sriramulu Nellore",
+    "city": "Nellore",
+    "full_address": "Kanuparthipadu, Nellore - 524004",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.priyadarshininlr.ac.in",
+    "emails_found": [
+      "priyadarshini.nellore@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE directory audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Gmail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1700,
+    "clstr_advantage_score": 9.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.0,
+    "pop_score": 10.6,
+    "ambassador_adv": 9.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 47.1,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "KSRM College of Engineering",
+    "alternative_names": [
+      "KSRMCE Kadapa"
+    ],
+    "aishe_code": "C-26888",
+    "district": "YSR Kadapa",
+    "city": "Kadapa",
+    "full_address": "Yerramasupalli, C.K. Dinne Mandal, Kadapa - 516003",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.ksrmce.ac.in",
+    "emails_found": [
+      "ksrmcerc@gmail.com",
+      "principal@ksrmce.ac.in"
+    ],
+    "domains_found": [
+      "gmail.com",
+      "ksrmce.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in",
+      "http://www.ksrmce.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET roster & contact page audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official communication and student cell uses ksrmcerc@gmail.com; students receive no institutional email inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2900,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 18.1,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 57.3,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Annamacharya Institute of Technology and Sciences",
+    "alternative_names": [
+      "AITS Rajampet"
+    ],
+    "aishe_code": "C-26878",
+    "district": "Annamayya",
+    "city": "Rajampet",
+    "full_address": "New Boyanapalli, Rajampet, Annamayya District - 516126",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.aitsrajampet.ac.in",
+    "emails_found": [
+      "aitsap@yahoo.co.in",
+      "principal@aitsrajampet.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.co.in",
+      "aitsrajampet.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUA affiliation roster",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official administrative correspondence routes via Yahoo Mail; no student email accounts.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3100,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 19.4,
+    "ambassador_adv": 11.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 57.6,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Vaagdevi Institute of Technology and Science",
+    "alternative_names": [
+      "VITS Proddatur"
+    ],
+    "aishe_code": "C-26900",
+    "district": "YSR Kadapa",
+    "city": "Proddatur",
+    "full_address": "Peddasettipalli, Proddatur, Kadapa District - 516360",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Anantapur",
+    "official_website": "http://www.vitspdtr.ac.in",
+    "emails_found": [
+      "vits_pdr@yahoo.co.in"
+    ],
+    "domains_found": [
+      "yahoo.co.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE directory audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Public Yahoo email registered with regulatory bodies.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1600,
+    "clstr_advantage_score": 8.5,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.0,
+    "operational_access_score": 3.5,
+    "strategic_fit_score": 4.0,
+    "pop_score": 10.0,
+    "ambassador_adv": 8.5,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.0,
+    "op_access": 3.5,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 42.2,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Avanthi's St. Theressa Institute of Engineering and Technology",
+    "alternative_names": [
+      "St. Theressa Garividi"
+    ],
+    "aishe_code": "C-24017",
+    "district": "Vizianagaram",
+    "city": "Garividi",
+    "full_address": "Garividi, Cheepurupalli Mandal, Vizianagaram District - 535101",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.st-theressa.edu.in",
+    "emails_found": [
+      "st.theressa@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET list",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Gmail for official institution communication; lacks student email accounts.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1500,
+    "clstr_advantage_score": 8.5,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.0,
+    "operational_access_score": 3.5,
+    "strategic_fit_score": 4.0,
+    "pop_score": 9.4,
+    "ambassador_adv": 8.5,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.0,
+    "op_access": 3.5,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 41.6,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Gokul Group of Institutions",
+    "alternative_names": [
+      "Gokul Engineering College Bobbili"
+    ],
+    "aishe_code": "C-24024",
+    "district": "Vizianagaram",
+    "city": "Bobbili",
+    "full_address": "Piridi, Bobbili, Vizianagaram District - 535558",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.gokulcollege.com",
+    "emails_found": [
+      "gokul_college@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Public Yahoo email registered with regulatory bodies.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1700,
+    "clstr_advantage_score": 8.5,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.0,
+    "operational_access_score": 3.5,
+    "strategic_fit_score": 4.0,
+    "pop_score": 10.6,
+    "ambassador_adv": 8.5,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.0,
+    "op_access": 3.5,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 42.8,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Sri Sivani College of Engineering",
+    "alternative_names": [
+      "SSCE Srikakulam"
+    ],
+    "aishe_code": "C-24046",
+    "district": "Srikakulam",
+    "city": "Srikakulam",
+    "full_address": "Chilakapalem Jn., Etcherla Mandal, Srikakulam - 532402",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.srisivani.com",
+    "emails_found": [
+      "sivanissce@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUK affiliation audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Primary contact is public Gmail; no college email server for students.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1900,
+    "clstr_advantage_score": 9.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 11.9,
+    "ambassador_adv": 9.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 48.9,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Sri Vaishnavi College of Engineering",
+    "alternative_names": [
+      "SVCE Srikakulam"
+    ],
+    "aishe_code": "C-24049",
+    "district": "Srikakulam",
+    "city": "Srikakulam",
+    "full_address": "Singupuram, Srikakulam - 532185",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.svcesrikakulam.org",
+    "emails_found": [
+      "svce.sklm@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET list",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Gmail address for admissions and student interactions.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1400,
+    "clstr_advantage_score": 8.0,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.0,
+    "operational_access_score": 3.5,
+    "strategic_fit_score": 4.0,
+    "pop_score": 8.8,
+    "ambassador_adv": 8.0,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.0,
+    "op_access": 3.5,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 42.8,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Government Degree College, Parvathipuram",
+    "alternative_names": [
+      "GDC Parvathipuram"
+    ],
+    "aishe_code": "C-24075",
+    "district": "Parvathipuram Manyam",
+    "city": "Parvathipuram",
+    "full_address": "Near Old Bus Stand, Parvathipuram, Parvathipuram Manyam District - 535501",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Andhra University",
+    "official_website": "http://gdcparvathipuram.ac.in",
+    "emails_found": [
+      "gdc.parvathipuram@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://apcce.gov.in",
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APCCE official GDC registry audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "College uses Gmail for administration and student admissions; no institutional email service issued to students.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1600,
+    "clstr_advantage_score": 8.0,
+    "youth_ecosystem_score": 6.5,
+    "digital_adoption_score": 7.0,
+    "operational_access_score": 3.5,
+    "strategic_fit_score": 4.0,
+    "pop_score": 10.0,
+    "ambassador_adv": 8.0,
+    "youth_eco": 6.5,
+    "dig_adopt": 7.0,
+    "op_access": 3.5,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 48.0,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Sri Venkateswara Degree & Technical College",
+    "alternative_names": [
+      "SVDTC Parvathipuram"
+    ],
+    "aishe_code": "C-24082",
+    "district": "Parvathipuram Manyam",
+    "city": "Parvathipuram",
+    "full_address": "Bypass Road, Parvathipuram, Parvathipuram Manyam District - 535501",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Andhra University",
+    "official_website": "",
+    "emails_found": [
+      "svdc.pvm@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "OAMDC Andhra University affiliation records",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Gmail address for all regulatory and student communications.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1400,
+    "clstr_advantage_score": 8.0,
+    "youth_ecosystem_score": 6.5,
+    "digital_adoption_score": 7.0,
+    "operational_access_score": 3.5,
+    "strategic_fit_score": 4.0,
+    "pop_score": 8.8,
+    "ambassador_adv": 8.0,
+    "youth_eco": 6.5,
+    "dig_adopt": 7.0,
+    "op_access": 3.5,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 46.8,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "DNR College of Engineering and Technology",
+    "alternative_names": [
+      "DNRCET Bhimavaram"
+    ],
+    "aishe_code": "C-24023",
+    "district": "West Godavari",
+    "city": "Bhimavaram",
+    "full_address": "DNR College Campus, Balusumudi, Bhimavaram - 534202",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.dnrcet.org",
+    "emails_found": [
+      "dnrcet@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET roster",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Gmail; no student inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 10.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 13.8,
+    "ambassador_adv": 10.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 53.8,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Bhimavaram Institute of Engineering and Technology",
+    "alternative_names": [
+      "BIET Pennada"
+    ],
+    "aishe_code": "C-24020",
+    "district": "West Godavari",
+    "city": "Bhimavaram",
+    "full_address": "Pennada, Bhimavaram Mandal, West Godavari - 534243",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.bietbvrm.ac.in",
+    "emails_found": [
+      "biet.bvr@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUK affiliation audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Gmail for official institution communication.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1600,
+    "clstr_advantage_score": 9.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.0,
+    "pop_score": 10.0,
+    "ambassador_adv": 9.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 46.5,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Sir C.R. Reddy College of Engineering",
+    "alternative_names": [
+      "CRRCOE Eluru"
+    ],
+    "aishe_code": "C-24044",
+    "district": "Eluru",
+    "city": "Eluru",
+    "full_address": "Vatluru, Eluru, Eluru District - 534007",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.sircrrengg.ac.in",
+    "emails_found": [
+      "crr_coe@yahoo.co.in",
+      "principal@sircrrengg.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.co.in",
+      "sircrrengg.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in",
+      "http://www.sircrrengg.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET roster & contact page audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for administration; students do not receive @sircrrengg.ac.in mail accounts.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2900,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 18.1,
+    "ambassador_adv": 11.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 56.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "QIS College of Engineering and Technology",
+    "alternative_names": [
+      "QISCET Ongole"
+    ],
+    "aishe_code": "C-18055",
+    "district": "Prakasam",
+    "city": "Ongole",
+    "full_address": "Vengamukkapalem, Pondur Road, Ongole - 523272",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.qiscet.edu.in",
+    "emails_found": [
+      "qiscet@gmail.com",
+      "principal@qiscet.edu.in"
+    ],
+    "domains_found": [
+      "gmail.com",
+      "qiscet.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET roster & contact page audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Gmail; no student inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3200,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 20.0,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 64.3,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "RISE Krishna Sai Gandhi Group of Institutions",
+    "alternative_names": [
+      "RISE Ongole"
+    ],
+    "aishe_code": "C-18057",
+    "district": "Prakasam",
+    "city": "Ongole",
+    "full_address": "NH-5, Valluru, Ongole, Prakasam District - 523272",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.risekrishnasaigandhi.edu.in",
+    "emails_found": [
+      "rise_gandhi@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "APSCHE directory audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official administrative correspondence routes via Yahoo Mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2100,
+    "clstr_advantage_score": 10.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 13.1,
+    "ambassador_adv": 10.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 53.4,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "PACE Institute of Technology and Sciences",
+    "alternative_names": [
+      "PACE Ongole"
+    ],
+    "aishe_code": "C-18049",
+    "district": "Prakasam",
+    "city": "Ongole",
+    "full_address": "NH-5, Near Valluramma Temple, Ongole - 523272",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.pace.ac.in",
+    "emails_found": [
+      "pace_engg@yahoo.com",
+      "principal@pace.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "pace.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAPCET list",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for regulatory contact; students lack college-owned email.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2800,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 17.5,
+    "ambassador_adv": 11.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 60.3,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "St. Ann's College of Engineering and Technology",
+    "alternative_names": [
+      "SACET Chirala"
+    ],
+    "aishe_code": "C-18063",
+    "district": "Bapatla",
+    "city": "Chirala",
+    "full_address": "Nayunipalli, Vetapalem Mandal, Chirala, Bapatla District - 523187",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "http://www.sacet.ac.in",
+    "emails_found": [
+      "sacet_chirala@yahoo.co.in"
+    ],
+    "domains_found": [
+      "yahoo.co.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUK affiliation audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official EAPCET contact is Yahoo; domain has no student email service configured.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2400,
+    "clstr_advantage_score": 10.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 15.0,
+    "ambassador_adv": 10.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 53.0,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Gayatri Vidya Parishad College of Engineering",
+    "alternative_names": [
+      "GVPCE Autonomous"
+    ],
+    "aishe_code": "C-24022",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Madhurawada, Visakhapatnam - 530048",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "JNTU Kakinada",
+    "official_website": "https://www.gvpce.ac.in",
+    "emails_found": [
+      "principal@gvpce.ac.in"
+    ],
+    "domains_found": [
+      "gvpce.ac.in"
+    ],
+    "domain_classification": "OFFICIAL_COLLEGE_DOMAIN_FOUND",
+    "source_urls": [
+      "https://www.gvpce.ac.in"
+    ],
+    "source_type": "OFFICIAL_COLLEGE_WEBSITE",
+    "verification_date": "2026-09-11",
+    "verification_method": "Domain MX record audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "DISQUALIFIED: Autonomous college issues official @gvpce.ac.in Google Workspace email to students.",
+    "duplicate_status": "EXCLUDED",
+    "student_population": 4200,
+    "pop_score": 25.0,
+    "ambassador_adv": 6.0,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": false,
+    "manual_review_status": "DISQUALIFIED_INSTITUTIONAL_EMAIL_EXISTS"
+  },
+  {
+    "college_name": "RVR & JC College of Engineering",
+    "alternative_names": [
+      "RVR & JC Chowdavaram"
+    ],
+    "aishe_code": "C-18058",
+    "district": "Guntur",
+    "city": "Guntur",
+    "full_address": "Chandramoulipuram, Chowdavaram, Guntur - 522019",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Acharya Nagarjuna University",
+    "official_website": "https://www.rvrjc.ac.in",
+    "emails_found": [
+      "principal@rvrjc.ac.in"
+    ],
+    "domains_found": [
+      "rvrjc.ac.in"
+    ],
+    "domain_classification": "OFFICIAL_COLLEGE_DOMAIN_FOUND",
+    "source_urls": [
+      "https://www.rvrjc.ac.in"
+    ],
+    "source_type": "OFFICIAL_COLLEGE_WEBSITE",
+    "verification_date": "2026-09-11",
+    "verification_method": "Domain MX record audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "DISQUALIFIED: Autonomous institution has active Microsoft 365 @rvrjc.ac.in student domain.",
+    "duplicate_status": "EXCLUDED",
+    "student_population": 4600,
+    "pop_score": 25.0,
+    "ambassador_adv": 6.0,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": false,
+    "manual_review_status": "DISQUALIFIED_INSTITUTIONAL_EMAIL_EXISTS"
+  },
+  {
+    "college_name": "Avanthi Institute of Engineering and Technology (Tagarapuvalasa)",
+    "alternative_names": [
+      "Avanthi Institute of Engineering and Technology (Tagarapuvalasa)"
+    ],
+    "aishe_code": "C-24017",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Avanthi Institute of Engineering and Technology (Tagarapuvalasa), Visakhapatnam, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.avanthi.edu.in",
+    "emails_found": [
+      "avanthi_engg@yahoo.com",
+      "principal_aiet@avanthi.edu.in"
+    ],
+    "domains_found": [
+      "avanthi.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://www.jntuk.edu.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3400,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 21.2,
+    "ambassador_adv": 14.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 92.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Vignan's Institute of Engineering for Women",
+    "alternative_names": [
+      "Vignan's Institute of Engineering for Women"
+    ],
+    "aishe_code": "C-24050",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Vignan's Institute of Engineering for Women, Visakhapatnam, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Women's Engineering College",
+    "official_website": "https://www.view.edu.in",
+    "emails_found": [
+      "viewprincipal@gmail.com"
+    ],
+    "domains_found": [
+      "view.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://www.view.edu.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2400,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 15.0,
+    "ambassador_adv": 14.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 85.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "BABA Institute of Technology and Sciences",
+    "alternative_names": [
+      "BABA Institute of Technology and Sciences"
+    ],
+    "aishe_code": "C-24012",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "BABA Institute of Technology and Sciences, Visakhapatnam, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.bitsvizag.com",
+    "emails_found": [
+      "principal@bitsvizag.com",
+      "ao@bitsvizag.com"
+    ],
+    "domains_found": [
+      "bitsvizag.com",
+      "bitsvizag.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.bitsvizag.com"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 14.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 86.7,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Sanketika Institute of Technology and Management",
+    "alternative_names": [
+      "Sanketika Institute of Technology and Management"
+    ],
+    "aishe_code": "C-24041",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Sanketika Institute of Technology and Management, Visakhapatnam, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://sanketikajntuk.in",
+    "emails_found": [
+      "sitamcollege6d@gmail.com"
+    ],
+    "domains_found": [
+      "sanketikajntuk.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1800,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 11.2,
+    "ambassador_adv": 13.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 80.7,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Nadimpalli Satyanarayana Raju Institute of Technology",
+    "alternative_names": [
+      "Nadimpalli Satyanarayana Raju Institute of Technology"
+    ],
+    "aishe_code": "C-24031",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Nadimpalli Satyanarayana Raju Institute of Technology, Visakhapatnam, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.nsrit.edu.in",
+    "emails_found": [
+      "office.nsriet@gmail.com",
+      "office@nsrit.edu.in"
+    ],
+    "domains_found": [
+      "nsrit.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2000,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 12.5,
+    "ambassador_adv": 13.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 81.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Gonna Institute of Information Technology and Sciences",
+    "alternative_names": [
+      "Gonna Institute of Information Technology and Sciences"
+    ],
+    "aishe_code": "C-24023",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Gonna Institute of Information Technology and Sciences, Visakhapatnam, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.giits.in",
+    "emails_found": [
+      "giitscollege@gmail.com",
+      "principal@giits.in"
+    ],
+    "domains_found": [
+      "giits.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.giits.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1500,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 9.4,
+    "ambassador_adv": 12.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 76.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Pydah Kaushik College of Engineering",
+    "alternative_names": [
+      "Pydah Kaushik College of Engineering"
+    ],
+    "aishe_code": "C-24036",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Pydah Kaushik College of Engineering, Visakhapatnam, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.pydah.org",
+    "emails_found": [
+      "kaushikcoe@gmail.com"
+    ],
+    "domains_found": [
+      "pydah.org"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1400,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 8.8,
+    "ambassador_adv": 12.5,
+    "youth_eco": 7.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 76.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Avanthi's Research and Technological Academy",
+    "alternative_names": [
+      "Avanthi's Research and Technological Academy"
+    ],
+    "aishe_code": "C-24018",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Avanthi's Research and Technological Academy, Visakhapatnam, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.arta.ac.in",
+    "emails_found": [
+      "hq.principal@gmail.com",
+      "avanthi_arta@yahoo.com"
+    ],
+    "domains_found": [
+      "arta.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.arta.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1900,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 11.9,
+    "ambassador_adv": 14.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 81.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Al-Ameer College of Engineering and Information Technology",
+    "alternative_names": [
+      "Al-Ameer College of Engineering and Information Technology"
+    ],
+    "aishe_code": "C-24010",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "full_address": "Al-Ameer College of Engineering and Information Technology, Visakhapatnam, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Minority Engineering College",
+    "official_website": "http://www.alameer.in",
+    "emails_found": [
+      "mailus@alameer.in",
+      "principal@alameer.in"
+    ],
+    "domains_found": [
+      "alameer.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1600,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 10.0,
+    "ambassador_adv": 12.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 77.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Dadi Institute of Engineering and Technology",
+    "alternative_names": [
+      "Dadi Institute of Engineering and Technology"
+    ],
+    "aishe_code": "C-24020",
+    "district": "Anakapalli",
+    "city": "Anakapalli",
+    "full_address": "Dadi Institute of Engineering and Technology, Anakapalli, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://diet.edu.in",
+    "emails_found": [
+      "principal@diet.edu.in",
+      "admissions@diet.edu.in"
+    ],
+    "domains_found": [
+      "diet.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://diet.edu.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2400,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 15.0,
+    "ambassador_adv": 13.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 5.0,
+    "nearby_colleges_score": 6.2,
+    "clstr_expansion_score": 65.2,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Indo American Institutions Technical Campus",
+    "alternative_names": [
+      "Indo American Institutions Technical Campus"
+    ],
+    "aishe_code": "C-24025",
+    "district": "Anakapalli",
+    "city": "Anakapalli",
+    "full_address": "Indo American Institutions Technical Campus, Anakapalli, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.iaitc.in",
+    "emails_found": [
+      "contact@iaitc.in",
+      "careers@iaitc.in"
+    ],
+    "domains_found": [
+      "iaitc.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1600,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 10.0,
+    "ambassador_adv": 12.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 5.0,
+    "nearby_colleges_score": 6.2,
+    "clstr_expansion_score": 58.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Avanthi Institute of Engineering and Technology (Makavarapalem)",
+    "alternative_names": [
+      "Avanthi Institute of Engineering and Technology (Makavarapalem)"
+    ],
+    "aishe_code": "C-24016",
+    "district": "Anakapalli",
+    "city": "Anakapalli",
+    "full_address": "Avanthi Institute of Engineering and Technology (Makavarapalem), Anakapalli, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.avanthi.edu.in",
+    "emails_found": [
+      "avanthi_engg@yahoo.com",
+      "principal_aiet@avanthi.edu.in"
+    ],
+    "domains_found": [
+      "avanthi.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://www.jntuk.edu.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2500,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 15.6,
+    "ambassador_adv": 13.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 5.0,
+    "nearby_colleges_score": 6.2,
+    "clstr_expansion_score": 66.3,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Dhanekula Institute of Engineering and Technology",
+    "alternative_names": [
+      "Dhanekula Institute of Engineering and Technology"
+    ],
+    "aishe_code": "C-17961",
+    "district": "NTR",
+    "city": "Vijayawada",
+    "full_address": "Dhanekula Institute of Engineering and Technology, Vijayawada, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.diet.ac.in",
+    "emails_found": [
+      "diet2009@rediffmail.com",
+      "diet.principal@gmail.com"
+    ],
+    "domains_found": [
+      "diet.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "http://www.diet.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2800,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 17.5,
+    "ambassador_adv": 13.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 11.0,
+    "nearby_colleges_score": 13.8,
+    "clstr_expansion_score": 82.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "DVR & Dr. HS MIC College of Technology",
+    "alternative_names": [
+      "DVR & Dr. HS MIC College of Technology"
+    ],
+    "aishe_code": "C-17960",
+    "district": "NTR",
+    "city": "Vijayawada",
+    "full_address": "DVR & Dr. HS MIC College of Technology, Vijayawada, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.mictech.edu.in",
+    "emails_found": [
+      "office@mictech.ac.in",
+      "principal@mictech.ac.in"
+    ],
+    "domains_found": [
+      "mictech.edu.in",
+      "mictech.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3000,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 18.8,
+    "ambassador_adv": 13.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 11.0,
+    "nearby_colleges_score": 13.8,
+    "clstr_expansion_score": 83.1,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Potti Sriramulu Chalavadi Mallikarjuna Rao College of Engineering and Technology",
+    "alternative_names": [
+      "Potti Sriramulu Chalavadi Mallikarjuna Rao College of Engineering and Technology"
+    ],
+    "aishe_code": "C-17978",
+    "district": "NTR",
+    "city": "Vijayawada",
+    "full_address": "Potti Sriramulu Chalavadi Mallikarjuna Rao College of Engineering and Technology, Vijayawada, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "https://www.pscmr.ac.in",
+    "emails_found": [
+      "info@pscmr.ac.in",
+      "principal@pscmr.ac.in"
+    ],
+    "domains_found": [
+      "pscmr.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 13.8,
+    "ambassador_adv": 13.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 11.0,
+    "nearby_colleges_score": 13.8,
+    "clstr_expansion_score": 78.1,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Amrita Sai Institute of Science and Technology",
+    "alternative_names": [
+      "Amrita Sai Institute of Science and Technology"
+    ],
+    "aishe_code": "C-17954",
+    "district": "NTR",
+    "city": "Vijayawada",
+    "full_address": "Amrita Sai Institute of Science and Technology, Vijayawada, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://amritasai.edu.in",
+    "emails_found": [
+      "info@amritasai.org.in"
+    ],
+    "domains_found": [
+      "amritasai.edu.in",
+      "amritasai.org.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2400,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 15.0,
+    "ambassador_adv": 12.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 11.0,
+    "nearby_colleges_score": 13.8,
+    "clstr_expansion_score": 78.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Usha Rama College of Engineering and Technology",
+    "alternative_names": [
+      "Usha Rama College of Engineering and Technology"
+    ],
+    "aishe_code": "C-17986",
+    "district": "Krishna",
+    "city": "Vijayawada",
+    "full_address": "Usha Rama College of Engineering and Technology, Vijayawada, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "https://usharama.edu.in",
+    "emails_found": [
+      "info@usharama.in",
+      "principal@usharama.in"
+    ],
+    "domains_found": [
+      "usharama.edu.in",
+      "usharama.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2500,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 15.6,
+    "ambassador_adv": 12.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 11.0,
+    "nearby_colleges_score": 13.8,
+    "clstr_expansion_score": 78.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Andhra Loyola Institute of Engineering and Technology",
+    "alternative_names": [
+      "Andhra Loyola Institute of Engineering and Technology"
+    ],
+    "aishe_code": "C-17955",
+    "district": "NTR",
+    "city": "Vijayawada",
+    "full_address": "Andhra Loyola Institute of Engineering and Technology, Vijayawada, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Minority Engineering College",
+    "official_website": "https://www.aliet.ac.in",
+    "emails_found": [
+      "alietbza@gmail.com",
+      "principal@aliet.ac.in"
+    ],
+    "domains_found": [
+      "aliet.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 13.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 11.0,
+    "nearby_colleges_score": 13.8,
+    "clstr_expansion_score": 81.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Vasireddy Venkatadri Institute of Technology",
+    "alternative_names": [
+      "Vasireddy Venkatadri Institute of Technology"
+    ],
+    "aishe_code": "C-18062",
+    "district": "Guntur",
+    "city": "Guntur",
+    "full_address": "Vasireddy Venkatadri Institute of Technology, Guntur, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.vvitguntur.com",
+    "emails_found": [
+      "vvitguntur@gmail.com",
+      "principal@vvit.net"
+    ],
+    "domains_found": [
+      "vvitguntur.com",
+      "vvit.net"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET",
+      "https://www.vvitguntur.com"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3800,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 23.8,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 81.1,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Narasaraopeta Engineering College",
+    "alternative_names": [
+      "Narasaraopeta Engineering College"
+    ],
+    "aishe_code": "C-18047",
+    "district": "Guntur",
+    "city": "Guntur",
+    "full_address": "Narasaraopeta Engineering College, Guntur, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.nrtec.in",
+    "emails_found": [
+      "nrtec_principal@yahoo.com",
+      "principal@nrtec.in"
+    ],
+    "domains_found": [
+      "nrtec.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3200,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 20.0,
+    "ambassador_adv": 13.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 75.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "KKR & KSR Institute of Technology and Sciences",
+    "alternative_names": [
+      "KKR & KSR Institute of Technology and Sciences"
+    ],
+    "aishe_code": "C-18043",
+    "district": "Guntur",
+    "city": "Guntur",
+    "full_address": "KKR & KSR Institute of Technology and Sciences, Guntur, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.kitsguntur.ac.in",
+    "emails_found": [
+      "kitsguntur@gmail.com"
+    ],
+    "domains_found": [
+      "kitsguntur.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 13.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 72.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Tirumala Engineering College",
+    "alternative_names": [
+      "Tirumala Engineering College"
+    ],
+    "aishe_code": "C-18060",
+    "district": "Guntur",
+    "city": "Guntur",
+    "full_address": "Tirumala Engineering College, Guntur, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.tecn.ac.in",
+    "emails_found": [
+      "tecn99@gmail.com"
+    ],
+    "domains_found": [
+      "tecn.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 13.8,
+    "ambassador_adv": 12.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 68.1,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Government Degree & Engineering Extension Campus, Parvathipuram",
+    "alternative_names": [
+      "Government Degree & Engineering Extension Campus, Parvathipuram"
+    ],
+    "aishe_code": "C-24075",
+    "district": "Parvathipuram Manyam",
+    "city": "Parvathipuram",
+    "full_address": "Government Degree & Engineering Extension Campus, Parvathipuram, Parvathipuram, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Government Higher Education College",
+    "official_website": "http://gdcparvathipuram.ac.in",
+    "emails_found": [
+      "gdc.parvathipuram@gmail.com"
+    ],
+    "domains_found": [
+      "gdcparvathipuram.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://apcce.gov.in",
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1600,
+    "clstr_advantage_score": 10.0,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 10.0,
+    "ambassador_adv": 10.0,
+    "youth_eco": 7.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 54.0,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Sri Venkateswara Technical Institute",
+    "alternative_names": [
+      "Sri Venkateswara Technical Institute"
+    ],
+    "aishe_code": "C-24082",
+    "district": "Parvathipuram Manyam",
+    "city": "Parvathipuram",
+    "full_address": "Sri Venkateswara Technical Institute, Parvathipuram, Andhra Pradesh",
+    "state_or_union_territory": "Andhra Pradesh",
+    "affiliated_university": "Private Technical College",
+    "official_website": "",
+    "emails_found": [
+      "svdc.pvm@gmail.com"
+    ],
+    "domains_found": [],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cets.apsche.ap.gov.in/EAPCET"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1400,
+    "clstr_advantage_score": 10.0,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 8.8,
+    "ambassador_adv": 10.0,
+    "youth_eco": 7.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 52.8,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  }
+]

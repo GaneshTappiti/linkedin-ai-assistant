@@ -1,0 +1,38 @@
+{
+  "captured_at": "2026-04-26T03:13:07Z",
+  "anonymized": true,
+  "anonymization_notes": [
+    "Direct email and private contact fields removed from exports.",
+    "Public profile URL retained as non-sensitive public identifier."
+  ],
+  "source_url": "https://www.linkedin.com/in/ganeshtappiti/",
+  "identity": {
+    "name": "Tappiti (Dev) Ganesh",
+    "pronouns": "He/Him",
+    "headline": "Product Designer & Founder | Aspire Leaders Program Cohort 5 | Unstop Campus Ambassador |",
+    "organization_or_education": "Aspire Institute India · Raghu Engineering College",
+    "location": "Visakhapatnam, Andhra Pradesh, India",
+    "public_profile_url": "www.linkedin.com/in/ganeshtappiti"
+  },
+  "network": {
+    "followers": "1,557",
+    "connections": "500+"
+  },
+  "analytics": {
+    "profile_views": "326",
+    "post_impressions_last_7_days": "1,232",
+    "search_appearances_last_7_days": "33"
+  },
+  "about": "I am Ganesh, a product-first builder and design-minded developer studying CSM at Raghu Engineering College. I enjoy creating practical tools, helping students turn ideas into real projects, and building things that solve problems with or without code. I work with the E-Cell REC team as the Startup Assistance Lead, support student founders, and contribute to the campus startup community. My interests are AI, product design, and early-stage innovation.",
+  "featured_highlights": [
+    "AI for Customer Success: Transforming Customer Relationships (Udemy, Nov 2026)",
+    "AI for Product Management & Innovation (Udemy)",
+    "Agentic Coding: Full-Stack Java Apps with Cursor and Copilot (Udemy)",
+    "Clstr launch and campus-network execution updates",
+    "Hackverse workshop and organizer updates"
+  ],
+  "notes": [
+    "Profile is strong on founder + campus builder positioning.",
+    "Public-facing message emphasizes shipping, execution, and student ecosystem impact."
+  ]
+}

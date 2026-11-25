@@ -1,0 +1,49 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Greater Noida",
+      "state_or_union_territory": "Uttar Pradesh",
+      "college_name": "Galgotias College of Engineering and Technology"
+    },
+    {
+      "city": "Greater Noida",
+      "state_or_union_territory": "Uttar Pradesh",
+      "college_name": "GL Bajaj Institute of Technology and Management"
+    },
+    {
+      "city": "Ghaziabad",
+      "state_or_union_territory": "Uttar Pradesh",
+      "college_name": "IMS Engineering College"
+    },
+    {
+      "city": "Lucknow",
+      "state_or_union_territory": "Uttar Pradesh",
+      "college_name": "Shri Ramswaroop Memorial College of Engineering and Management"
+    },
+    {
+      "city": "Ghaziabad",
+      "state_or_union_territory": "Uttar Pradesh",
+      "college_name": "Ajay Kumar Garg Engineering College"
+    },
+    {
+      "city": "Ghaziabad",
+      "state_or_union_territory": "Uttar Pradesh",
+      "college_name": "KIET Group of Institutions"
+    },
+    {
+      "city": "Ghaziabad",
+      "state_or_union_territory": "Uttar Pradesh",
+      "college_name": "ABES Engineering College"
+    },
+    {
+      "city": "Noida",
+      "state_or_union_territory": "Uttar Pradesh",
+      "college_name": "JSS Academy of Technical Education"
+    },
+    {
+      "city": "Kanpur",
+      "state_or_union_territory": "Uttar Pradesh",
+      "college_name": "Pranveer Singh Institute of Technology"
+    }
+  ]
+}

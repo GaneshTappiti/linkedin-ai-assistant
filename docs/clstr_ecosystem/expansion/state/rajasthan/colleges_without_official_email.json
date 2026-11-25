@@ -1,0 +1,29 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Jaipur",
+      "state_or_union_territory": "Rajasthan",
+      "college_name": "Swami Keshvanand Institute of Technology, Management and Gramothan"
+    },
+    {
+      "city": "Jaipur",
+      "state_or_union_territory": "Rajasthan",
+      "college_name": "Poornima College of Engineering"
+    },
+    {
+      "city": "Jaipur",
+      "state_or_union_territory": "Rajasthan",
+      "college_name": "Swami Keshvanand Institute of Technology"
+    },
+    {
+      "city": "Jaipur",
+      "state_or_union_territory": "Rajasthan",
+      "college_name": "Jaipur Engineering College and Research Centre"
+    },
+    {
+      "city": "Jaipur",
+      "state_or_union_territory": "Rajasthan",
+      "college_name": "Arya College of Engineering and Information Technology"
+    }
+  ]
+}

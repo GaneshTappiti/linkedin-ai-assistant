@@ -1,0 +1,49 @@
+[
+  {
+    "college_name": "Government Engineering College Daman",
+    "alternative_names": [
+      "GEC Daman"
+    ],
+    "aishe_code": "C-6715",
+    "district": "Daman",
+    "city": "Daman",
+    "full_address": "Varkund, Nani Daman, Dadra and Nagar Haveli and Daman and Diu - 396210",
+    "state_or_union_territory": "Dadra and Nagar Haveli and Daman and Diu",
+    "affiliated_university": "Gujarat Technological University",
+    "official_website": "",
+    "emails_found": [
+      "gec_daman@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://gtu.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "GTU affiliated roster audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for regulatory desk; students lack college-owned email.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1100,
+    "clstr_advantage_score": 8.0,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 3.5,
+    "strategic_fit_score": 4.0,
+    "pop_score": 6.9,
+    "ambassador_adv": 8.0,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.5,
+    "op_access": 3.5,
+    "strat_fit": 4.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 39.1,
+    "priority_tier": "TIER_E",
+    "recommended_action": "Long-tail self-serve registration"
+  }
+]

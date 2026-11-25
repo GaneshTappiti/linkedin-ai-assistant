@@ -1,0 +1,14 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Dehradun",
+      "state_or_union_territory": "Uttarakhand",
+      "college_name": "Shivalik College of Engineering"
+    },
+    {
+      "city": "Dehradun",
+      "state_or_union_territory": "Uttarakhand",
+      "college_name": "Tula's Institute"
+    }
+  ]
+}

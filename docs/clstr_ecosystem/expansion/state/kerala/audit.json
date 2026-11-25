@@ -1,0 +1,243 @@
+[
+  {
+    "college_name": "Mar Baselios College of Engineering and Technology",
+    "alternative_names": [
+      "MBCET Trivandrum"
+    ],
+    "aishe_code": "C-43825",
+    "district": "Thiruvananthapuram",
+    "city": "Thiruvananthapuram",
+    "full_address": "Mar Ivanios Vidyanagar, Nalanchira, Thiruvananthapuram - 695015",
+    "state_or_union_territory": "Kerala",
+    "affiliated_university": "APJ Abdul Kalam Technological University",
+    "official_website": "http://www.mbcet.ac.in",
+    "emails_found": [
+      "mbcet_tvm@yahoo.com",
+      "principal@mbcet.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "mbcet.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://ktu.edu.in",
+      "http://www.mbcet.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "KTU affiliated college roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Administration operates via Yahoo Mail; students are not provided institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2900,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 18.1,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 60.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "SCMS School of Engineering and Technology",
+    "alternative_names": [
+      "SSET Karukutty"
+    ],
+    "aishe_code": "C-43845",
+    "district": "Ernakulam",
+    "city": "Kochi",
+    "full_address": "Vidya Nagar, Karukutty, Angamaly, Ernakulam - 683576",
+    "state_or_union_territory": "Kerala",
+    "affiliated_university": "APJ Abdul Kalam Technological University",
+    "official_website": "http://www.scmsgroup.org/sset",
+    "emails_found": [
+      "scms_sett@yahoo.com",
+      "sset@scmsgroup.org"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "scmsgroup.org"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://ktu.edu.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official KTU database audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official communications route via Yahoo Mail; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 11.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 62.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Rajagiri School of Engineering and Technology",
+    "alternative_names": [
+      "Rajagiri School of Engineering and Technology"
+    ],
+    "aishe_code": "C-11756",
+    "district": "Ernakulam",
+    "city": "Kochi",
+    "full_address": "Rajagiri School of Engineering and Technology, Kochi, Kerala",
+    "state_or_union_territory": "Kerala",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.rajagiritech.ac.in",
+    "emails_found": [
+      "office@rajagiritech.edu.in"
+    ],
+    "domains_found": [
+      "rajagiritech.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://www.cee-kerala.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 13.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 69.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Federal Institute of Science and Technology",
+    "alternative_names": [
+      "Federal Institute of Science and Technology"
+    ],
+    "aishe_code": "C-11738",
+    "district": "Ernakulam",
+    "city": "Kochi",
+    "full_address": "Federal Institute of Science and Technology, Kochi, Kerala",
+    "state_or_union_territory": "Kerala",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.fisat.ac.in",
+    "emails_found": [
+      "mail@fisat.ac.in",
+      "principal@fisat.ac.in"
+    ],
+    "domains_found": [
+      "fisat.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://www.cee-kerala.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3400,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 21.2,
+    "ambassador_adv": 13.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 68.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Vidya Academy of Science and Technology",
+    "alternative_names": [
+      "Vidya Academy of Science and Technology"
+    ],
+    "aishe_code": "C-11776",
+    "district": "Thrissur",
+    "city": "Thrissur",
+    "full_address": "Vidya Academy of Science and Technology, Thrissur, Kerala",
+    "state_or_union_territory": "Kerala",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.vidyaacademy.ac.in",
+    "emails_found": [
+      "principal@vidyaacademy.ac.in"
+    ],
+    "domains_found": [
+      "vidyaacademy.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://www.cee-kerala.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2800,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 17.5,
+    "ambassador_adv": 12.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 58.2,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  }
+]

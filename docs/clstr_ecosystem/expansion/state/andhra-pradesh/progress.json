@@ -1,0 +1,13 @@
+{
+  "state_or_union_territory": "Andhra Pradesh",
+  "districts_total": 26,
+  "districts_completed": 26,
+  "cities_or_towns_checked": 34,
+  "colleges_discovered": 82,
+  "colleges_verified": 82,
+  "colleges_with_official_domain": 2,
+  "colleges_without_official_email": 80,
+  "manual_review_count": 0,
+  "city_rankings_completed": 34,
+  "completion_status": "COMPLETED"
+}

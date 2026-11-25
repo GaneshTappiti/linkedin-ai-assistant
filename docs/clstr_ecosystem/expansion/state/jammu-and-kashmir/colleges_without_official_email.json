@@ -1,0 +1,14 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Jammu",
+      "state_or_union_territory": "Jammu and Kashmir",
+      "college_name": "Model Institute of Engineering and Technology"
+    },
+    {
+      "city": "Baramulla",
+      "state_or_union_territory": "Jammu and Kashmir",
+      "college_name": "SSM College of Engineering"
+    }
+  ]
+}

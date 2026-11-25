@@ -1,0 +1,14 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Margao",
+      "state_or_union_territory": "Goa",
+      "college_name": "Don Bosco College of Engineering"
+    },
+    {
+      "city": "Verna",
+      "state_or_union_territory": "Goa",
+      "college_name": "Padre Conceicao College of Engineering"
+    }
+  ]
+}

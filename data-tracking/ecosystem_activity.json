@@ -1,0 +1,201 @@
+{
+  "scanned_at": "2026-11-12T10:52:23.296842",
+  "ecosystem_root": "C:\\Users\\2005g\\Downloads\\clstr_ecosystem",
+  "repositories": {
+    "Ticket-Platform": {
+      "name": "Ticket-Platform",
+      "path": "C:\\Users\\2005g\\Downloads\\clstr_ecosystem\\Ticket-Platform",
+      "exists": true,
+      "live_url": "spark.clstr.in",
+      "tech": "React 19 + TanStack Start (Full-Stack) + Tailwind v4",
+      "role": "Fest ticketing, live HMAC QR passes, gate check-in scanner",
+      "commits": [
+        {
+          "hash": "d52f576",
+          "author": "clstr-network",
+          "date": "2026-11-12",
+          "message": "feat: harden platform resilience, event registration components, and pre-commit test suites"
+        },
+        {
+          "hash": "08f184c",
+          "author": "clstr-network",
+          "date": "2026-11-10",
+          "message": "feat(blog): publish 54 campus event & ticketing blogs with full SEO and GEO crawlability"
+        },
+        {
+          "hash": "96d04cc",
+          "author": "clstr-network",
+          "date": "2026-11-09",
+          "message": "fix(blog): type the post loader data in the detail route"
+        },
+        {
+          "hash": "6f3d7cd",
+          "author": "clstr-network",
+          "date": "2026-11-09",
+          "message": "docs(roadmap): corrected 2026-11 platform roadmap"
+        },
+        {
+          "hash": "4516050",
+          "author": "clstr-network",
+          "date": "2026-11-09",
+          "message": "feat(boxoffice): walk-in cash issuance (T1.1-T1.4)"
+        }
+      ],
+      "tests": {
+        "last_run": {
+          "status": "passed",
+          "failedTests": []
+        },
+        "has_test_report": true,
+        "report_size_bytes": 60940
+      }
+    },
+    "clstr.network": {
+      "name": "clstr.network",
+      "path": "C:\\Users\\2005g\\Downloads\\clstr_ecosystem\\clstr.network",
+      "exists": true,
+      "live_url": "clstr.in",
+      "tech": "React 18 + Vite (SPA) + Tailwind 3.4 + Supabase",
+      "role": "Core social OS, verified campus feeds, messaging, CollabHub",
+      "commits": [
+        {
+          "hash": "008f9d3",
+          "author": "clstr-network",
+          "date": "2026-10-29",
+          "message": "fix(seo): reorder robots.txt user-agent grouping for RFC 9309 compliance"
+        },
+        {
+          "hash": "1552194",
+          "author": "clstr-network",
+          "date": "2026-10-20",
+          "message": "fix(ambassador): eliminate CSS chunk preload failure on campus ambassadors page"
+        },
+        {
+          "hash": "963dd55",
+          "author": "clstr-network",
+          "date": "2026-10-14",
+          "message": "feat(seo): add cross-domain link to vizag community portal in footer"
+        },
+        {
+          "hash": "9338181",
+          "author": "clstr-network",
+          "date": "2026-09-26",
+          "message": "docs: add strategic analysis documentation, PWA assets, and icon generation scripts"
+        },
+        {
+          "hash": "b45e8ae",
+          "author": "clstr-network",
+          "date": "2026-09-24",
+          "message": "feat(ambassador): redesign campus ambassador experience with editorial layout & accessibility enhancements"
+        }
+      ],
+      "tests": {}
+    },
+    "vizag.clstr-website": {
+      "name": "vizag.clstr-website",
+      "path": "C:\\Users\\2005g\\Downloads\\clstr_ecosystem\\vizag.clstr-website",
+      "exists": true,
+      "live_url": "vizag.clstr.in",
+      "tech": "React 19 + TanStack Start (SSR) + Nitro + Tailwind v4",
+      "role": "Offline city community, campus ambassador portal, 19-college directory",
+      "commits": [
+        {
+          "hash": "1bdbd09",
+          "author": "clstr-network",
+          "date": "2026-11-02",
+          "message": "fix(events): update Diwali Party registration form link to new Google Form"
+        },
+        {
+          "hash": "68b95dd",
+          "author": "clstr-network",
+          "date": "2026-10-29",
+          "message": "fix(seo): correct JSON-LD script tag attributes and register diwali event in sitemap"
+        },
+        {
+          "hash": "cb0be56",
+          "author": "clstr-network",
+          "date": "2026-10-29",
+          "message": "feat(events): add Diwali Party 2026 takeover and dedicated ticket page"
+        },
+        {
+          "hash": "c567c65",
+          "author": "clstr-network",
+          "date": "2026-10-26",
+          "message": "feat(blog): publish Andhra Pradesh hackathon teaming playbook"
+        },
+        {
+          "hash": "e567735",
+          "author": "clstr-network",
+          "date": "2026-10-26",
+          "message": "feat(blog): publish 2026 Vizag engineering colleges guide"
+        }
+      ],
+      "tests": {}
+    },
+    "clstr.admin": {
+      "name": "clstr.admin",
+      "path": "C:\\Users\\2005g\\Downloads\\clstr_ecosystem\\clstr.admin",
+      "exists": true,
+      "live_url": "Local only",
+      "tech": "React 18 + Vite (SPA) + Tailwind 3.4",
+      "role": "Admin dashboard, verification queue, domain governance",
+      "commits": [
+        {
+          "hash": "c523ec7",
+          "author": "clstr-network",
+          "date": "2026-10-26",
+          "message": "fix(seo): use Vite client env for Gemini API key and resolve __dirname in config"
+        },
+        {
+          "hash": "06d58e6",
+          "author": "clstr-network",
+          "date": "2026-09-19",
+          "message": "feat(admin): initialize repository and harden build, lint, and typecheck"
+        },
+        {
+          "hash": "b2b6740",
+          "author": "clstr-network",
+          "date": "2026-09-19",
+          "message": "first commit"
+        },
+        {
+          "hash": "d50d933",
+          "author": "Clstr.network",
+          "date": "2026-09-19",
+          "message": "Add first.md with initial contenthey"
+        }
+      ],
+      "tests": {}
+    }
+  },
+  "linkedin_content_opportunities": [
+    {
+      "repo": "Ticket-Platform (spark.clstr.in)",
+      "title": "Why Online Ticketing Fails at College Gates (And What We Built Instead)",
+      "hook": "500 college students showing up to a fest entrance will break any online ticketing app.",
+      "tech_insight": "Walk-in cash issuance with offline HMAC QR generation. Network drops shouldn't stop ticket validation.",
+      "category": "Architecture & Production Hardening"
+    },
+    {
+      "repo": "Ticket-Platform (spark.clstr.in)",
+      "title": "The Programmatic SEO/GEO Engine for 54 Campus Events",
+      "hook": "We published 54 campus event guides in a single sprint to dominate local Google & Perplexity search.",
+      "tech_insight": "Dynamic schema markup, JSON-LD event registries, and programmatic content generation for student discovery.",
+      "category": "Growth & SEO Engineering"
+    },
+    {
+      "repo": "clstr.network (clstr.in)",
+      "title": "Redesigning the Campus Ambassador Experience for Zero Friction",
+      "hook": "If your campus ambassador form looks like a corporate HR portal, college students won't sign up.",
+      "tech_insight": "Editorial layout, instant preview cards, eliminating CSS chunk preload lag for 2G campus Wi-Fi.",
+      "category": "Product Design & UX"
+    },
+    {
+      "repo": "vizag.clstr-website (vizag.clstr.in)",
+      "title": "Cross-Campus Teaming: The Real Bottleneck in Student Hackathons",
+      "hook": "The best developer at Raghu doesn't know the best UI designer at GITAM. We're fixing that across 19 colleges.",
+      "tech_insight": "City-level Guilds (Code, Design, Product) and Circles (Social) connecting 19 Vizag engineering campuses.",
+      "category": "Campus Community & GTM"
+    }
+  ]
+}

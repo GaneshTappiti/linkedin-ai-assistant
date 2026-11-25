@@ -1,0 +1,47 @@
+{
+  "captured_at": "2026-04-26T03:22:28Z",
+  "anonymized": true,
+  "method": "auto-scroll pagination over activity tabs",
+  "source_tabs": [
+    "recent-activity/all",
+    "recent-activity/comments",
+    "recent-activity/videos",
+    "recent-activity/documents"
+  ],
+  "extraction_summary": {
+    "all_tab_items": 14,
+    "comments_tab_items": 8,
+    "videos_tab_items": 0,
+    "documents_tab_items": 0
+  },
+  "all_tab_items": [
+    {"time": "5d", "impressions": 832, "content_preview": "Security update from Vercel and practical incident checklist for builders."},
+    {"time": "1w", "impressions": 509, "content_preview": "Layoffs to AI-enabled entrepreneurship transition guidance."},
+    {"time": "1w", "impressions": 646, "content_preview": "Vibe coding trade-offs and judgment-first execution."},
+    {"time": "3w", "impressions": 1235, "content_preview": "Campus ambassador/operator recruitment for Clstr."},
+    {"time": "1mo", "impressions": 2719, "content_preview": "Clstr featured among top startups in Vizag cluster."},
+    {"time": "1mo", "impressions": 3492, "content_preview": "CIC I3 conclave representation and startup ecosystem networking."},
+    {"time": "1mo", "impressions": 1000, "content_preview": "PWA install flow removing app-store friction for student users."},
+    {"time": "1mo", "impressions": 996, "content_preview": "Supabase outage response and resilience architecture stance."},
+    {"time": "2mo", "impressions": 869, "content_preview": "Forbes vibe coding perspective and execution-first takeaway."},
+    {"time": "2mo", "impressions": 2941, "content_preview": "Clstr launch post with execution-over-perfection message."},
+    {"time": "4mo", "impressions": 1281, "content_preview": "Vibe coding paradox and clarity + execution framing."},
+    {"time": "4mo", "impressions": 1668, "content_preview": "ILLUMINATE 2025 teamwork and entrepreneurship event reflection."},
+    {"time": "4mo", "impressions": 1311, "content_preview": "SPARK innovation program participation and U-Hub pitch."},
+    {"time": "4mo", "impressions": 2867, "content_preview": "IIC Summit YUKTI showcase and student founder representation."}
+  ],
+  "comments_tab_items": [
+    {"time": "2mo", "impressions": 99, "comments": 6, "content_preview": "Rejection-to-redemption story around E-CELL REC selection."},
+    {"time": "2mo", "impressions": 88, "comments": 3, "content_preview": "Comment-thread visibility on Clstr launch and execution message."},
+    {"time": "4mo", "impressions": 60, "comments": 2, "content_preview": "Mindset framing: internal beliefs as primary constraints."},
+    {"time": "5mo", "impressions": 23, "comments": 3, "content_preview": "Product sense and shipping over perfection in AI building."},
+    {"time": "5mo", "impressions": 34, "comments": 5, "content_preview": "Motivational reel response on persistence and mastery."},
+    {"time": "5mo", "impressions": 33, "comments": 4, "content_preview": "DevFest Vizag recap and AI agents workshop reflection."},
+    {"time": "8mo", "impressions": 65, "comments": 1, "content_preview": "Buildtrix.dev mention and community amplification."},
+    {"time": "9mo", "impressions": 18, "comments": 14, "content_preview": "Buildtrix.dev launch details and team execution narrative."}
+  ],
+  "notes": [
+    "This pass surfaced older activity not present in the initial 10-post capture.",
+    "Videos/documents returned empty in this pass; previously captured items remain in linkedin_tab_crawl.json."
+  ]
+}

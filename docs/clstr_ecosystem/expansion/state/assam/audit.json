@@ -1,0 +1,144 @@
+[
+  {
+    "college_name": "Scholar's Institute of Technology and Management",
+    "alternative_names": [
+      "SITM Guwahati"
+    ],
+    "aishe_code": "C-51025",
+    "district": "Kamrup Metropolitan",
+    "city": "Guwahati",
+    "full_address": "Garchuk, Guwahati, Kamrup Metro, Assam - 781035",
+    "state_or_union_territory": "Assam",
+    "affiliated_university": "Assam Science and Technology University",
+    "official_website": "http://www.sitmguwahati.ac.in",
+    "emails_found": [
+      "sitm_guwahati@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://astu.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "ASTU affiliated directory inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "College administration operates via Yahoo Mail; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1900,
+    "clstr_advantage_score": 10.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 11.9,
+    "ambassador_adv": 10.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 54.7,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Girijananda Chowdhury Institute of Management and Technology",
+    "alternative_names": [
+      "Girijananda Chowdhury Institute of Management and Technology"
+    ],
+    "aishe_code": "C-17215",
+    "district": "Kamrup Metropolitan",
+    "city": "Guwahati",
+    "full_address": "Girijananda Chowdhury Institute of Management and Technology, Guwahati, Assam",
+    "state_or_union_territory": "Assam",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.gimt-guwahati.ac.in",
+    "emails_found": [
+      "gimt_guwahati@rediffmail.com",
+      "principal@gimt-guwahati.ac.in"
+    ],
+    "domains_found": [
+      "gimt-guwahati.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://dte.assam.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2400,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 15.0,
+    "ambassador_adv": 12.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 59.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Assam Engineering College",
+    "alternative_names": [
+      "Assam Engineering College"
+    ],
+    "aishe_code": "C-17210",
+    "district": "Kamrup Metropolitan",
+    "city": "Guwahati",
+    "full_address": "Assam Engineering College, Guwahati, Assam",
+    "state_or_union_territory": "Assam",
+    "affiliated_university": "Government Engineering College",
+    "official_website": "http://www.aec.ac.in",
+    "emails_found": [
+      "principal@aec.ac.in"
+    ],
+    "domains_found": [
+      "aec.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://dte.assam.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 12.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 62.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  }
+]

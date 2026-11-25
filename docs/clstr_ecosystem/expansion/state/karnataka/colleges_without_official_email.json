@@ -1,0 +1,64 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Bengaluru",
+      "state_or_union_territory": "Karnataka",
+      "college_name": "Don Bosco Institute of Technology"
+    },
+    {
+      "city": "Bengaluru",
+      "state_or_union_territory": "Karnataka",
+      "college_name": "East West Institute of Technology"
+    },
+    {
+      "city": "Bengaluru",
+      "state_or_union_territory": "Karnataka",
+      "college_name": "City Engineering College"
+    },
+    {
+      "city": "Bengaluru",
+      "state_or_union_territory": "Karnataka",
+      "college_name": "Sambhram Institute of Technology"
+    },
+    {
+      "city": "Mangaluru",
+      "state_or_union_territory": "Karnataka",
+      "college_name": "Canara Engineering College"
+    },
+    {
+      "city": "Bengaluru",
+      "state_or_union_territory": "Karnataka",
+      "college_name": "The Oxford College of Engineering"
+    },
+    {
+      "city": "Bengaluru",
+      "state_or_union_territory": "Karnataka",
+      "college_name": "RNS Institute of Technology"
+    },
+    {
+      "city": "Bengaluru",
+      "state_or_union_territory": "Karnataka",
+      "college_name": "MVJ College of Engineering"
+    },
+    {
+      "city": "Bengaluru",
+      "state_or_union_territory": "Karnataka",
+      "college_name": "Acharya Institute of Technology"
+    },
+    {
+      "city": "Bengaluru",
+      "state_or_union_territory": "Karnataka",
+      "college_name": "Cambridge Institute of Technology"
+    },
+    {
+      "city": "Mysuru",
+      "state_or_union_territory": "Karnataka",
+      "college_name": "Vidyavardhaka College of Engineering"
+    },
+    {
+      "city": "Mangaluru",
+      "state_or_union_territory": "Karnataka",
+      "college_name": "Sahyadri College of Engineering and Management"
+    }
+  ]
+}

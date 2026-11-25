@@ -1,0 +1,24 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Mohali",
+      "state_or_union_territory": "Punjab",
+      "college_name": "Chandigarh Group of Colleges"
+    },
+    {
+      "city": "Mohali",
+      "state_or_union_territory": "Punjab",
+      "college_name": "Chandigarh Group of Colleges (Landran)"
+    },
+    {
+      "city": "Mohali",
+      "state_or_union_territory": "Punjab",
+      "college_name": "Chandigarh Group of Colleges (Jhanjeri)"
+    },
+    {
+      "city": "Ludhiana",
+      "state_or_union_territory": "Punjab",
+      "college_name": "Guru Nanak Dev Engineering College"
+    }
+  ]
+}

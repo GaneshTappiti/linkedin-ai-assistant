@@ -1,0 +1,186 @@
+﻿
+CLSTR VIZAG COMMUNITY
+12-Month Events Plan — v3, Reconciled Community Edition
+
+Supersedes v1 — Reconciled with Master Playbook
+Weekly Layer  ·  Monthly Flagships  ·  No Per-Lead Payments  ·  Full Risk Register
+
+Confidential — Internal Use Only  ·  clstr.in  ·  clstr.network@gmail.com  ·  9441467303
+
+
+00 — What Changed From v1
+
+    • Timeline realigned to the Community Playbook's actual Phase 0 start (informal, this week) — 'Month 1' below now means Month 1 of Phase 1 (ambassador/founding stage), roughly 2 months after real Phase 0 begins, not Month 1 of the whole project.
+    • Removed all per-lead payment/data-monetization language. Sponsors and partners pay for visibility and room access, never for a list of student contacts to take away. This protects the 'we never sell student data' trust claim.
+    • No fixed cash figures anywhere in this document — there is no external funding right now. Any sponsorship or ticket framing below is qualitative (tiered, low/near-zero) rather than a promised number.
+    • Added a full Risk Register — previously missing despite meaningful projected sponsor activity.
+    • Added a weekly/between-events layer — the monthly flagships were previously the only rhythm; nothing filled the 3–4 weeks between them.
+    • Founding Night and the first public event no longer both default to Raghu — venue rotates starting from the first public event.
+    • Event-level KPIs are now explicitly tied to Playbook-level KPIs (Guild/Circle balance, repeat attendance, gender ratio) so both documents read from the same dashboard.
+
+
+01 — The Weekly Layer
+Runs continuously, underneath every month below
+
+    • Rotating Guild micro-prompt (Build/Design/Create/Hustle/Grow take turns)
+    • Rotating Circle prompt/vibe-check (Foodies/Music/Sports/Travel/etc.) — pure fun, zero utility framing
+    • 'Collab of the Week' spotlight — a real cross-college, cross-Guild pairing that formed on CollabHub or at an event
+    • Cost: near-zero. Owned by Community/Collab Lead + Content Manager.
+
+This is what keeps the community alive between the monthly events below — without it, a 12-flagship calendar reads as isolated spikes, not a living community.
+
+
+02 — Month-by-Month Calendar
+
+
+Month 1  Founding Night
+Format
+Invite-only, ambassador network, small group (planning capacity: 60–80 people, subject to venue, safety and permission checks).
+Cost
+Internal only, kept minimal — covered from whatever small seed budget the founder can personally cover.
+Venue
+Raghu is acceptable here since it's explicitly internal/ambassador-only, not public-facing.
+Goal
+Prove the founding cohort feels like something real. Collect first 6–8 testimonial quotes (with written permission) for the website.
+
+
+Month 2  Campus Takeover #1 — First PUBLIC Event
+Format
+Cross-college social hangout, free or near-free, no collab-structure, no agenda pressure — let it breathe.
+Venue
+Rotates to a different college than Month 1 — this is the first public moment and it needs to visibly not be 'a Raghu thing.'
+Co-organiser
+Host college's student union or cultural committee (informal partnership; formal MOU tracked separately).
+Timing
+Sunday daytime preferred — the actual open door for hostel-restricted and fresher students.
+
+
+Month 3  Guild Mixer #1
+Format
+Collab-structured: skill-tag speed matching for the first 45 minutes (badge/card listing Guild + one skill + one need), open mingling after.
+Attendance
+Capped below expected demand — scarcity mechanic, not maximized headcount.
+
+
+Month 4  City Explore / Activity Day
+Format
+Beach cleanup, mixed-college cricket/football, food crawl, or a trek (Simhachalam/Rushikonda). Cross-college teams by design.
+Notes
+Lowest cost, highest natural cross-college bonding — no forced networking required. Source hidden/insider locations from early members, not just RK Beach.
+
+
+Month 5  Creator Night
+Format
+Content creators, video editors, graphic designers, photographers. Showcase + collab pairing (Create Guild + Design Guild).
+Ticket
+Near-zero, low-barrier.
+Sponsor tier
+Local cafe or co-working space as in-kind partner.
+
+
+Month 6  Career Connect 01
+Format
+First company-facing event. Only scheduled once real signup numbers support the pitch — do not force this to land exactly on an unproven milestone; build in a buffer month if needed.
+Sponsor model
+Companies pay flat sponsorship for room access/branding — no per-lead payment for student contact data, ever.
+Pitch to companies
+A curated shortlist from verified, opted-in students who applied for that specific event — not a purchasable database.
+
+
+Month 7  Beach Day / Social Flagship
+Format
+Pure social, larger scale, low structure. This is the 'screenshot and share' moment — prioritize content/photo opportunities over program agenda.
+
+
+Month 8  Overseas Education Fair
+Format
+Verified study-abroad consultancies, flat sponsorship only, no per-lead payment model.
+Notes
+Consultancies pay for a stall and visibility, not a contact list.
+
+
+Month 9  Build Sprint (48–72hr Cross-College Challenge)
+Format
+Teams must span at least 2 Guilds and 2 colleges — this is the direct operationalization of the 'coder + designer + hustler' vision as a forcing function, not a hope.
+
+
+Month 10  Career Connect 02
+Format
+Second company-facing event, scaled up from Month 6 based on what actually worked.
+Notes
+Track and report placement/internship follow-through honestly — if Month 6 produced few conversions, adjust the pitch to companies rather than repeating an unproven promise.
+
+
+Month 11  Cultural Fest / Cross-College Showcase
+Format
+Music, dance, art, performance — pure Circle-driven social energy at flagship scale.
+
+
+Month 12  Clstr Crew Showcase — Annual Flagship
+Format
+Demo-day format for everything CollabHub/Guilds produced over the year, immediately followed by a social afterparty segment — the formal part proves collab works, the informal part after is what people actually post about.
+Awards
+Reward the collab, not the individual: 'Best Cross-Guild Team,' 'Best Cross-College Duo.'
+
+
+
+03 — Sponsorship Tiers
+Structure unchanged, language tightened — no fixed cash figures
+
+TIER
+SCALE
+WHAT SPONSOR GETS
+NOTES
+Title Sponsor
+One per event, largest tier
+Logo on all materials, brief stage slot, dedicated social posts, event visibility only
+No attendee contact list, ever
+Associate Sponsor
+2–3 per event, smaller tier
+Banner + one digital post, recap mention
+
+Community Partner
+Annual, largest overall commitment
+Website + all 12 events + platform presence, first-access to Career Connect, annual impact report
+The big unlock once a full year of variety is provable
+In-Kind Sponsor
+Zero cash
+Covers one cost (venue/food/printing/photography) for 'Official [Category] Partner' credit
+
+
+Hard rule carried from the Community Playbook: no per-lead or per-contact payment structures, ever, from any sponsor tier. If a company or consultancy wants direct student contact, that requires a separate, explicit, event-specific opt-in at registration — never bundled into general Clstr membership or a sponsorship package.
+
+
+04 — Risk Register
+
+RISK
+MITIGATION
+Title sponsor drops out close to event date
+Never build an event's core budget entirely around one title sponsor; keep In-Kind/Associate tiers as fallback coverage
+Career Connect produces few/zero placements
+Don't over-promise specific placement numbers publicly before Career Connect 01 has run once; report real outcomes honestly to set expectations for Career Connect 02
+Public event (Month 2+) undercuts the 'cross-college, not campus-locked' identity via venue bias
+Rotate host college for every public event from Month 2 onward — never repeat the same host twice in a row
+Event calendar outpaces actual community readiness
+Each month's event is contingent on the prior month's repeat-attendance and signup data, not fixed to the calendar regardless of real traction — treat this calendar as a target sequence, not a hard commitment
+Gender imbalance at evening/cross-college events
+Track gender ratio as a standard pre- and post-event metric; design timing and venue with this in mind
+Buzz/hype mechanics perceived as try-hard by a practical, skeptical audience
+If a stunt underperforms or gets called out, revert immediately to raw, low-production content — don't double down
+
+
+05 — Master Logistics Checklist — Additions
+
+In addition to venue, budget, sponsor confirmation, and badge/printing items already tracked per event, add as standard pre-event line items:
+    • Gender ratio target/tracking
+    • Host college rotation check (not repeating the prior event's host)
+    • Guild/Circle balance of expected attendees (not just raw headcount)
+    • Event confirmation flyer prepared — for students needing warden/parental permission
+    • Timing track confirmed — late-afternoon window or Sunday daytime, per the two-track model
+
+
+06 — Unified KPI Dashboard
+
+Event-level numbers (attendance, sponsor engagement, tickets) and platform-level numbers (verified signups, repeat attendance rate, Guild/Circle balance, cross-Guild collabs completed) should be read from one shared dashboard, reviewed monthly by Founder + Campus Ops Lead + Community/Collab Lead together — not as two separate reporting tracks.
+
+This document links directly to the Community Playbook's metrics and risk register — both docs are one system, not two separate plans that could drift out of sync. No event may be announced until the owner has documented venue capacity, permissions, timing, age eligibility, safeguarding, emergency response, budget, funding fallback, registration flow, consent flow and post-event follow-up.

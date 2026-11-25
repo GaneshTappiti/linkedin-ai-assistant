@@ -1,0 +1,98 @@
+[
+  {
+    "college_name": "Netaji Subhas Institute of Technology",
+    "alternative_names": [
+      "NSIT Bihta Patna"
+    ],
+    "aishe_code": "C-8215",
+    "district": "Patna",
+    "city": "Patna",
+    "full_address": "Amhara, Bihta, Patna, Bihar - 801106",
+    "state_or_union_territory": "Bihar",
+    "affiliated_university": "Aryabhatta Knowledge University",
+    "official_website": "http://www.nsit.in",
+    "emails_found": [
+      "nsit_bihta@yahoo.com",
+      "info@nsit.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "nsit.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://akubihar.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AKU Patna affiliated roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "College administration operates via Yahoo Mail; students are not provided institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2800,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 17.5,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 59.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Netaji Subhas Institute of Technology (Bihta)",
+    "alternative_names": [
+      "Netaji Subhas Institute of Technology (Bihta)"
+    ],
+    "aishe_code": "C-29532",
+    "district": "Patna",
+    "city": "Patna",
+    "full_address": "Netaji Subhas Institute of Technology (Bihta), Patna, Bihar",
+    "state_or_union_territory": "Bihar",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "https://nsit.in",
+    "emails_found": [
+      "info@nsit.in"
+    ],
+    "domains_found": [
+      "nsit.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://bceceboard.bihar.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2800,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 17.5,
+    "ambassador_adv": 12.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 61.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  }
+]

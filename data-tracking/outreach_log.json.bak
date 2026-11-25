@@ -1,0 +1,273 @@
+{
+  "campaign_date": "2026-05-04T09:47:01.235230",
+  "profiles_processed": 8,
+  "messages_sent": 8,
+  "candidates": [
+    {
+      "name": "there",
+      "url": "https://www.linkedin.com/in/madhuri-sai-lakshmi-priya-buddha-998958319",
+      "college": "Raghu Engineering College",
+      "year": "2",
+      "signal_type": "founding_team",
+      "specific_signal": "Builder",
+      "campus_influence": 5,
+      "execution_proof": 5,
+      "communication_quality": 3,
+      "network_strength": 2,
+      "college_engagement_proof": 5,
+      "extracted_at": "2026-05-04T09:39:37.865885",
+      "score": {
+        "score": 16,
+        "band": "high_priority",
+        "action": "start_conversation_immediately",
+        "breakdown": {
+          "campus_influence": 5,
+          "execution_proof": 5,
+          "communication_quality": 3,
+          "network_strength": 2,
+          "college_engagement": 5
+        }
+      },
+      "role_fit": "Founding Team"
+    },
+    {
+      "name": "there",
+      "url": "https://www.linkedin.com/in/oluwatimileyinomowore",
+      "college": "Obafemi Awolowo University",
+      "year": "2",
+      "signal_type": "founding_team",
+      "specific_signal": "Builder",
+      "campus_influence": 5,
+      "execution_proof": 5,
+      "communication_quality": 3,
+      "network_strength": 5,
+      "college_engagement_proof": 5,
+      "extracted_at": "2026-05-04T09:40:28.488671",
+      "score": {
+        "score": 18,
+        "band": "high_priority",
+        "action": "start_conversation_immediately",
+        "breakdown": {
+          "campus_influence": 5,
+          "execution_proof": 5,
+          "communication_quality": 3,
+          "network_strength": 5,
+          "college_engagement": 5
+        }
+      },
+      "role_fit": "Founding Team"
+    },
+    {
+      "name": "there",
+      "url": "https://www.linkedin.com/in/saiteja2408",
+      "college": "Raghu Institute of Technology - India",
+      "year": "4",
+      "signal_type": "founding_team",
+      "specific_signal": "Builder",
+      "campus_influence": 4,
+      "execution_proof": 2,
+      "communication_quality": 3,
+      "network_strength": 5,
+      "college_engagement_proof": 5,
+      "extracted_at": "2026-05-04T09:41:27.575390",
+      "score": {
+        "score": 15,
+        "band": "high_priority",
+        "action": "start_conversation_immediately",
+        "breakdown": {
+          "campus_influence": 4,
+          "execution_proof": 2,
+          "communication_quality": 3,
+          "network_strength": 5,
+          "college_engagement": 5
+        }
+      },
+      "role_fit": "Founding Team"
+    },
+    {
+      "name": "there",
+      "url": "https://www.linkedin.com/in/subhash-addepalli-b14a95293",
+      "college": "Raghu Engineering College",
+      "year": "2",
+      "signal_type": "founding_team",
+      "specific_signal": "Builder",
+      "campus_influence": 5,
+      "execution_proof": 5,
+      "communication_quality": 3,
+      "network_strength": 3,
+      "college_engagement_proof": 5,
+      "extracted_at": "2026-05-04T09:42:28.030995",
+      "score": {
+        "score": 16,
+        "band": "high_priority",
+        "action": "start_conversation_immediately",
+        "breakdown": {
+          "campus_influence": 5,
+          "execution_proof": 5,
+          "communication_quality": 3,
+          "network_strength": 3,
+          "college_engagement": 5
+        }
+      },
+      "role_fit": "Founding Team"
+    },
+    {
+      "name": "there",
+      "url": "https://www.linkedin.com/in/vishal-epu-646822222",
+      "college": "Raghu Engineering College",
+      "year": "2",
+      "signal_type": "founding_team",
+      "specific_signal": "Builder",
+      "campus_influence": 5,
+      "execution_proof": 5,
+      "communication_quality": 3,
+      "network_strength": 5,
+      "college_engagement_proof": 5,
+      "extracted_at": "2026-05-04T09:43:22.852702",
+      "score": {
+        "score": 18,
+        "band": "high_priority",
+        "action": "start_conversation_immediately",
+        "breakdown": {
+          "campus_influence": 5,
+          "execution_proof": 5,
+          "communication_quality": 3,
+          "network_strength": 5,
+          "college_engagement": 5
+        }
+      },
+      "role_fit": "Founding Team"
+    },
+    {
+      "name": "there",
+      "url": "https://www.linkedin.com/in/siva-nellipudi",
+      "college": "Raghu Engineering College",
+      "year": "2",
+      "signal_type": "founding_team",
+      "specific_signal": "Builder",
+      "campus_influence": 5,
+      "execution_proof": 2,
+      "communication_quality": 3,
+      "network_strength": 5,
+      "college_engagement_proof": 5,
+      "extracted_at": "2026-05-04T09:44:15.981351",
+      "score": {
+        "score": 16,
+        "band": "high_priority",
+        "action": "start_conversation_immediately",
+        "breakdown": {
+          "campus_influence": 5,
+          "execution_proof": 2,
+          "communication_quality": 3,
+          "network_strength": 5,
+          "college_engagement": 5
+        }
+      },
+      "role_fit": "Founding Team"
+    },
+    {
+      "name": "there",
+      "url": "https://www.linkedin.com/in/yeluri-durga-raja-sekhar-628257255",
+      "college": "Maharajah's College of Pharmacy vizianagaram",
+      "year": "4",
+      "signal_type": "founding_team",
+      "specific_signal": "Builder",
+      "campus_influence": 5,
+      "execution_proof": 5,
+      "communication_quality": 3,
+      "network_strength": 2,
+      "college_engagement_proof": 5,
+      "extracted_at": "2026-05-04T09:45:15.286115",
+      "score": {
+        "score": 16,
+        "band": "high_priority",
+        "action": "start_conversation_immediately",
+        "breakdown": {
+          "campus_influence": 5,
+          "execution_proof": 5,
+          "communication_quality": 3,
+          "network_strength": 2,
+          "college_engagement": 5
+        }
+      },
+      "role_fit": "Founding Team"
+    },
+    {
+      "name": "there",
+      "url": "https://www.linkedin.com/in/lagudukumarswamykishan",
+      "college": "You both studied at Raghu Engineering College",
+      "year": "2",
+      "signal_type": "founding_team",
+      "specific_signal": "Builder",
+      "campus_influence": 4,
+      "execution_proof": 5,
+      "communication_quality": 3,
+      "network_strength": 5,
+      "college_engagement_proof": 5,
+      "extracted_at": "2026-05-04T09:46:09.737531",
+      "score": {
+        "score": 17,
+        "band": "high_priority",
+        "action": "start_conversation_immediately",
+        "breakdown": {
+          "campus_influence": 4,
+          "execution_proof": 5,
+          "communication_quality": 3,
+          "network_strength": 5,
+          "college_engagement": 5
+        }
+      },
+      "role_fit": "Founding Team"
+    }
+  ],
+  "outreach_log": [
+    {
+      "profile_url": "https://www.linkedin.com/in/madhuri-sai-lakshmi-priya-buddha-998958319",
+      "message_sent": "Hey there, your profile shows you actually code and build things. Building clstr.in and always looking for builders who want real ownership. What's your current stack?",
+      "sent_at": "2026-05-04T09:40:05.238454",
+      "status": "sent"
+    },
+    {
+      "profile_url": "https://www.linkedin.com/in/oluwatimileyinomowore",
+      "message_sent": "Hey there, saw you're actually building stuff at Obafemi Awolowo University \u2014 that's rare. I'm working on clstr.in and looking for people who ship, not just talk. What are you working on right now?",
+      "sent_at": "2026-05-04T09:41:02.095761",
+      "status": "sent"
+    },
+    {
+      "profile_url": "https://www.linkedin.com/in/saiteja2408",
+      "message_sent": "Hey there, saw you're actually building stuff at Raghu Institute of Technology - India \u2014 that's rare. I'm working on clstr.in and looking for people who ship, not just talk. What are you working on right now?",
+      "sent_at": "2026-05-04T09:41:59.331809",
+      "status": "sent"
+    },
+    {
+      "profile_url": "https://www.linkedin.com/in/subhash-addepalli-b14a95293",
+      "message_sent": "Hey there, saw you're actually building stuff at Raghu Engineering College \u2014 that's rare. I'm working on clstr.in and looking for people who ship, not just talk. What are you working on right now?",
+      "sent_at": "2026-05-04T09:42:57.847299",
+      "status": "sent"
+    },
+    {
+      "profile_url": "https://www.linkedin.com/in/vishal-epu-646822222",
+      "message_sent": "Hey there, saw you're actually building stuff at Raghu Engineering College \u2014 that's rare. I'm working on clstr.in and looking for people who ship, not just talk. What are you working on right now?",
+      "sent_at": "2026-05-04T09:43:53.955204",
+      "status": "sent"
+    },
+    {
+      "profile_url": "https://www.linkedin.com/in/siva-nellipudi",
+      "message_sent": "Hey there, saw you're actually building stuff at Raghu Engineering College \u2014 that's rare. I'm working on clstr.in and looking for people who ship, not just talk. What are you working on right now?",
+      "sent_at": "2026-05-04T09:44:46.051163",
+      "status": "sent"
+    },
+    {
+      "profile_url": "https://www.linkedin.com/in/yeluri-durga-raja-sekhar-628257255",
+      "message_sent": "Hey there, saw you're actually building stuff at Maharajah's College of Pharmacy vizianagaram \u2014 that's rare. I'm working on clstr.in and looking for people who ship, not just talk. What are you working on right now?",
+      "sent_at": "2026-05-04T09:45:47.202930",
+      "status": "sent"
+    },
+    {
+      "profile_url": "https://www.linkedin.com/in/lagudukumarswamykishan",
+      "message_sent": "Hey there, your profile shows you actually code and build things. Building clstr.in and always looking for builders who want real ownership. What's your current stack?",
+      "sent_at": "2026-05-04T09:46:38.943078",
+      "status": "sent"
+    }
+  ]
+}

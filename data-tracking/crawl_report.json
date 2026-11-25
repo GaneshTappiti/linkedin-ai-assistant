@@ -1,0 +1,86 @@
+{
+  "crawl_timestamp": "2026-11-12T08:37:00.000000",
+  "status": "authenticated",
+  "identity": {
+    "name": "Tappiti (Dev) Ganesh",
+    "headline": "Founder @Clstr | Building the social network for college communities | Product Designer × Full-Stack Engineer",
+    "verified": true,
+    "pronouns": "He/Him",
+    "company": "clstr",
+    "education": "Raghu Engineering College",
+    "location": "Visakhapatnam, Andhra Pradesh, India",
+    "contact": {
+      "email": "2005ganesh16@gmail.com",
+      "phone": "+91 8919285236"
+    }
+  },
+  "sidebar_stats": {
+    "profile_viewers": 310,
+    "post_impressions_7d": 1300,
+    "search_appearances_7d": 19,
+    "college_activity": 84,
+    "college_visitors": 923
+  },
+  "network": {
+    "followers": 2021,
+    "connections": "500+"
+  },
+  "notifications": {
+    "unread_count": 25,
+    "recent": [
+      {
+        "source": "Forbes (Forbes P.M.)",
+        "time": "38m",
+        "title": "Forget The Ballroom. Trump's $3 Billion Tax Play Is His Legacy Project"
+      },
+      {
+        "source": "Max Kushner",
+        "time": "1h",
+        "title": "Reposted: I had the privilege of working closely with Pedro, and I think any company would be lucky to have him on board..."
+      },
+      {
+        "source": "Business Insider (Business Insider Today)",
+        "time": "8h",
+        "title": "Meet Business Insider's 2026 Rising Stars of Real Estate"
+      },
+      {
+        "source": "The Wall Street Journal (WSJ Careers & Leadership)",
+        "time": "9h",
+        "title": "How Gen Z Is Becoming the Entrepreneurship Generation"
+      },
+      {
+        "source": "Profile View Alert",
+        "time": "10h",
+        "title": "Mohammed Nayeem Ur Rahiman and 2 other people viewed your profile"
+      },
+      {
+        "source": "Forbes (Forbes Edge)",
+        "time": "11h",
+        "title": "Career Visibility: How To Get Noticed At Work For The Right Reasons"
+      }
+    ]
+  },
+  "top_feed_signals": [
+    {
+      "source": "StartupTN",
+      "time": "16h",
+      "title": "Bharat Pitchathon 5.0 | Google Startup Buildathon | Startup Roadshow & Capital Connect (Pitchfest in Madurai, Trichy, Chennai, Hosur)"
+    },
+    {
+      "source": "LinkedIn News - Top Stories",
+      "time": "Today",
+      "stories": [
+        "Nvidia prepares to oust CEO Jensen Huang... (1h ago • 7,913 readers)",
+        "Cognizant rethinks job titles for the AI era (20h ago • 1,990 readers)",
+        "IBM cuts US visa support for consulting... (17h ago • 1,679 readers)",
+        "Foreign investors make a U-turn on India (16h ago • 712 readers)",
+        "What does an AI-era MBA degree look like (15h ago • 512 readers)"
+      ]
+    }
+  ],
+  "screenshots": {
+    "feed": "data-tracking/crawl_feed.png",
+    "profile": "data-tracking/crawl_profile.png",
+    "notifications": "data-tracking/crawl_notifications.png"
+  }
+}

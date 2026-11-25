@@ -1,0 +1,51 @@
+[
+  {
+    "college_name": "Green Hills Engineering College",
+    "alternative_names": [
+      "GHEC Solan"
+    ],
+    "aishe_code": "C-29515",
+    "district": "Solan",
+    "city": "Solan",
+    "full_address": "Gandhigram, Kumarhatti, Solan, Himachal Pradesh - 173229",
+    "state_or_union_territory": "Himachal Pradesh",
+    "affiliated_university": "Himachal Pradesh Technical University",
+    "official_website": "http://www.ghec.co.in",
+    "emails_found": [
+      "ghec_solan@yahoo.com",
+      "contact@ghec.co.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "ghec.co.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://himtu.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "HPTU affiliated roster audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official communications route via Yahoo Mail; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1800,
+    "clstr_advantage_score": 9.5,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 11.2,
+    "ambassador_adv": 9.5,
+    "youth_eco": 7.5,
+    "dig_adopt": 8.0,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 46.9,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  }
+]

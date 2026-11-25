@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "hook_library": {
+    "F1": {"name": "shocking_stat", "template": "[Shocking number]% of [audience] [do X]. The real reason is [Y]."},
+    "F2": {"name": "contrarian_flip", "template": "Everyone says [X]. The opposite happened: [Y]."},
+    "F3": {"name": "personal_curse", "template": "I used to [X] until [Y]. Now I [Z]."},
+    "F4": {"name": "tool_discovery", "template": "I tried [tool] for [time]. Here's what actually happened."},
+    "F5": {"name": "data_headline", "template": "Scanned [N] sources. Here are the [X] [findings]."},
+    "F6": {"name": "founder_journey", "template": "From [start] to [now]: the one thing that changed everything."},
+    "F7": {"name": "vibe_tradeoff", "template": "Vibe coding vs traditional dev: why [X] matters more than [Y]."},
+    "F8": {"name": "security_paranoid", "template": "I spent [time] hardening security. Here's what I learned."},
+    "F9": {"name": "pwa_vs_native", "template": "PWA over native app: the builder's realistic choice."},
+    "F10": {"name": "campus_infrastructure", "template": "Building campus OS for [audience]: real metrics."},
+    "F11": {"name": "brandjacking_intro", "template": "[Brand] just did [X]. Here's what founders should really note."},
+    "F12": {"name": "namejacking_insight", "template": "[Person] said [X]. The angle nobody's talking about: [Y]."},
+    "F13": {"name": "hot_take_contrarian", "template": "Unpopular opinion: [X] is actually [Y], not [Z]."},
+    "F14": {"name": "mv p_val", "template": "% of MVPs fail post-launch. Here's the #1 reason why."},
+    "F15": {"name": "skill_gap_report", "template": "What Indian founders actually need vs what colleges teach."},
+    "F16": {"name": "brandjacking_pivot", "template": "Attach your insight to [Brand]: the boomerang effect."},
+    "F17": {"name": "newsjack_urgent", "template": "[Company] just announced [X]. Here's the builder's angle."},
+    "F18": {"name": "data_comparison", "template": "Side-by-side: [Option A] vs [Option B] — the numbers don't lie."},
+    "F19": {"name": "first_person_brutal", "template": "I built this. It failed these 3 ways. Here's how I fixed it."},
+    "F20": {"name": "campus_ecosystem_snapshot", "template": "One week in the life of a campus founder: metrics that matter."}
+  },
+  "goal_first_picker": "Select hook formula based on post goal: F1-F5 for data/posts, F6-F10 for hot takes, F11-F15 for stories, F16-F20 for brandjacking/newsjacking",
+  "reach_caveats_2026": {
+    "external_links_suppressed": true,
+    "ai_content_penalty": true,
+    "max_hashtags": 3,
+    "optimal_post_length_words": 120,
+    "peak_engagement_ist": "8-10 AM IST, Tue-Thu",
+    "daily_post_cap": 1,
+    "weekday_only": true
+  }
+}

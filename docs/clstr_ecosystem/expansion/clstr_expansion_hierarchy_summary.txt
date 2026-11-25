@@ -1,0 +1,91 @@
+clstr NATIONWIDE ENGINEERING EXPANSION INTELLIGENCE HIERARCHY
+============================================================
+
+Andhra Pradesh (Rank #1 | State Score: 99.0 | Targets: 80)
+ ├── Guntur (7 Target Colleges | 18500 Students)
+ │    ├── Vasireddy Venkatadri Institute of Technology — Priority: 96 (Tier A) — 3800 students
+ │    ├── Narasaraopeta Engineering College — Priority: 91 (Tier A) — 3200 students
+ │    ├── Kallam Haranadhareddy Institute of Technology — Priority: 87 (Tier A) — 2500 students
+ │    ├── KKR & KSR Institute of Technology and Sciences — Priority: 87 (Tier A) — 2600 students
+ ├── Visakhapatnam (15 Target Colleges | 30600 Students)
+ │    ├── Avanthi Institute of Engineering and Technology (Tagarapuvalasa) — Priority: 94 (Tier A) — 3400 students
+ │    ├── Dr. Lankapalli Bullayya College of Engineering — Priority: 92 (Tier A) — 2800 students
+ │    ├── BABA Institute of Technology and Sciences — Priority: 88 (Tier A) — 2600 students
+ │    ├── Vignan's Institute of Engineering for Women — Priority: 87 (Tier A) — 2400 students
+ ├── Vijayawada (11 Target Colleges | 26100 Students)
+ │    ├── DVR & Dr. HS MIC College of Technology — Priority: 90 (Tier A) — 3000 students
+ │    ├── SRK Institute of Technology — Priority: 89 (Tier A) — 2600 students
+ │    ├── Dhanekula Institute of Engineering and Technology — Priority: 89 (Tier A) — 2800 students
+ │    ├── Andhra Loyola Institute of Engineering and Technology — Priority: 87 (Tier A) — 2600 students
+ ├── Anakapalli (5 Target Colleges | 10500 Students)
+ │    ├── Avanthi Institute of Engineering and Technology (Makavarapalem) — Priority: 83 (Tier B) — 2500 students
+ │    ├── Dadi Institute of Engineering and Technology — Priority: 81 (Tier B) — 2400 students
+ │    ├── Avanthi Institute of Engineering and Technology — Priority: 78 (Tier B) — 2500 students
+ │    ├── Indo American Institutions Technical Campus — Priority: 73 (Tier B) — 1600 students
+ ├── Ongole (3 Target Colleges | 8100 Students)
+ │    ├── QIS College of Engineering and Technology — Priority: 77 (Tier B) — 3200 students
+ │    ├── PACE Institute of Technology and Sciences — Priority: 74 (Tier B) — 2800 students
+ │    ├── RISE Krishna Sai Gandhi Group of Institutions — Priority: 67 (Tier C) — 2100 students
+
+Telangana (Rank #2 | State Score: 74.6 | Targets: 32)
+ ├── Hyderabad (26 Target Colleges | 80200 Students)
+ │    ├── Malla Reddy Engineering College — Priority: 97 (Tier A) — 4200 students
+ │    ├── Sreenidhi Institute of Science and Technology — Priority: 97 (Tier A) — 4800 students
+ │    ├── Sri Indu College of Engineering and Technology — Priority: 96 (Tier A) — 3600 students
+ │    ├── TKR College of Engineering and Technology — Priority: 96 (Tier A) — 3500 students
+ ├── Warangal (3 Target Colleges | 9900 Students)
+ │    ├── Vaagdevi College of Engineering — Priority: 80 (Tier B) — 3800 students
+ │    ├── Kakatiya Institute of Technology and Science — Priority: 80 (Tier B) — 3600 students
+ │    ├── Jayamukhi Institute of Technological Sciences — Priority: 70 (Tier B) — 2500 students
+ ├── Karimnagar (1 Target Colleges | 2600 Students)
+ │    ├── Sree Chaitanya College of Engineering — Priority: 64 (Tier C) — 2600 students
+ ├── Patancheru (1 Target Colleges | 2100 Students)
+ │    ├── Ellenki College of Engineering and Technology — Priority: 58 (Tier C) — 2100 students
+ ├── Hanamkonda (1 Target Colleges | 1900 Students)
+ │    ├── Sumathi Reddy Institute of Technology for Women — Priority: 56 (Tier C) — 1900 students
+
+Tamil Nadu (Rank #3 | State Score: 60.9 | Targets: 15)
+ ├── Chennai (9 Target Colleges | 34200 Students)
+ │    ├── Panimalar Engineering College — Priority: 96 (Tier A) — 4800 students
+ │    ├── Jeppiaar Engineering College — Priority: 96 (Tier A) — 3800 students
+ │    ├── Saveetha Engineering College — Priority: 96 (Tier A) — 4600 students
+ │    ├── Rajalakshmi Engineering College — Priority: 96 (Tier A) — 4900 students
+ ├── Coimbatore (4 Target Colleges | 16300 Students)
+ │    ├── Sri Krishna College of Engineering and Technology — Priority: 90 (Tier A) — 4600 students
+ │    ├── Hindusthan College of Engineering and Technology — Priority: 88 (Tier A) — 4200 students
+ │    ├── SNS College of Technology — Priority: 87 (Tier A) — 3600 students
+ │    ├── Karpagam College of Engineering — Priority: 87 (Tier A) — 3900 students
+ ├── Salem (1 Target Colleges | 4200 Students)
+ │    ├── Sona College of Technology — Priority: 72 (Tier B) — 4200 students
+ ├── Madurai (1 Target Colleges | 2800 Students)
+ │    ├── Velammal College of Engineering and Technology — Priority: 66 (Tier C) — 2800 students
+
+Maharashtra (Rank #4 | State Score: 50.4 | Targets: 14)
+ ├── Pune (7 Target Colleges | 26200 Students)
+ │    ├── Sinhgad College of Engineering — Priority: 97 (Tier A) — 4400 students
+ │    ├── Pimpri Chinchwad College of Engineering — Priority: 97 (Tier A) — 4200 students
+ │    ├── D.Y. Patil College of Engineering — Priority: 96 (Tier A) — 4100 students
+ │    ├── JSPM's Rajarshi Shahu College of Engineering — Priority: 96 (Tier A) — 3800 students
+ ├── Mumbai (3 Target Colleges | 8200 Students)
+ │    ├── Thadomal Shahani Engineering College — Priority: 79 (Tier B) — 3100 students
+ │    ├── Rajiv Gandhi Institute of Technology — Priority: 77 (Tier B) — 2900 students
+ │    ├── Fr. Conceicao Rodrigues College of Engineering — Priority: 69 (Tier C) — 2200 students
+ ├── Nagpur (2 Target Colleges | 8300 Students)
+ │    ├── G.H. Raisoni College of Engineering — Priority: 76 (Tier B) — 4100 students
+ │    ├── Yeshwantrao Chavan College of Engineering — Priority: 74 (Tier B) — 4200 students
+ ├── Navi Mumbai (1 Target Colleges | 3800 Students)
+ │    ├── Pillai College of Engineering — Priority: 74 (Tier B) — 3800 students
+ ├── Nashik (1 Target Colleges | 3800 Students)
+ │    ├── K.K. Wagh Institute of Engineering Education and Research — Priority: 72 (Tier B) — 3800 students
+
+Karnataka (Rank #5 | State Score: 46.3 | Targets: 12)
+ ├── Bengaluru (9 Target Colleges | 30200 Students)
+ │    ├── The Oxford College of Engineering — Priority: 96 (Tier A) — 3800 students
+ │    ├── RNS Institute of Technology — Priority: 96 (Tier A) — 4200 students
+ │    ├── MVJ College of Engineering — Priority: 96 (Tier A) — 3800 students
+ │    ├── Acharya Institute of Technology — Priority: 96 (Tier A) — 4600 students
+ ├── Mangaluru (2 Target Colleges | 6000 Students)
+ │    ├── Sahyadri College of Engineering and Management — Priority: 76 (Tier B) — 3600 students
+ │    ├── Canara Engineering College — Priority: 65 (Tier C) — 2400 students
+ ├── Mysuru (1 Target Colleges | 3400 Students)
+ │    ├── Vidyavardhaka College of Engineering — Priority: 72 (Tier B) — 3400 students

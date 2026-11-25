@@ -1,0 +1,678 @@
+[
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering",
+    "alternative_names": [
+      "AISSMS COE Pune"
+    ],
+    "aishe_code": "C-41501",
+    "district": "Pune",
+    "city": "Pune",
+    "full_address": "1, Kennedy Road, Near R.T.O., Pune - 411001",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "Savitribai Phule Pune University",
+    "official_website": "http://www.aissmscoe.com",
+    "emails_found": [
+      "aissms_coe@yahoo.com",
+      "principal@aissmscoe.com"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "aissmscoe.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org",
+      "http://www.aissmscoe.com"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "MHT-CET DTE Maharashtra roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Administrative operations handled via Yahoo Mail; students do not receive individual institutional email inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 12.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 79.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Sinhgad Academy of Engineering",
+    "alternative_names": [
+      "SAOE Kondhwa"
+    ],
+    "aishe_code": "C-41551",
+    "district": "Pune",
+    "city": "Pune",
+    "full_address": "S. No. 40, Kondhwa-Saswad Road, Kondhwa (Bk), Pune - 411048",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "Savitribai Phule Pune University",
+    "official_website": "http://www.sinhgad.edu",
+    "emails_found": [
+      "saoe_kondhwa@yahoo.com",
+      "principal.saoe@sinhgad.edu"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "sinhgad.edu"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official MHT-CET database audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Yahoo; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3200,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 20.0,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 75.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Marathwada Mitra Mandal's College of Engineering",
+    "alternative_names": [
+      "MMCOE Karvenagar"
+    ],
+    "aishe_code": "C-41525",
+    "district": "Pune",
+    "city": "Pune",
+    "full_address": "Sr. No. 34/2, Karvenagar, Pune - 411052",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "Savitribai Phule Pune University",
+    "official_website": "http://www.mmcoe.edu.in",
+    "emails_found": [
+      "mmcoe_pune@yahoo.com",
+      "principal@mmcoe.edu.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "mmcoe.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "SPPU affiliated colleges roster",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for regulatory desk; students lack college-owned email.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2900,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 18.1,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 73.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "JSPM's Rajarshi Shahu College of Engineering",
+    "alternative_names": [
+      "RSCOE Tathawade"
+    ],
+    "aishe_code": "C-41517",
+    "district": "Pune",
+    "city": "Pune",
+    "full_address": "Survey No. 80/3, Tathawade, Mulshi, Pune - 411033",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "Savitribai Phule Pune University",
+    "official_website": "http://www.jspmrscoe.edu.in",
+    "emails_found": [
+      "rscoe_jspm@yahoo.com",
+      "director@jspmrscoe.edu.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "jspmrscoe.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official MHT-CET database",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official administrative correspondence routes via Yahoo Mail; no student inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3800,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 23.8,
+    "ambassador_adv": 12.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 79.6,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Thadomal Shahani Engineering College",
+    "alternative_names": [
+      "TSEC Bandra"
+    ],
+    "aishe_code": "C-33824",
+    "district": "Mumbai Suburban",
+    "city": "Mumbai",
+    "full_address": "P.G. Kher Marg, Off Linking Road, TPS-III, Bandra West, Mumbai - 400050",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "University of Mumbai",
+    "official_website": "http://www.thadomal.org",
+    "emails_found": [
+      "tsec_bandra@yahoo.com",
+      "principal@thadomal.org"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "thadomal.org"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "University of Mumbai affiliated roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Administration operates via Yahoo Mail; students are not provided institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3100,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 9.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 19.4,
+    "ambassador_adv": 13.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 9.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 68.2,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Fr. Conceicao Rodrigues College of Engineering",
+    "alternative_names": [
+      "CRCE Bandra"
+    ],
+    "aishe_code": "C-33785",
+    "district": "Mumbai Suburban",
+    "city": "Mumbai",
+    "full_address": "Fr. Agnel Ashram, Bandstand, Bandra West, Mumbai - 400050",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "University of Mumbai",
+    "official_website": "http://www.frcrce.ac.in",
+    "emails_found": [
+      "crce_bandra@yahoo.com",
+      "principal@frcrce.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "frcrce.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official MHT-CET database audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official communications route via Yahoo Mail; no student email accounts.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 13.8,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 61.1,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Pillai College of Engineering",
+    "alternative_names": [
+      "PCE Panvel"
+    ],
+    "aishe_code": "C-34105",
+    "district": "Raigad",
+    "city": "Navi Mumbai",
+    "full_address": "Dr. K.M. Vasudevan Pillai Campus, Sector 16, New Panvel, Navi Mumbai - 410206",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "University of Mumbai",
+    "official_website": "http://www.pce.ac.in",
+    "emails_found": [
+      "pce_panvel@yahoo.com",
+      "principal@pce.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "pce.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official MHT-CET database",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Yahoo; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 64.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering",
+    "alternative_names": [
+      "YCCE Nagpur"
+    ],
+    "aishe_code": "C-18865",
+    "district": "Nagpur",
+    "city": "Nagpur",
+    "full_address": "Hingna Road, Wanadongri, Nagpur - 441110",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "official_website": "http://www.ycce.edu",
+    "emails_found": [
+      "ycce_nagpur@yahoo.com",
+      "principal@ycce.edu"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "ycce.edu"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "RTMNU affiliated colleges directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "College administration operates via Yahoo Mail; students receive no @ycce.edu email inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4200,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 12.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 68.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Sinhgad College of Engineering",
+    "alternative_names": [
+      "Sinhgad College of Engineering"
+    ],
+    "aishe_code": "C-41556",
+    "district": "Pune",
+    "city": "Pune",
+    "full_address": "Sinhgad College of Engineering, Pune, Maharashtra",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.sinhgad.edu",
+    "emails_found": [
+      "principal.scoe@sinhgad.edu"
+    ],
+    "domains_found": [
+      "sinhgad.edu"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4400,
+    "clstr_advantage_score": 15.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 15.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 83.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Pimpri Chinchwad College of Engineering",
+    "alternative_names": [
+      "Pimpri Chinchwad College of Engineering"
+    ],
+    "aishe_code": "C-41544",
+    "district": "Pune",
+    "city": "Pune",
+    "full_address": "Pimpri Chinchwad College of Engineering, Pune, Maharashtra",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.pccoepune.com",
+    "emails_found": [
+      "pccoeadmin@gmail.com",
+      "principal@pccoepune.org"
+    ],
+    "domains_found": [
+      "pccoepune.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4200,
+    "clstr_advantage_score": 15.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 15.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 83.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering",
+    "alternative_names": [
+      "D.Y. Patil College of Engineering"
+    ],
+    "aishe_code": "C-41505",
+    "district": "Pune",
+    "city": "Pune",
+    "full_address": "D.Y. Patil College of Engineering, Pune, Maharashtra",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.dypcoeakurdi.ac.in",
+    "emails_found": [
+      "principal@dypcoeakurdi.ac.in"
+    ],
+    "domains_found": [
+      "dypcoeakurdi.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4100,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 7.0,
+    "nearby_colleges_score": 8.8,
+    "clstr_expansion_score": 82.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Rajiv Gandhi Institute of Technology",
+    "alternative_names": [
+      "Rajiv Gandhi Institute of Technology"
+    ],
+    "aishe_code": "C-33895",
+    "district": "Mumbai Suburban",
+    "city": "Mumbai",
+    "full_address": "Rajiv Gandhi Institute of Technology, Mumbai, Maharashtra",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.mctrgit.ac.in",
+    "emails_found": [
+      "mctrgit@gmail.com"
+    ],
+    "domains_found": [
+      "mctrgit.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2900,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 18.1,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 65.9,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "G.H. Raisoni College of Engineering",
+    "alternative_names": [
+      "G.H. Raisoni College of Engineering"
+    ],
+    "aishe_code": "C-18815",
+    "district": "Nagpur",
+    "city": "Nagpur",
+    "full_address": "G.H. Raisoni College of Engineering, Nagpur, Maharashtra",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://ghrce.raisoni.net",
+    "emails_found": [
+      "ghrce@raisoni.net"
+    ],
+    "domains_found": [
+      "raisoni.net"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4100,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 13.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 69.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "K.K. Wagh Institute of Engineering Education and Research",
+    "alternative_names": [
+      "K.K. Wagh Institute of Engineering Education and Research"
+    ],
+    "aishe_code": "C-41528",
+    "district": "Nashik",
+    "city": "Nashik",
+    "full_address": "K.K. Wagh Institute of Engineering Education and Research, Nashik, Maharashtra",
+    "state_or_union_territory": "Maharashtra",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://kkwagh.edu.in",
+    "emails_found": [
+      "kkwieer@kkwagh.edu.in"
+    ],
+    "domains_found": [
+      "kkwagh.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetcell.mahacet.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3800,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 23.8,
+    "ambassador_adv": 12.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 65.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  }
+]

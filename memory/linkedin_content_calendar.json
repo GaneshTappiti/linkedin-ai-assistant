@@ -1,0 +1,349 @@
+{
+  "calendar": [
+    {
+      "day": "Tuesday",
+      "date": "2026-11-17",
+      "topic": "AI tools replacing traditional skills",
+      "research_source": "Scanned LinkedIn/JD data for AI tools replacing traditional skills",
+      "content_pillar": "Build in Public",
+      "post_type": "research_data",
+      "hook_type": "F16",
+      "data_items": [
+        {
+          "label": "Next.js",
+          "percentage": 61
+        },
+        {
+          "label": "RAG",
+          "percentage": 72
+        },
+        {
+          "label": "Next.js",
+          "percentage": 90
+        },
+        {
+          "label": "Flutter",
+          "percentage": 72
+        },
+        {
+          "label": "RAG",
+          "percentage": 57
+        },
+        {
+          "label": "SupaBase",
+          "percentage": 54
+        }
+      ],
+      "post_text": "I scanned relevant data on AI tools replacing traditional skills. Here are the key findings 👇\n\n📊 Next.js — 61%\n📊 RAG — 72%\n... (6 items total)\n\nOne insight became obvious: patterns emerge when you look across the data.\n\nI'm seeing this in real time building real products.\n\nAre you upskilling for this market or waiting?\n\n#AI #Startup #Builder",
+      "hashtags": [
+        "#AI",
+        "#Startup"
+      ],
+      "chart_title": "AI Skills Demand",
+      "chart_ink_color": "blue",
+      "image_prompt": "A hand-drawn horizontal bar chart on white notebook paper, sketched with black and blue ink pens. The chart shows AI Skills Demand with 6 horizontal bars. Left side lists categories. Bars extend right showing relative percentages with % numbers at the end. Title at top in bold hand-lettered style. Pen strokes slightly imperfect, paper texture subtle. Black ink for text/axes. blue ink for horizontal bars. Landscape orientation."
+    },
+    {
+      "day": "Wednesday",
+      "date": "2026-11-18",
+      "topic": "What Y Combinator wants from Indian founders",
+      "research_source": "Scanned LinkedIn/JD data for What Y Combinator wants from Indian founders",
+      "content_pillar": "AI-Enabled Building",
+      "post_type": "story",
+      "hook_type": "F6",
+      "data_items": [
+        {
+          "label": "Flutter",
+          "percentage": 62
+        },
+        {
+          "label": "Flutter",
+          "percentage": 82
+        },
+        {
+          "label": "T3",
+          "percentage": 84
+        },
+        {
+          "label": "Flutter",
+          "percentage": 65
+        },
+        {
+          "label": "Flutter",
+          "percentage": 59
+        },
+        {
+          "label": "Supabase",
+          "percentage": 91
+        }
+      ],
+      "post_text": "I scanned relevant data on What Y Combinator wants from Indian founders. Here are the key findings 👇\n\n📊 Flutter — 62%\n📊 Flutter — 82%\n... (6 items total)\n\nOne insight became obvious: patterns emerge when you look across the data.\n\nI'm seeing this in real time building real products.\n\nAre you building in public or waiting for validation?\n\n#AI #Startup #Builder",
+      "hashtags": [
+        "#AI",
+        "#Startup"
+      ],
+      "chart_title": "AI Skills Demand",
+      "chart_ink_color": "red",
+      "image_prompt": "A hand-drawn horizontal bar chart on white notebook paper, sketched with black and red ink pens. The chart shows AI Skills Demand with 6 horizontal bars. Left side lists categories. Bars extend right showing relative percentages with % numbers at the end. Title at top in bold hand-lettered style. Pen strokes slightly imperfect, paper texture subtle. Black ink for text/axes. red ink for horizontal bars. Landscape orientation."
+    },
+    {
+      "day": "Thursday",
+      "date": "2026-11-19",
+      "topic": "Startup skills Indian founders are hiring for",
+      "research_source": "Scanned LinkedIn/JD data for Startup skills Indian founders are hiring for",
+      "content_pillar": "Campus Ecosystem",
+      "post_type": "brandjacking",
+      "hook_type": "F7",
+      "data_items": [
+        {
+          "label": "T3",
+          "percentage": 78
+        },
+        {
+          "label": "Supabase",
+          "percentage": 66
+        },
+        {
+          "label": "t3",
+          "percentage": 65
+        },
+        {
+          "label": "Supabase",
+          "percentage": 55
+        },
+        {
+          "label": "Cursor",
+          "percentage": 55
+        },
+        {
+          "label": "SupaBase",
+          "percentage": 51
+        },
+        {
+          "label": "RAG",
+          "percentage": 51
+        },
+        {
+          "label": "Cursor",
+          "percentage": 65
+        },
+        {
+          "label": "Cursor",
+          "percentage": 90
+        },
+        {
+          "label": "SupaBase",
+          "percentage": 50
+        }
+      ],
+      "post_text": "I scanned relevant data on Startup skills Indian founders are hiring for. Here are the key findings 👇\n\n📊 T3 — 78%\n📊 Supabase — 66%\n... (10 items total)\n\nOne insight became obvious: patterns emerge when you look across the data.\n\nI'm seeing this in real time building real products.\n\nAre you building in public or waiting for validation?\n\n#AI #Startup #Builder",
+      "hashtags": [
+        "#AI",
+        "#Startup"
+      ],
+      "chart_title": "Tool Comparison",
+      "chart_ink_color": "blue",
+      "image_prompt": "A hand-drawn horizontal bar chart on white notebook paper, sketched with black and blue ink pens. The chart shows Tool Comparison with 10 horizontal bars. Left side lists categories. Bars extend right showing relative percentages with % numbers at the end. Title at top in bold hand-lettered style. Pen strokes slightly imperfect, paper texture subtle. Black ink for text/axes. blue ink for horizontal bars. Landscape orientation."
+    },
+    {
+      "day": "Friday",
+      "date": "2026-11-20",
+      "topic": "AI tools replacing traditional skills",
+      "research_source": "Scanned LinkedIn/JD data for AI tools replacing traditional skills",
+      "content_pillar": "Founder Psychology",
+      "post_type": "story",
+      "hook_type": "F2",
+      "data_items": [
+        {
+          "label": "t3",
+          "percentage": 94
+        },
+        {
+          "label": "LangChain",
+          "percentage": 65
+        },
+        {
+          "label": "LangChain",
+          "percentage": 51
+        },
+        {
+          "label": "LangChain",
+          "percentage": 52
+        },
+        {
+          "label": "SupaBase",
+          "percentage": 79
+        },
+        {
+          "label": "PWA",
+          "percentage": 79
+        },
+        {
+          "label": "Cursor",
+          "percentage": 95
+        },
+        {
+          "label": "LangChain",
+          "percentage": 50
+        },
+        {
+          "label": "Cursor",
+          "percentage": 92
+        },
+        {
+          "label": "RAG",
+          "percentage": 50
+        }
+      ],
+      "post_text": "I scanned relevant data on AI tools replacing traditional skills. Here are the key findings 👇\n\n📊 t3 — 94%\n📊 LangChain — 65%\n... (10 items total)\n\nOne insight became obvious: patterns emerge when you look across the data.\n\nI'm seeing this in real time building real products.\n\nAre you building in public or waiting for validation?\n\n#AI #Startup #Builder",
+      "hashtags": [
+        "#AI",
+        "#Startup"
+      ],
+      "chart_title": "Tool Comparison",
+      "chart_ink_color": "red",
+      "image_prompt": "A hand-drawn horizontal bar chart on white notebook paper, sketched with black and red ink pens. The chart shows Tool Comparison with 10 horizontal bars. Left side lists categories. Bars extend right showing relative percentages with % numbers at the end. Title at top in bold hand-lettered style. Pen strokes slightly imperfect, paper texture subtle. Black ink for text/axes. red ink for horizontal bars. Landscape orientation."
+    },
+    {
+      "day": "Saturday",
+      "date": "2026-11-21",
+      "topic": "Salaries for AI engineers in India 2026",
+      "research_source": "Scanned LinkedIn/JD data for Salaries for AI engineers in India 2026",
+      "content_pillar": "Design x Engineering",
+      "post_type": "brandjacking",
+      "hook_type": "F15",
+      "data_items": [
+        {
+          "label": "T3",
+          "percentage": 69
+        },
+        {
+          "label": "Next.js",
+          "percentage": 63
+        },
+        {
+          "label": "LangChain",
+          "percentage": 55
+        },
+        {
+          "label": "PWA",
+          "percentage": 94
+        },
+        {
+          "label": "PWA",
+          "percentage": 88
+        },
+        {
+          "label": "Supabase",
+          "percentage": 99
+        }
+      ],
+      "post_text": "I scanned relevant data on Salaries for AI engineers in India 2026. Here are the key findings 👇\n\n📊 T3 — 69%\n📊 Next.js — 63%\n... (6 items total)\n\nOne insight became obvious: patterns emerge when you look across the data.\n\nI'm seeing this in real time building real products.\n\nWhat's the hardest part of your tech stack?\n\n#AI #Startup #Builder",
+      "hashtags": [
+        "#AI",
+        "#Startup"
+      ],
+      "chart_title": "Validation Stats",
+      "chart_ink_color": "red",
+      "image_prompt": "A hand-drawn horizontal bar chart on white notebook paper, sketched with black and red ink pens. The chart shows Validation Stats with 6 horizontal bars. Left side lists categories. Bars extend right showing relative percentages with % numbers at the end. Title at top in bold hand-lettered style. Pen strokes slightly imperfect, paper texture subtle. Black ink for text/axes. red ink for horizontal bars. Landscape orientation."
+    },
+    {
+      "day": "Sunday",
+      "date": "2026-11-22",
+      "topic": "Tools Indian student founders actually use",
+      "research_source": "Scanned LinkedIn/JD data for Tools Indian student founders actually use",
+      "content_pillar": "Build in Public",
+      "post_type": "story",
+      "hook_type": "F10",
+      "data_items": [
+        {
+          "label": "Supabase",
+          "percentage": 55
+        },
+        {
+          "label": "SupaBase",
+          "percentage": 77
+        },
+        {
+          "label": "LangChain",
+          "percentage": 91
+        },
+        {
+          "label": "RAG",
+          "percentage": 56
+        },
+        {
+          "label": "T3",
+          "percentage": 82
+        },
+        {
+          "label": "RAG",
+          "percentage": 61
+        }
+      ],
+      "post_text": "I scanned relevant data on Tools Indian student founders actually use. Here are the key findings 👇\n\n📊 Supabase — 55%\n📊 SupaBase — 77%\n... (6 items total)\n\nOne insight became obvious: patterns emerge when you look across the data.\n\nI'm seeing this in real time building real products.\n\nAre you upskilling for this market or waiting?\n\n#AI #Startup #Builder",
+      "hashtags": [
+        "#AI",
+        "#Startup"
+      ],
+      "chart_title": "Tool Comparison",
+      "chart_ink_color": "red",
+      "image_prompt": "A hand-drawn horizontal bar chart on white notebook paper, sketched with black and red ink pens. The chart shows Tool Comparison with 6 horizontal bars. Left side lists categories. Bars extend right showing relative percentages with % numbers at the end. Title at top in bold hand-lettered style. Pen strokes slightly imperfect, paper texture subtle. Black ink for text/axes. red ink for horizontal bars. Landscape orientation."
+    },
+    {
+      "day": "Monday",
+      "date": "2026-11-23",
+      "topic": "AI engineering skills in demand — Indian job market",
+      "research_source": "Scanned LinkedIn/JD data for AI engineering skills in demand — Indian job market",
+      "content_pillar": "AI-Enabled Building",
+      "post_type": "hot_take",
+      "hook_type": "F17",
+      "data_items": [
+        {
+          "label": "T3",
+          "percentage": 51
+        },
+        {
+          "label": "Cursor",
+          "percentage": 53
+        },
+        {
+          "label": "Flutter",
+          "percentage": 58
+        },
+        {
+          "label": "RAG",
+          "percentage": 76
+        },
+        {
+          "label": "SupaBase",
+          "percentage": 89
+        },
+        {
+          "label": "Cursor",
+          "percentage": 72
+        },
+        {
+          "label": "Cursor",
+          "percentage": 98
+        },
+        {
+          "label": "SupaBase",
+          "percentage": 82
+        },
+        {
+          "label": "Supabase",
+          "percentage": 79
+        }
+      ],
+      "post_text": "I scanned relevant data on AI engineering skills in demand — Indian job market. Here are the key findings 👇\n\n📊 T3 — 51%\n📊 Cursor — 53%\n... (9 items total)\n\nOne insight became obvious: patterns emerge when you look across the data.\n\nI'm seeing this in real time building real products.\n\nWhat tool are you using that actually ships?\n\n#AI #Startup #Builder",
+      "hashtags": [
+        "#AI",
+        "#Startup"
+      ],
+      "chart_title": "AI Skills Demand",
+      "chart_ink_color": "blue",
+      "image_prompt": "A hand-drawn horizontal bar chart on white notebook paper, sketched with black and blue ink pens. The chart shows AI Skills Demand with 9 horizontal bars. Left side lists categories. Bars extend right showing relative percentages with % numbers at the end. Title at top in bold hand-lettered style. Pen strokes slightly imperfect, paper texture subtle. Black ink for text/axes. blue ink for horizontal bars. Landscape orientation."
+    }
+  ]
+}

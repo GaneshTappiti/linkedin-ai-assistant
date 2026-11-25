@@ -1,0 +1,146 @@
+[
+  {
+    "college_name": "Gandhi Institute for Technological Advancement",
+    "alternative_names": [
+      "GITA Autonomous Bhubaneswar"
+    ],
+    "aishe_code": "C-30125",
+    "district": "Khordha",
+    "city": "Bhubaneswar",
+    "full_address": "Badaraghunathpur, Madanpur, Bhubaneswar - 752054",
+    "state_or_union_territory": "Odisha",
+    "affiliated_university": "Biju Patnaik University of Technology",
+    "official_website": "http://www.gita.edu.in",
+    "emails_found": [
+      "gita_bbsr@yahoo.com",
+      "info@gita.edu.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "gita.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.bput.ac.in",
+      "http://www.gita.edu.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "BPUT affiliated colleges roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Administrative operations handled via Yahoo Mail; students do not receive individual institutional email inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 12.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 68.3,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Silicon Institute of Technology",
+    "alternative_names": [
+      "Silicon Institute of Technology"
+    ],
+    "aishe_code": "C-30125",
+    "district": "Khordha",
+    "city": "Bhubaneswar",
+    "full_address": "Silicon Institute of Technology, Bhubaneswar, Odisha",
+    "state_or_union_territory": "Odisha",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://silicon.ac.in",
+    "emails_found": [
+      "info@silicon.ac.in"
+    ],
+    "domains_found": [
+      "silicon.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://ojee.nic.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 13.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 69.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "C.V. Raman Global University",
+    "alternative_names": [
+      "C.V. Raman Global University"
+    ],
+    "aishe_code": "C-30048",
+    "district": "Khordha",
+    "city": "Bhubaneswar",
+    "full_address": "C.V. Raman Global University, Bhubaneswar, Odisha",
+    "state_or_union_territory": "Odisha",
+    "affiliated_university": "Private Engineering Institute",
+    "official_website": "https://cgu-odisha.ac.in",
+    "emails_found": [
+      "info@cgu-odisha.ac.in"
+    ],
+    "domains_found": [
+      "cgu-odisha.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://ojee.nic.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4200,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 13.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 72.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  }
+]

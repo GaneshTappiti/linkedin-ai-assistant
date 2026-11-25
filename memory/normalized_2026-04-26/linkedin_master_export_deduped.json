@@ -1,0 +1,312 @@
+{
+  "export_version": "2.0-deduped",
+  "generated_at": "2026-04-26T08:58:00.277451Z",
+  "status": "deduplication_complete",
+  "synthesis_version": "2.0",
+  "deduplication_report": {
+    "total_posts_processed": 18,
+    "unique_posts_retained": 10,
+    "duplicates_removed": 8,
+    "deduplication_rate": "44.4%",
+    "sources_analyzed": {
+      "linkedin_recent_posts": 10,
+      "linkedin_master_export": 8
+    }
+  },
+  "profile_identity": {
+    "name": "Tappiti (Dev) Ganesh",
+    "headline": "Founder @Clstr | Building the social network for college communities | Product Designer × Full-Stack Engineer",
+    "location": "Visakhapatnam, Andhra Pradesh, India",
+    "about": "I am Ganesh, a product-first builder and design-minded developer studying CSM at Raghu Engineering College. I enjoy creating practical tools, helping students turn ideas into real projects, and building things that solve problems with or without code."
+  },
+  "network_metrics": {
+    "followers": "2,021",
+    "connections": "500+",
+    "profile_views": "310",
+    "post_impressions_7d": "1,324",
+    "search_appearances_7d": "19"
+  },
+  "engagement_aggregates": {
+    "total_reactions": 630,
+    "total_comments": 6,
+    "total_reposts": 6,
+    "total_impressions": 15916,
+    "avg_reactions_per_post": 63.0,
+    "avg_impressions_per_post": 1592.0
+  },
+  "posts_deduped": [
+    {
+      "index": 6,
+      "timestamp": "1mo",
+      "topic": "CIC I3 conclave representation and ecosystem networking",
+      "key_tags": [
+        "Clstr",
+        "StartupJourney",
+        "Entrepreneurship",
+        "I3Conclave",
+        "Networking"
+      ],
+      "engagement": {
+        "reactions": 138,
+        "comments": 0,
+        "reposts": 0,
+        "impressions": 3492
+      }
+    },
+    {
+      "index": 7,
+      "timestamp": "1mo",
+      "topic": "Duplicate of CIC I3 conclave post",
+      "key_tags": [
+        "Clstr",
+        "StartupJourney",
+        "Entrepreneurship"
+      ],
+      "engagement": {
+        "reactions": 138,
+        "comments": 0,
+        "reposts": 0,
+        "impressions": 3492
+      }
+    },
+    {
+      "index": 5,
+      "timestamp": "1mo",
+      "topic": "Clstr featured in Top 10 startups (Vizag cluster)",
+      "key_tags": [
+        "Clstr",
+        "StartupJourney",
+        "BuildInPublic",
+        "Innovation",
+        "VizagStartup"
+      ],
+      "engagement": {
+        "reactions": 85,
+        "comments": 2,
+        "reposts": 3,
+        "impressions": 2719
+      }
+    },
+    {
+      "index": 4,
+      "timestamp": "3w",
+      "topic": "Campus ambassador/operator recruitment for Clstr",
+      "key_tags": [
+        "startup",
+        "Clstr",
+        "CampusAmbassador",
+        "StartupIndia",
+        "StudentFounders"
+      ],
+      "engagement": {
+        "reactions": 50,
+        "comments": 0,
+        "reposts": 0,
+        "impressions": 1235
+      }
+    },
+    {
+      "index": 8,
+      "timestamp": "1mo",
+      "topic": "PWA install flow to remove app-store friction",
+      "key_tags": [
+        "Clstr",
+        "PWA",
+        "IndianStartup",
+        "BuildInPublic",
+        "CollegeStudents"
+      ],
+      "engagement": {
+        "reactions": 46,
+        "comments": 1,
+        "reposts": 1,
+        "impressions": 999
+      }
+    },
+    {
+      "index": 9,
+      "timestamp": "1mo",
+      "topic": "Duplicate of PWA install flow post",
+      "key_tags": [
+        "Clstr",
+        "PWA",
+        "IndianStartup"
+      ],
+      "engagement": {
+        "reactions": 46,
+        "comments": 1,
+        "reposts": 1,
+        "impressions": 999
+      }
+    },
+    {
+      "index": 10,
+      "timestamp": "1mo",
+      "topic": "Supabase outage response and resilience engineering",
+      "key_tags": [
+        "startup",
+        "founder",
+        "engineering",
+        "resilience",
+        "buildinpublic"
+      ],
+      "engagement": {
+        "reactions": 34,
+        "comments": 2,
+        "reposts": 1,
+        "impressions": 994
+      }
+    },
+    {
+      "index": 1,
+      "timestamp": "5d",
+      "topic": "Security fundamentals while building fast",
+      "key_tags": [
+        "BuildInPublic",
+        "Security",
+        "Developers",
+        "Startups",
+        "Vercel",
+        "ProductBuilding"
+      ],
+      "engagement": {
+        "reactions": 33,
+        "comments": 0,
+        "reposts": 0,
+        "impressions": 832
+      }
+    },
+    {
+      "index": 3,
+      "timestamp": "1w",
+      "topic": "Vibe coding trade-offs and execution quality",
+      "key_tags": [
+        "VibeCoding",
+        "AI",
+        "BuildInPublic",
+        "ProductThinking",
+        "Startups"
+      ],
+      "engagement": {
+        "reactions": 32,
+        "comments": 0,
+        "reposts": 0,
+        "impressions": 645
+      }
+    },
+    {
+      "index": 2,
+      "timestamp": "1w",
+      "topic": "Layoffs to AI-enabled entrepreneurship transition",
+      "key_tags": [
+        "FutureOfWork",
+        "AI",
+        "Entrepreneurship",
+        "CareerTransition",
+        "Solopreneur"
+      ],
+      "engagement": {
+        "reactions": 28,
+        "comments": 0,
+        "reposts": 0,
+        "impressions": 509
+      }
+    }
+  ],
+  "duplicates_removed_log": [
+    {
+      "original_index": 10,
+      "duplicate_of_index": 0,
+      "topic": "Security fundamentals while building fast",
+      "engagement": {
+        "reactions": 33,
+        "comments": 0,
+        "reposts": 0,
+        "impressions": 832
+      }
+    },
+    {
+      "original_index": 11,
+      "duplicate_of_index": 1,
+      "topic": "Layoffs to AI-enabled entrepreneurship transition",
+      "engagement": {
+        "reactions": 28,
+        "comments": 0,
+        "reposts": 0,
+        "impressions": 509
+      }
+    },
+    {
+      "original_index": 12,
+      "duplicate_of_index": 2,
+      "topic": "Vibe coding trade-offs and execution quality",
+      "engagement": {
+        "reactions": 32,
+        "comments": 0,
+        "reposts": 0,
+        "impressions": 645
+      }
+    },
+    {
+      "original_index": 13,
+      "duplicate_of_index": 3,
+      "topic": "Campus ambassador/operator recruitment for Clstr",
+      "engagement": {
+        "reactions": 50,
+        "comments": 0,
+        "reposts": 0,
+        "impressions": 1235
+      }
+    },
+    {
+      "original_index": 14,
+      "duplicate_of_index": 4,
+      "topic": "Clstr featured in Top 10 startups (Vizag cluster)",
+      "engagement": {
+        "reactions": 85,
+        "comments": 2,
+        "reposts": 3,
+        "impressions": 2719
+      }
+    },
+    {
+      "original_index": 15,
+      "duplicate_of_index": 5,
+      "topic": "CIC I3 conclave representation and ecosystem networking",
+      "engagement": {
+        "reactions": 138,
+        "comments": 0,
+        "reposts": 0,
+        "impressions": 3492
+      }
+    },
+    {
+      "original_index": 16,
+      "duplicate_of_index": 7,
+      "topic": "PWA install flow to remove app-store friction",
+      "engagement": {
+        "reactions": 46,
+        "comments": 1,
+        "reposts": 1,
+        "impressions": 999
+      }
+    },
+    {
+      "original_index": 17,
+      "duplicate_of_index": 9,
+      "topic": "Supabase outage response and resilience engineering",
+      "engagement": {
+        "reactions": 34,
+        "comments": 2,
+        "reposts": 1,
+        "impressions": 994
+      }
+    }
+  ],
+  "conversation_context": "",
+  "profile_themes": {
+    "core_identity": [],
+    "dominant_content_themes": [],
+    "gaps_identified": []
+  }
+}

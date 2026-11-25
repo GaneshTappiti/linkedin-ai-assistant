@@ -1,0 +1,195 @@
+[
+  {
+    "college_name": "Silver Oak College of Engineering and Technology",
+    "alternative_names": [
+      "SOCET Ahmedabad"
+    ],
+    "aishe_code": "C-255",
+    "district": "Ahmedabad",
+    "city": "Ahmedabad",
+    "full_address": "Opp. Bhagwat Vidyapith, S.G. Highway, Gota, Ahmedabad - 382481",
+    "state_or_union_territory": "Gujarat",
+    "affiliated_university": "Gujarat Technological University",
+    "official_website": "http://www.socet.edu.in",
+    "emails_found": [
+      "socet_ahmedabad@yahoo.com",
+      "info@socet.edu.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "socet.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://gtu.ac.in",
+      "http://www.socet.edu.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "GTU affiliated colleges roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Administration uses Yahoo Mail; students are not provided individual institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 67.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Sarvajanik College of Engineering and Technology",
+    "alternative_names": [
+      "SCET Surat"
+    ],
+    "aishe_code": "C-251",
+    "district": "Surat",
+    "city": "Surat",
+    "full_address": "Dr. R.K. Desai Marg, Opp. Mission Hospital, Athwalines, Surat - 395001",
+    "state_or_union_territory": "Gujarat",
+    "affiliated_university": "Sarvajanik University",
+    "official_website": "http://www.scet.ac.in",
+    "emails_found": [
+      "scet_surat@yahoo.com",
+      "principal@scet.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "scet.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://gtu.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official university affiliation directory audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for regulatory desk; students lack college-owned email.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3200,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 20.0,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 60.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "L.J. Institute of Engineering and Technology",
+    "alternative_names": [
+      "L.J. Institute of Engineering and Technology"
+    ],
+    "aishe_code": "C-6338",
+    "district": "Ahmedabad",
+    "city": "Ahmedabad",
+    "full_address": "L.J. Institute of Engineering and Technology, Ahmedabad, Gujarat",
+    "state_or_union_territory": "Gujarat",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "https://ljiet.ljku.edu.in",
+    "emails_found": [
+      "ljiet@ljku.edu.in"
+    ],
+    "domains_found": [
+      "ljku.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.jacpcldce.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3800,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 23.8,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 69.3,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Parul Institute of Engineering and Technology",
+    "alternative_names": [
+      "Parul Institute of Engineering and Technology"
+    ],
+    "aishe_code": "C-6362",
+    "district": "Vadodara",
+    "city": "Vadodara",
+    "full_address": "Parul Institute of Engineering and Technology, Vadodara, Gujarat",
+    "state_or_union_territory": "Gujarat",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "https://www.paruluniversity.ac.in",
+    "emails_found": [
+      "piet@paruluniversity.ac.in"
+    ],
+    "domains_found": [
+      "paruluniversity.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.jacpcldce.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 5400,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 13.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 67.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  }
+]

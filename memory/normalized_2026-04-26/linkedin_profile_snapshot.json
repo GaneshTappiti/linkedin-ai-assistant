@@ -1,0 +1,161 @@
+{
+  "snapshot_version": "3.0-live-crawl",
+  "snapshot_timestamp": "2026-11-12T08:52:00Z",
+  "profile_url": "https://www.linkedin.com/in/ganeshtappiti/",
+  "identity": {
+    "name": "Tappiti (Dev) Ganesh",
+    "verified": true,
+    "pronouns": "He/Him",
+    "headline": "Founder @Clstr | Building the social network for college communities | Product Designer × Full-Stack Engineer",
+    "location": "Visakhapatnam, Andhra Pradesh, India",
+    "contact": {
+      "email": "2005ganesh16@gmail.com",
+      "phone": "+91 8919285236"
+    },
+    "banner": "GANESH TAPPITI | Product Designer & Entrepreneur"
+  },
+  "metrics": {
+    "followers": 2021,
+    "connections": "500+",
+    "profile_views_recent": 310,
+    "post_impressions_7d": 1300,
+    "search_appearances_7d": 19,
+    "campus_node_activity": {
+      "college": "Raghu Engineering College",
+      "activity": 84,
+      "visitors": 923
+    }
+  },
+  "about": "I am a product-first builder and design-minded engineer focused on campus infrastructure and founder networks.\n\nCurrently building clstr.in, a verified campus social OS for college students with institutional trust and local network effects.\n\nI ship fast without breaking trust, learn through real user feedback, and document the journey in public.\n\nOpen to connecting with student founders, builders, and campus operators.",
+  "featured_posts": [
+    {
+      "title": "Launch of Clstr (clstr.in)",
+      "date": "2026-01-23",
+      "description": "Quietly launched Clstr, a private campus network for students to connect with alumni, clubs, mentors, and project teammates inside their college community (clstr.in). Early users mostly from Raghu Engineering College.",
+      "stats": "86 reactions · 3 comments"
+    },
+    {
+      "title": "Hackverse 1.0 – Pre-Hackathon Workshop",
+      "description": "Led workshop for 450+ students on 'Leveraging AI and Next-Gen Tools to Accelerate Your Hackathon Workflow'.",
+      "stats": "113 reactions · 4 comments"
+    },
+    {
+      "title": "Hackverse 1.0 Hackathon Execution",
+      "description": "24-hour hackathon milestone for Raghu Engineering College with 400+ participants across Andhra Pradesh.",
+      "stats": "28 reactions"
+    },
+    {
+      "title": "GDSC WOW 2024 Vizag at GITAM",
+      "description": "Organizing team across outreach, design, content, and logistics with 500+ attendees across Andhra Pradesh.",
+      "stats": "67 reactions · 2 comments"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Founder",
+      "company": "clstr",
+      "type": "Full-time",
+      "duration": "Jan 2026 – Present (11 mos)",
+      "location": "Visakhapatnam, Andhra Pradesh, India · On-site",
+      "description": "Building Clstr — a social network built for college communities. Connects students, seniors, alumni, clubs, and campus communities in a verified digital ecosystem. Focus: Product strategy, UX, Full-stack engineering, campus growth, and student/alumni networks.",
+      "skills": ["Start-up Leadership", "Product Design", "Full-Stack Engineering", "Community Building"]
+    },
+    {
+      "role": "Campus Ambassador",
+      "company": "Aspire Institute India",
+      "type": "Internship",
+      "duration": "Nov 2025 – Nov 2026 (1 yr 1 mo)",
+      "location": "Vishakhapatnam, Andhra Pradesh, India · Remote",
+      "description": "Campus outreach for Aspire Leaders Program 2026 (developed in collaboration with Harvard Business School faculty). Leading student registrations, info sessions, and institutional MoU discussions.",
+      "credential": "Aspire India – Campus Ambassador Offer Letter.pdf"
+    },
+    {
+      "role": "Cohort 5 – Aspire Leaders Program Participant",
+      "company": "Aspire Institute",
+      "type": "Apprenticeship",
+      "duration": "Aug 2025 – May 2026 (10 mos)",
+      "location": "Remote",
+      "description": "Selected for global leadership initiative founded by Harvard faculty and Lakshmi Mittal & Family South Asia Institute."
+    },
+    {
+      "role": "Campus Ambassador – Unstop",
+      "company": "Unstop",
+      "type": "Part-time",
+      "duration": "Aug 2025 – May 2026 (10 mos)",
+      "location": "Remote",
+      "description": "Drove participation in national competitions, hackathons, and case challenges for 200+ REC students.",
+      "credential": "Tappiti Ganesh - Offer Letter.pdf"
+    },
+    {
+      "role": "Executive Secretary – Chaayachitram Photography Club",
+      "company": "Raghu Engineering College",
+      "type": "Part-time",
+      "duration": "Aug 2025 – May 2026 (10 mos)",
+      "description": "Event planning, institutional photo documentation, exhibition and competition logistics."
+    },
+    {
+      "role": "Photography Club Lead",
+      "company": "Raghu Engineering College",
+      "type": "Full-time",
+      "duration": "Jan 2024 – Jul 2025 (1 yr 7 mos)",
+      "description": "Led student photography club, organized creative events, trained campus photographers."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Raghu Engineering College",
+      "degree": "Computer Science & Management (CSM)",
+      "duration": "Aug 2023 – Sep 2027",
+      "grade": "A",
+      "activities": "Photography Club Lead, ECell REC Design & Branding Head, Startup Club Core Member"
+    },
+    {
+      "institution": "DAV Schools Network",
+      "activities": "Advertising and Adobe Photoshop foundations"
+    }
+  ],
+  "licenses_and_certifications": [
+    {
+      "name": "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
+      "issuer": "Oracle",
+      "issued": "Aug 2025",
+      "expires": "Aug 2027"
+    },
+    {
+      "name": "Agentic Coding: Full-Stack Java Apps with Cursor and Copilot",
+      "issuer": "Udemy",
+      "issued": "Dec 2025",
+      "credential_id": "UC-2f619146-b680-43db-ad63-e3979dadeb7a"
+    },
+    {
+      "name": "Professional Certificate in Customer Experience Management",
+      "issuer": "Professional Certification"
+    }
+  ],
+  "skills_count": 68,
+  "top_skills": [
+    "Start-up Ventures",
+    "Community Building",
+    "Product Design",
+    "Full-Stack Engineering",
+    "Agentic Mode",
+    "Artificial Intelligence (AI)",
+    "Figma",
+    "React",
+    "Flutter",
+    "Firebase"
+  ],
+  "connected_apps": [
+    "Adobe Express",
+    "Wispr Flow",
+    "GitHub Copilot",
+    "Replit Agent"
+  ],
+  "team_members_mentioned": [
+    "Revanth Gudimetla (Co-builder / Tech)",
+    "Jeevan sai Eddipilli (Co-builder / Tech)",
+    "Namburu Sahasra (Campus Ambassador / Marketing)",
+    "Krishna (Campus Ambassador / Marketing)"
+  ]
+}
+

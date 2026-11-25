@@ -1,0 +1,28 @@
+500 students at a campus fest entrance will break your ticketing app.
+
+Happens every time.
+
+At our last event, the college Wi-Fi died within 10 minutes. 350 people stood in line outside the hall, mobile data dropped to zero bars, and 40 students pulled out ₹349 in paper cash asking to pay right there.
+
+Most ticketing tools assume everyone's got 5G and working UPI.
+
+On an Indian engineering campus, that assumption kills your line before you've even opened.
+
+So when building the event ticketing layer for our campus community, we had to rethink gate flow from scratch.
+
+Instead of blocking walk-ins, we built an offline box-office mode directly into our TanStack Start app.
+
+Here's how we did it:
+Volunteers issue walk-in tickets in under 6 seconds.
+The device generates an HMAC-SHA256 signed QR pass completely offline.
+Our scanner validates the pass instantly using local crypto tokens without pinging the cloud.
+Once the college network wakes back up, the ledger batches all 80+ transactions back to Supabase.
+
+Zero gate delays. Zero stranded attendees.
+
+When you're shipping software for physical spaces, you learn fast: the bottleneck isn't database latency. It's the 30-meter crowd waiting outside your door.
+
+For student organizers: what broke first at your college registration desk?
+
+#BuildInPublic #Startups
+

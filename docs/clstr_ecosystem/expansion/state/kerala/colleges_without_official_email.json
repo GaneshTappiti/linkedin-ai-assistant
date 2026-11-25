@@ -1,0 +1,29 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Thiruvananthapuram",
+      "state_or_union_territory": "Kerala",
+      "college_name": "Mar Baselios College of Engineering and Technology"
+    },
+    {
+      "city": "Kochi",
+      "state_or_union_territory": "Kerala",
+      "college_name": "SCMS School of Engineering and Technology"
+    },
+    {
+      "city": "Kochi",
+      "state_or_union_territory": "Kerala",
+      "college_name": "Rajagiri School of Engineering and Technology"
+    },
+    {
+      "city": "Kochi",
+      "state_or_union_territory": "Kerala",
+      "college_name": "Federal Institute of Science and Technology"
+    },
+    {
+      "city": "Thrissur",
+      "state_or_union_territory": "Kerala",
+      "college_name": "Vidya Academy of Science and Technology"
+    }
+  ]
+}

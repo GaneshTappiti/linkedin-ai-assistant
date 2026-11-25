@@ -1,0 +1,14 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Bhilai",
+      "state_or_union_territory": "Chhattisgarh",
+      "college_name": "Rungta College of Engineering and Technology"
+    },
+    {
+      "city": "Bhilai",
+      "state_or_union_territory": "Chhattisgarh",
+      "college_name": "Bhilai Institute of Technology"
+    }
+  ]
+}

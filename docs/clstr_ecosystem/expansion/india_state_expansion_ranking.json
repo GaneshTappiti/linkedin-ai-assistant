@@ -1,0 +1,263 @@
+[
+  {
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 80,
+    "tier_a_cities_count": 3,
+    "total_student_pool": 174300,
+    "state_expansion_score": 99.0,
+    "priority_tier": "Phase 1 - Launch Anchor",
+    "state_rank": 1
+  },
+  {
+    "state_or_union_territory": "Telangana",
+    "target_engineering_colleges": 32,
+    "tier_a_cities_count": 1,
+    "total_student_pool": 96700,
+    "state_expansion_score": 74.6,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 2
+  },
+  {
+    "state_or_union_territory": "Tamil Nadu",
+    "target_engineering_colleges": 15,
+    "tier_a_cities_count": 2,
+    "total_student_pool": 57500,
+    "state_expansion_score": 60.9,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 3
+  },
+  {
+    "state_or_union_territory": "Maharashtra",
+    "target_engineering_colleges": 14,
+    "tier_a_cities_count": 1,
+    "total_student_pool": 50300,
+    "state_expansion_score": 50.4,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 4
+  },
+  {
+    "state_or_union_territory": "Karnataka",
+    "target_engineering_colleges": 12,
+    "tier_a_cities_count": 1,
+    "total_student_pool": 39600,
+    "state_expansion_score": 46.3,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 5
+  },
+  {
+    "state_or_union_territory": "Uttar Pradesh",
+    "target_engineering_colleges": 9,
+    "tier_a_cities_count": 1,
+    "total_student_pool": 37200,
+    "state_expansion_score": 35.6,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 6
+  },
+  {
+    "state_or_union_territory": "Rajasthan",
+    "target_engineering_colleges": 5,
+    "tier_a_cities_count": 1,
+    "total_student_pool": 20400,
+    "state_expansion_score": 28.6,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 7
+  },
+  {
+    "state_or_union_territory": "West Bengal",
+    "target_engineering_colleges": 5,
+    "tier_a_cities_count": 1,
+    "total_student_pool": 19500,
+    "state_expansion_score": 28.4,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 8
+  },
+  {
+    "state_or_union_territory": "Kerala",
+    "target_engineering_colleges": 5,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 15300,
+    "state_expansion_score": 19.3,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 9
+  },
+  {
+    "state_or_union_territory": "Punjab",
+    "target_engineering_colleges": 4,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 17400,
+    "state_expansion_score": 19.1,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 10
+  },
+  {
+    "state_or_union_territory": "Gujarat",
+    "target_engineering_colleges": 4,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 16400,
+    "state_expansion_score": 18.9,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 11
+  },
+  {
+    "state_or_union_territory": "Madhya Pradesh",
+    "target_engineering_colleges": 4,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 15900,
+    "state_expansion_score": 18.8,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 12
+  },
+  {
+    "state_or_union_territory": "Odisha",
+    "target_engineering_colleges": 3,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 11400,
+    "state_expansion_score": 16.9,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 13
+  },
+  {
+    "state_or_union_territory": "Assam",
+    "target_engineering_colleges": 3,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 6900,
+    "state_expansion_score": 15.8,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 14
+  },
+  {
+    "state_or_union_territory": "Chhattisgarh",
+    "target_engineering_colleges": 2,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 6800,
+    "state_expansion_score": 15.1,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 15
+  },
+  {
+    "state_or_union_territory": "Delhi",
+    "target_engineering_colleges": 2,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 6400,
+    "state_expansion_score": 15.0,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 16
+  },
+  {
+    "state_or_union_territory": "Uttarakhand",
+    "target_engineering_colleges": 2,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 5700,
+    "state_expansion_score": 14.8,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 17
+  },
+  {
+    "state_or_union_territory": "Bihar",
+    "target_engineering_colleges": 2,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 5600,
+    "state_expansion_score": 14.8,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 18
+  },
+  {
+    "state_or_union_territory": "Jammu and Kashmir",
+    "target_engineering_colleges": 2,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 4400,
+    "state_expansion_score": 14.5,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 19
+  },
+  {
+    "state_or_union_territory": "Tripura",
+    "target_engineering_colleges": 2,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 3400,
+    "state_expansion_score": 14.2,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 20
+  },
+  {
+    "state_or_union_territory": "Goa",
+    "target_engineering_colleges": 2,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 3400,
+    "state_expansion_score": 14.2,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 21
+  },
+  {
+    "state_or_union_territory": "Puducherry",
+    "target_engineering_colleges": 1,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 3800,
+    "state_expansion_score": 13.7,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 22
+  },
+  {
+    "state_or_union_territory": "Haryana",
+    "target_engineering_colleges": 1,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 2800,
+    "state_expansion_score": 13.4,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 23
+  },
+  {
+    "state_or_union_territory": "Jharkhand",
+    "target_engineering_colleges": 1,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 2600,
+    "state_expansion_score": 13.3,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 24
+  },
+  {
+    "state_or_union_territory": "Himachal Pradesh",
+    "target_engineering_colleges": 1,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 1800,
+    "state_expansion_score": 13.2,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 25
+  },
+  {
+    "state_or_union_territory": "Manipur",
+    "target_engineering_colleges": 1,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 1400,
+    "state_expansion_score": 13.1,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 26
+  },
+  {
+    "state_or_union_territory": "Andaman and Nicobar Islands",
+    "target_engineering_colleges": 1,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 1600,
+    "state_expansion_score": 13.1,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 27
+  },
+  {
+    "state_or_union_territory": "Meghalaya",
+    "target_engineering_colleges": 1,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 1200,
+    "state_expansion_score": 13.0,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 28
+  },
+  {
+    "state_or_union_territory": "Dadra and Nagar Haveli and Daman and Diu",
+    "target_engineering_colleges": 1,
+    "tier_a_cities_count": 0,
+    "total_student_pool": 1100,
+    "state_expansion_score": 13.0,
+    "priority_tier": "Phase 3 - Scale Out",
+    "state_rank": 29
+  }
+]

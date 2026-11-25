@@ -1,0 +1,882 @@
+[
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "target_engineering_colleges": 26,
+    "estimated_student_pool": 80200,
+    "city_opportunity_score": 86.0,
+    "priority_tier": "A",
+    "recommended_launch_order": 3,
+    "city_rank": 1
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 15,
+    "estimated_student_pool": 30600,
+    "city_opportunity_score": 86.0,
+    "priority_tier": "A",
+    "recommended_launch_order": 1,
+    "city_rank": 2
+  },
+  {
+    "city": "Vijayawada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 11,
+    "estimated_student_pool": 26100,
+    "city_opportunity_score": 86.0,
+    "priority_tier": "A",
+    "recommended_launch_order": 2,
+    "city_rank": 3
+  },
+  {
+    "city": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "target_engineering_colleges": 9,
+    "estimated_student_pool": 34200,
+    "city_opportunity_score": 86.0,
+    "priority_tier": "A",
+    "recommended_launch_order": 4,
+    "city_rank": 4
+  },
+  {
+    "city": "Bengaluru",
+    "state_or_union_territory": "Karnataka",
+    "target_engineering_colleges": 9,
+    "estimated_student_pool": 30200,
+    "city_opportunity_score": 86.0,
+    "priority_tier": "A",
+    "recommended_launch_order": 4,
+    "city_rank": 5
+  },
+  {
+    "city": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 7,
+    "estimated_student_pool": 18500,
+    "city_opportunity_score": 80.5,
+    "priority_tier": "B",
+    "recommended_launch_order": 4,
+    "city_rank": 6
+  },
+  {
+    "city": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "target_engineering_colleges": 7,
+    "estimated_student_pool": 26200,
+    "city_opportunity_score": 80.5,
+    "priority_tier": "B",
+    "recommended_launch_order": 4,
+    "city_rank": 7
+  },
+  {
+    "city": "Anakapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 5,
+    "estimated_student_pool": 10500,
+    "city_opportunity_score": 73.5,
+    "priority_tier": "B",
+    "recommended_launch_order": 4,
+    "city_rank": 8
+  },
+  {
+    "city": "Jaipur",
+    "state_or_union_territory": "Rajasthan",
+    "target_engineering_colleges": 5,
+    "estimated_student_pool": 20400,
+    "city_opportunity_score": 73.5,
+    "priority_tier": "B",
+    "recommended_launch_order": 4,
+    "city_rank": 9
+  },
+  {
+    "city": "Parvathipuram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 4,
+    "estimated_student_pool": 6000,
+    "city_opportunity_score": 70.0,
+    "priority_tier": "B",
+    "recommended_launch_order": 4,
+    "city_rank": 10
+  },
+  {
+    "city": "Coimbatore",
+    "state_or_union_territory": "Tamil Nadu",
+    "target_engineering_colleges": 4,
+    "estimated_student_pool": 16300,
+    "city_opportunity_score": 70.0,
+    "priority_tier": "B",
+    "recommended_launch_order": 4,
+    "city_rank": 11
+  },
+  {
+    "city": "Kolkata",
+    "state_or_union_territory": "West Bengal",
+    "target_engineering_colleges": 4,
+    "estimated_student_pool": 16000,
+    "city_opportunity_score": 70.0,
+    "priority_tier": "B",
+    "recommended_launch_order": 4,
+    "city_rank": 12
+  },
+  {
+    "city": "Ghaziabad",
+    "state_or_union_territory": "Uttar Pradesh",
+    "target_engineering_colleges": 4,
+    "estimated_student_pool": 16400,
+    "city_opportunity_score": 70.0,
+    "priority_tier": "B",
+    "recommended_launch_order": 4,
+    "city_rank": 13
+  },
+  {
+    "city": "Tirupati",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 3,
+    "estimated_student_pool": 7400,
+    "city_opportunity_score": 66.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 14
+  },
+  {
+    "city": "Ongole",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 3,
+    "estimated_student_pool": 8100,
+    "city_opportunity_score": 66.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 15
+  },
+  {
+    "city": "Warangal",
+    "state_or_union_territory": "Telangana",
+    "target_engineering_colleges": 3,
+    "estimated_student_pool": 9900,
+    "city_opportunity_score": 66.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 16
+  },
+  {
+    "city": "Mumbai",
+    "state_or_union_territory": "Maharashtra",
+    "target_engineering_colleges": 3,
+    "estimated_student_pool": 8200,
+    "city_opportunity_score": 66.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 17
+  },
+  {
+    "city": "Kochi",
+    "state_or_union_territory": "Kerala",
+    "target_engineering_colleges": 3,
+    "estimated_student_pool": 9600,
+    "city_opportunity_score": 66.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 18
+  },
+  {
+    "city": "Bhopal",
+    "state_or_union_territory": "Madhya Pradesh",
+    "target_engineering_colleges": 3,
+    "estimated_student_pool": 12300,
+    "city_opportunity_score": 66.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 19
+  },
+  {
+    "city": "Bhubaneswar",
+    "state_or_union_territory": "Odisha",
+    "target_engineering_colleges": 3,
+    "estimated_student_pool": 11400,
+    "city_opportunity_score": 66.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 20
+  },
+  {
+    "city": "Mohali",
+    "state_or_union_territory": "Punjab",
+    "target_engineering_colleges": 3,
+    "estimated_student_pool": 13800,
+    "city_opportunity_score": 66.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 21
+  },
+  {
+    "city": "Guwahati",
+    "state_or_union_territory": "Assam",
+    "target_engineering_colleges": 3,
+    "estimated_student_pool": 6900,
+    "city_opportunity_score": 66.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 22
+  },
+  {
+    "city": "Chirala",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 4100,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 23
+  },
+  {
+    "city": "Anantapur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 3700,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 24
+  },
+  {
+    "city": "Nellore",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 4700,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 25
+  },
+  {
+    "city": "Srikakulam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 3300,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 26
+  },
+  {
+    "city": "Bhimavaram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 3800,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 27
+  },
+  {
+    "city": "Greater Noida",
+    "state_or_union_territory": "Uttar Pradesh",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 8700,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 28
+  },
+  {
+    "city": "Ahmedabad",
+    "state_or_union_territory": "Gujarat",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 7400,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 29
+  },
+  {
+    "city": "Patna",
+    "state_or_union_territory": "Bihar",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 5600,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 30
+  },
+  {
+    "city": "Bhilai",
+    "state_or_union_territory": "Chhattisgarh",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 6800,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 31
+  },
+  {
+    "city": "Dehradun",
+    "state_or_union_territory": "Uttarakhand",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 5700,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 32
+  },
+  {
+    "city": "Agartala",
+    "state_or_union_territory": "Tripura",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 3400,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 33
+  },
+  {
+    "city": "Delhi",
+    "state_or_union_territory": "Delhi",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 6400,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 34
+  },
+  {
+    "city": "Mangaluru",
+    "state_or_union_territory": "Karnataka",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 6000,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 35
+  },
+  {
+    "city": "Nagpur",
+    "state_or_union_territory": "Maharashtra",
+    "target_engineering_colleges": 2,
+    "estimated_student_pool": 8300,
+    "city_opportunity_score": 63.0,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 36
+  },
+  {
+    "city": "Machilipatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1500,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 37
+  },
+  {
+    "city": "Tenali",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 38
+  },
+  {
+    "city": "Macherla",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 39
+  },
+  {
+    "city": "Sattenapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1900,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 40
+  },
+  {
+    "city": "Bapatla",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3400,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 41
+  },
+  {
+    "city": "Puttur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3200,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 42
+  },
+  {
+    "city": "Kuppam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 43
+  },
+  {
+    "city": "Kakinada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3000,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 44
+  },
+  {
+    "city": "Amalapuram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2200,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 45
+  },
+  {
+    "city": "Rampachodavaram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1400,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 46
+  },
+  {
+    "city": "Rajahmundry",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1900,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 47
+  },
+  {
+    "city": "Nandyal",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2200,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 48
+  },
+  {
+    "city": "Kurnool",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2100,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 49
+  },
+  {
+    "city": "Yemmiganur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1600,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 50
+  },
+  {
+    "city": "Hindupur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1500,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 51
+  },
+  {
+    "city": "Gudur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2500,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 52
+  },
+  {
+    "city": "Kadapa",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2900,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 53
+  },
+  {
+    "city": "Rajampet",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3100,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 54
+  },
+  {
+    "city": "Proddatur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1600,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 55
+  },
+  {
+    "city": "Garividi",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1500,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 56
+  },
+  {
+    "city": "Bobbili",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1700,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 57
+  },
+  {
+    "city": "Eluru",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2900,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 58
+  },
+  {
+    "city": "Lucknow",
+    "state_or_union_territory": "Uttar Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3500,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 59
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "state_or_union_territory": "Kerala",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2900,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 60
+  },
+  {
+    "city": "Gurugram",
+    "state_or_union_territory": "Haryana",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 61
+  },
+  {
+    "city": "Ranchi",
+    "state_or_union_territory": "Jharkhand",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2600,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 62
+  },
+  {
+    "city": "Solan",
+    "state_or_union_territory": "Himachal Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 63
+  },
+  {
+    "city": "Shillong",
+    "state_or_union_territory": "Meghalaya",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1200,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 64
+  },
+  {
+    "city": "Imphal",
+    "state_or_union_territory": "Manipur",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1400,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 65
+  },
+  {
+    "city": "Jammu",
+    "state_or_union_territory": "Jammu and Kashmir",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2600,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 66
+  },
+  {
+    "city": "Puducherry",
+    "state_or_union_territory": "Puducherry",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 67
+  },
+  {
+    "city": "Port Blair",
+    "state_or_union_territory": "Andaman and Nicobar Islands",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1600,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 68
+  },
+  {
+    "city": "Daman",
+    "state_or_union_territory": "Dadra and Nagar Haveli and Daman and Diu",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1100,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 69
+  },
+  {
+    "city": "Karimnagar",
+    "state_or_union_territory": "Telangana",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2600,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 70
+  },
+  {
+    "city": "Madurai",
+    "state_or_union_territory": "Tamil Nadu",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 71
+  },
+  {
+    "city": "Salem",
+    "state_or_union_territory": "Tamil Nadu",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 4200,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 72
+  },
+  {
+    "city": "Mysuru",
+    "state_or_union_territory": "Karnataka",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3400,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 73
+  },
+  {
+    "city": "Navi Mumbai",
+    "state_or_union_territory": "Maharashtra",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 74
+  },
+  {
+    "city": "Nashik",
+    "state_or_union_territory": "Maharashtra",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 75
+  },
+  {
+    "city": "Noida",
+    "state_or_union_territory": "Uttar Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 76
+  },
+  {
+    "city": "Kanpur",
+    "state_or_union_territory": "Uttar Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 4800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 77
+  },
+  {
+    "city": "Thrissur",
+    "state_or_union_territory": "Kerala",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 78
+  },
+  {
+    "city": "Vadodara",
+    "state_or_union_territory": "Gujarat",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 5400,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 79
+  },
+  {
+    "city": "Surat",
+    "state_or_union_territory": "Gujarat",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3600,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 80
+  },
+  {
+    "city": "Indore",
+    "state_or_union_territory": "Madhya Pradesh",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3600,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 81
+  },
+  {
+    "city": "Durgapur",
+    "state_or_union_territory": "West Bengal",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3500,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 82
+  },
+  {
+    "city": "Ludhiana",
+    "state_or_union_territory": "Punjab",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 3600,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 83
+  },
+  {
+    "city": "Margao",
+    "state_or_union_territory": "Goa",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 84
+  },
+  {
+    "city": "Verna",
+    "state_or_union_territory": "Goa",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1600,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 85
+  },
+  {
+    "city": "Baramulla",
+    "state_or_union_territory": "Jammu and Kashmir",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1800,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 86
+  },
+  {
+    "city": "Patancheru",
+    "state_or_union_territory": "Telangana",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 2100,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 87
+  },
+  {
+    "city": "Hanamkonda",
+    "state_or_union_territory": "Telangana",
+    "target_engineering_colleges": 1,
+    "estimated_student_pool": 1900,
+    "city_opportunity_score": 59.5,
+    "priority_tier": "C",
+    "recommended_launch_order": 4,
+    "city_rank": 88
+  }
+]

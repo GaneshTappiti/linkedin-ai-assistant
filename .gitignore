@@ -1,0 +1,59 @@
+# Environment & Secrets
+.env
+.env.*
+
+# Databases & Prospect PII
+*.db
+*.sqlite
+*.sqlite3
+data-tracking/outreach.db
+
+# Browser profiles & caches
+data-tracking/chrome-profile*/
+data-ab65f691*
+**/Crashpad/
+**/Cache/
+**/GPUCache/
+
+# Python caches & virtualenvs
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+env/
+venv/
+
+# Logs & temp dumps
+*.log
+insta_dump.txt
+insta_links.txt
+insta_post*.txt
+plan_output.txt
+latest_linkedin_post.txt
+
+# Screenshots & images generated during testing
+debug_*.png
+insta_*.png
+test_*.png
+linkedin_check_screenshot.png
+
+# Scratch
+scratch/
+
+# Detached third-party reference repositories
+agent-reach/
+linkedin-agent-skill/
+agentmemory-main/
+linkedin-skills-main/
+alwrity-linkedin/
+linkedin-agent/
+linkedin-llm-postgen/
+linkedin-post-generator-agent/
+linkedin-skills/
+LinkedInCraft-AI-Powered-LinkedIn-Post-Generator/
+marketingskills/
+social-media-agent/
+social-media-skills/
+
+# Standalone Main Repository
+linkedin-ai-assistant/

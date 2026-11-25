@@ -1,0 +1,882 @@
+[
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 15,
+    "estimated_student_opportunity": 30600,
+    "city_opportunity_score": 98.3,
+    "priority_tier": "TIER A - PRIORITY LAUNCH CITY",
+    "recommended_action": "Anchor city launch: deploy city lead, onboard top 5 campuses simultaneously, host cross-college kickoff",
+    "rank": 1
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "target_college_count": 26,
+    "estimated_student_opportunity": 80200,
+    "city_opportunity_score": 97.3,
+    "priority_tier": "TIER A - PRIORITY LAUNCH CITY",
+    "recommended_action": "Anchor city launch: deploy city lead, onboard top 5 campuses simultaneously, host cross-college kickoff",
+    "rank": 2
+  },
+  {
+    "city": "Vijayawada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 11,
+    "estimated_student_opportunity": 26100,
+    "city_opportunity_score": 95.3,
+    "priority_tier": "TIER A - PRIORITY LAUNCH CITY",
+    "recommended_action": "Anchor city launch: deploy city lead, onboard top 5 campuses simultaneously, host cross-college kickoff",
+    "rank": 3
+  },
+  {
+    "city": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "target_college_count": 9,
+    "estimated_student_opportunity": 34200,
+    "city_opportunity_score": 94.3,
+    "priority_tier": "TIER A - PRIORITY LAUNCH CITY",
+    "recommended_action": "Anchor city launch: deploy city lead, onboard top 5 campuses simultaneously, host cross-college kickoff",
+    "rank": 4
+  },
+  {
+    "city": "Bengaluru",
+    "state_or_union_territory": "Karnataka",
+    "target_college_count": 9,
+    "estimated_student_opportunity": 30200,
+    "city_opportunity_score": 94.3,
+    "priority_tier": "TIER A - PRIORITY LAUNCH CITY",
+    "recommended_action": "Anchor city launch: deploy city lead, onboard top 5 campuses simultaneously, host cross-college kickoff",
+    "rank": 5
+  },
+  {
+    "city": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "target_college_count": 7,
+    "estimated_student_opportunity": 26200,
+    "city_opportunity_score": 94.3,
+    "priority_tier": "TIER A - PRIORITY LAUNCH CITY",
+    "recommended_action": "Anchor city launch: deploy city lead, onboard top 5 campuses simultaneously, host cross-college kickoff",
+    "rank": 6
+  },
+  {
+    "city": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 7,
+    "estimated_student_opportunity": 18500,
+    "city_opportunity_score": 92.3,
+    "priority_tier": "TIER A - PRIORITY LAUNCH CITY",
+    "recommended_action": "Anchor city launch: deploy city lead, onboard top 5 campuses simultaneously, host cross-college kickoff",
+    "rank": 7
+  },
+  {
+    "city": "Jaipur",
+    "state_or_union_territory": "Rajasthan",
+    "target_college_count": 5,
+    "estimated_student_opportunity": 19700,
+    "city_opportunity_score": 85.2,
+    "priority_tier": "TIER B - HIGH PRIORITY",
+    "recommended_action": "Fast-follow city: establish 2-3 anchor engineering colleges, expand via inter-college tech fests",
+    "rank": 8
+  },
+  {
+    "city": "Coimbatore",
+    "state_or_union_territory": "Tamil Nadu",
+    "target_college_count": 4,
+    "estimated_student_opportunity": 16300,
+    "city_opportunity_score": 78.8,
+    "priority_tier": "TIER B - HIGH PRIORITY",
+    "recommended_action": "Fast-follow city: establish 2-3 anchor engineering colleges, expand via inter-college tech fests",
+    "rank": 9
+  },
+  {
+    "city": "Kolkata",
+    "state_or_union_territory": "West Bengal",
+    "target_college_count": 4,
+    "estimated_student_opportunity": 16000,
+    "city_opportunity_score": 77.3,
+    "priority_tier": "TIER B - HIGH PRIORITY",
+    "recommended_action": "Fast-follow city: establish 2-3 anchor engineering colleges, expand via inter-college tech fests",
+    "rank": 10
+  },
+  {
+    "city": "Anakapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 5,
+    "estimated_student_opportunity": 10500,
+    "city_opportunity_score": 75.7,
+    "priority_tier": "TIER B - HIGH PRIORITY",
+    "recommended_action": "Fast-follow city: establish 2-3 anchor engineering colleges, expand via inter-college tech fests",
+    "rank": 11
+  },
+  {
+    "city": "Ghaziabad",
+    "state_or_union_territory": "Uttar Pradesh",
+    "target_college_count": 4,
+    "estimated_student_opportunity": 16400,
+    "city_opportunity_score": 75.3,
+    "priority_tier": "TIER B - HIGH PRIORITY",
+    "recommended_action": "Fast-follow city: establish 2-3 anchor engineering colleges, expand via inter-college tech fests",
+    "rank": 12
+  },
+  {
+    "city": "Bhopal",
+    "state_or_union_territory": "Madhya Pradesh",
+    "target_college_count": 3,
+    "estimated_student_opportunity": 12300,
+    "city_opportunity_score": 68.9,
+    "priority_tier": "TIER C - SECONDARY EXPANSION",
+    "recommended_action": "Regional cluster expansion: leverage regional university network and digital student referrals",
+    "rank": 13
+  },
+  {
+    "city": "Mohali",
+    "state_or_union_territory": "Punjab",
+    "target_college_count": 3,
+    "estimated_student_opportunity": 13800,
+    "city_opportunity_score": 67.4,
+    "priority_tier": "TIER C - SECONDARY EXPANSION",
+    "recommended_action": "Regional cluster expansion: leverage regional university network and digital student referrals",
+    "rank": 14
+  },
+  {
+    "city": "Tirupati",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 3,
+    "estimated_student_opportunity": 7400,
+    "city_opportunity_score": 66.2,
+    "priority_tier": "TIER C - SECONDARY EXPANSION",
+    "recommended_action": "Regional cluster expansion: leverage regional university network and digital student referrals",
+    "rank": 15
+  },
+  {
+    "city": "Bhubaneswar",
+    "state_or_union_territory": "Odisha",
+    "target_college_count": 3,
+    "estimated_student_opportunity": 11400,
+    "city_opportunity_score": 64.2,
+    "priority_tier": "TIER C - SECONDARY EXPANSION",
+    "recommended_action": "Regional cluster expansion: leverage regional university network and digital student referrals",
+    "rank": 16
+  },
+  {
+    "city": "Parvathipuram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 4,
+    "estimated_student_opportunity": 6000,
+    "city_opportunity_score": 63.3,
+    "priority_tier": "TIER C - SECONDARY EXPANSION",
+    "recommended_action": "Regional cluster expansion: leverage regional university network and digital student referrals",
+    "rank": 17
+  },
+  {
+    "city": "Warangal",
+    "state_or_union_territory": "Telangana",
+    "target_college_count": 3,
+    "estimated_student_opportunity": 9900,
+    "city_opportunity_score": 62.2,
+    "priority_tier": "TIER C - SECONDARY EXPANSION",
+    "recommended_action": "Regional cluster expansion: leverage regional university network and digital student referrals",
+    "rank": 18
+  },
+  {
+    "city": "Kochi",
+    "state_or_union_territory": "Kerala",
+    "target_college_count": 3,
+    "estimated_student_opportunity": 9600,
+    "city_opportunity_score": 61.8,
+    "priority_tier": "TIER C - SECONDARY EXPANSION",
+    "recommended_action": "Regional cluster expansion: leverage regional university network and digital student referrals",
+    "rank": 19
+  },
+  {
+    "city": "Mumbai",
+    "state_or_union_territory": "Maharashtra",
+    "target_college_count": 3,
+    "estimated_student_opportunity": 8200,
+    "city_opportunity_score": 59.9,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 20
+  },
+  {
+    "city": "Ongole",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 3,
+    "estimated_student_opportunity": 8100,
+    "city_opportunity_score": 59.8,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 21
+  },
+  {
+    "city": "Guwahati",
+    "state_or_union_territory": "Assam",
+    "target_college_count": 3,
+    "estimated_student_opportunity": 6900,
+    "city_opportunity_score": 58.2,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 22
+  },
+  {
+    "city": "Greater Noida",
+    "state_or_union_territory": "Uttar Pradesh",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 8700,
+    "city_opportunity_score": 53.3,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 23
+  },
+  {
+    "city": "Nagpur",
+    "state_or_union_territory": "Maharashtra",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 8300,
+    "city_opportunity_score": 52.8,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 24
+  },
+  {
+    "city": "Ahmedabad",
+    "state_or_union_territory": "Gujarat",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 7400,
+    "city_opportunity_score": 51.6,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 25
+  },
+  {
+    "city": "Delhi",
+    "state_or_union_territory": "Delhi",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 6400,
+    "city_opportunity_score": 51.2,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 26
+  },
+  {
+    "city": "Bhilai",
+    "state_or_union_territory": "Chhattisgarh",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 6800,
+    "city_opportunity_score": 50.8,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 27
+  },
+  {
+    "city": "Mangaluru",
+    "state_or_union_territory": "Karnataka",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 6000,
+    "city_opportunity_score": 49.7,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 28
+  },
+  {
+    "city": "Dehradun",
+    "state_or_union_territory": "Uttarakhand",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 5700,
+    "city_opportunity_score": 49.3,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 29
+  },
+  {
+    "city": "Patna",
+    "state_or_union_territory": "Bihar",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 5600,
+    "city_opportunity_score": 49.2,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 30
+  },
+  {
+    "city": "Nellore",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 4700,
+    "city_opportunity_score": 48.0,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 31
+  },
+  {
+    "city": "Chirala",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 4100,
+    "city_opportunity_score": 47.2,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 32
+  },
+  {
+    "city": "Bhimavaram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 3800,
+    "city_opportunity_score": 46.8,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 33
+  },
+  {
+    "city": "Anantapur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 3700,
+    "city_opportunity_score": 46.6,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 34
+  },
+  {
+    "city": "Agartala",
+    "state_or_union_territory": "Tripura",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 3400,
+    "city_opportunity_score": 46.2,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 35
+  },
+  {
+    "city": "Srikakulam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 2,
+    "estimated_student_opportunity": 3300,
+    "city_opportunity_score": 46.1,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 36
+  },
+  {
+    "city": "Noida",
+    "state_or_union_territory": "Uttar Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3800,
+    "city_opportunity_score": 44.9,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 37
+  },
+  {
+    "city": "Vadodara",
+    "state_or_union_territory": "Gujarat",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 5400,
+    "city_opportunity_score": 42.5,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 38
+  },
+  {
+    "city": "Kanpur",
+    "state_or_union_territory": "Uttar Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 4800,
+    "city_opportunity_score": 41.7,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 39
+  },
+  {
+    "city": "Salem",
+    "state_or_union_territory": "Tamil Nadu",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 4200,
+    "city_opportunity_score": 40.9,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 40
+  },
+  {
+    "city": "Indore",
+    "state_or_union_territory": "Madhya Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3800,
+    "city_opportunity_score": 40.4,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 41
+  },
+  {
+    "city": "Puducherry",
+    "state_or_union_territory": "Puducherry",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3800,
+    "city_opportunity_score": 40.4,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 42
+  },
+  {
+    "city": "Nashik",
+    "state_or_union_territory": "Maharashtra",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3800,
+    "city_opportunity_score": 40.4,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 43
+  },
+  {
+    "city": "Navi Mumbai",
+    "state_or_union_territory": "Maharashtra",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3600,
+    "city_opportunity_score": 40.1,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 44
+  },
+  {
+    "city": "Ludhiana",
+    "state_or_union_territory": "Punjab",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3600,
+    "city_opportunity_score": 40.1,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 45
+  },
+  {
+    "city": "Lucknow",
+    "state_or_union_territory": "Uttar Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3500,
+    "city_opportunity_score": 40.0,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 46
+  },
+  {
+    "city": "Durgapur",
+    "state_or_union_territory": "West Bengal",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3500,
+    "city_opportunity_score": 40.0,
+    "priority_tier": "TIER D - LATER EXPANSION",
+    "recommended_action": "Self-serve and ambassador referral program with remote onboarding",
+    "rank": 47
+  },
+  {
+    "city": "Bapatla",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3400,
+    "city_opportunity_score": 39.8,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 48
+  },
+  {
+    "city": "Mysuru",
+    "state_or_union_territory": "Karnataka",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3400,
+    "city_opportunity_score": 39.8,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 49
+  },
+  {
+    "city": "Puttur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3200,
+    "city_opportunity_score": 39.6,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 50
+  },
+  {
+    "city": "Surat",
+    "state_or_union_territory": "Gujarat",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3200,
+    "city_opportunity_score": 39.6,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 51
+  },
+  {
+    "city": "Rajampet",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3100,
+    "city_opportunity_score": 39.4,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 52
+  },
+  {
+    "city": "Kakinada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 3000,
+    "city_opportunity_score": 39.3,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 53
+  },
+  {
+    "city": "Kadapa",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2900,
+    "city_opportunity_score": 39.2,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 54
+  },
+  {
+    "city": "Eluru",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2900,
+    "city_opportunity_score": 39.2,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 55
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "state_or_union_territory": "Kerala",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2900,
+    "city_opportunity_score": 39.2,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 56
+  },
+  {
+    "city": "Madurai",
+    "state_or_union_territory": "Tamil Nadu",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2800,
+    "city_opportunity_score": 39.0,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 57
+  },
+  {
+    "city": "Gurugram",
+    "state_or_union_territory": "Haryana",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2800,
+    "city_opportunity_score": 39.0,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 58
+  },
+  {
+    "city": "Thrissur",
+    "state_or_union_territory": "Kerala",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2800,
+    "city_opportunity_score": 39.0,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 59
+  },
+  {
+    "city": "Ranchi",
+    "state_or_union_territory": "Jharkhand",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2600,
+    "city_opportunity_score": 38.8,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 60
+  },
+  {
+    "city": "Jammu",
+    "state_or_union_territory": "Jammu and Kashmir",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2600,
+    "city_opportunity_score": 38.8,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 61
+  },
+  {
+    "city": "Karimnagar",
+    "state_or_union_territory": "Telangana",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2600,
+    "city_opportunity_score": 38.8,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 62
+  },
+  {
+    "city": "Gudur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2500,
+    "city_opportunity_score": 38.6,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 63
+  },
+  {
+    "city": "Amalapuram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2200,
+    "city_opportunity_score": 38.2,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 64
+  },
+  {
+    "city": "Nandyal",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2200,
+    "city_opportunity_score": 38.2,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 65
+  },
+  {
+    "city": "Baramulla",
+    "state_or_union_territory": "Jammu and Kashmir",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2200,
+    "city_opportunity_score": 38.2,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 66
+  },
+  {
+    "city": "Kurnool",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2100,
+    "city_opportunity_score": 38.1,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 67
+  },
+  {
+    "city": "Patancheru",
+    "state_or_union_territory": "Telangana",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 2100,
+    "city_opportunity_score": 38.1,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 68
+  },
+  {
+    "city": "Sattenapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1900,
+    "city_opportunity_score": 37.8,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 69
+  },
+  {
+    "city": "Rajahmundry",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1900,
+    "city_opportunity_score": 37.8,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 70
+  },
+  {
+    "city": "Hanamkonda",
+    "state_or_union_territory": "Telangana",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1900,
+    "city_opportunity_score": 37.8,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 71
+  },
+  {
+    "city": "Tenali",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1800,
+    "city_opportunity_score": 37.7,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 72
+  },
+  {
+    "city": "Macherla",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1800,
+    "city_opportunity_score": 37.7,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 73
+  },
+  {
+    "city": "Kuppam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1800,
+    "city_opportunity_score": 37.7,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 74
+  },
+  {
+    "city": "Solan",
+    "state_or_union_territory": "Himachal Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1800,
+    "city_opportunity_score": 37.7,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 75
+  },
+  {
+    "city": "Margao",
+    "state_or_union_territory": "Goa",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1800,
+    "city_opportunity_score": 37.7,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 76
+  },
+  {
+    "city": "Bobbili",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1700,
+    "city_opportunity_score": 37.6,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 77
+  },
+  {
+    "city": "Yemmiganur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1600,
+    "city_opportunity_score": 37.4,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 78
+  },
+  {
+    "city": "Proddatur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1600,
+    "city_opportunity_score": 37.4,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 79
+  },
+  {
+    "city": "Port Blair",
+    "state_or_union_territory": "Andaman and Nicobar Islands",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1600,
+    "city_opportunity_score": 37.4,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 80
+  },
+  {
+    "city": "Verna",
+    "state_or_union_territory": "Goa",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1600,
+    "city_opportunity_score": 37.4,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 81
+  },
+  {
+    "city": "Machilipatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1500,
+    "city_opportunity_score": 37.3,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 82
+  },
+  {
+    "city": "Hindupur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1500,
+    "city_opportunity_score": 37.3,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 83
+  },
+  {
+    "city": "Garividi",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1500,
+    "city_opportunity_score": 37.3,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 84
+  },
+  {
+    "city": "Rampachodavaram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1400,
+    "city_opportunity_score": 37.2,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 85
+  },
+  {
+    "city": "Imphal",
+    "state_or_union_territory": "Manipur",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1400,
+    "city_opportunity_score": 37.2,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 86
+  },
+  {
+    "city": "Shillong",
+    "state_or_union_territory": "Meghalaya",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1200,
+    "city_opportunity_score": 36.9,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 87
+  },
+  {
+    "city": "Daman",
+    "state_or_union_territory": "Dadra and Nagar Haveli and Daman and Diu",
+    "target_college_count": 1,
+    "estimated_student_opportunity": 1100,
+    "city_opportunity_score": 36.8,
+    "priority_tier": "TIER E - LONG-TAIL COVERAGE",
+    "recommended_action": "Passive coverage: digital discovery and programmatic community activation",
+    "rank": 88
+  }
+]

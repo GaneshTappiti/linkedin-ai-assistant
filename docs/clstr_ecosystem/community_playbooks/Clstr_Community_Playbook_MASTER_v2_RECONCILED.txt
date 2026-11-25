@@ -1,0 +1,188 @@
+﻿Clstr Vizag Community - Master Playbook
+Consolidated final version - August 2026
+Table of Contents
+
+01. Identity
+Platform motto: “Your college gets you a degree. Clstr gets you a city.”
+Community motto (event/energy-facing): “Find your team. Vizag is the campus.”
+What we are: A verified, cross-college student community for Visakhapatnam, built on two equal pillars — Collaborate (find people who complement your skills) and Socialize (meet people outside your own campus). Neither pillar works alone: collab-only reads as a job fair, social-only reads as a party scene with no reason to return. We are not a club, not a WhatsApp group, not a placement agency, and not a media company — we are building a persistent, cross-college, real-identity student social-discovery community for people who want to belong, build and grow beyond one campus. Clstr is the community; clstr.in is the supporting layer for identity, discovery, continuity and measurement.
+Sequencing: Vizag first, proven small before scaled — then Andhra Pradesh, then India. No step is skipped for speed.
+
+02. The Competitive Landscape
+Player
+What they have
+What they lack in Vizag
+Student Tribe (public national student-network benchmark; scale figures require independent verification)
+Scale, formal college MOUs, gig-economy monetization for ambassadors, tiered Campus Ambassador ladder
+No Vizag-specific hyper-local presence
+Under25 (national student-media and event benchmark; public reach figures require independent verification)
+National media reach, prestige Fellowship, licensed student-run event format
+Locally generic; not Vizag-native; needs celebrity budget we don’t have
+Edygrad Student Community
+Already active in Vizag, similar “student movement” pitch, runs bootcamps/hackathons/industrial tours
+Domain-specific, not a persistent social+collab identity community
+GDG Vizag / E-Cell / TiE Vizag
+Real tech/founder credibility, active meetups
+Single-domain (tech or business only), not cross-skill, not social
+BeInCareer (Vizag-native career-content benchmark; public audience and outcome figures are company claims)
+Real scale in the career/job-listing lane, strong organic SEO reach, an actual Vizag-origin brand
+Pure content/job-listings machine, built by a solo marketer — not a community, no cross-college identity, no belonging mechanic
+College confession/meme pages (e.g. GITAM Vizag Love Confessions)
+High engagement, zero friction to consume
+Anonymous, single-college, no real identity, no follow-through into real connection
+Our potential advantage: hyper-local Vizag identity, cross-college density, student social discovery, active campus nodes, real-world experiences and persistent clstr.in continuity. No single element is unique in isolation; the advantage must be earned through repeated student usage, trusted execution and partner renewals. Against BeInCareer specifically: they tell you a job exists — we get you in the room with the company and the people building things alongside you. Don’t compete on their SEO/job-listing turf; that fight takes years to win and isn’t the actual differentiator.
+
+03. Who We’re Actually Building For
+Grounded in direct research into real Vizag student behavior (Reddit/Quora threads, hostel policy pages, college review sites, local youth-culture reporting) — not abstract personas.
+Collab-hungry (~35 of 100): trapped coders with no designer, invisible designers doing uncredited free work, creators burning out solo, business-minded students with no proof of execution, restless club-veteran seniors wanting a bigger stage, side-hustlers already running small businesses (thrift, baking, content, freelance design, even stock trading) with no peer group who understands it.
+Socially-hungry (~45 of 100): anxious freshers navigating real curfew and permission restrictions, quietly isolated commuters, one-good-friend-group students with no reason to cross campuses, outstation/non-local students facing real, documented adjustment difficulty, women navigating hostel curfews and safety concerns at male-skewed engineering campuses, sports/fitness students wanting mixed-college games.
+Career/skeptical (~20 of 100): placement-panicked final-years with no reachable alumni, and genuine skeptics burned by dead WhatsApp groups and abandoned college clubs who need proof of life, not promises.
+The design rule this creates: every phase, every event type, and every piece of content must serve at least one of these three groups deliberately — never assume growth in one automatically serves the others.
+
+04. Two Tracks: Guilds and Circles
+Every member picks 1-2 at signup — not exclusive, many belong to both.
+Guilds (skill/collab-oriented): Build (coders, engineers, product-minded), Design (graphic design, UI/UX, video editing, photography), Create (content creators, writers, podcasters), Hustle (business, marketing, side-hustlers), Grow (career-focused, mentorship-seeking — the on-ramp for undecided students).
+Circles (pure social/interest, zero performance bar): Foodies, Music, Gaming, Fitness & Sports, Travel & Explore, Beach Crew, Photography-for-fun, Movies/Anime, Book Club, New to Vizag (specifically for outstation/non-local students facing real adjustment difficulty).
+Tracked monthly: Guild/Circle balance across total membership. If signups skew heavily Guild-only, the community is drifting collab-only in practice regardless of what this document says — this must be caught early, not discovered at Month 6.
+
+05. The Hard Logistics Reality (Curfews, Permissions, Cost)
+Real research finding, not assumption: hostel curfews are severe and vary widely — GITAM enforces 9:00 PM weekday / 9:30 PM weekend return with biometric attendance; several other colleges enforce 6:00-7:00 PM curfews, especially for women and freshers; first-year students at some hostels may only leave campus once or twice a month, sometimes requiring a parent or guardian. Written warden permission is commonly required for any outing. Sunday/holiday outings (roughly 9am-6pm) are explicitly the most permitted window across multiple colleges. Fee and cost sensitivity is real and frequently named even at well-regarded colleges.
+This directly shapes event design — not a detail, a structural requirement:
+    • Run two parallel timing tracks, not one: a late-afternoon/early-evening window (4:00-6:30 PM) for smaller Circle/Guild touchpoints that need to include freshers and hostel-restricted students, and a Sunday daytime window (10 AM-5 PM) for anything bigger — this is the actual open door for your most restricted members, not a weekday evening.
+    • Provide a simple, official-looking event confirmation flyer (date, time, exact venue, Clstr contact) that a student can show their warden or parents — solves a real, named permission barrier directly.
+    • Keep pricing near-zero (₹0-99) through at least Phase 2 — cost sensitivity is real, not just a startup-budget constraint.
+    • Encourage and normalize group arrival/departure at events, matching the “go out in groups for safety” norm already embedded in how students are raised to think about outings.
+
+06. Phase 0 — Start Now (Weeks 1-6, informal, no app, no announcements)
+We validate the core idea with real people before building any machinery.
+Week 1: Founder + 3-5 known contacts each bring 2-3 people from different colleges — no two people from the same college unless unavoidable. Deliberately mix archetypes across all three segments (Section 03), not just builders. Target: 20-30 people, 5-6 colleges. One WhatsApp group with a name that has energy, not a corporate-sounding one.
+Weeks 2-6 (biweekly small meetups): Cafe, terrace, park, or free campus common area. Near-zero cost, no tickets, no venue booking. 15-minute structured opener (name, college, one thing you’re into, one thing you’re looking for) doubles as informal Guild/Circle data, then fully open. Rotate venue by college from meetup #2 onward to avoid an early “this is a Raghu thing” perception.
+Gate to Phase 1: A behavior gate, not a user-count gate. Move forward once the small group is self-sustaining — people invite friends unprompted, attendance holds or grows without heavy reminding, across 3-4 consecutive meetups. Typically Week 6-8.
+
+07. Phase 1 — Founding Cohort & Ambassador Recruitment (Month 2-3)
+    • Identify 1-2 natural connectors per represented college from the Phase 0 group as first Campus Captain candidates. Explicitly seek Guild/Circle diversity per college — don’t default only to “most club/fest experience,” since that’s the exact profile GDG, E-Cell, and TiE are already recruiting.
+    • Formalize WhatsApp-to-platform migration once the signup/verification flow is ready.
+    • Begin institutional relationship building in parallel — Campus Ops Lead meets each target college’s TPO/student union/cultural committee, working toward a lightweight MOU or written understanding, not just a student-to-student handshake. This is the piece Student Tribe’s field model has that ours was missing, and it protects against a college administration blocking activity later.
+    • Founding Night: small, invite-only, ambassador network only (60-80 people), Sunday daytime or early-evening depending on attendee mix. Neutral or rotating venue.
+    • Begin light pre-launch buzz mechanics (Section 09) — still no public community announcement.
+
+08. Target Colleges (19 Confirmed)
+P0 (first, home relationships): Raghu Engineering College, Andhra University, GITAM P1 (early expansion): MVGR, SRKR, VIIT, KL University Vizag, ANITS, RIT, NSRIT P2 (broader coverage): GVP, BVRIT, Avanthi, Chaitanya, IIPE, Pydah, VIEW, Sri Chaitanya, DIET, Swarnandhra
+Track per college: signup count, ambassador name, MOU/institutional relationship status, and which Guild(s)/Circle(s) the recruited Campus Captain represents.
+
+09. Buzz & Scarcity Mechanics
+Buzz is engineered, not announced. Runs underneath Phases 1-2 onward.
+    • Unbranded teaser phase: posters/stickers with just a symbol and the community motto, no app name, 2-3 weeks before any public event.
+    • Public running counter: a visible signup number (“[LIVE VERIFIED MEMBER COUNT — UPDATE ONLY FROM THE KPI DASHBOARD]. [COLLEGES LEFT — UPDATE ONLY FROM VERIFIED DATA]”).
+    • Permanent Founding Cohort badge on early members’ profiles — free, and a real reason for Phase 1 ambassadors to push hard before “founding” status closes.
+    • Capped events, not maximized ones — a visibly sold-out or waitlisted event generates more word-of-mouth than a comfortably-attended one.
+    • One signature, shareable moment per phase, not five mediocre ones — a mass cross-college photo, a public leaderboard of which college has the most members, a stunt at an existing fest.
+    • Distributed content: each active Campus Captain runs or feeds a campus-specific handle (“Clstr @ GITAM”), reposted centrally — multiplies reach per college instead of bottlenecking one account. Raw, phone-shot content in the same aesthetic register students already consume (soft-flex, beach-edit style reels) outperforms polished, corporate-style event photography for this audience.
+    • One simple buzz message per phase — Months 1-3: “the city’s students, finally in one place.” Months 4-6: shift to showcasing real collab and social wins as proof. Don’t say everything at once; it dilutes what actually spreads by word of mouth.
+    • Authentic content hook: a “Vizag Student Hustles” spotlight series profiling real students already running side businesses — grounded in real, evidenced behavior, not manufactured hype, and seeds the Hustle Guild with real people from day one.
+
+10. Phase 2 — Soft Public Launch (Month 3-4)
+    • First public event: Campus Takeover format (see Events Plan), free or near-free, Sunday daytime, no collab-structure — let it breathe. Venue rotates away from Founding Night’s location.
+    • Public signup opens city-wide, still framed as “earned access” via the running counter and Founding badge mechanics.
+    • Weekly cadence goes live: rotating Guild micro-prompt, rotating Circle prompt/vibe-check, “Collab of the Week” spotlight (seeded manually by the Community/Collab Lead early on if needed). This is the connective tissue between monthly flagships — without it, the community feels dead in the weeks between events.
+
+11. Phase 3 — Scale Within Vizag (Month 5-6)
+    • Full monthly event cadence live across all formats (see Events Plan).
+    • Career Connect 01 — only once real signup numbers and 2-3 prior successful smaller events support the pitch to companies. Don’t force this to land exactly on an unproven milestone.
+    • Community/Collab Lead role active since Month 2-3 (not starting cold at Month 4).
+
+12. Core Team
+Role
+Responsibility
+Notes
+Founder/CEO (Ganesh)
+Vision, city relationships, flagship MC
+
+Campus Ops Lead
+College coverage, ambassador recruitment, MOUs
+Owns institutional relationship tracking
+Community/Collab Lead
+CollabHub curation, Guild/Circle balance, event collab mechanics, seeds early matches
+Active from Month 2-3
+Content & Brand Manager
+Content pillars, distributed campus-handle network
+
+Graphic Designer
+Event creatives
+Consider recruiting from the Design Guild itself
+Dev Lead (Revanth)
+Platform, CollabHub matching logic, signup/verification flow
+
+Campus Captains receive recognition, role progression and access while the community is unfunded. No fixed cash, stipend or bonus is promised. Any future compensation or revenue share requires actual surplus, written terms, financial capacity and team approval.
+Each Campus Captain is explicitly tasked with finding at least one person from each Guild and Circle at their college within their first month — this is what makes the cross-skill, cross-interest promise real instead of accidental.
+
+13. Revenue & Sponsorship — The Segment Match
+Sponsors pay for reach into specific segments, not generic “students.” Building for all three segments (Section 03) is what makes the community sponsor-diverse and resilient, not a distraction from monetization.
+Segment
+Format that reaches them
+Who pays to reach them
+Collab-hungry
+Guild Mixers, Build Sprints, Showcase
+Tech companies, startups, IT firms — spotting early talent
+Socially-hungry
+Campus Takeovers, City Explore Days, Beach Day, Cultural Fest
+Cafes, lifestyle/clothing brands, food delivery, telecom — paying for footfall and vibe association
+Career/skeptical
+Career Connect, Overseas Fair
+Coaching institutes, consultancies, PSUs, banks/NBFCs — paying for direct access to a filtered, motivated audience
+Revenue ladder — earn the right to charge: 1. Phase 0-1: No sponsors at all. Prove repeat attendance first — this is the actual asset every future sponsor conversation is built on. 2. Phase 2: In-kind only (a cafe covers snacks for visibility, a print shop does banners for credit) — zero cash changes hands, low-risk proof-of-concept for both sides. 3. Phase 3: First real cash sponsorship, only once there’s a track record (2-3 successful smaller events) and content proof (photos, reels, testimonials). 4. Scale: Community Partner (annual) tier — the big revenue unlock, once a brand can see a full year of consistent, varied events across all three segments.
+Hard rule — protects trust, non-negotiable: No per-lead or per-contact payment structures, ever, to any sponsor or partner. Sponsors pay for visibility and room access, never for a list of student contacts to take away. If a company wants direct student contact, that requires a separate, explicit, event-specific opt-in at registration — never bundled into general membership. Local businesses near colleges (MVP, Siripuram, Dwarka Nagar cafes already functioning as informal student hubs) are a realistic, closer-to-home first sponsor category before chasing PSUs or big IT companies.
+Sponsorship tier
+Pricing status
+What sponsor gets
+Title Sponsor
+Negotiated after paid proof
+Agreed event association, visibility, activation and impact report — no attendee contact list
+Associate Sponsor
+Negotiated after paid proof
+Agreed event branding, digital asset and recap mention
+Community Partner (Annual)
+Only after repeatable annual delivery
+Agreed year-round presence, selected event inventory and annual impact report
+In-Kind Sponsor
+Early proof
+Covers a defined cost for official category credit; in-kind value is reported separately from cash revenue
+
+14. Metrics (Unified — Platform + Event)
+    • Verified signups, by college, tracked against the 19-college list
+    • Repeat attendance rate — % of attendees at a 2nd+ event who weren’t personally re-invited by an ambassador — the real signal of organic stickiness vs. manufactured turnout
+    • Cross-Guild collabs completed (a completed collab is proof; a swapped Instagram handle isn’t)
+    • Guild/Circle balance across total membership
+    • Gender ratio per event (tracked, not assumed)
+    • Institutional MOU status per college
+    • Sponsor revenue by segment/tier
+
+15. Risk Register
+Risk
+Mitigation
+One college dominates / cliquey perception
+Rotate venues from meetup #2 onward; co-brand multi-college materials explicitly
+Ambassador poaching by GDG/E-Cell/TiE (same target profile)
+Low weekly hour commitment option; recruit Guild-diverse candidates, not only the “most connected” student everyone else is also chasing
+Gender imbalance / safety concerns at events
+Track ratio per event as standard KPI; anchor bigger events on permitted Sunday daytime windows; provide event confirmation flyers for warden/parental permission
+Curfews structurally exclude freshers/hostel-restricted students
+Two-track timing model (Section 05) — this is now a designed-for constraint, not an afterthought
+Buzz mechanics read as try-hard to a practical, skeptical audience
+If a hype mechanic underperforms, revert immediately to raw, low-production content — don’t double down
+College administration blocks activity
+Institutional MOU/relationship step in Phase 1, owned by Campus Ops Lead
+Community drifts collab-only in practice
+Monthly Guild/Circle balance check; Circles get equal event investment, not treated as filler
+Sponsor data-monetization tension undermines trust
+No per-lead payment structures, ever — flat sponsorship for visibility only
+Title sponsor drops out close to event date
+Never build an event’s core budget entirely around one title sponsor; keep In-Kind/Associate tiers as fallback
+Career Connect produces few/zero placements
+Don’t over-promise specific numbers publicly before it’s run once; report real outcomes honestly
+Event calendar outpaces real community readiness
+Each month’s event is contingent on the prior month’s repeat-attendance data, not fixed to the calendar regardless of real traction
+
+16. Expansion: Vizag → Andhra Pradesh → India
+Realistic timeline, grounded in how long comparable players actually took — Student Tribe organically over ~8 years, Under25 from 2013 to cultural relevance by 2021, with explosive scale only after a 2024 acquisition by a media conglomerate. Treat Month 6 as “Vizag proven,” not “AP launched.” Honest AP-wide traction timeline is 12-18 months; India-wide is multi-year and likely needs external funding.
+The one mechanic to borrow before expanding: license the event format to Campus Captains rather than running everything centrally. A model where one Ops Lead personally runs every event breaks the moment you’re in 3+ cities. Under25’s Summit At Campus pattern — student leaders own sponsorship, production, and promotion locally, HQ provides brand/platform/cross-city promotion only — is the structural pattern to copy once Vizag is genuinely proven, not before.

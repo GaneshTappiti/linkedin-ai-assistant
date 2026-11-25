@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "vocab_density_list": ["delve", "showcase", "paradigm", "utilize", "leveraging"],
+  "em_dash_cap_per_100_words": 1,
+  "reveal_bridge_blacklist": ["synergy", "game-changing", "disruptive", "AI-first"],
+  "pass_2_rhythm_rules": ["sentence_varies", "contraction_encouraged", "no_monotone"],
+  "pass_4_over_correction_guard": true,
+  "description": "V3 tier humanizer rules extracted from sergebulaev/linkedin-skills SKILL.md"
+}

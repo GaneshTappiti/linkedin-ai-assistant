@@ -1,0 +1,88 @@
+{
+  "captured_at": "2026-04-26T03:16:30Z",
+  "profile_url": "https://www.linkedin.com/in/ganeshtappiti/",
+  "contact": {
+    "public_profile": "linkedin.com/in/ganeshtappiti",
+    "email": null,
+    "email_redacted": true
+  },
+  "experience_highlights": [
+    {
+      "role": "Aspire India - Campus Ambassador",
+      "organization": "Aspire Institute India",
+      "type": "Internship",
+      "duration": "Nov 2025 - Present"
+    },
+    {
+      "role": "Cohort 5 - Aspire Leaders Program Participant",
+      "organization": "Aspire Institute",
+      "type": "Apprenticeship",
+      "duration": "Aug 2025 - Present"
+    },
+    {
+      "role": "Campus Ambassador",
+      "organization": "Unstop",
+      "type": "Part-time",
+      "duration": "Not explicitly captured"
+    },
+    {
+      "role": "Executive Secretary",
+      "organization": "Raghu Engineering College (Chaayachitram)",
+      "type": "Part-time",
+      "duration": "Aug 2025 - Present"
+    },
+    {
+      "role": "Photography Club Lead",
+      "organization": "Raghu Engineering College",
+      "type": "Full-time",
+      "duration": "Jan 2024 - Jul 2025"
+    },
+    {
+      "role": "Startup Assistance Lead",
+      "organization": "E-CELL REC Visakhapatnam",
+      "type": "Part-time",
+      "duration": "Jul 2025 - Dec 2025"
+    },
+    {
+      "role": "Lead Graphic Designer",
+      "organization": "E-CELL REC Visakhapatnam",
+      "type": "Full-time",
+      "duration": "Jul 2024 - Jul 2025"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Raghu Engineering College",
+      "degree": "Associate's degree",
+      "timeline": "Aug 2023 - Sep 2027",
+      "grade": "A",
+      "activities": [
+        "Photography Club Lead",
+        "ECell REC Design and Branding Head",
+        "Startup Club Core Member"
+      ]
+    },
+    {
+      "institution": "DAV Schools Network",
+      "notes": "Profile item captured without additional timeline"
+    }
+  ],
+  "skills_sample": [
+    "Agentic Mode",
+    "Agentic Coding: Full-Stack Java Apps with Cursor and Copilot",
+    "Cursor AI",
+    "Copilot Agent Builder",
+    "Product Management",
+    "AI for Product Management & Innovation",
+    "Product Development",
+    "Product Design",
+    "Product Life Cycle",
+    "Marketing Management",
+    "Product Marketing",
+    "Market Research"
+  ],
+  "additional_observations": [
+    "Profile shows strong overlap across startup, campus leadership, and design branding responsibilities.",
+    "Role portfolio combines technical experimentation, product storytelling, and community operations."
+  ]
+}

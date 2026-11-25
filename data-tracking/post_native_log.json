@@ -1,0 +1,254 @@
+{
+  "version": "1.0.0",
+  "description": "Execution log for LinkedIn original daily post pipeline. Tracks all attempts, successes, and failures.",
+  "created_at": "2026-05-28T07:45:00+05:30",
+  "runs": [
+    {
+      "run_id": "run_native_20261119_1640",
+      "timestamp": "2026-11-19T16:40:00+05:30",
+      "pipeline": "dev_to_linkedin_ecosystem_pipeline_v10",
+      "status": "published_live",
+      "topic": "Hiring dilemma: 9.2 CGPA zero repos vs 6.8 CGPA buggy hostel project",
+      "post_type": "hot_take",
+      "content_pillar": "Campus Ecosystem",
+      "human_score": 91.0,
+      "word_count": 175,
+      "linkedin_url": "https://lnkd.in/p/gcStfVfD"
+    },
+    {
+      "run_id": "run_native_20261117_2205",
+      "timestamp": "2026-11-17T22:05:00+05:30",
+      "pipeline": "dev_to_linkedin_ecosystem_pipeline_v10",
+      "status": "ready_to_post",
+      "topic": "Why 90% of tutorial clones fail placement rounds across Tier-2 colleges & building for 25 real people wins",
+      "post_type": "hot_take",
+      "content_pillar": "Campus Ecosystem",
+      "human_score": 90.7,
+      "image_style": "Style 1 — Dark Brand Slide"
+    },
+    {
+      "run_id": "run_native_20261113_1945",
+      "timestamp": "2026-11-13T19:45:00+05:30",
+      "pipeline": "dev_to_linkedin_ecosystem_pipeline",
+      "status": "ready_to_post",
+      "topic": "The .edu email requirement is an American myth & clstr.in multi-tier onboarding",
+      "post_type": "build_in_public",
+      "content_pillar": "Design × Engineering / Campus Ecosystem",
+      "human_score": 87.5
+    },
+    {
+      "run_id": "run_native_20261112_1110",
+      "timestamp": "2026-11-12T11:10:00+05:30",
+      "pipeline": "dev_to_linkedin_ecosystem_pipeline",
+      "status": "success",
+      "topic": "Why online ticketing breaks down at college gates & offline box-office mode for Spark",
+      "post_type": "builder_breakdown",
+      "content_pillar": "Engineering Architecture & Production Hardening",
+      "urn": "urn:li:activity:7526519292465610753",
+      "human_score": 84.2
+    },
+    {
+      "run_id": "run_native_20260602_1057",
+      "timestamp": "2026-06-02T10:57:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "Dev-Designer Quote Card - Cursor & Supabase",
+      "post_type": "quote_card",
+      "content_pillar": "AI-Enabled Building"
+    },
+    {
+      "run_id": "run_native_20260603_1007",
+      "timestamp": "2026-06-03T10:07:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "India AI skills gap — what colleges teach vs what startups hire for",
+      "post_type": "industry_commentary",
+      "content_pillar": "Campus Ecosystem + AI-Enabled Building"
+    },
+    {
+      "run_id": "run_native_20260604_1840",
+      "timestamp": "2026-06-04T18:40:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "Product designers learning to code in 2026",
+      "post_type": "hot_take",
+      "content_pillar": "Design x Engineering"
+    },
+    {
+      "run_id": "run_native_20260609_1330",
+      "timestamp": "2026-06-09T13:30:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "Explaining campus operating system startup to peers or parents",
+      "post_type": "relatable_meme",
+      "content_pillar": "Campus Ecosystem"
+    },
+    {
+      "run_id": "run_native_20260611_1000",
+      "timestamp": "2026-06-11T10:00:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "AI tools Indian student founders actually use in 2026",
+      "post_type": "research_data",
+      "content_pillar": "AI-Enabled Building"
+    },
+    {
+      "run_id": "run_native_20260611_1930",
+      "timestamp": "2026-06-11T19:30:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "clstr.in Notion doc to production journey",
+      "post_type": "personal_story",
+      "content_pillar": "Build in Public"
+    },
+    {
+      "run_id": "run_native_20260612_1129",
+      "timestamp": "2026-06-12T11:29:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "Vizag campus operating system launch",
+      "post_type": "build_in_public",
+      "content_pillar": "Campus Ecosystem"
+    },
+    {
+      "run_id": "run_native_20260612_1913",
+      "timestamp": "2026-06-12T19:13:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "Design choices and designing on live localhost instead of Figma vacuum",
+      "post_type": "hot_take",
+      "content_pillar": "Design x Engineering"
+    },
+    {
+      "run_id": "run_native_20260613_1553",
+      "timestamp": "2026-06-13T15:53:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "Junior AI Engineer JD Requirements (N=180)",
+      "post_type": "research_data",
+      "content_pillar": "AI-Enabled Building"
+    },
+    {
+      "run_id": "run_native_20260614_0928",
+      "timestamp": "2026-06-14T09:28:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "How to validate a startup idea in college (without coding)",
+      "post_type": "educational_howto",
+      "content_pillar": "Founder Psychology"
+    },
+    {
+      "run_id": "run_native_20260615_1030",
+      "timestamp": "2026-06-15T10:30:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "Clstr team roles structure and student startup alignment",
+      "post_type": "behind_the_scenes",
+      "content_pillar": "Campus Ecosystem"
+    },
+    {
+      "run_id": "run_native_20260616_1345",
+      "timestamp": "2026-06-16T13:45:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "Design-first builders and modern AI coding loops",
+      "post_type": "industry_commentary",
+      "content_pillar": "Design x Engineering"
+    },
+    {
+      "run_id": "run_native_20260619_2345",
+      "timestamp": "2026-06-19T23:45:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "Saying no to opportunities to maintain focus",
+      "post_type": "personal_story",
+      "content_pillar": "Build in Public"
+    },
+    {
+      "run_id": "run_native_20260621_0900",
+      "timestamp": "2026-06-21T09:00:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "Leading 16 designers while Googling feedback basics",
+      "post_type": "relatable_meme",
+      "content_pillar": "Build in Public"
+    },
+    {
+      "run_id": "run_native_20260621_2150",
+      "timestamp": "2026-06-21T21:50:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "The exact prompting strategy I use with Cursor for clstr.in",
+      "post_type": "resource_recommendation",
+      "content_pillar": "AI-Enabled Building"
+    },
+    {
+      "run_id": "run_native_20260622_0900",
+      "timestamp": "2026-06-22T09:00:00+05:30",
+      "pipeline": "linkedin_growth_system_v5",
+      "status": "success",
+      "topic": "Mobile-first vs desktop-first for campus apps data",
+      "post_type": "research_data",
+      "content_pillar": "Design x Engineering"
+    },
+    {
+      "run_id": "run_native_20260623_0900",
+      "timestamp": "2026-06-23T09:00:00+05:30",
+      "pipeline": "linkedin_growth_system_v10",
+      "status": "success",
+      "topic": "Localhost vs production server crash meme",
+      "post_type": "relatable_meme",
+      "content_pillar": "Founder Psychology"
+    },
+    {
+      "run_id": "run_native_20260624_1030",
+      "timestamp": "2026-06-24T10:30:00+05:30",
+      "pipeline": "linkedin_growth_system_v10",
+      "status": "success",
+      "topic": "Builder's Log — Week 32",
+      "post_type": "behind_the_scenes",
+      "content_pillar": "Build in Public"
+    },
+    {
+      "run_id": "run_viral_20260625_1852",
+      "timestamp": "2026-06-25T13:21:25.241855+00:00",
+      "pipeline": "linkedin_viral_data_post_v3",
+      "status": "success",
+      "topic": "The 2026 AI coding assistant stack for student founders",
+      "research_source": "120 student founder tech stacks in India in June 2026",
+      "predicted_reach": "50,000+ impressions with high saves",
+      "word_count": 145,
+      "post_id": 23
+    },
+    {
+      "run_id": "run_native_20260628_1032",
+      "timestamp": "2026-06-28T05:02:09.249595+00:00",
+      "pipeline": "linkedin_growth_system_v10",
+      "status": "success",
+      "topic": "The Campus Ambassador certificate trap vs actual ownership in student startups",
+      "post_type": "hot_take",
+      "content_pillar": "Campus Ecosystem"
+    },
+    {
+      "run_id": "run_native_20260704_0823",
+      "timestamp": "2026-07-04T02:53:12.581728+00:00",
+      "pipeline": "linkedin_growth_system_v10",
+      "status": "success",
+      "topic": "The 5-Day Student Founder Execution Loop",
+      "post_type": "educational_howto",
+      "content_pillar": "Campus Ecosystem",
+      "post_id": 30
+    },
+    {
+      "run_id": "run_native_20260705_2231",
+      "timestamp": "2026-07-05T17:01:23.920898+00:00",
+      "pipeline": "linkedin_growth_system_v10",
+      "status": "success",
+      "topic": "The 5-minute CSS fix that broke 42 database files meme",
+      "post_type": "relatable_meme",
+      "content_pillar": "Founder Psychology",
+      "post_id": 31
+    }
+  ],
+  "last_synced": "2026-11-24T17:01:00+05:30"
+}

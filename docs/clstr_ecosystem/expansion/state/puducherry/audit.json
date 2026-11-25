@@ -1,0 +1,52 @@
+[
+  {
+    "college_name": "Sri Manakula Vinayagar Engineering College",
+    "alternative_names": [
+      "SMVEC Puducherry"
+    ],
+    "aishe_code": "C-6515",
+    "district": "Puducherry",
+    "city": "Puducherry",
+    "full_address": "Madagadipet, Mannadipet Commune, Puducherry - 605107",
+    "state_or_union_territory": "Puducherry",
+    "affiliated_university": "Pondicherry University",
+    "official_website": "http://www.smvec.ac.in",
+    "emails_found": [
+      "smvec_puducherry@yahoo.com",
+      "director@smvec.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "smvec.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.pondiuni.edu.in",
+      "http://www.smvec.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Pondicherry University affiliated colleges roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "College administration operates via Yahoo Mail; students are not provided individual institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3800,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 23.8,
+    "ambassador_adv": 12.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 65.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  }
+]

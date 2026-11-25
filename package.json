@@ -1,0 +1,11 @@
+{
+  "name": "tappits-linkedin-agents-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "install:app": "npm --prefix linkedin-ai-assistant install",
+    "dev": "npm --prefix linkedin-ai-assistant run dev",
+    "build": "npm --prefix linkedin-ai-assistant run build",
+    "test": "npm --prefix linkedin-ai-assistant run test"
+  }
+}

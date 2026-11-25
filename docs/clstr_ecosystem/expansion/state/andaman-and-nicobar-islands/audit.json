@@ -1,0 +1,49 @@
+[
+  {
+    "college_name": "Dr. B.R. Ambedkar Institute of Technology",
+    "alternative_names": [
+      "DBRAIT Port Blair"
+    ],
+    "aishe_code": "C-6610",
+    "district": "South Andaman",
+    "city": "Port Blair",
+    "full_address": "Pahargaon, Port Blair, Andaman and Nicobar Islands - 744103",
+    "state_or_union_territory": "Andaman and Nicobar Islands",
+    "affiliated_university": "Pondicherry University",
+    "official_website": "http://www.dbrait.andaman.gov.in",
+    "emails_found": [
+      "dbrait_portblair@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.pondiuni.edu.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official university affiliation database",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for administration; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1600,
+    "clstr_advantage_score": 8.5,
+    "youth_ecosystem_score": 7.0,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 3.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 10.0,
+    "ambassador_adv": 8.5,
+    "youth_eco": 7.0,
+    "dig_adopt": 7.5,
+    "op_access": 3.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 42.7,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  }
+]

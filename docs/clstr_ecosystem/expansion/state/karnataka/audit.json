@@ -1,0 +1,578 @@
+[
+  {
+    "college_name": "Don Bosco Institute of Technology",
+    "alternative_names": [
+      "DBIT Bengaluru"
+    ],
+    "aishe_code": "C-1254",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "full_address": "Mysore Road, Kumbalagodu, Bengaluru - 560074",
+    "state_or_union_territory": "Karnataka",
+    "affiliated_university": "Visvesvaraya Technological University",
+    "official_website": "http://www.dbit.co.in",
+    "emails_found": [
+      "dbit_blr@yahoo.com",
+      "principal@dbit.co.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "dbit.co.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetonline.karnataka.gov.in/kea",
+      "http://www.dbit.co.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "KEA VTU affiliated college roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "College administration conducts operations via Yahoo Mail; students are not provided institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3200,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 20.0,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 80.7,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "East West Institute of Technology",
+    "alternative_names": [
+      "EWIT Bengaluru"
+    ],
+    "aishe_code": "C-1256",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "full_address": "No. 63, Off Magadi Road, Vishwaneedam Post, Anjananagar, Bengaluru - 560091",
+    "state_or_union_territory": "Karnataka",
+    "affiliated_university": "Visvesvaraya Technological University",
+    "official_website": "http://www.ewit.edu",
+    "emails_found": [
+      "ewit_blr@yahoo.co.in",
+      "principal@ewit.edu"
+    ],
+    "domains_found": [
+      "yahoo.co.in",
+      "ewit.edu"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetonline.karnataka.gov.in/kea"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official KEA database audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Yahoo; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3000,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 18.8,
+    "ambassador_adv": 11.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 78.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "City Engineering College",
+    "alternative_names": [
+      "CEC Kanakapura Road"
+    ],
+    "aishe_code": "C-1250",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "full_address": "Doddakallasandra, Kanakapura Road, Bengaluru - 560061",
+    "state_or_union_territory": "Karnataka",
+    "affiliated_university": "Visvesvaraya Technological University",
+    "official_website": "http://www.cityengineeringcollege.ac.in",
+    "emails_found": [
+      "city_engg_blr@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetonline.karnataka.gov.in/kea"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "VTU affiliated directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for regulatory desk; students lack college-owned email.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1900,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 11.9,
+    "ambassador_adv": 11.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 71.1,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Sambhram Institute of Technology",
+    "alternative_names": [
+      "SaIT Vidyaranyapura"
+    ],
+    "aishe_code": "C-1282",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "full_address": "M.S. Palya, Via Jalahalli East, Vidyaranyapura, Bengaluru - 560097",
+    "state_or_union_territory": "Karnataka",
+    "affiliated_university": "Visvesvaraya Technological University",
+    "official_website": "http://www.sambhram.org",
+    "emails_found": [
+      "sambhram_engg@yahoo.co.in",
+      "principal@sambhram.org"
+    ],
+    "domains_found": [
+      "yahoo.co.in",
+      "sambhram.org"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetonline.karnataka.gov.in/kea"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official KEA database",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official administrative correspondence routes via Yahoo Mail; no student inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2500,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 15.6,
+    "ambassador_adv": 11.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 74.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Canara Engineering College",
+    "alternative_names": [
+      "CEC Benjanapadavu"
+    ],
+    "aishe_code": "C-1249",
+    "district": "Dakshina Kannada",
+    "city": "Mangaluru",
+    "full_address": "Benjanapadavu, Bantwal Taluk, Dakshina Kannada - 574219",
+    "state_or_union_territory": "Karnataka",
+    "affiliated_university": "Visvesvaraya Technological University",
+    "official_website": "http://www.canaraengineering.in",
+    "emails_found": [
+      "canara_engg@yahoo.com",
+      "principal@canaraengineering.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "canaraengineering.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://cetonline.karnataka.gov.in/kea"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "VTU affiliated colleges roster",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "College administration operates via Yahoo Mail; students receive no @canaraengineering.in inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2400,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 15.0,
+    "ambassador_adv": 11.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 57.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "The Oxford College of Engineering",
+    "alternative_names": [
+      "The Oxford College of Engineering"
+    ],
+    "aishe_code": "C-1284",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "full_address": "The Oxford College of Engineering, Bengaluru, Karnataka",
+    "state_or_union_territory": "Karnataka",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.theoxford.edu",
+    "emails_found": [
+      "enggprincipal@theoxford.edu"
+    ],
+    "domains_found": [
+      "theoxford.edu"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://kea.kar.nic.in",
+      "http://www.theoxford.edu"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3800,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 23.8,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 86.0,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "RNS Institute of Technology",
+    "alternative_names": [
+      "RNS Institute of Technology"
+    ],
+    "aishe_code": "C-1270",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "full_address": "RNS Institute of Technology, Bengaluru, Karnataka",
+    "state_or_union_territory": "Karnataka",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.rnsit.ac.in",
+    "emails_found": [
+      "principal@rnsit.ac.in"
+    ],
+    "domains_found": [
+      "rnsit.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://kea.kar.nic.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4200,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 87.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "MVJ College of Engineering",
+    "alternative_names": [
+      "MVJ College of Engineering"
+    ],
+    "aishe_code": "C-1250",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "full_address": "MVJ College of Engineering, Bengaluru, Karnataka",
+    "state_or_union_territory": "Karnataka",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.mvjce.edu.in",
+    "emails_found": [
+      "principalmvjce@gmail.com",
+      "contact@mvjce.edu.in"
+    ],
+    "domains_found": [
+      "mvjce.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://kea.kar.nic.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3800,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 23.8,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 85.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Acharya Institute of Technology",
+    "alternative_names": [
+      "Acharya Institute of Technology"
+    ],
+    "aishe_code": "C-1202",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "full_address": "Acharya Institute of Technology, Bengaluru, Karnataka",
+    "state_or_union_territory": "Karnataka",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.acharya.ac.in",
+    "emails_found": [
+      "info@acharya.ac.in",
+      "principalait@acharya.ac.in"
+    ],
+    "domains_found": [
+      "acharya.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://kea.kar.nic.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4600,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 87.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Cambridge Institute of Technology",
+    "alternative_names": [
+      "Cambridge Institute of Technology"
+    ],
+    "aishe_code": "C-1214",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "full_address": "Cambridge Institute of Technology, Bengaluru, Karnataka",
+    "state_or_union_territory": "Karnataka",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.cambridge.edu.in",
+    "emails_found": [
+      "info@cambridge.edu.in"
+    ],
+    "domains_found": [
+      "cambridge.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://kea.kar.nic.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3200,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 20.0,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 81.2,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Vidyavardhaka College of Engineering",
+    "alternative_names": [
+      "Vidyavardhaka College of Engineering"
+    ],
+    "aishe_code": "C-1300",
+    "district": "Mysuru",
+    "city": "Mysuru",
+    "full_address": "Vidyavardhaka College of Engineering, Mysuru, Karnataka",
+    "state_or_union_territory": "Karnataka",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.vvce.ac.in",
+    "emails_found": [
+      "principal@vvce.ac.in"
+    ],
+    "domains_found": [
+      "vvce.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://kea.kar.nic.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3400,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 21.2,
+    "ambassador_adv": 13.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 62.9,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Sahyadri College of Engineering and Management",
+    "alternative_names": [
+      "Sahyadri College of Engineering and Management"
+    ],
+    "aishe_code": "C-1273",
+    "district": "Dakshina Kannada",
+    "city": "Mangaluru",
+    "full_address": "Sahyadri College of Engineering and Management, Mangaluru, Karnataka",
+    "state_or_union_territory": "Karnataka",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.sahyadri.edu.in",
+    "emails_found": [
+      "sahyadri@sahyadri.edu.in"
+    ],
+    "domains_found": [
+      "sahyadri.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://kea.kar.nic.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 13.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 66.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  }
+]

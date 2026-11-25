@@ -1,0 +1,19 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Guwahati",
+      "state_or_union_territory": "Assam",
+      "college_name": "Scholar's Institute of Technology and Management"
+    },
+    {
+      "city": "Guwahati",
+      "state_or_union_territory": "Assam",
+      "college_name": "Girijananda Chowdhury Institute of Management and Technology"
+    },
+    {
+      "city": "Guwahati",
+      "state_or_union_territory": "Assam",
+      "college_name": "Assam Engineering College"
+    }
+  ]
+}

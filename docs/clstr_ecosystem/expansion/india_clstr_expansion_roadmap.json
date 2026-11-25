@@ -1,0 +1,102 @@
+{
+  "title": "clstr Nationwide No-Institutional-Email Expansion Roadmap",
+  "methodology": "Evidence-backed multi-tier scoring prioritizing high student density, engineering cluster synergy, and community network effects.",
+  "phase_1_first_city": {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "city_opportunity_score": 98.3,
+    "target_colleges_count": 15,
+    "estimated_students": 30600,
+    "why": "Visakhapatnam combines coastal IT hub momentum with severe student fragmentation across high-reputation engineering institutions lacking institutional email (e.g. Bullayya, Chaitanya, Sanketika, Sai Ganapathi, Al-Aman). clstr already holds strong brand presence and verified node relationships in REC and AU, providing an immediate peer network.",
+    "recommended_first_colleges": [
+      "Dr. Lankapalli Bullayya College of Engineering",
+      "Chaitanya Engineering College",
+      "Sanketika Vidya Parishad Engineering College",
+      "Sai Ganapathi Engineering College",
+      "Viswanadha Institute of Technology and Management",
+      "Al-Aman College of Engineering"
+    ]
+  },
+  "phase_2_first_cluster": {
+    "cluster_name": "Andhra Pradesh Coastal Tech Corridor (Visakhapatnam - Vijayawada - Guntur)",
+    "cities": [
+      "Visakhapatnam",
+      "Vijayawada",
+      "Guntur"
+    ],
+    "total_target_colleges": 33,
+    "total_students": 75200,
+    "synergy_rationale": "Direct transport connectivity, shared academic calendars under JNTUK/ANU, intense inter-college fests and placement competitions, and high peer-group migration between Visakhapatnam and the capital Amaravati-Vijayawada-Guntur hub."
+  },
+  "phase_3_state_expansion": {
+    "top_states": [
+      {
+        "rank": 1,
+        "state": "Andhra Pradesh",
+        "score": 99.5
+      },
+      {
+        "rank": 2,
+        "state": "Telangana",
+        "score": 85.0
+      },
+      {
+        "rank": 3,
+        "state": "Tamil Nadu",
+        "score": 81.5
+      },
+      {
+        "rank": 4,
+        "state": "Maharashtra",
+        "score": 71.0
+      },
+      {
+        "rank": 5,
+        "state": "Karnataka",
+        "score": 65.3
+      }
+    ]
+  },
+  "phase_4_national_rollout_sequence": [
+    {
+      "step": 1,
+      "target": "Visakhapatnam (Launch Anchor)"
+    },
+    {
+      "step": 2,
+      "target": "Vijayawada & Guntur (Coastal Corridor Consolidation)"
+    },
+    {
+      "step": 3,
+      "target": "Hyderabad Peripheral Engineering Belt (Ibrahimpatnam, Moinabad, Ghatkesar, Keesara)"
+    },
+    {
+      "step": 4,
+      "target": "Tirupati & Rayalaseema Hub (Chittoor, Kurnool, Kadapa)"
+    },
+    {
+      "step": 5,
+      "target": "Chennai Suburbs & Coimbatore Tech Cluster"
+    },
+    {
+      "step": 6,
+      "target": "Pune Outer Clusters (Hadapsar, Wagholi, Narhe, Talegaon)"
+    },
+    {
+      "step": 7,
+      "target": "Bengaluru Rural / Sub-Urban Clusters (Kanakapura, Kumbalagodu, Yelahanka)"
+    },
+    {
+      "step": 8,
+      "target": "Delhi NCR / Greater Noida Knowledge Park Corridor"
+    },
+    {
+      "step": 9,
+      "target": "Central India (Bhopal, Indore, Nagpur, Raipur)"
+    },
+    {
+      "step": 10,
+      "target": "Pan-India Tier 2 & Tier 3 College Coverage across all 36 States and UTs"
+    }
+  ]
+}

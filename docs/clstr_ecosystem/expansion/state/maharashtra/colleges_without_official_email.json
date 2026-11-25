@@ -1,0 +1,74 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Pune",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "All India Shri Shivaji Memorial Society's College of Engineering"
+    },
+    {
+      "city": "Pune",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "Sinhgad Academy of Engineering"
+    },
+    {
+      "city": "Pune",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "Marathwada Mitra Mandal's College of Engineering"
+    },
+    {
+      "city": "Pune",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "JSPM's Rajarshi Shahu College of Engineering"
+    },
+    {
+      "city": "Mumbai",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "Thadomal Shahani Engineering College"
+    },
+    {
+      "city": "Mumbai",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "Fr. Conceicao Rodrigues College of Engineering"
+    },
+    {
+      "city": "Navi Mumbai",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "Pillai College of Engineering"
+    },
+    {
+      "city": "Nagpur",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "Yeshwantrao Chavan College of Engineering"
+    },
+    {
+      "city": "Pune",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "Sinhgad College of Engineering"
+    },
+    {
+      "city": "Pune",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "Pimpri Chinchwad College of Engineering"
+    },
+    {
+      "city": "Pune",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "D.Y. Patil College of Engineering"
+    },
+    {
+      "city": "Mumbai",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "Rajiv Gandhi Institute of Technology"
+    },
+    {
+      "city": "Nagpur",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "G.H. Raisoni College of Engineering"
+    },
+    {
+      "city": "Nashik",
+      "state_or_union_territory": "Maharashtra",
+      "college_name": "K.K. Wagh Institute of Engineering Education and Research"
+    }
+  ]
+}

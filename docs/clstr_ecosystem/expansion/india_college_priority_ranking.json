@@ -1,0 +1,1955 @@
+[
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Malla Reddy Engineering College",
+    "clstr_expansion_score": 97.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 1
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Sreenidhi Institute of Science and Technology",
+    "clstr_expansion_score": 97.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 2
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Malla Reddy College of Engineering and Technology",
+    "clstr_expansion_score": 95.8,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 3
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Vidya Jyothi Institute of Technology",
+    "clstr_expansion_score": 95.8,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 4
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "CMR College of Engineering and Technology",
+    "clstr_expansion_score": 94.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 5
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "J.B. Institute of Engineering and Technology",
+    "clstr_expansion_score": 93.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 6
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Avanthi Institute of Engineering and Technology (Tagarapuvalasa)",
+    "clstr_expansion_score": 92.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 7
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "St. Martin's Engineering College",
+    "clstr_expansion_score": 92.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 8
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Geethanjali College of Engineering and Technology",
+    "clstr_expansion_score": 92.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 9
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Sri Indu College of Engineering and Technology",
+    "clstr_expansion_score": 91.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 10
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "TKR College of Engineering and Technology",
+    "clstr_expansion_score": 91.4,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 11
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "CMR Technical Campus",
+    "clstr_expansion_score": 91.0,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 12
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Guru Nanak Institute of Technology",
+    "clstr_expansion_score": 91.0,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 13
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Lords Institute of Engineering and Technology",
+    "clstr_expansion_score": 88.8,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 14
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Bhojreddy Engineering College for Women",
+    "clstr_expansion_score": 88.0,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 15
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Bharat Institute of Engineering and Technology",
+    "clstr_expansion_score": 87.4,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 16
+  },
+  {
+    "city": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "Rajalakshmi Engineering College",
+    "clstr_expansion_score": 87.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 17
+  },
+  {
+    "city": "Bengaluru",
+    "state_or_union_territory": "Karnataka",
+    "college_name": "RNS Institute of Technology",
+    "clstr_expansion_score": 87.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 18
+  },
+  {
+    "city": "Bengaluru",
+    "state_or_union_territory": "Karnataka",
+    "college_name": "Acharya Institute of Technology",
+    "clstr_expansion_score": 87.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 19
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Dr. Lankapalli Bullayya College of Engineering",
+    "clstr_expansion_score": 87.0,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 20
+  },
+  {
+    "city": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "Panimalar Engineering College",
+    "clstr_expansion_score": 86.7,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 21
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "BABA Institute of Technology and Sciences",
+    "clstr_expansion_score": 86.7,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 22
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Sridevi Women's Engineering College",
+    "clstr_expansion_score": 86.7,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 23
+  },
+  {
+    "city": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "Saveetha Engineering College",
+    "clstr_expansion_score": 86.7,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 24
+  },
+  {
+    "city": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "St. Joseph's College of Engineering",
+    "clstr_expansion_score": 86.7,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 25
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Narasimha Reddy Engineering College",
+    "clstr_expansion_score": 86.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 26
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Aurora's Technological and Research Institute",
+    "clstr_expansion_score": 86.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 27
+  },
+  {
+    "city": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "Sri Sairam Engineering College",
+    "clstr_expansion_score": 86.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 28
+  },
+  {
+    "city": "Bengaluru",
+    "state_or_union_territory": "Karnataka",
+    "college_name": "The Oxford College of Engineering",
+    "clstr_expansion_score": 86.0,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 29
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Stanley College of Engineering and Technology for Women",
+    "clstr_expansion_score": 85.7,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 30
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Vignan's Institute of Engineering for Women",
+    "clstr_expansion_score": 85.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 31
+  },
+  {
+    "city": "Bengaluru",
+    "state_or_union_territory": "Karnataka",
+    "college_name": "MVJ College of Engineering",
+    "clstr_expansion_score": 85.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 32
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Methodist College of Engineering and Technology",
+    "clstr_expansion_score": 85.1,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 33
+  },
+  {
+    "city": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "Jeppiaar Engineering College",
+    "clstr_expansion_score": 85.0,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch",
+    "rank": 34
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Holy Mary Institute of Technology and Science",
+    "clstr_expansion_score": 84.4,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 35
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Matrusri Engineering College",
+    "clstr_expansion_score": 84.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 36
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Joginpally B.R. Engineering College",
+    "clstr_expansion_score": 83.7,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 37
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Scient Institute of Technology",
+    "clstr_expansion_score": 83.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 38
+  },
+  {
+    "city": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "Sinhgad College of Engineering",
+    "clstr_expansion_score": 83.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 39
+  },
+  {
+    "city": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "Pimpri Chinchwad College of Engineering",
+    "clstr_expansion_score": 83.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 40
+  },
+  {
+    "city": "Vijayawada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "DVR & Dr. HS MIC College of Technology",
+    "clstr_expansion_score": 83.1,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 41
+  },
+  {
+    "city": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "D.Y. Patil College of Engineering",
+    "clstr_expansion_score": 82.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 42
+  },
+  {
+    "city": "Vijayawada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Dhanekula Institute of Engineering and Technology",
+    "clstr_expansion_score": 82.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 43
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Avanthi's Research and Technological Academy",
+    "clstr_expansion_score": 81.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 44
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Nadimpalli Satyanarayana Raju Institute of Technology",
+    "clstr_expansion_score": 81.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 45
+  },
+  {
+    "city": "Bengaluru",
+    "state_or_union_territory": "Karnataka",
+    "college_name": "Cambridge Institute of Technology",
+    "clstr_expansion_score": 81.2,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 46
+  },
+  {
+    "city": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Vasireddy Venkatadri Institute of Technology",
+    "clstr_expansion_score": 81.1,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 47
+  },
+  {
+    "city": "Vijayawada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Andhra Loyola Institute of Engineering and Technology",
+    "clstr_expansion_score": 81.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 48
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "AVN Institute of Engineering and Technology",
+    "clstr_expansion_score": 80.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 49
+  },
+  {
+    "city": "Bengaluru",
+    "state_or_union_territory": "Karnataka",
+    "college_name": "Don Bosco Institute of Technology",
+    "clstr_expansion_score": 80.7,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 50
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Sanketika Institute of Technology and Management",
+    "clstr_expansion_score": 80.7,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 51
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Sanketika Vidya Parishad Engineering College",
+    "clstr_expansion_score": 80.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 52
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Chaitanya Engineering College",
+    "clstr_expansion_score": 80.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 53
+  },
+  {
+    "city": "Hyderabad",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Samskruti College of Engineering and Technology",
+    "clstr_expansion_score": 80.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 54
+  },
+  {
+    "city": "Vijayawada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "SRK Institute of Technology",
+    "clstr_expansion_score": 80.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 55
+  },
+  {
+    "city": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "JSPM's Rajarshi Shahu College of Engineering",
+    "clstr_expansion_score": 79.6,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 56
+  },
+  {
+    "city": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering",
+    "clstr_expansion_score": 79.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 57
+  },
+  {
+    "city": "Vijayawada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Usha Rama College of Engineering and Technology",
+    "clstr_expansion_score": 78.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 58
+  },
+  {
+    "city": "Bengaluru",
+    "state_or_union_territory": "Karnataka",
+    "college_name": "East West Institute of Technology",
+    "clstr_expansion_score": 78.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 59
+  },
+  {
+    "city": "Vijayawada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Amrita Sai Institute of Science and Technology",
+    "clstr_expansion_score": 78.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 60
+  },
+  {
+    "city": "Vijayawada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Potti Sriramulu Chalavadi Mallikarjuna Rao College of Engineering and Technology",
+    "clstr_expansion_score": 78.1,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 61
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Al-Ameer College of Engineering and Information Technology",
+    "clstr_expansion_score": 77.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 62
+  },
+  {
+    "city": "Jaipur",
+    "state_or_union_territory": "Rajasthan",
+    "college_name": "Swami Keshvanand Institute of Technology",
+    "clstr_expansion_score": 77.2,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 63
+  },
+  {
+    "city": "Jaipur",
+    "state_or_union_territory": "Rajasthan",
+    "college_name": "Jaipur Engineering College and Research Centre",
+    "clstr_expansion_score": 77.2,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 64
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Gonna Institute of Information Technology and Sciences",
+    "clstr_expansion_score": 76.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 65
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Pydah Kaushik College of Engineering",
+    "clstr_expansion_score": 76.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 66
+  },
+  {
+    "city": "Ghaziabad",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_name": "Ajay Kumar Garg Engineering College",
+    "clstr_expansion_score": 76.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 67
+  },
+  {
+    "city": "Coimbatore",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "Sri Krishna College of Engineering and Technology",
+    "clstr_expansion_score": 76.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 68
+  },
+  {
+    "city": "Ghaziabad",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_name": "KIET Group of Institutions",
+    "clstr_expansion_score": 76.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 69
+  },
+  {
+    "city": "Kolkata",
+    "state_or_union_territory": "West Bengal",
+    "college_name": "Institute of Engineering and Management",
+    "clstr_expansion_score": 76.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 70
+  },
+  {
+    "city": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "Jerusalem College of Engineering",
+    "clstr_expansion_score": 75.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 71
+  },
+  {
+    "city": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "Sinhgad Academy of Engineering",
+    "clstr_expansion_score": 75.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 72
+  },
+  {
+    "city": "Jaipur",
+    "state_or_union_territory": "Rajasthan",
+    "college_name": "Swami Keshvanand Institute of Technology, Management and Gramothan",
+    "clstr_expansion_score": 75.6,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 73
+  },
+  {
+    "city": "Kolkata",
+    "state_or_union_territory": "West Bengal",
+    "college_name": "Heritage Institute of Technology",
+    "clstr_expansion_score": 75.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 74
+  },
+  {
+    "city": "Ghaziabad",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_name": "ABES Engineering College",
+    "clstr_expansion_score": 75.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 75
+  },
+  {
+    "city": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Narasaraopeta Engineering College",
+    "clstr_expansion_score": 75.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 76
+  },
+  {
+    "city": "Jaipur",
+    "state_or_union_territory": "Rajasthan",
+    "college_name": "Arya College of Engineering and Information Technology",
+    "clstr_expansion_score": 75.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 77
+  },
+  {
+    "city": "Kolkata",
+    "state_or_union_territory": "West Bengal",
+    "college_name": "Techno Main Salt Lake",
+    "clstr_expansion_score": 75.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 78
+  },
+  {
+    "city": "Bengaluru",
+    "state_or_union_territory": "Karnataka",
+    "college_name": "Sambhram Institute of Technology",
+    "clstr_expansion_score": 74.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 79
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Viswanadha Institute of Technology and Management",
+    "clstr_expansion_score": 74.2,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 80
+  },
+  {
+    "city": "Vijayawada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Nimra College of Engineering and Technology",
+    "clstr_expansion_score": 74.1,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 81
+  },
+  {
+    "city": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "Meenakshi Sundararajan Engineering College",
+    "clstr_expansion_score": 74.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 82
+  },
+  {
+    "city": "Pune",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "Marathwada Mitra Mandal's College of Engineering",
+    "clstr_expansion_score": 73.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 83
+  },
+  {
+    "city": "Mohali",
+    "state_or_union_territory": "Punjab",
+    "college_name": "Chandigarh Group of Colleges (Landran)",
+    "clstr_expansion_score": 73.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 84
+  },
+  {
+    "city": "Coimbatore",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "Hindusthan College of Engineering and Technology",
+    "clstr_expansion_score": 73.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 85
+  },
+  {
+    "city": "Vijayawada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Vikas College of Engineering and Technology",
+    "clstr_expansion_score": 72.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 86
+  },
+  {
+    "city": "Mohali",
+    "state_or_union_territory": "Punjab",
+    "college_name": "Chandigarh Group of Colleges (Jhanjeri)",
+    "clstr_expansion_score": 72.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 87
+  },
+  {
+    "city": "Chennai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "Jaya Engineering College",
+    "clstr_expansion_score": 72.7,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 88
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Sai Ganapathi Engineering College",
+    "clstr_expansion_score": 72.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 89
+  },
+  {
+    "city": "Coimbatore",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "Karpagam College of Engineering",
+    "clstr_expansion_score": 72.4,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 90
+  },
+  {
+    "city": "Bhopal",
+    "state_or_union_territory": "Madhya Pradesh",
+    "college_name": "Lakshmi Narain College of Technology",
+    "clstr_expansion_score": 72.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 91
+  },
+  {
+    "city": "Mohali",
+    "state_or_union_territory": "Punjab",
+    "college_name": "Chandigarh Group of Colleges",
+    "clstr_expansion_score": 72.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 92
+  },
+  {
+    "city": "Bhubaneswar",
+    "state_or_union_territory": "Odisha",
+    "college_name": "C.V. Raman Global University",
+    "clstr_expansion_score": 72.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 93
+  },
+  {
+    "city": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "KKR & KSR Institute of Technology and Sciences",
+    "clstr_expansion_score": 72.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 94
+  },
+  {
+    "city": "Kolkata",
+    "state_or_union_territory": "West Bengal",
+    "college_name": "Netaji Subhash Engineering College",
+    "clstr_expansion_score": 72.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 95
+  },
+  {
+    "city": "Jaipur",
+    "state_or_union_territory": "Rajasthan",
+    "college_name": "Poornima College of Engineering",
+    "clstr_expansion_score": 71.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 96
+  },
+  {
+    "city": "Vijayawada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Nova College of Engineering and Technology",
+    "clstr_expansion_score": 71.7,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 97
+  },
+  {
+    "city": "Bengaluru",
+    "state_or_union_territory": "Karnataka",
+    "college_name": "City Engineering College",
+    "clstr_expansion_score": 71.1,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 98
+  },
+  {
+    "city": "Coimbatore",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "SNS College of Technology",
+    "clstr_expansion_score": 71.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 99
+  },
+  {
+    "city": "Greater Noida",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_name": "Galgotias College of Engineering and Technology",
+    "clstr_expansion_score": 71.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 100
+  },
+  {
+    "city": "Bhopal",
+    "state_or_union_territory": "Madhya Pradesh",
+    "college_name": "Technocrats Institute of Technology",
+    "clstr_expansion_score": 70.7,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 101
+  },
+  {
+    "city": "Greater Noida",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_name": "GL Bajaj Institute of Technology and Management",
+    "clstr_expansion_score": 70.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 102
+  },
+  {
+    "city": "Warangal",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Vaagdevi College of Engineering",
+    "clstr_expansion_score": 70.1,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 103
+  },
+  {
+    "city": "Bhopal",
+    "state_or_union_territory": "Madhya Pradesh",
+    "college_name": "Oriental Institute of Science and Technology",
+    "clstr_expansion_score": 70.1,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador",
+    "rank": 104
+  },
+  {
+    "city": "Warangal",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Kakatiya Institute of Technology and Science",
+    "clstr_expansion_score": 69.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 105
+  },
+  {
+    "city": "Kochi",
+    "state_or_union_territory": "Kerala",
+    "college_name": "Rajagiri School of Engineering and Technology",
+    "clstr_expansion_score": 69.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 106
+  },
+  {
+    "city": "Bhubaneswar",
+    "state_or_union_territory": "Odisha",
+    "college_name": "Silicon Institute of Technology",
+    "clstr_expansion_score": 69.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 107
+  },
+  {
+    "city": "Vijayawada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "MVR College of Engineering and Technology",
+    "clstr_expansion_score": 69.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 108
+  },
+  {
+    "city": "Ahmedabad",
+    "state_or_union_territory": "Gujarat",
+    "college_name": "L.J. Institute of Engineering and Technology",
+    "clstr_expansion_score": 69.3,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 109
+  },
+  {
+    "city": "Ghaziabad",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_name": "IMS Engineering College",
+    "clstr_expansion_score": 69.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 110
+  },
+  {
+    "city": "Delhi",
+    "state_or_union_territory": "Delhi",
+    "college_name": "Dr. Akhilesh Das Gupta Institute of Technology & Management",
+    "clstr_expansion_score": 69.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 111
+  },
+  {
+    "city": "Nagpur",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "G.H. Raisoni College of Engineering",
+    "clstr_expansion_score": 69.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 112
+  },
+  {
+    "city": "Kochi",
+    "state_or_union_territory": "Kerala",
+    "college_name": "Federal Institute of Science and Technology",
+    "clstr_expansion_score": 68.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 113
+  },
+  {
+    "city": "Bhubaneswar",
+    "state_or_union_territory": "Odisha",
+    "college_name": "Gandhi Institute for Technological Advancement",
+    "clstr_expansion_score": 68.3,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 114
+  },
+  {
+    "city": "Mumbai",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "Thadomal Shahani Engineering College",
+    "clstr_expansion_score": 68.2,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 115
+  },
+  {
+    "city": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Tirumala Engineering College",
+    "clstr_expansion_score": 68.1,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 116
+  },
+  {
+    "city": "Visakhapatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Al-Aman College of Engineering",
+    "clstr_expansion_score": 68.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 117
+  },
+  {
+    "city": "Nagpur",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "Yeshwantrao Chavan College of Engineering",
+    "clstr_expansion_score": 68.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 118
+  },
+  {
+    "city": "Noida",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_name": "JSS Academy of Technical Education",
+    "clstr_expansion_score": 68.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 119
+  },
+  {
+    "city": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Kallam Haranadhareddy Institute of Technology",
+    "clstr_expansion_score": 67.9,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 120
+  },
+  {
+    "city": "Kanpur",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_name": "Pranveer Singh Institute of Technology",
+    "clstr_expansion_score": 67.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 121
+  },
+  {
+    "city": "Vadodara",
+    "state_or_union_territory": "Gujarat",
+    "college_name": "Parul Institute of Engineering and Technology",
+    "clstr_expansion_score": 67.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 122
+  },
+  {
+    "city": "Ahmedabad",
+    "state_or_union_territory": "Gujarat",
+    "college_name": "Silver Oak College of Engineering and Technology",
+    "clstr_expansion_score": 67.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 123
+  },
+  {
+    "city": "Salem",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "Sona College of Technology",
+    "clstr_expansion_score": 66.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 124
+  },
+  {
+    "city": "Mangaluru",
+    "state_or_union_territory": "Karnataka",
+    "college_name": "Sahyadri College of Engineering and Management",
+    "clstr_expansion_score": 66.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 125
+  },
+  {
+    "city": "Anakapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Avanthi Institute of Engineering and Technology (Makavarapalem)",
+    "clstr_expansion_score": 66.3,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 126
+  },
+  {
+    "city": "Mumbai",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "Rajiv Gandhi Institute of Technology",
+    "clstr_expansion_score": 65.9,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 127
+  },
+  {
+    "city": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Chalapathi Institute of Engineering and Technology",
+    "clstr_expansion_score": 65.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 128
+  },
+  {
+    "city": "Indore",
+    "state_or_union_territory": "Madhya Pradesh",
+    "college_name": "Acropolis Institute of Technology and Research",
+    "clstr_expansion_score": 65.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 129
+  },
+  {
+    "city": "Puducherry",
+    "state_or_union_territory": "Puducherry",
+    "college_name": "Sri Manakula Vinayagar Engineering College",
+    "clstr_expansion_score": 65.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 130
+  },
+  {
+    "city": "Anakapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Dadi Institute of Engineering and Technology",
+    "clstr_expansion_score": 65.2,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 131
+  },
+  {
+    "city": "Nashik",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "K.K. Wagh Institute of Engineering Education and Research",
+    "clstr_expansion_score": 65.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 132
+  },
+  {
+    "city": "Navi Mumbai",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "Pillai College of Engineering",
+    "clstr_expansion_score": 64.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 133
+  },
+  {
+    "city": "Bhilai",
+    "state_or_union_territory": "Chhattisgarh",
+    "college_name": "Rungta College of Engineering and Technology",
+    "clstr_expansion_score": 64.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 134
+  },
+  {
+    "city": "Dehradun",
+    "state_or_union_territory": "Uttarakhand",
+    "college_name": "Tula's Institute",
+    "clstr_expansion_score": 64.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 135
+  },
+  {
+    "city": "Ongole",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "QIS College of Engineering and Technology",
+    "clstr_expansion_score": 64.3,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 136
+  },
+  {
+    "city": "Ludhiana",
+    "state_or_union_territory": "Punjab",
+    "college_name": "Guru Nanak Dev Engineering College",
+    "clstr_expansion_score": 64.2,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 137
+  },
+  {
+    "city": "Lucknow",
+    "state_or_union_territory": "Uttar Pradesh",
+    "college_name": "Shri Ramswaroop Memorial College of Engineering and Management",
+    "clstr_expansion_score": 63.6,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 138
+  },
+  {
+    "city": "Bhilai",
+    "state_or_union_territory": "Chhattisgarh",
+    "college_name": "Bhilai Institute of Technology",
+    "clstr_expansion_score": 63.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 139
+  },
+  {
+    "city": "Mysuru",
+    "state_or_union_territory": "Karnataka",
+    "college_name": "Vidyavardhaka College of Engineering",
+    "clstr_expansion_score": 62.9,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 140
+  },
+  {
+    "city": "Tirupati",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Sri Venkateswara College of Engineering",
+    "clstr_expansion_score": 62.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 141
+  },
+  {
+    "city": "Kochi",
+    "state_or_union_territory": "Kerala",
+    "college_name": "SCMS School of Engineering and Technology",
+    "clstr_expansion_score": 62.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 142
+  },
+  {
+    "city": "Delhi",
+    "state_or_union_territory": "Delhi",
+    "college_name": "HMR Institute of Technology and Management",
+    "clstr_expansion_score": 62.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 143
+  },
+  {
+    "city": "Durgapur",
+    "state_or_union_territory": "West Bengal",
+    "college_name": "Dr. B.C. Roy Engineering College",
+    "clstr_expansion_score": 62.1,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 144
+  },
+  {
+    "city": "Guwahati",
+    "state_or_union_territory": "Assam",
+    "college_name": "Assam Engineering College",
+    "clstr_expansion_score": 62.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 145
+  },
+  {
+    "city": "Bapatla",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Bapatla Engineering College",
+    "clstr_expansion_score": 61.4,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 146
+  },
+  {
+    "city": "Mumbai",
+    "state_or_union_territory": "Maharashtra",
+    "college_name": "Fr. Conceicao Rodrigues College of Engineering",
+    "clstr_expansion_score": 61.1,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 147
+  },
+  {
+    "city": "Patna",
+    "state_or_union_territory": "Bihar",
+    "college_name": "Netaji Subhas Institute of Technology (Bihta)",
+    "clstr_expansion_score": 61.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 148
+  },
+  {
+    "city": "Anakapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Avanthi Institute of Engineering and Technology",
+    "clstr_expansion_score": 60.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 149
+  },
+  {
+    "city": "Nellore",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Narayana Engineering College",
+    "clstr_expansion_score": 60.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 150
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "state_or_union_territory": "Kerala",
+    "college_name": "Mar Baselios College of Engineering and Technology",
+    "clstr_expansion_score": 60.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 151
+  },
+  {
+    "city": "Guntur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Chebrolu Engineering College",
+    "clstr_expansion_score": 60.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 152
+  },
+  {
+    "city": "Surat",
+    "state_or_union_territory": "Gujarat",
+    "college_name": "Sarvajanik College of Engineering and Technology",
+    "clstr_expansion_score": 60.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 153
+  },
+  {
+    "city": "Ongole",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "PACE Institute of Technology and Sciences",
+    "clstr_expansion_score": 60.3,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 154
+  },
+  {
+    "city": "Guwahati",
+    "state_or_union_territory": "Assam",
+    "college_name": "Girijananda Chowdhury Institute of Management and Technology",
+    "clstr_expansion_score": 59.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 155
+  },
+  {
+    "city": "Puttur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Siddharth Institute of Engineering & Technology",
+    "clstr_expansion_score": 59.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 156
+  },
+  {
+    "city": "Gurugram",
+    "state_or_union_territory": "Haryana",
+    "college_name": "Dronacharya College of Engineering",
+    "clstr_expansion_score": 59.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 157
+  },
+  {
+    "city": "Patna",
+    "state_or_union_territory": "Bihar",
+    "college_name": "Netaji Subhas Institute of Technology",
+    "clstr_expansion_score": 59.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 158
+  },
+  {
+    "city": "Tirupati",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Chadalawada Ramanamma Engineering College",
+    "clstr_expansion_score": 58.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 159
+  },
+  {
+    "city": "Anakapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Indo American Institutions Technical Campus",
+    "clstr_expansion_score": 58.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 160
+  },
+  {
+    "city": "Kakinada",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Kakinada Institute of Engineering & Technology",
+    "clstr_expansion_score": 58.5,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 161
+  },
+  {
+    "city": "Thrissur",
+    "state_or_union_territory": "Kerala",
+    "college_name": "Vidya Academy of Science and Technology",
+    "clstr_expansion_score": 58.2,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 162
+  },
+  {
+    "city": "Rajampet",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Annamacharya Institute of Technology and Sciences",
+    "clstr_expansion_score": 57.6,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 163
+  },
+  {
+    "city": "Dehradun",
+    "state_or_union_territory": "Uttarakhand",
+    "college_name": "Shivalik College of Engineering",
+    "clstr_expansion_score": 57.6,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 164
+  },
+  {
+    "city": "Warangal",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Jayamukhi Institute of Technological Sciences",
+    "clstr_expansion_score": 57.4,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 165
+  },
+  {
+    "city": "Kadapa",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "KSRM College of Engineering",
+    "clstr_expansion_score": 57.3,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 166
+  },
+  {
+    "city": "Madurai",
+    "state_or_union_territory": "Tamil Nadu",
+    "college_name": "Velammal College of Engineering and Technology",
+    "clstr_expansion_score": 57.2,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 167
+  },
+  {
+    "city": "Mangaluru",
+    "state_or_union_territory": "Karnataka",
+    "college_name": "Canara Engineering College",
+    "clstr_expansion_score": 57.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 168
+  },
+  {
+    "city": "Eluru",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Sir C.R. Reddy College of Engineering",
+    "clstr_expansion_score": 56.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 169
+  },
+  {
+    "city": "Karimnagar",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Sree Chaitanya College of Engineering",
+    "clstr_expansion_score": 56.4,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 170
+  },
+  {
+    "city": "Tirupati",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Annamacharya Institute of Technology and Sciences",
+    "clstr_expansion_score": 56.1,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 171
+  },
+  {
+    "city": "Jammu",
+    "state_or_union_territory": "Jammu and Kashmir",
+    "college_name": "Model Institute of Engineering and Technology",
+    "clstr_expansion_score": 55.9,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership",
+    "rank": 172
+  },
+  {
+    "city": "Ranchi",
+    "state_or_union_territory": "Jharkhand",
+    "college_name": "Cambridge Institute of Technology",
+    "clstr_expansion_score": 54.9,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 173
+  },
+  {
+    "city": "Guwahati",
+    "state_or_union_territory": "Assam",
+    "college_name": "Scholar's Institute of Technology and Management",
+    "clstr_expansion_score": 54.7,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 174
+  },
+  {
+    "city": "Parvathipuram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Government Degree & Engineering Extension Campus, Parvathipuram",
+    "clstr_expansion_score": 54.0,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 175
+  },
+  {
+    "city": "Bhimavaram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "DNR College of Engineering and Technology",
+    "clstr_expansion_score": 53.8,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 176
+  },
+  {
+    "city": "Ongole",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "RISE Krishna Sai Gandhi Group of Institutions",
+    "clstr_expansion_score": 53.4,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 177
+  },
+  {
+    "city": "Anakapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Vizag Institute of Technology",
+    "clstr_expansion_score": 53.1,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 178
+  },
+  {
+    "city": "Chirala",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "St. Ann's College of Engineering and Technology",
+    "clstr_expansion_score": 53.0,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 179
+  },
+  {
+    "city": "Gudur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Audisankara College of Engineering and Technology",
+    "clstr_expansion_score": 52.8,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 180
+  },
+  {
+    "city": "Parvathipuram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Sri Venkateswara Technical Institute",
+    "clstr_expansion_score": 52.8,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 181
+  },
+  {
+    "city": "Agartala",
+    "state_or_union_territory": "Tripura",
+    "college_name": "National Institute of Technology Agartala (Affiliated College / TIT)",
+    "clstr_expansion_score": 51.2,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 182
+  },
+  {
+    "city": "Margao",
+    "state_or_union_territory": "Goa",
+    "college_name": "Don Bosco College of Engineering",
+    "clstr_expansion_score": 50.9,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 183
+  },
+  {
+    "city": "Baramulla",
+    "state_or_union_territory": "Jammu and Kashmir",
+    "college_name": "SSM College of Engineering",
+    "clstr_expansion_score": 50.5,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 184
+  },
+  {
+    "city": "Patancheru",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Ellenki College of Engineering and Technology",
+    "clstr_expansion_score": 50.3,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 185
+  },
+  {
+    "city": "Verna",
+    "state_or_union_territory": "Goa",
+    "college_name": "Padre Conceicao College of Engineering",
+    "clstr_expansion_score": 49.7,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 186
+  },
+  {
+    "city": "Nandyal",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Santhiram Engineering College",
+    "clstr_expansion_score": 49.5,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 187
+  },
+  {
+    "city": "Anantapur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "PVKK Institute of Technology",
+    "clstr_expansion_score": 49.4,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 188
+  },
+  {
+    "city": "Kurnool",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Dr. K.V. Subba Reddy Institute of Technology",
+    "clstr_expansion_score": 49.3,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 189
+  },
+  {
+    "city": "Rajahmundry",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "International School of Technology and Sciences for Women",
+    "clstr_expansion_score": 49.1,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 190
+  },
+  {
+    "city": "Hanamkonda",
+    "state_or_union_territory": "Telangana",
+    "college_name": "Sumathi Reddy Institute of Technology for Women",
+    "clstr_expansion_score": 49.1,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 191
+  },
+  {
+    "city": "Amalapuram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "BVC Engineering College",
+    "clstr_expansion_score": 49.0,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 192
+  },
+  {
+    "city": "Srikakulam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Sri Sivani College of Engineering",
+    "clstr_expansion_score": 48.9,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 193
+  },
+  {
+    "city": "Anantapur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Intell Engineering College",
+    "clstr_expansion_score": 48.7,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 194
+  },
+  {
+    "city": "Parvathipuram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Government Degree College, Parvathipuram",
+    "clstr_expansion_score": 48.0,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 195
+  },
+  {
+    "city": "Agartala",
+    "state_or_union_territory": "Tripura",
+    "college_name": "Tripura Institute of Technology",
+    "clstr_expansion_score": 47.5,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 196
+  },
+  {
+    "city": "Nellore",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Priyadarshini College of Engineering",
+    "clstr_expansion_score": 47.1,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 197
+  },
+  {
+    "city": "Solan",
+    "state_or_union_territory": "Himachal Pradesh",
+    "college_name": "Green Hills Engineering College",
+    "clstr_expansion_score": 46.9,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 198
+  },
+  {
+    "city": "Parvathipuram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Sri Venkateswara Degree & Technical College",
+    "clstr_expansion_score": 46.8,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 199
+  },
+  {
+    "city": "Bhimavaram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Bhimavaram Institute of Engineering and Technology",
+    "clstr_expansion_score": 46.5,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 200
+  },
+  {
+    "city": "Chirala",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Chirala Engineering College",
+    "clstr_expansion_score": 46.1,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 201
+  },
+  {
+    "city": "Sattenapalli",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Nalanda Institute of Engineering and Technology",
+    "clstr_expansion_score": 45.6,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 202
+  },
+  {
+    "city": "Tenali",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Priyadarshini Institute of Technology and Science",
+    "clstr_expansion_score": 45.4,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 203
+  },
+  {
+    "city": "Kuppam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Kuppam Engineering College",
+    "clstr_expansion_score": 44.9,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 204
+  },
+  {
+    "city": "Macherla",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Newton's Institute of Engineering",
+    "clstr_expansion_score": 43.4,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 205
+  },
+  {
+    "city": "Imphal",
+    "state_or_union_territory": "Manipur",
+    "college_name": "Manipur Institute of Technology",
+    "clstr_expansion_score": 43.0,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 206
+  },
+  {
+    "city": "Bobbili",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Gokul Group of Institutions",
+    "clstr_expansion_score": 42.8,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 207
+  },
+  {
+    "city": "Srikakulam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Sri Vaishnavi College of Engineering",
+    "clstr_expansion_score": 42.8,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 208
+  },
+  {
+    "city": "Port Blair",
+    "state_or_union_territory": "Andaman and Nicobar Islands",
+    "college_name": "Dr. B.R. Ambedkar Institute of Technology",
+    "clstr_expansion_score": 42.7,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 209
+  },
+  {
+    "city": "Machilipatnam",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "DJR College of Engineering and Technology",
+    "clstr_expansion_score": 42.6,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 210
+  },
+  {
+    "city": "Yemmiganur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "St. Johns College of Engineering and Technology",
+    "clstr_expansion_score": 42.2,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 211
+  },
+  {
+    "city": "Proddatur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Vaagdevi Institute of Technology and Science",
+    "clstr_expansion_score": 42.2,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 212
+  },
+  {
+    "city": "Shillong",
+    "state_or_union_territory": "Meghalaya",
+    "college_name": "Shillong Engineering College",
+    "clstr_expansion_score": 42.2,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 213
+  },
+  {
+    "city": "Hindupur",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "BIT Institute of Technology",
+    "clstr_expansion_score": 41.6,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 214
+  },
+  {
+    "city": "Garividi",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Avanthi's St. Theressa Institute of Engineering and Technology",
+    "clstr_expansion_score": 41.6,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 215
+  },
+  {
+    "city": "Rampachodavaram",
+    "state_or_union_territory": "Andhra Pradesh",
+    "college_name": "Lenora College of Engineering",
+    "clstr_expansion_score": 40.0,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations",
+    "rank": 216
+  },
+  {
+    "city": "Daman",
+    "state_or_union_territory": "Dadra and Nagar Haveli and Daman and Diu",
+    "college_name": "Government Engineering College Daman",
+    "clstr_expansion_score": 39.1,
+    "priority_tier": "TIER_E",
+    "recommended_action": "Long-tail self-serve registration",
+    "rank": 217
+  }
+]

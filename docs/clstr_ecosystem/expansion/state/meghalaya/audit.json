@@ -1,0 +1,49 @@
+[
+  {
+    "college_name": "Shillong Engineering College",
+    "alternative_names": [
+      "SEC Shillong"
+    ],
+    "aishe_code": "C-52110",
+    "district": "East Khasi Hills",
+    "city": "Shillong",
+    "full_address": "Mawlai, Shillong, Meghalaya - 793008",
+    "state_or_union_territory": "Meghalaya",
+    "affiliated_university": "North-Eastern Hill University",
+    "official_website": "",
+    "emails_found": [
+      "sec_shillong@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://nehu.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "State higher ed records",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for administration; has no verified standalone institutional email domain.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1200,
+    "clstr_advantage_score": 9.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 7.5,
+    "ambassador_adv": 9.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 42.2,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  }
+]

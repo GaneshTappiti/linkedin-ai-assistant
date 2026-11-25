@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-04-26T08:58:00.281475Z",
+  "report_title": "Tappiti Ganesh - Complete Profile & Vision Synthesis",
+  "executive_summary": {
+    "name": "Tappiti (Dev) Ganesh",
+    "headline": "Founder @Clstr | Building the social network for college communities | Product Designer × Full-Stack Engineer",
+    "location": "Visakhapatnam, Andhra Pradesh, India",
+    "followers": "2,021",
+    "connections": "500+",
+    "profile_views": "310",
+    "post_impressions_7d": "1,300"
+  },
+  "deduplication_summary": {
+    "total_posts_processed": 18,
+    "unique_posts_retained": 10,
+    "duplicates_removed": 8,
+    "deduplication_rate": "44.4%"
+  },
+  "engagement_highlights": {
+    "total_impressions": 15916,
+    "total_reactions": 630,
+    "avg_impressions_per_post": 1592.0,
+    "top_post_topic": "CIC I3 conclave representation and ecosystem networking"
+  },
+  "profile_synthesis": {
+    "core_identity": [
+      "Full-stack development (Flutter, React, React Native, Firebase)",
+      "UI/UX Design (Figma, Adobe XD, Photoshop, Illustrator)",
+      "Product thinking and design-first mindset"
+    ],
+    "vision": "AI-enabled founder building products that solve student and startup ecosystem problems",
+    "active_projects_count": 3,
+    "current_priorities": [
+      "Week 1 of 6-week MVP sprint for AI startup validation tool",
+      "Gathering deeper, more actionable feedback using Mom Test principles"
+    ]
+  },
+  "key_themes": {
+    "core_identity": [],
+    "dominant_content_themes": [],
+    "gaps_identified": []
+  },
+  "files_generated": [
+    "linkedin_master_export_deduped.json",
+    "profile_comprehensive_analysis.json",
+    "goals_vision_building_focus.json",
+    "normalization_summary_report.json"
+  ]
+}

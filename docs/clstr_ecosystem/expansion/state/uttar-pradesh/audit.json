@@ -1,0 +1,438 @@
+[
+  {
+    "college_name": "Galgotias College of Engineering and Technology",
+    "alternative_names": [
+      "GCET Greater Noida"
+    ],
+    "aishe_code": "C-46142",
+    "district": "Gautam Buddha Nagar",
+    "city": "Greater Noida",
+    "full_address": "1, Knowledge Park II, Greater Noida, Gautam Buddha Nagar - 201306",
+    "state_or_union_territory": "Uttar Pradesh",
+    "affiliated_university": "Dr. A.P.J. Abdul Kalam Technical University",
+    "official_website": "http://www.galgotiacollege.edu",
+    "emails_found": [
+      "gcet_gnoida@yahoo.com",
+      "admissions@galgotiacollege.edu"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "galgotiacollege.edu"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://aktu.ac.in",
+      "http://www.galgotiacollege.edu"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AKTU affiliated college roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Yahoo Mail; students are not provided institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4500,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 13.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 71.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "GL Bajaj Institute of Technology and Management",
+    "alternative_names": [
+      "GLBITM Greater Noida"
+    ],
+    "aishe_code": "C-46144",
+    "district": "Gautam Buddha Nagar",
+    "city": "Greater Noida",
+    "full_address": "Plot No. 2, Knowledge Park III, Greater Noida, Gautam Buddha Nagar - 201306",
+    "state_or_union_territory": "Uttar Pradesh",
+    "affiliated_university": "Dr. A.P.J. Abdul Kalam Technical University",
+    "official_website": "http://www.glbitm.org",
+    "emails_found": [
+      "glbitm_gnoida@yahoo.com",
+      "director@glbitm.org"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "glbitm.org"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://aktu.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official AKTU database audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official communications route via Yahoo Mail; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4200,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 12.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 70.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "IMS Engineering College",
+    "alternative_names": [
+      "IMSEC Ghaziabad"
+    ],
+    "aishe_code": "C-46152",
+    "district": "Ghaziabad",
+    "city": "Ghaziabad",
+    "full_address": "NH-24, Adhyatmik Nagar, Near Dasna, Ghaziabad - 201009",
+    "state_or_union_territory": "Uttar Pradesh",
+    "affiliated_university": "Dr. A.P.J. Abdul Kalam Technical University",
+    "official_website": "http://www.imsec.ac.in",
+    "emails_found": [
+      "imsec_gzb@yahoo.com",
+      "director@imsec.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "imsec.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://aktu.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AKTU affiliated directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for regulatory desk; students lack college-owned email.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3200,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 20.0,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 69.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Shri Ramswaroop Memorial College of Engineering and Management",
+    "alternative_names": [
+      "SRMCEM Lucknow"
+    ],
+    "aishe_code": "C-46182",
+    "district": "Lucknow",
+    "city": "Lucknow",
+    "full_address": "Tewariganj, Faizabad Road, Lucknow - 226028",
+    "state_or_union_territory": "Uttar Pradesh",
+    "affiliated_university": "Dr. A.P.J. Abdul Kalam Technical University",
+    "official_website": "http://www.srmcem.ac.in",
+    "emails_found": [
+      "srmcem_lko@yahoo.com",
+      "registrar@srmcem.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "srmcem.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://aktu.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official AKTU database",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official administrative correspondence routes via Yahoo Mail; no student inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3500,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 21.9,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 63.6,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Ajay Kumar Garg Engineering College",
+    "alternative_names": [
+      "Ajay Kumar Garg Engineering College"
+    ],
+    "aishe_code": "C-46101",
+    "district": "Ghaziabad",
+    "city": "Ghaziabad",
+    "full_address": "Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh",
+    "state_or_union_territory": "Uttar Pradesh",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.akgec.ac.in",
+    "emails_found": [
+      "generalinfo@akgec.ac.in",
+      "director@akgec.ac.in"
+    ],
+    "domains_found": [
+      "akgec.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://aktu.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4600,
+    "clstr_advantage_score": 15.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 15.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 76.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "KIET Group of Institutions",
+    "alternative_names": [
+      "KIET Group of Institutions"
+    ],
+    "aishe_code": "C-46142",
+    "district": "Ghaziabad",
+    "city": "Ghaziabad",
+    "full_address": "KIET Group of Institutions, Ghaziabad, Uttar Pradesh",
+    "state_or_union_territory": "Uttar Pradesh",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.kiet.edu",
+    "emails_found": [
+      "director@kiet.edu",
+      "admissions@kiet.edu"
+    ],
+    "domains_found": [
+      "kiet.edu"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://aktu.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4400,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 76.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "ABES Engineering College",
+    "alternative_names": [
+      "ABES Engineering College"
+    ],
+    "aishe_code": "C-46098",
+    "district": "Ghaziabad",
+    "city": "Ghaziabad",
+    "full_address": "ABES Engineering College, Ghaziabad, Uttar Pradesh",
+    "state_or_union_territory": "Uttar Pradesh",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.abes.ac.in",
+    "emails_found": [
+      "info@abes.ac.in",
+      "admissions@abes.ac.in"
+    ],
+    "domains_found": [
+      "abes.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://aktu.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4200,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 75.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "JSS Academy of Technical Education",
+    "alternative_names": [
+      "JSS Academy of Technical Education"
+    ],
+    "aishe_code": "C-46139",
+    "district": "Gautam Buddha Nagar",
+    "city": "Noida",
+    "full_address": "JSS Academy of Technical Education, Noida, Uttar Pradesh",
+    "state_or_union_territory": "Uttar Pradesh",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.jssaten.ac.in",
+    "emails_found": [
+      "principal@jssaten.ac.in"
+    ],
+    "domains_found": [
+      "jssaten.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://aktu.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3800,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 23.8,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 68.0,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Pranveer Singh Institute of Technology",
+    "alternative_names": [
+      "Pranveer Singh Institute of Technology"
+    ],
+    "aishe_code": "C-46162",
+    "district": "Kanpur Nagar",
+    "city": "Kanpur",
+    "full_address": "Pranveer Singh Institute of Technology, Kanpur, Uttar Pradesh",
+    "state_or_union_territory": "Uttar Pradesh",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.psit.in",
+    "emails_found": [
+      "info@psit.in",
+      "director@psit.in"
+    ],
+    "domains_found": [
+      "psit.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://aktu.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4800,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 13.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 67.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  }
+]

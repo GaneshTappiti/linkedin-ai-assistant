@@ -1,0 +1,99 @@
+[
+  {
+    "college_name": "Model Institute of Engineering and Technology",
+    "alternative_names": [
+      "MIET Jammu"
+    ],
+    "aishe_code": "C-55102",
+    "district": "Jammu",
+    "city": "Jammu",
+    "full_address": "Kot Bhalwal, Jammu - 181122",
+    "state_or_union_territory": "Jammu and Kashmir",
+    "affiliated_university": "University of Jammu",
+    "official_website": "http://www.mietjammu.in",
+    "emails_found": [
+      "miet_jammu@yahoo.com",
+      "info@mietjammu.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "mietjammu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://jammuuniversity.ac.in",
+      "http://www.mietjammu.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "University of Jammu affiliated roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and administrative operations route via Yahoo Mail; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 55.9,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "SSM College of Engineering",
+    "alternative_names": [
+      "SSM Baramulla"
+    ],
+    "aishe_code": "C-55115",
+    "district": "Baramulla",
+    "city": "Baramulla",
+    "full_address": "Diver, Parihaspora, Pattan, Baramulla - 193121",
+    "state_or_union_territory": "Jammu and Kashmir",
+    "affiliated_university": "University of Kashmir",
+    "official_website": "http://www.ssmengg.edu.in",
+    "emails_found": [
+      "ssm_baramulla@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://kashmiruniversity.net"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "University of Kashmir affiliated roster audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official communications route via Yahoo Mail; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 10.5,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 13.8,
+    "ambassador_adv": 10.5,
+    "youth_eco": 7.5,
+    "dig_adopt": 8.0,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 50.5,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  }
+]

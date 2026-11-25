@@ -1,0 +1,362 @@
+[
+  {
+    "state_or_union_territory": "Andhra Pradesh",
+    "target_college_count": 80,
+    "tier_a_city_count": 3,
+    "tier_b_city_count": 1,
+    "estimated_student_opportunity": 174300,
+    "state_expansion_score": 99.5,
+    "priority_tier": "PHASE 1 - STRATEGIC LAUNCH REGION",
+    "rank": 1
+  },
+  {
+    "state_or_union_territory": "Telangana",
+    "target_college_count": 32,
+    "tier_a_city_count": 1,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 96700,
+    "state_expansion_score": 85.0,
+    "priority_tier": "PHASE 1 - STRATEGIC LAUNCH REGION",
+    "rank": 2
+  },
+  {
+    "state_or_union_territory": "Tamil Nadu",
+    "target_college_count": 15,
+    "tier_a_city_count": 1,
+    "tier_b_city_count": 1,
+    "estimated_student_opportunity": 57500,
+    "state_expansion_score": 81.5,
+    "priority_tier": "PHASE 2 - RAPID EXPANSION REGION",
+    "rank": 3
+  },
+  {
+    "state_or_union_territory": "Maharashtra",
+    "target_college_count": 14,
+    "tier_a_city_count": 1,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 50100,
+    "state_expansion_score": 71.0,
+    "priority_tier": "PHASE 2 - RAPID EXPANSION REGION",
+    "rank": 4
+  },
+  {
+    "state_or_union_territory": "Karnataka",
+    "target_college_count": 12,
+    "tier_a_city_count": 1,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 39600,
+    "state_expansion_score": 65.3,
+    "priority_tier": "PHASE 3 - SECONDARY ACCELERATION",
+    "rank": 5
+  },
+  {
+    "state_or_union_territory": "Uttar Pradesh",
+    "target_college_count": 9,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 1,
+    "estimated_student_opportunity": 37200,
+    "state_expansion_score": 54.1,
+    "priority_tier": "PHASE 3 - SECONDARY ACCELERATION",
+    "rank": 6
+  },
+  {
+    "state_or_union_territory": "Rajasthan",
+    "target_college_count": 5,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 1,
+    "estimated_student_opportunity": 19700,
+    "state_expansion_score": 36.3,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 7
+  },
+  {
+    "state_or_union_territory": "West Bengal",
+    "target_college_count": 5,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 1,
+    "estimated_student_opportunity": 19500,
+    "state_expansion_score": 36.3,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 8
+  },
+  {
+    "state_or_union_territory": "Punjab",
+    "target_college_count": 4,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 17400,
+    "state_expansion_score": 27.7,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 9
+  },
+  {
+    "state_or_union_territory": "Kerala",
+    "target_college_count": 5,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 15300,
+    "state_expansion_score": 27.6,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 10
+  },
+  {
+    "state_or_union_territory": "Madhya Pradesh",
+    "target_college_count": 4,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 16100,
+    "state_expansion_score": 27.1,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 11
+  },
+  {
+    "state_or_union_territory": "Gujarat",
+    "target_college_count": 4,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 16000,
+    "state_expansion_score": 27.0,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 12
+  },
+  {
+    "state_or_union_territory": "Odisha",
+    "target_college_count": 3,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 11400,
+    "state_expansion_score": 23.7,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 13
+  },
+  {
+    "state_or_union_territory": "Delhi",
+    "target_college_count": 2,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 6400,
+    "state_expansion_score": 19.2,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 14
+  },
+  {
+    "state_or_union_territory": "Assam",
+    "target_college_count": 3,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 6900,
+    "state_expansion_score": 18.5,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 15
+  },
+  {
+    "state_or_union_territory": "Chhattisgarh",
+    "target_college_count": 2,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 6800,
+    "state_expansion_score": 17.4,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 16
+  },
+  {
+    "state_or_union_territory": "Haryana",
+    "target_college_count": 1,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 2800,
+    "state_expansion_score": 17.4,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 17
+  },
+  {
+    "state_or_union_territory": "Uttarakhand",
+    "target_college_count": 2,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 5700,
+    "state_expansion_score": 16.9,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 18
+  },
+  {
+    "state_or_union_territory": "Bihar",
+    "target_college_count": 2,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 5600,
+    "state_expansion_score": 16.8,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 19
+  },
+  {
+    "state_or_union_territory": "Jammu and Kashmir",
+    "target_college_count": 2,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 4800,
+    "state_expansion_score": 16.4,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 20
+  },
+  {
+    "state_or_union_territory": "Goa",
+    "target_college_count": 2,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 3400,
+    "state_expansion_score": 15.7,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 21
+  },
+  {
+    "state_or_union_territory": "Tripura",
+    "target_college_count": 2,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 3400,
+    "state_expansion_score": 15.7,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 22
+  },
+  {
+    "state_or_union_territory": "Puducherry",
+    "target_college_count": 1,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 3800,
+    "state_expansion_score": 14.9,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 23
+  },
+  {
+    "state_or_union_territory": "Jharkhand",
+    "target_college_count": 1,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 2600,
+    "state_expansion_score": 14.3,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 24
+  },
+  {
+    "state_or_union_territory": "Himachal Pradesh",
+    "target_college_count": 1,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 1800,
+    "state_expansion_score": 13.9,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 25
+  },
+  {
+    "state_or_union_territory": "Andaman and Nicobar Islands",
+    "target_college_count": 1,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 1600,
+    "state_expansion_score": 13.8,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 26
+  },
+  {
+    "state_or_union_territory": "Manipur",
+    "target_college_count": 1,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 1400,
+    "state_expansion_score": 13.7,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 27
+  },
+  {
+    "state_or_union_territory": "Meghalaya",
+    "target_college_count": 1,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 1200,
+    "state_expansion_score": 13.6,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 28
+  },
+  {
+    "state_or_union_territory": "Dadra and Nagar Haveli and Daman and Diu",
+    "target_college_count": 1,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 1100,
+    "state_expansion_score": 13.5,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 29
+  },
+  {
+    "state_or_union_territory": "Arunachal Pradesh",
+    "target_college_count": 0,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 0,
+    "state_expansion_score": 12.0,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 30
+  },
+  {
+    "state_or_union_territory": "Mizoram",
+    "target_college_count": 0,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 0,
+    "state_expansion_score": 12.0,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 31
+  },
+  {
+    "state_or_union_territory": "Nagaland",
+    "target_college_count": 0,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 0,
+    "state_expansion_score": 12.0,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 32
+  },
+  {
+    "state_or_union_territory": "Sikkim",
+    "target_college_count": 0,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 0,
+    "state_expansion_score": 12.0,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 33
+  },
+  {
+    "state_or_union_territory": "Chandigarh",
+    "target_college_count": 0,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 0,
+    "state_expansion_score": 12.0,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 34
+  },
+  {
+    "state_or_union_territory": "Ladakh",
+    "target_college_count": 0,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 0,
+    "state_expansion_score": 12.0,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 35
+  },
+  {
+    "state_or_union_territory": "Lakshadweep",
+    "target_college_count": 0,
+    "tier_a_city_count": 0,
+    "tier_b_city_count": 0,
+    "estimated_student_opportunity": 0,
+    "state_expansion_score": 12.0,
+    "priority_tier": "PHASE 4 - LONG-TAIL EXPANSION",
+    "rank": 36
+  }
+]

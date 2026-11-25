@@ -1,0 +1,242 @@
+[
+  {
+    "college_name": "Swami Keshvanand Institute of Technology, Management and Gramothan",
+    "alternative_names": [
+      "SKIT Jaipur"
+    ],
+    "aishe_code": "C-25085",
+    "district": "Jaipur",
+    "city": "Jaipur",
+    "full_address": "Ramnagaria, Jagatpura, Jaipur - 302017",
+    "state_or_union_territory": "Rajasthan",
+    "affiliated_university": "Rajasthan Technical University",
+    "official_website": "http://www.skit.ac.in",
+    "emails_found": [
+      "skit_jaipur@yahoo.com",
+      "info@skit.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "skit.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.rtu.ac.in",
+      "http://www.skit.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "RTU affiliated colleges directory inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Yahoo Mail; students do not receive official email accounts.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3900,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 24.4,
+    "ambassador_adv": 12.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 5.0,
+    "nearby_colleges_score": 6.2,
+    "clstr_expansion_score": 75.6,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Poornima College of Engineering",
+    "alternative_names": [
+      "PCE Jaipur"
+    ],
+    "aishe_code": "C-25072",
+    "district": "Jaipur",
+    "city": "Jaipur",
+    "full_address": "ISI-6, RIICO Institutional Area, Sitapura, Jaipur - 302022",
+    "state_or_union_territory": "Rajasthan",
+    "affiliated_university": "Rajasthan Technical University",
+    "official_website": "http://www.poornima.org",
+    "emails_found": [
+      "pce_jaipur@yahoo.com",
+      "info@poornima.org"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "poornima.org"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.rtu.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official RTU database audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Administrative operations handled via Yahoo Mail; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3400,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 21.2,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 5.0,
+    "nearby_colleges_score": 6.2,
+    "clstr_expansion_score": 71.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Swami Keshvanand Institute of Technology",
+    "alternative_names": [
+      "Swami Keshvanand Institute of Technology"
+    ],
+    "aishe_code": "C-24896",
+    "district": "Jaipur",
+    "city": "Jaipur",
+    "full_address": "Swami Keshvanand Institute of Technology, Jaipur, Rajasthan",
+    "state_or_union_territory": "Rajasthan",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.skit.ac.in",
+    "emails_found": [
+      "info@skit.ac.in"
+    ],
+    "domains_found": [
+      "skit.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://hte.rajasthan.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4400,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 5.0,
+    "nearby_colleges_score": 6.2,
+    "clstr_expansion_score": 77.2,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Jaipur Engineering College and Research Centre",
+    "alternative_names": [
+      "Jaipur Engineering College and Research Centre"
+    ],
+    "aishe_code": "C-24874",
+    "district": "Jaipur",
+    "city": "Jaipur",
+    "full_address": "Jaipur Engineering College and Research Centre, Jaipur, Rajasthan",
+    "state_or_union_territory": "Rajasthan",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.jecrc.in",
+    "emails_found": [
+      "principal@jecrc.ac.in"
+    ],
+    "domains_found": [
+      "jecrc.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://hte.rajasthan.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4200,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 5.0,
+    "nearby_colleges_score": 6.2,
+    "clstr_expansion_score": 77.2,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Arya College of Engineering and Information Technology",
+    "alternative_names": [
+      "Arya College of Engineering and Information Technology"
+    ],
+    "aishe_code": "C-24866",
+    "district": "Jaipur",
+    "city": "Jaipur",
+    "full_address": "Arya College of Engineering and Information Technology, Jaipur, Rajasthan",
+    "state_or_union_territory": "Rajasthan",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "https://www.aryacollege.in",
+    "emails_found": [
+      "info@aryacollege.in"
+    ],
+    "domains_found": [
+      "aryacollege.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://hte.rajasthan.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3800,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 23.8,
+    "ambassador_adv": 13.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 5.0,
+    "nearby_colleges_score": 6.2,
+    "clstr_expansion_score": 75.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  }
+]

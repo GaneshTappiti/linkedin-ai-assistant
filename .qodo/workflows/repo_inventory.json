@@ -1,0 +1,189 @@
+﻿{
+    "generatedAt":  "2026-04-26T09:04:30",
+    "root":  "c:\\Users\\2005g\\Downloads\\tappits-linkedin-agents",
+    "totalFiles":  473,
+    "topLevel":  [
+                     {
+                         "name":  ".github",
+                         "fileCount":  1
+                     },
+                     {
+                         "name":  ".instructions.md",
+                         "fileCount":  1
+                     },
+                     {
+                         "name":  ".qodo",
+                         "fileCount":  13
+                     },
+                     {
+                         "name":  "AGENTS.md",
+                         "fileCount":  1
+                     },
+                     {
+                         "name":  "alwrity-linkedin",
+                         "fileCount":  3
+                     },
+                     {
+                         "name":  "data-ab65f691-8cc5-4ba4-ba20-81f0aef72804-1776146990-d5e42f69-batch-0000",
+                         "fileCount":  4
+                     },
+                     {
+                         "name":  "docs",
+                         "fileCount":  7
+                     },
+                     {
+                         "name":  "linkedin-agent",
+                         "fileCount":  25
+                     },
+                     {
+                         "name":  "linkedin-ai-assistant",
+                         "fileCount":  97
+                     },
+                     {
+                         "name":  "LinkedInCraft-AI-Powered-LinkedIn-Post-Generator",
+                         "fileCount":  9
+                     },
+                     {
+                         "name":  "linkedin-llm-postgen",
+                         "fileCount":  6
+                     },
+                     {
+                         "name":  "linkedin-post-generator-agent",
+                         "fileCount":  30
+                     },
+                     {
+                         "name":  "linkedin-skills",
+                         "fileCount":  3
+                     },
+                     {
+                         "name":  "memory",
+                         "fileCount":  14
+                     },
+                     {
+                         "name":  "normalize_and_analyze.py",
+                         "fileCount":  1
+                     },
+                     {
+                         "name":  "package.json",
+                         "fileCount":  1
+                     },
+                     {
+                         "name":  "README.md",
+                         "fileCount":  1
+                     },
+                     {
+                         "name":  "REPO_MAP.md",
+                         "fileCount":  1
+                     },
+                     {
+                         "name":  "scripts",
+                         "fileCount":  2
+                     },
+                     {
+                         "name":  "social-media-agent",
+                         "fileCount":  253
+                     }
+                 ],
+    "topExtensions":  [
+                          {
+                              "ext":  ".ts",
+                              "count":  220
+                          },
+                          {
+                              "ext":  ".tsx",
+                              "count":  60
+                          },
+                          {
+                              "ext":  ".py",
+                              "count":  51
+                          },
+                          {
+                              "ext":  ".md",
+                              "count":  42
+                          },
+                          {
+                              "ext":  ".json",
+                              "count":  34
+                          },
+                          {
+                              "ext":  ".png",
+                              "count":  7
+                          },
+                          {
+                              "ext":  ".txt",
+                              "count":  7
+                          },
+                          {
+                              "ext":  ".js",
+                              "count":  7
+                          },
+                          {
+                              "ext":  ".gitignore",
+                              "count":  6
+                          },
+                          {
+                              "ext":  "(none)",
+                              "count":  4
+                          },
+                          {
+                              "ext":  ".css",
+                              "count":  4
+                          },
+                          {
+                              "ext":  ".lock",
+                              "count":  4
+                          },
+                          {
+                              "ext":  ".yml",
+                              "count":  4
+                          },
+                          {
+                              "ext":  ".example",
+                              "count":  4
+                          },
+                          {
+                              "ext":  ".html",
+                              "count":  3
+                          },
+                          {
+                              "ext":  ".ps1",
+                              "count":  2
+                          },
+                          {
+                              "ext":  ".cjs",
+                              "count":  2
+                          },
+                          {
+                              "ext":  ".toml",
+                              "count":  2
+                          },
+                          {
+                              "ext":  ".ico",
+                              "count":  2
+                          },
+                          {
+                              "ext":  ".svg",
+                              "count":  2
+                          },
+                          {
+                              "ext":  ".env",
+                              "count":  1
+                          },
+                          {
+                              "ext":  ".lockb",
+                              "count":  1
+                          },
+                          {
+                              "ext":  ".editorconfig",
+                              "count":  1
+                          },
+                          {
+                              "ext":  ".csv",
+                              "count":  1
+                          },
+                          {
+                              "ext":  ".codespellignore",
+                              "count":  1
+                          }
+                      ]
+}

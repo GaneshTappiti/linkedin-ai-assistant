@@ -1,0 +1,85 @@
+I've read the doc, and I want to flag a mismatch before I touch anything: this Core Team Structure doc is built around a 5-department model (Logistics, Design + Social, Outreach, Tech + Web, Finance + Ticketing) — it doesn't use "Growth Engine / Product Engine / Campus Engine" language anywhere. That engine framing came from the screenshot you shared earlier, which looks like a separate structure entirely.
+
+So the trim we just diagrammed (Growth Engine → 4 roles, Campus Engine keeping Partnerships Associate folded in) doesn't map cleanly onto this doc's departments. Before I edit anything, I want to make sure I'm changing the right thing.
+
+Ran 3 commands
+
+Here's the honest breakdown across all three tiers — pulled from what's actually in the docs, not embellished.
+
+1. Regular Member — just join the community
+
+What it is: Free, no commitment, no application. You're in the WhatsApp/Community, verified as a real student, part of Guilds (skill-based) and Circles (social/interest-based).
+
+What you actually get:
+
+A verified, cross-college identity — not just another club membership, access to students across every partner college in Vizag, not just your own
+CollabHub matching — the thing no WhatsApp-only club can replicate
+First access to events, and a domain/interest space (Build, Design, Foodie, Music, whatever fits) that isn't performance-gated
+Zero-agenda social spaces (Circles) exist specifically so you don't have to "perform" or hustle to belong — the audit that shaped this structure flagged that most student communities are all collab/utility, no fun
+
+Honest cost: Basically none. This is the low-commitment tier.
+
+Worth it? Yes, close to a no-brainer — there's no real downside to joining, and the upside (cross-college network, first access to events) compounds the earlier you're in.
+
+2. Campus Ambassador (CA) / Campus Captain
+
+What it is: A 90-day sprint role, one per college (or a small team), driving verified signups and active clubs on your own campus. Real targets, weekly reporting, real accountability.
+
+What you actually get (milestone-gated, from the guidebook):
+
+Milestone	Reward
+500 users + 2 active clubs	Clstr merch (hoodie/cap)
+1,000 users + 4 clubs	Tee + free VIP passes to every event + LinkedIn/Instagram recognition
+1,500 users + all domain clubs active	Signed founder certificate
+2,000 users — full activation	Fast-tracked to Campus Node Coordinator + founder appreciation letter
+Top performer, end of semester	Fast-track interview for core team or paid internship, personal LinkedIn recommendation, case study feature
+
+Plus: official selection letter, a title you can put on a resume ("Clstr Campus Leader — [College]"), and — if you perform — a real shot at Campus Node Coordinator, a permanent role in the actual community.
+
+Honest cost: No cash, no salary. Real weekly work — sponsor-style targets, reporting, accountability. This is explicitly stated upfront in the guidebook, not hidden.
+
+Worth it? Depends entirely on what you're optimizing for. If you need income now, no — this isn't it, and the guidebook says so directly. If you're optimizing for a resume line no generic club role can match, a cross-college network, and a real shot at getting promoted into something bigger while it's still early — yes, and probably one of the highest-leverage things available to a student in Vizag right now, specifically because it's still small.
+
+3. Core Team
+
+What it is: Owns a department (Logistics, Design + Social, Outreach, Tech + Web, Finance + Ticketing) — always two people, both able to run it solo. This is the deepest commitment tier.
+
+What you actually get:
+
+Real ownership from day one — access, a real deliverable in month one, not shadowing
+The story of having built something, not joined it — "I helped build Vizag's first cross-college student community" vs. "I was a club officer"
+Fixed-term structure with real renewal conversations, an exit process that's actually read — not indefinite unpaid labor with no offramp
+First access to everything, direct founder visibility, and — per the structural rules — protection from vague ownership ("owns Instagram Reels," not "helps with design")
+
+Honest cost: The highest of the three. No cash (same as CA). Real hours, real deadlines, real interview process (portfolio, references, scenario-based interview). This is not a resume-padding role — the doc is explicit that it screens out people who want the badge without the work.
+
+Worth it? Only for people already optimizing for career leverage over income and who can commit real hours consistently. It's the least "worth it" for someone testing the waters — Member or CA is the better entry point. It's the most worth it for someone who's already decided this is where they want ownership and a founding-team story.
+
+The honest thread across all three: none of it pays cash. What you're actually trading time for is story, network, and proof-of-capability — which is a real trade, not a euphemism, but it's a bad fit for anyone who needs income right now. That's stated upfront at every tier rather than discovered later, which is what makes the "is it worth it" question answerable instead of a sales pitch.
+
+no we will first give the certificate , then recomendation letter and then remaining
+
+Thought for 17s
+
+Got it — before I touch the sequence, let me make sure I edit the right thing correctly.
+
+Which reward sequence are you reordering?
+ALL
+What should the new order be?
+Certificate → Recommendation letter → merch/VIP/badge etc.
+Ran 13 commands, edited 6 files, viewed 2 files · 4 notes
+
+Confirmed — the missing M01/M02 badge labels are a pre-existing quirk in the original doc, not something my edit introduced (the M03 wrapped badge is original too). My edit only changed the reward content itself.
+
+Here's the reordered structure, confirmed correct:
+
+Milestone	Reward now
+M01 (500 users)	Certificate
+M02 (1,000 users)	Recommendation letter
+M03 (1,500 users)	Merch
+M04 (2,000 users)	Tee + VIP passes + recognition
+M05 (Top performer)	Node Coordinator fast-track + appreciation letter + core team fast-track + case study
+
+The milestone thresholds (user counts) are untouched — only the rewards attached to each one moved. Let's finalize and share the file.
+
+Ran a command

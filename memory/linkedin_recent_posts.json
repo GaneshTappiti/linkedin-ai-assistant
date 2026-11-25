@@ -1,0 +1,82 @@
+{
+  "captured_at": "2026-04-26T03:14:00Z",
+  "anonymized": true,
+  "anonymization_notes": [
+    "No direct personal contact fields present.",
+    "Only profile-level public activity data retained."
+  ],
+  "source_url": "https://www.linkedin.com/in/ganeshtappiti/recent-activity/all/",
+  "post_count_captured": 10,
+  "posts": [
+    {
+      "index": 1,
+      "timestamp": "5d",
+      "topic": "Security fundamentals while building fast",
+      "key_tags": ["BuildInPublic", "Security", "Developers", "Startups", "Vercel", "ProductBuilding"],
+      "engagement": {"reactions": 33, "comments": 0, "reposts": 0, "impressions": 832}
+    },
+    {
+      "index": 2,
+      "timestamp": "1w",
+      "topic": "Layoffs to AI-enabled entrepreneurship transition",
+      "key_tags": ["FutureOfWork", "AI", "Entrepreneurship", "CareerTransition", "Solopreneur"],
+      "engagement": {"reactions": 28, "comments": 0, "reposts": 0, "impressions": 509}
+    },
+    {
+      "index": 3,
+      "timestamp": "1w",
+      "topic": "Vibe coding trade-offs and execution quality",
+      "key_tags": ["VibeCoding", "AI", "BuildInPublic", "ProductThinking", "Startups"],
+      "engagement": {"reactions": 32, "comments": 0, "reposts": 0, "impressions": 645}
+    },
+    {
+      "index": 4,
+      "timestamp": "3w",
+      "topic": "Campus ambassador/operator recruitment for Clstr",
+      "key_tags": ["startup", "Clstr", "CampusAmbassador", "StartupIndia", "StudentFounders"],
+      "engagement": {"reactions": 50, "comments": 0, "reposts": 0, "impressions": 1235}
+    },
+    {
+      "index": 5,
+      "timestamp": "1mo",
+      "topic": "Clstr featured in Top 10 startups (Vizag cluster)",
+      "key_tags": ["Clstr", "StartupJourney", "BuildInPublic", "Innovation", "VizagStartup"],
+      "engagement": {"reactions": 85, "comments": 2, "reposts": 3, "impressions": 2719}
+    },
+    {
+      "index": 6,
+      "timestamp": "1mo",
+      "topic": "CIC I3 conclave representation and ecosystem networking",
+      "key_tags": ["Clstr", "StartupJourney", "Entrepreneurship", "I3Conclave", "Networking"],
+      "engagement": {"reactions": 138, "comments": 0, "reposts": 0, "impressions": 3492}
+    },
+    {
+      "index": 7,
+      "timestamp": "1mo",
+      "topic": "Duplicate of CIC I3 conclave post",
+      "key_tags": ["Clstr", "StartupJourney", "Entrepreneurship"],
+      "engagement": {"reactions": 138, "comments": 0, "reposts": 0, "impressions": 3492}
+    },
+    {
+      "index": 8,
+      "timestamp": "1mo",
+      "topic": "PWA install flow to remove app-store friction",
+      "key_tags": ["Clstr", "PWA", "IndianStartup", "BuildInPublic", "CollegeStudents"],
+      "engagement": {"reactions": 46, "comments": 1, "reposts": 1, "impressions": 999}
+    },
+    {
+      "index": 9,
+      "timestamp": "1mo",
+      "topic": "Duplicate of PWA install flow post",
+      "key_tags": ["Clstr", "PWA", "IndianStartup"],
+      "engagement": {"reactions": 46, "comments": 1, "reposts": 1, "impressions": 999}
+    },
+    {
+      "index": 10,
+      "timestamp": "1mo",
+      "topic": "Supabase outage response and resilience engineering",
+      "key_tags": ["startup", "founder", "engineering", "resilience", "buildinpublic"],
+      "engagement": {"reactions": 34, "comments": 2, "reposts": 1, "impressions": 994}
+    }
+  ]
+}

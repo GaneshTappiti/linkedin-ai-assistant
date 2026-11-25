@@ -1,0 +1,294 @@
+[
+  {
+    "id": "clstr-founder-identity",
+    "concepts": [
+      "ganesh-identity",
+      "clstr-founder",
+      "raghu-ec",
+      "builder-profile",
+      "vision"
+    ],
+    "content": "Tappiti (Dev) Ganesh is the Product Designer & Founder of Clstr (clstr.in, vizag.clstr.in, spark.clstr.in), Scollab, and Buildtrix. Studying CSM at Raghu Engineering College, Visakhapatnam (2023-2027). Aspire Leaders Cohort 5, Unstop Campus Ambassador, design lead of 16-member team. Core focus: building high-density, verified campus OS and cross-college student communities in India.",
+    "files": [
+      "memory/normalized_2026-04-26/PERSONAL_SYNTHESIS_GANESH.md",
+      "memory/CLSTR_CANONICAL_MASTER_BRAIN.json"
+    ]
+  },
+  {
+    "id": "clstr-ecosystem-trinity",
+    "concepts": [
+      "clstr-ecosystem",
+      "clstr-network",
+      "vizag-community",
+      "spark-ticketing",
+      "architecture"
+    ],
+    "content": "Clstr consists of three distinct layers: 1) clstr.in (main social OS, dual-tier .edu / no-edu verification, 14 features, scoped feeds, Supabase/React/Tailwind); 2) vizag.clstr.in (offline community, 19 beachhead Vizag colleges, Guilds for careers, Circles for belonging); 3) spark.clstr.in (ticketing platform, rolling QR codes, offline gate scanner, batch PDF certificate worker, 0% cut for campus clubs).",
+    "files": [
+      "memory/CLSTR_CANONICAL_MASTER_BRAIN.json",
+      "all_about_clstr_ecosystem/01_ECOSYSTEM_MASTER_ARCHITECTURE.md"
+    ]
+  },
+  {
+    "id": "clstr-ground-truth-metrics",
+    "concepts": [
+      "traction-metrics",
+      "admin-dashboard",
+      "telemetry-sync",
+      "garba-night",
+      "real-users",
+      "college-nodes"
+    ],
+    "content": "Live Admin Dashboard ground truth as of November 14, 2026: 575 registered students across 47 colleges (45 verified, 2 unverified, 0 flagged). Hyper-dense beachhead anchor at Raghu Engineering College with 495 users (86.1% share), 51 students across AP Coastal Tech Corridor (GITAM 12, ANITS 10, MVGR 5, GVPCE 3, VIIT 3, NSRIT 2, SRKR 2, VIT-AP 2, VIEW 2, etc.), plus organic seeds across premier national institutes (VNIT Nagpur, NIT Durgapur, IIITDM Kancheepuram, BITS Pilani Digital, VIT Vellore 3, SNU, IEM, AKGEC 2, REVA) and 2 international outlier domains. Garba Night previously proved students pay ₹349 for cross-college events (88 registrations, 81 paid, ~₹33k gross, ₹45k total cost, ₹12k loss).",
+    "files": [
+      "memory/CLSTR_CANONICAL_MASTER_BRAIN.json",
+      "data-tracking/clstr_admin_dashboard_snapshot_2026-11-14.json"
+    ]
+  },
+  {
+    "id": "clstr-raghu-mou-obligations",
+    "concepts": [
+      "raghu-mou",
+      "legal-compliance",
+      "pvt-ltd-incorporation",
+      "security-audit",
+      "subprocessors"
+    ],
+    "content": "Raghu Engineering College MOU v5 binding obligations: 1) Incorporate as Pvt Ltd or LLP within 90 days; 2) Submit sub-processor list (Supabase AWS Mumbai, Vercel, Cloudflare, Resend) and independent security test summary before mass student onboarding; 3) Cyber and public liability insurance within 6 months of incorporation; 4) Zero student data selling, zero per-lead broker deals; 5) 0% profit markups on partner college ticket pricing.",
+    "files": [
+      "memory/CLSTR_CANONICAL_MASTER_BRAIN.json"
+    ]
+  },
+  {
+    "id": "clstr-business-model-unit-economics",
+    "concepts": [
+      "business-model",
+      "sponsorships",
+      "spark-revenue",
+      "flagship-events",
+      "unit-economics"
+    ],
+    "content": "Clstr monetization logic: 1) Flagship student-paid experience events (₹249-₹349/ticket); 2) Flat-fee brand sponsorships for physical room access (₹10k-₹25k per event from local cafes, test prep, tech brands); 3) Commercial Spark ticketing for external non-campus organizers (3.5% + ₹5/ticket); 4) Sponsored employer talent bounties (post-incorporation). Never sell contact lists or phone numbers.",
+    "files": [
+      "memory/CLSTR_CANONICAL_MASTER_BRAIN.json"
+    ]
+  },
+  {
+    "id": "clstr-behavioral-psychology-guardrails",
+    "concepts": [
+      "psychology-guardrails",
+      "no-anonymity",
+      "curfew-safety",
+      "social-proof",
+      "ethical-retention"
+    ],
+    "content": "Non-negotiable behavioral rules: 1) Never build anonymous feeds or confessions (Yik Yak / Campus Pulse) as it destroys institutional trust and violates the Raghu MOU; 2) Never show dorm/hostel location in social proof facepiles due to female student curfew (5:30-7:00 PM) safety risks; 3) Never use phantom/fake notifications; 4) Build real-inventory scarcity in Spark and 'Met at Event' post-event connection loops.",
+    "files": [
+      "memory/CLSTR_CANONICAL_MASTER_BRAIN.json"
+    ]
+  },
+  {
+    "id": "clstr-campus-city-architecture-bridge",
+    "concepts": [
+      "cluster-id",
+      "cross-campus-connection",
+      "met-at-event",
+      "guilds-circles-scope"
+    ],
+    "content": "Solving the campus vs. city contradiction: In clstr.in, add cluster_id to colleges. Main feed stays campus-only for quiet high-signal campus news. Guilds (Code, Design, Product) and Circles (Beach, Music, Turf) exist at cluster_id level (Vizag). Mutual event check-in via Spark dynamic QR unlocks cross-campus direct connection and messaging permissions.",
+    "files": [
+      "memory/CLSTR_CANONICAL_MASTER_BRAIN.json"
+    ]
+  },
+  {
+    "id": "agent-reach-founder-visibility",
+    "concepts": [
+      "agent-reach",
+      "founder-visibility",
+      "cross-platform-intelligence",
+      "content-sourcing",
+      "reddit-x-research"
+    ],
+    "content": "Agent Reach (skills/agent-reach/ and agent-reach/) is the mandatory real-time research engine used for every founder visibility and thought leadership task. Enables deep reading and monitoring of student discussions on Reddit (r/Btechtards, r/developersIndia, r/visakhapatnam), X/Twitter, YouTube transcripts, and GitHub to ground founder posts in verifiable, live student reality.",
+    "files": [
+      "skills/agent-reach/SKILL.md",
+      "agent-reach/README.md",
+      "AGENTS.md"
+    ]
+  },
+  {
+    "id": "linkedin-live-profile-truth-2026",
+    "concepts": [
+      "linkedin-profile",
+      "ganesh-career-history",
+      "2021-followers",
+      "credentials",
+      "experience"
+    ],
+    "content": "Live LinkedIn profile truth as of late 2026: 2,021 followers, 500+ connections, 310 profile viewers, 1,300 7-day impressions. Current verified headline: 'Founder @Clstr | Building the social network for college communities | Product Designer × Full-Stack Engineer'. Full roles: 1) Founder at Clstr (Jan 2026-present, 11 mos); 2) Campus Ambassador at Aspire Institute India (Nov 2025-Nov 2026); 3) Aspire Leaders Program Cohort 5 participant (Harvard faculty initiative); 4) Campus Ambassador at Unstop (200+ REC participants); 5) Executive Secretary & Photography Club Lead at Chaayachitram REC (2 yrs 5 mos). Education: REC CSM (2023-2027, Grade A). Certifications include Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate and Agentic Coding with Cursor/Copilot.",
+    "files": [
+      "memory/normalized_2026-04-26/linkedin_profile_snapshot.json",
+      "data-tracking/scraped_full_profile.json",
+      "data-tracking/profile_full_structured.json"
+    ]
+  },
+  {
+    "id": "linkedin-featured-and-content-anchors",
+    "concepts": [
+      "linkedin-featured",
+      "hackverse",
+      "gdsc-wow",
+      "clstr-launch",
+      "viral-benchmarks"
+    ],
+    "content": "Ganesh's verified LinkedIn content anchors: 1) Clstr Launch on Jan 23, 2026 (featured post, 86 reactions, built quietly, shipped first); 2) Hackverse 1.0 Pre-Hackathon Workshop (featured post, 113 reactions, led AI & Next-Gen tools for 450+ students); 3) Hackverse 1.0 24h Hackathon (400+ participants); 4) GDSC WOW 2024 Vizag (organizing team, 500+ attendees at GITAM with Manas Malla); 5) All-time top viral post: Clstr core team & campus ambassador in-person meetup (5,663 impressions, 142 reactions); 6) Clstr Vizag Community Launch (2,339 impressions, 53 reactions); 7) Garba Night post (1,237 impressions, 37 reactions). Connected apps: Adobe Express, Wispr Flow, GitHub Copilot, Replit Agent.",
+    "files": [
+      "memory/normalized_2026-04-26/linkedin_profile_snapshot.json",
+      "data-tracking/profile_full_structured.json"
+    ]
+  },
+  {
+    "id": "mattpocock-skills-integration-and-dispatch",
+    "concepts": [
+      "mattpocock-skills",
+      "skill-dispatch-matrix",
+      "engineering-skills",
+      "tdd-spec",
+      "productivity-grilling"
+    ],
+    "content": "Matt Pocock's 39-skill suite is permanently integrated under skills/mattpocock-skills/. It covers: 1) Engineering (ask-matt router, codebase-design, domain-modeling, diagnosing-bugs, implement-spec, tdd, code-review, pr, prototype, retro, to-spec, to-tickets, triage); 2) Productivity (grill-me, grilling, teach, to-questionnaire, wait-what, writing-for-agents); 3) In-Progress (chief-of-staff, loop-me, software-factory); 4) Misc. These skills are bound to tasks via RULES_AND_SKILL_DISPATCH.md and AGENTS.md, ensuring engineering, testing, debugging, and specification tasks follow Matt Pocock's rigorous methodologies alongside PM skills and Agent-Reach.",
+    "files": [
+      "skills/mattpocock-skills/README.md",
+      "RULES_AND_SKILL_DISPATCH.md",
+      "AGENTS.md",
+      "REPO_MAP.md"
+    ]
+  },
+  {
+    "id": "clstr-ecosystem-dev-tracker-and-linkedin-bridge",
+    "concepts": [
+      "clstr-ecosystem",
+      "ecosystem-tracker",
+      "dev-to-linkedin",
+      "ticket-platform",
+      "offline-box-office"
+    ],
+    "content": "Active daily development occurs at C:\\Users\\2005g\\Downloads\\clstr_ecosystem across 4 production repositories: 1) Ticket-Platform (spark.clstr.in: React 19 + TanStack Start, offline box-office walk-in cash mode, HMAC QR tokens, passing test suite); 2) clstr.network (clstr.in: React 18 + Vite, campus social OS, ambassador portal); 3) vizag.clstr-website (vizag.clstr.in: React 19 + Nitro, city community); 4) clstr.admin (local verification queue). Continuous script scripts/ecosystem_tracker.py scans commits and test reports to update docs/clstr_ecosystem/ECOSYSTEM_LIVE_ACTIVITY_LOG.md and generate human-scored (>=80 PASS) LinkedIn thought leadership posts directly from live engineering changes.",
+    "files": [
+      "scripts/ecosystem_tracker.py",
+      "docs/clstr_ecosystem/ECOSYSTEM_LIVE_ACTIVITY_LOG.md",
+      "docs/clstr_ecosystem/ECOSYSTEM_DEV_TO_LINKEDIN_PIPELINE.md",
+      "data-tracking/ecosystem_activity.json"
+    ]
+  },
+  {
+    "id": "spark-live-positioning-and-copy",
+    "concepts": [
+      "spark-clstr",
+      "beta-testing",
+      "google-forms-killer",
+      "we-never-touch-your-money",
+      "gate-qr-passes",
+      "automated-certificates"
+    ],
+    "content": "Spark (spark.clstr.in) is in active BETA TESTING with campus clubs across Vizag and Andhra Pradesh before broader rollout. Core positioning: 'YOUR CLUB DESERVES BETTER THAN A GOOGLE FORM. Free for college clubs.' Value proposition solves the 3 hated club jobs: 1) Sign-ups with direct peer-to-peer UPI (0% platform cut, 'We never touch your money'); 2) The Gate (<400ms phone QR check-in, real-time live headcount); 3) Automated Certificates (1-click bulk personalized generation, auto-purges after 15 days). Currently piloting with campus events like Rhythm & Echoes at Andhra University. Built with React 19 + TanStack Start on Vercel/Cloudflare.",
+    "files": [
+      "docs/clstr_ecosystem/SPARK_PRODUCT_DECONSTRUCTION.md",
+      "data-tracking/spark_live_text.txt",
+      "memory/draft_posts/2026-11-12_spark_launch_post.txt"
+    ]
+  },
+  {
+    "id": "instagram-agent-skill-suite-2026",
+    "concepts": [
+      "instagram-agent-skill",
+      "ig-reel",
+      "ig-viral",
+      "ig-caption",
+      "ig-human",
+      "ig-carousel",
+      "social-media-automation"
+    ],
+    "content": "The Instagram Agent Skill suite (13 skills) is fully installed locally at skills/ig-* and globally at ~/.gemini/config/skills/ and ~/.claude/skills/. Skills include: ig-reel (26 hook formulas, hookscore.py, beats.py), ig-viral (swipe.py), ig-caption (caption.py, 125-char preview linting), ig-carousel, ig-story, ig-profile (rubric.json), ig-plan, ig-human (detect.py, humanize.py, slop.json with 154 terms), ig-comment, ig-reply, ig-dm, ig-repurpose, and ig-audit. Ganesh's custom voice profile is configured in .claude/instagram/voice.md and ~/.claude/instagram/voice.md reflecting Clstr's founder persona, fast blunt camera presence, and campus ecosystem narrative.",
+    "files": [
+      "skills/ig-*/SKILL.md",
+      ".claude/instagram/voice.md"
+    ]
+  },
+  {
+    "id": "clstr-brand-app-vs-repo-naming",
+    "concepts": [
+      "clstr-in-brand",
+      "clstr-network-repo",
+      "naming-convention",
+      "whitelisted-brand"
+    ],
+    "content": "Repository name is clstr.network, but the live user-facing web application and official canonical brand is clstr.in. In all external copy, LinkedIn posts, and public product communication, always use 'clstr.in' rather than the internal repo name.",
+    "files": [
+      "memory/humanization_policy.json",
+      "data-tracking/temp_draft.txt"
+    ]
+  },
+  {
+    "id": "clstr-multi-tier-onboarding-architecture",
+    "concepts": [
+      "no-edu-colleges",
+      "tier2-verification",
+      "student-identity",
+      "clstr-in-onboarding",
+      "ground-reality-india"
+    ],
+    "content": "The .edu email requirement is an American myth that excludes 2M+ Indian students (78%+ of private college students in India only use personal Gmail). clstr.in solved this with a 3-way onboarding architecture: 1) Tier 1 (Direct Domain + OTP) for recognized institutional emails; 2) Tier 2 (No-Edu Path) via Gmail signup + E.164 phone check (+91) + matching against a 367KB audited SQL registry of non-edu colleges across 36 Indian states/UTs + student ID upload, with read-only access while review runs to kill spam; 3) Tier 2 (Spectator Mode) for freshers awaiting IDs to explore fests and clubs; plus lifetime alumni personal email transition.",
+    "files": [
+      "C:\\Users\\2005g\\Downloads\\clstr_ecosystem\\clstr.network\\src\\hooks\\useTier2Flow.ts",
+      "C:\\Users\\2005g\\Downloads\\clstr_ecosystem\\clstr.network\\src\\pages\\AcademicEmailRequired.tsx",
+      "data-tracking/temp_draft.txt"
+    ]
+  },
+  {
+    "id": "clstr-trinity-jurisdictional-boundaries",
+    "concepts": [
+      "clstr-in-scope",
+      "vizag-clstr-in-scope",
+      "spark-scope",
+      "pan-india",
+      "ecosystem-boundaries"
+    ],
+    "content": "Definitive scope boundaries for Clstr trinity: 1) clstr.in has no boundaries — target is all over India (pan-India digital campus social OS for all Indian college students); 2) vizag.clstr.in is bounded ONLY to Vizag (the physical cross-campus city student community and offline ground movement); 3) spark.clstr.in can be used by anyone anywhere (open ticketing platform, 0% platform fee, offline gate scanner, and dynamic certificates for clubs and fests anywhere). Never confine clstr.in to Vizag.",
+    "files": [
+      ".agentmemory/lessons.json",
+      "memory/CLSTR_CANONICAL_MASTER_BRAIN.json"
+    ]
+  },
+  {
+    "id": "credential-udemy-ai-customer-success",
+    "concepts": [
+      "certifications",
+      "udemy",
+      "ai-customer-success",
+      "customer-relationships",
+      "credentials"
+    ],
+    "content": "Verified Udemy Certification earned on Nov 19, 2026: 'AI for Customer Success: Transforming Customer Relationships' by Andrii Piatakha (6 total hours). Certificate ID: UC-92983296-9869-4144-a4fc-8a7c3ff76bb3, verification URL: https://ude.my/UC-92983296-9869-4144-a4fc-8a7c3ff76bb3. Demonstrates applied AI knowledge in onboarding, retention, and scaling customer success.",
+    "files": [
+      "memory/normalized_2026-04-26/PERSONAL_SYNTHESIS_GANESH.md",
+      "memory/linkedin_profile_snapshot.json"
+    ]
+  },
+  {
+    "id": "clstr-chatgpt-poster-prompt-framework",
+    "concepts": [
+      "chatgpt-prompts",
+      "poster-design",
+      "cel-shaded-vector",
+      "4-5-ratio",
+      "no-qr-code",
+      "space-grotesk",
+      "vizag-clstr-instagram"
+    ],
+    "content": "Locked ChatGPT Image Generation standard for Clstr / vizag.clstr.in posters: 4:5 portrait (1024x1536 cropped to 4:5), small 'clstr' wordmark top-left, Space Grotesk lowercase typography, cel-shaded editorial 2D vector illustration with soft-edged color blocking (cobalt blue #0537B4, lavender #9A80D8, marigold #D9A441, coral pink, lime green). Non-negotiable negative prompts: no QR codes, no website URLs on artwork, no hard download buttons, no 3D renders, no photorealism, no thick black comic outlines. Prompts follow strict 6-block schema ending with (format 1024x1536.) (don't change the prompt, send it as it is.).",
+    "files": [
+      "docs/clstr_ecosystem/CLSTR_POSTER_PROMPT_SYSTEM.md"
+    ]
+  }
+]

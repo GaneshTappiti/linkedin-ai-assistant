@@ -1,0 +1,27 @@
+Every college event in India runs on the exact same broken stack.
+
+A Google Form. A screenshot of a UPI transaction. An organizer standing at the gate scrolling an Excel sheet with 500 rows while 200 angry students wait in the heat.
+
+It doesn't work.
+
+Then, two weeks after the fest, your team spends 8 hours on a Canva mail-merge just to email certificates one by one.
+
+We hated watching this happen on our campus.
+
+Your club deserves better than a Google Form.
+
+That's why we're building Spark (spark.clstr.in).
+
+We designed it around three basic things: direct UPI payments with 0% platform cuts, sub-400ms QR passes scanned from any phone browser, and one-click bulk certificate generation.
+
+Right now, Spark is in beta testing.
+
+We're testing it live with a few student clubs in Vizag before opening it up everywhere. Zero platform fees. No payment gateway cuts.
+
+If you run a college club, technical fest, or hackathon this month: we'd love to have you test the beta.
+
+I'll leave the link in the comments.
+
+What's the single most painful part of organizing events at your college right now?
+
+#StudentFounders #BuildInPublic #BetaTesting

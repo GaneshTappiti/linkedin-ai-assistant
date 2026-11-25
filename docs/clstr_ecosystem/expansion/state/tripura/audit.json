@@ -1,0 +1,96 @@
+[
+  {
+    "college_name": "Tripura Institute of Technology",
+    "alternative_names": [
+      "TIT Agartala"
+    ],
+    "aishe_code": "C-53105",
+    "district": "West Tripura",
+    "city": "Agartala",
+    "full_address": "Narsingarh, P.O. Agartala Aerodrome, West Tripura - 799009",
+    "state_or_union_territory": "Tripura",
+    "affiliated_university": "Tripura University",
+    "official_website": "http://www.titagartala.ac.in",
+    "emails_found": [
+      "tit_agartala@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://tripurauniv.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official university affiliation database",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official communications route via Yahoo Mail; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1600,
+    "clstr_advantage_score": 9.5,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 7.5,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 10.0,
+    "ambassador_adv": 9.5,
+    "youth_eco": 7.5,
+    "dig_adopt": 7.5,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 47.5,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "National Institute of Technology Agartala (Affiliated College / TIT)",
+    "alternative_names": [
+      "National Institute of Technology Agartala (Affiliated College / TIT)"
+    ],
+    "aishe_code": "C-6510",
+    "district": "West Tripura",
+    "city": "Agartala",
+    "full_address": "National Institute of Technology Agartala (Affiliated College / TIT), Agartala, Tripura",
+    "state_or_union_territory": "Tripura",
+    "affiliated_university": "Government Engineering College",
+    "official_website": "http://www.titagartala.ac.in",
+    "emails_found": [
+      "tit_agartala@yahoo.co.in"
+    ],
+    "domains_found": [
+      "titagartala.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://highereducation.tripura.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1800,
+    "clstr_advantage_score": 10.0,
+    "youth_ecosystem_score": 7.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 11.2,
+    "ambassador_adv": 10.0,
+    "youth_eco": 7.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 2.0,
+    "nearby_colleges_score": 2.5,
+    "clstr_expansion_score": 51.2,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  }
+]

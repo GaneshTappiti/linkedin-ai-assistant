@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-04-26T03:15:00Z",
+  "anonymized": true,
+  "anonymization_notes": [
+    "Comparison output contains thematic analytics only.",
+    "No private contact fields included."
+  ],
+  "comparison_scope": "Profile positioning vs recent post content",
+  "profile_positioning": {
+    "core_identity": ["Product Designer", "Founder", "Campus Ambassador"],
+    "stated_focus": ["AI", "Product design", "Early-stage innovation", "Student startup enablement"]
+  },
+  "content_positioning": {
+    "dominant_themes": [
+      "Startup execution and shipping",
+      "Clstr ecosystem growth",
+      "Campus network expansion",
+      "AI-enabled work and entrepreneurship",
+      "Reliability/resilience operations"
+    ],
+    "estimated_top_keywords": ["Clstr", "BuildInPublic", "startup", "AI", "campus"],
+    "strongest_posts_by_impressions": [
+      {"index": 6, "impressions": 3492, "theme": "Conclave + ecosystem representation"},
+      {"index": 5, "impressions": 2719, "theme": "Top 10 startup recognition"},
+      {"index": 4, "impressions": 1235, "theme": "Campus ambassador recruitment"}
+    ]
+  },
+  "alignment": {
+    "what_matches": [
+      "Founder identity strongly reflected in posts.",
+      "Campus impact narrative aligns with profile summary.",
+      "AI + product-build mindset appears consistently."
+    ],
+    "gaps": [
+      "Product design craft is underrepresented in recent posts compared with profile headline.",
+      "Some duplicate posts reduce feed variety.",
+      "Case-study formatting could be more consistent for repeatable brand memory."
+    ]
+  },
+  "next_optimization_recommendations": [
+    "Increase design-led breakdown posts (before/after UI, UX tradeoffs, decision rationale).",
+    "Publish one recurring weekly format: problem, decision, metric, lesson.",
+    "Reduce duplicate repost-style entries and improve distribution across distinct themes.",
+    "Tie each major post to one measurable artifact (signup change, retention change, response time, etc.)."
+  ]
+}

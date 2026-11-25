@@ -1,0 +1,96 @@
+[
+  {
+    "college_name": "Don Bosco College of Engineering",
+    "alternative_names": [
+      "Don Bosco College of Engineering"
+    ],
+    "aishe_code": "C-30812",
+    "district": "South Goa",
+    "city": "Margao",
+    "full_address": "Don Bosco College of Engineering, Margao, Goa",
+    "state_or_union_territory": "Goa",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.dbcegoa.ac.in",
+    "emails_found": [
+      "dbcefatorda@dbcegoa.ac.in"
+    ],
+    "domains_found": [
+      "dbcegoa.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://dte.goa.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1800,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 11.2,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 50.9,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Padre Conceicao College of Engineering",
+    "alternative_names": [
+      "Padre Conceicao College of Engineering"
+    ],
+    "aishe_code": "C-30810",
+    "district": "South Goa",
+    "city": "Verna",
+    "full_address": "Padre Conceicao College of Engineering, Verna, Goa",
+    "state_or_union_territory": "Goa",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.pccegoa.edu.in",
+    "emails_found": [
+      "pcce@pccegoa.edu.in"
+    ],
+    "domains_found": [
+      "pccegoa.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://dte.goa.gov.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1600,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 10.0,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 49.7,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  }
+]

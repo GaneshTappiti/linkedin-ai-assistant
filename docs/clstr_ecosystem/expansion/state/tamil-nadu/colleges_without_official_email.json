@@ -1,0 +1,79 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Chennai",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "Panimalar Engineering College"
+    },
+    {
+      "city": "Chennai",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "Jeppiaar Engineering College"
+    },
+    {
+      "city": "Chennai",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "Meenakshi Sundararajan Engineering College"
+    },
+    {
+      "city": "Chennai",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "Jerusalem College of Engineering"
+    },
+    {
+      "city": "Chennai",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "Jaya Engineering College"
+    },
+    {
+      "city": "Coimbatore",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "SNS College of Technology"
+    },
+    {
+      "city": "Coimbatore",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "Karpagam College of Engineering"
+    },
+    {
+      "city": "Coimbatore",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "Hindusthan College of Engineering and Technology"
+    },
+    {
+      "city": "Madurai",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "Velammal College of Engineering and Technology"
+    },
+    {
+      "city": "Chennai",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "Saveetha Engineering College"
+    },
+    {
+      "city": "Chennai",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "Rajalakshmi Engineering College"
+    },
+    {
+      "city": "Chennai",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "St. Joseph's College of Engineering"
+    },
+    {
+      "city": "Chennai",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "Sri Sairam Engineering College"
+    },
+    {
+      "city": "Coimbatore",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "Sri Krishna College of Engineering and Technology"
+    },
+    {
+      "city": "Salem",
+      "state_or_union_territory": "Tamil Nadu",
+      "college_name": "Sona College of Technology"
+    }
+  ]
+}

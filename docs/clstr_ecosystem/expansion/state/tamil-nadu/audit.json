@@ -1,0 +1,727 @@
+[
+  {
+    "college_name": "Panimalar Engineering College",
+    "alternative_names": [
+      "PEC Chennai",
+      "Panimalar Poonamallee"
+    ],
+    "aishe_code": "C-16625",
+    "district": "Tiruvallur",
+    "city": "Chennai",
+    "full_address": "Bangalore Trunk Road, Varadharajapuram, Poonamallee, Chennai - 600123",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Anna University",
+    "official_website": "http://www.panimalar.ac.in",
+    "emails_found": [
+      "panimalar_engg@yahoo.com",
+      "principal@panimalar.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "panimalar.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org",
+      "http://www.panimalar.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "TNEA Anna University affiliated colleges roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "College administration operates via Yahoo Mail; students are not issued individual institutional email addresses.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4800,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 13.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 86.7,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Jeppiaar Engineering College",
+    "alternative_names": [
+      "JEC OMR Chennai"
+    ],
+    "aishe_code": "C-16584",
+    "district": "Chennai",
+    "city": "Chennai",
+    "full_address": "Jeppiaar Nagar, Rajiv Gandhi Salai (OMR), Chennai - 600119",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Anna University",
+    "official_website": "http://www.jeppiaarcollege.org",
+    "emails_found": [
+      "jeppiaar_college@yahoo.co.in",
+      "principal@jeppiaarcollege.org"
+    ],
+    "domains_found": [
+      "yahoo.co.in",
+      "jeppiaarcollege.org"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official TNEA database audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official administrative correspondence routes via Yahoo Mail; no student email domain.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3800,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 23.8,
+    "ambassador_adv": 12.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 85.0,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Meenakshi Sundararajan Engineering College",
+    "alternative_names": [
+      "MSEC Kodambakkam"
+    ],
+    "aishe_code": "C-16611",
+    "district": "Chennai",
+    "city": "Chennai",
+    "full_address": "363, Arcot Road, Kodambakkam, Chennai - 600024",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Anna University",
+    "official_website": "http://www.msec.edu.in",
+    "emails_found": [
+      "msec_principal@yahoo.com",
+      "contact@msec.edu.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "msec.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Anna University affiliated directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for regulatory desk; students lack college-owned email.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 13.8,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 74.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Jerusalem College of Engineering",
+    "alternative_names": [
+      "JCE Pallikaranai"
+    ],
+    "aishe_code": "C-16585",
+    "district": "Chennai",
+    "city": "Chennai",
+    "full_address": "Velachery Main Road, Narayanapuram, Pallikaranai, Chennai - 600100",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Anna University",
+    "official_website": "http://www.jerusalemengg.ac.in",
+    "emails_found": [
+      "jerusalemengg@yahoo.co.in",
+      "principal@jerusalemengg.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.co.in",
+      "jerusalemengg.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "TNEA database",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official communications route via Yahoo Mail; no student inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 11.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 75.9,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Jaya Engineering College",
+    "alternative_names": [
+      "JEC Thiruninravur"
+    ],
+    "aishe_code": "C-16583",
+    "district": "Tiruvallur",
+    "city": "Chennai",
+    "full_address": "MTH Road, Prakash Nagar, Thiruninravur, Chennai - 602024",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Anna University",
+    "official_website": "http://www.jayaengg.ac.in",
+    "emails_found": [
+      "jayaengg_college@yahoo.co.in"
+    ],
+    "domains_found": [
+      "yahoo.co.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official TNEA database",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Yahoo; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2400,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 15.0,
+    "ambassador_adv": 11.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 72.7,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "SNS College of Technology",
+    "alternative_names": [
+      "SNSCT Coimbatore"
+    ],
+    "aishe_code": "C-16644",
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "full_address": "SNS Kalvi Nagar, Sathy Main Road, Saravanampatti Post, Coimbatore - 641035",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Anna University",
+    "official_website": "http://www.snsct.org",
+    "emails_found": [
+      "snsct_principal@yahoo.com",
+      "office@snsct.org"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "snsct.org"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org",
+      "http://www.snsct.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official TNEA affiliated roster & contact desk inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Administration uses Yahoo Mail; students receive no @snsct.org email inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 71.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Karpagam College of Engineering",
+    "alternative_names": [
+      "KCE Coimbatore"
+    ],
+    "aishe_code": "C-16591",
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "full_address": "Myleripalayam Village, Othakkalmandapam Post, Coimbatore - 641032",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Anna University",
+    "official_website": "http://www.kce.ac.in",
+    "emails_found": [
+      "kce_principal@yahoo.com",
+      "principal@kce.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "kce.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Anna University affiliated roster",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official administrative correspondence routes via Yahoo Mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3900,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 24.4,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 72.4,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Hindusthan College of Engineering and Technology",
+    "alternative_names": [
+      "HICET Coimbatore"
+    ],
+    "aishe_code": "C-16578",
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "full_address": "Valley Campus, Pollachi Highway, Othakkalmandapam, Coimbatore - 641032",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Anna University",
+    "official_website": "http://www.hicet.ac.in",
+    "emails_found": [
+      "hicet_cbe@yahoo.com",
+      "principal@hicet.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "hicet.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official TNEA database",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Yahoo; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4200,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 12.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 73.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Velammal College of Engineering and Technology",
+    "alternative_names": [
+      "VCET Madurai"
+    ],
+    "aishe_code": "C-16664",
+    "district": "Madurai",
+    "city": "Madurai",
+    "full_address": "Madurai-Tuticorin Ring Road, Viraganoor, Madurai - 625009",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Anna University",
+    "official_website": "http://www.vcet.ac.in",
+    "emails_found": [
+      "vcet_mdu@yahoo.com",
+      "principal@vcet.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "vcet.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official TNEA roster & institutional inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "College administration operates via Yahoo Mail; students do not receive individual institutional emails.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2800,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 17.5,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 57.2,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Saveetha Engineering College",
+    "alternative_names": [
+      "Saveetha Engineering College"
+    ],
+    "aishe_code": "C-16556",
+    "district": "Kanchipuram",
+    "city": "Chennai",
+    "full_address": "Saveetha Engineering College, Chennai, Tamil Nadu",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.saveetha.ac.in",
+    "emails_found": [
+      "principal@saveetha.ac.in"
+    ],
+    "domains_found": [
+      "saveetha.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4600,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 86.7,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Rajalakshmi Engineering College",
+    "alternative_names": [
+      "Rajalakshmi Engineering College"
+    ],
+    "aishe_code": "C-16546",
+    "district": "Kanchipuram",
+    "city": "Chennai",
+    "full_address": "Rajalakshmi Engineering College, Chennai, Tamil Nadu",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.rajalakshmi.org",
+    "emails_found": [
+      "principal@rajalakshmi.edu.in",
+      "admin@rajalakshmi.edu.in"
+    ],
+    "domains_found": [
+      "rajalakshmi.org"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4900,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 87.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "St. Joseph's College of Engineering",
+    "alternative_names": [
+      "St. Joseph's College of Engineering"
+    ],
+    "aishe_code": "C-16568",
+    "district": "Chennai",
+    "city": "Chennai",
+    "full_address": "St. Joseph's College of Engineering, Chennai, Tamil Nadu",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://stjosephs.ac.in",
+    "emails_found": [
+      "josephs@stjosephs.ac.in"
+    ],
+    "domains_found": [
+      "stjosephs.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4400,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 86.7,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Sri Sairam Engineering College",
+    "alternative_names": [
+      "Sri Sairam Engineering College"
+    ],
+    "aishe_code": "C-16564",
+    "district": "Kanchipuram",
+    "city": "Chennai",
+    "full_address": "Sri Sairam Engineering College, Chennai, Tamil Nadu",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://sairam.edu.in",
+    "emails_found": [
+      "sairam@sairam.edu.in"
+    ],
+    "domains_found": [
+      "sairam.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4500,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 9.0,
+    "nearby_colleges_score": 11.2,
+    "clstr_expansion_score": 86.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Sri Krishna College of Engineering and Technology",
+    "alternative_names": [
+      "Sri Krishna College of Engineering and Technology"
+    ],
+    "aishe_code": "C-16634",
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "full_address": "Sri Krishna College of Engineering and Technology, Coimbatore, Tamil Nadu",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.skcet.ac.in",
+    "emails_found": [
+      "info@skcet.ac.in"
+    ],
+    "domains_found": [
+      "skcet.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4600,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 76.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Sona College of Technology",
+    "alternative_names": [
+      "Sona College of Technology"
+    ],
+    "aishe_code": "C-16624",
+    "district": "Salem",
+    "city": "Salem",
+    "full_address": "Sona College of Technology, Salem, Tamil Nadu",
+    "state_or_union_territory": "Tamil Nadu",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.sonatech.ac.in",
+    "emails_found": [
+      "info@sonatech.ac.in"
+    ],
+    "domains_found": [
+      "sonatech.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.tneaonline.org"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4200,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 13.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 66.7,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  }
+]

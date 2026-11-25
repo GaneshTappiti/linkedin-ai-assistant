@@ -1,0 +1,1525 @@
+[
+  {
+    "college_name": "Bhojreddy Engineering College for Women",
+    "alternative_names": [
+      "BRECW Hyderabad"
+    ],
+    "aishe_code": "C-25610",
+    "district": "Hyderabad",
+    "city": "Hyderabad",
+    "full_address": "Vinaynagar, Santoshnagar Cross Roads, Saidabad, Hyderabad - 500059",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "JNTU Hyderabad",
+    "official_website": "http://www.brecw.ac.in",
+    "emails_found": [
+      "brecw@yahoo.com",
+      "principal@brecw.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "brecw.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in",
+      "http://www.brecw.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official TS EAMCET directory & institutional contact check",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via brecw@yahoo.com; students receive no @brecw.ac.in mailboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2800,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 17.5,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 88.0,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Stanley College of Engineering and Technology for Women",
+    "alternative_names": [
+      "Stanley Abids"
+    ],
+    "aishe_code": "C-25662",
+    "district": "Hyderabad",
+    "city": "Hyderabad",
+    "full_address": "H. No. 5-78 to 82, B-Block, Chapel Road, Fateh Maidan, Abids, Hyderabad - 500001",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Osmania University",
+    "official_website": "http://www.stanley.edu.in",
+    "emails_found": [
+      "stanleycollege@yahoo.com",
+      "principal@stanley.edu.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "stanley.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Osmania University affiliation roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Administrative and student affairs handled through Yahoo Mail; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 11.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 85.7,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Methodist College of Engineering and Technology",
+    "alternative_names": [
+      "Methodist Abids"
+    ],
+    "aishe_code": "C-25642",
+    "district": "Hyderabad",
+    "city": "Hyderabad",
+    "full_address": "King Koti Road, Abids, Hyderabad - 500001",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Osmania University",
+    "official_website": "http://www.methodist.edu.in",
+    "emails_found": [
+      "methodist.abids@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "TS EAMCET registry",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Gmail address for all regulatory and student communications.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2500,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 15.6,
+    "ambassador_adv": 11.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 85.1,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Matrusri Engineering College",
+    "alternative_names": [
+      "MEC Saidabad"
+    ],
+    "aishe_code": "C-25641",
+    "district": "Hyderabad",
+    "city": "Hyderabad",
+    "full_address": "16-1-486, Saidabad, Hyderabad - 500059",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Osmania University",
+    "official_website": "http://www.matrusri.edu.in",
+    "emails_found": [
+      "matrusri.principal@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Osmania University records",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Principal and student cells use Gmail; no student email service configured.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2400,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 15.0,
+    "ambassador_adv": 11.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 84.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "AVN Institute of Engineering and Technology",
+    "alternative_names": [
+      "AVNIET Ibrahimpatnam"
+    ],
+    "aishe_code": "C-19818",
+    "district": "Rangareddy",
+    "city": "Hyderabad",
+    "full_address": "Koheda Road, MP Patelguda, Ibrahimpatnam, Rangareddy - 501510",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "JNTU Hyderabad",
+    "official_website": "http://www.avniet.ac.in",
+    "emails_found": [
+      "avn.principal@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUH affiliated college inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official EAMCET listed contact is Gmail; no student inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 10.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 13.8,
+    "ambassador_adv": 10.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 80.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Bharat Institute of Engineering and Technology",
+    "alternative_names": [
+      "BIET Ibrahimpatnam"
+    ],
+    "aishe_code": "C-19823",
+    "district": "Rangareddy",
+    "city": "Hyderabad",
+    "full_address": "Mangalpally Village, Ibrahimpatnam Mandal, Rangareddy - 501510",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "JNTU Hyderabad",
+    "official_website": "http://www.biet.ac.in",
+    "emails_found": [
+      "biet.ibp@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official TS EAMCET registry",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Primary contact is public Gmail; domain lacks student mailbox hosting.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3100,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 19.4,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 87.4,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Sri Indu College of Engineering and Technology",
+    "alternative_names": [
+      "SICET Ibrahimpatnam"
+    ],
+    "aishe_code": "C-19865",
+    "district": "Rangareddy",
+    "city": "Hyderabad",
+    "full_address": "Sheriguda, Ibrahimpatnam Mandal, Rangareddy - 501510",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "JNTU Hyderabad",
+    "official_website": "http://www.sriindu.ac.in",
+    "emails_found": [
+      "indu_engg@yahoo.com",
+      "principal@sriindu.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "sriindu.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUH affiliated roster",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Yahoo; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 91.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "TKR College of Engineering and Technology",
+    "alternative_names": [
+      "TKRCET Meerpet"
+    ],
+    "aishe_code": "C-19871",
+    "district": "Rangareddy",
+    "city": "Hyderabad",
+    "full_address": "Medbowli, Meerpet, Saroornagar, Rangareddy - 500097",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "JNTU Hyderabad",
+    "official_website": "http://www.tkrcet.ac.in",
+    "emails_found": [
+      "tkrcet@yahoo.com",
+      "principal@tkrcet.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "tkrcet.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "TS EAMCET database audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official administrative correspondence routes via Yahoo Mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3500,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 21.9,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 91.4,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Holy Mary Institute of Technology and Science",
+    "alternative_names": [
+      "HITS Keesara"
+    ],
+    "aishe_code": "C-19837",
+    "district": "Medchal-Malkajgiri",
+    "city": "Hyderabad",
+    "full_address": "Bogaram, Keesara Mandal, Medchal-Malkajgiri - 501301",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "JNTU Hyderabad",
+    "official_website": "http://www.hits.ac.in",
+    "emails_found": [
+      "hits.principal@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAMCET list",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Gmail address for all regulatory and student contact.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2700,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.9,
+    "ambassador_adv": 11.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 84.4,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Samskruti College of Engineering and Technology",
+    "alternative_names": [
+      "SCET Ghatkesar"
+    ],
+    "aishe_code": "C-19857",
+    "district": "Medchal-Malkajgiri",
+    "city": "Hyderabad",
+    "full_address": "Kondapur Village, Ghatkesar Mandal, Medchal-Malkajgiri - 501301",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "JNTU Hyderabad",
+    "official_website": "http://www.samskruti.ac.in",
+    "emails_found": [
+      "samskruticet@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUH affiliated roster",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Public Gmail registered for all institutional matters.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 10.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 13.8,
+    "ambassador_adv": 10.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 80.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Joginpally B.R. Engineering College",
+    "alternative_names": [
+      "JBREC Moinabad"
+    ],
+    "aishe_code": "C-19842",
+    "district": "Rangareddy",
+    "city": "Hyderabad",
+    "full_address": "Bhaskar Nagar, Yenkapally, Moinabad Mandal, Rangareddy - 500075",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "JNTU Hyderabad",
+    "official_website": "http://www.jbrec.edu.in",
+    "emails_found": [
+      "jbrec_principal@yahoo.com"
+    ],
+    "domains_found": [
+      "yahoo.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "TS EAMCET registry",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student operations route via Yahoo; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 11.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 83.7,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Ellenki College of Engineering and Technology",
+    "alternative_names": [
+      "ECET Patancheru"
+    ],
+    "aishe_code": "C-19830",
+    "district": "Sangareddy",
+    "city": "Patancheru",
+    "full_address": "Patelguda, Near BHEL, Patancheru, Sangareddy - 502319",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "JNTU Hyderabad",
+    "official_website": "http://www.ellenkicet.ac.in",
+    "emails_found": [
+      "ellenki_college@yahoo.co.in"
+    ],
+    "domains_found": [
+      "yahoo.co.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUH affiliation audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Yahoo Mail for administration; students do not receive official email accounts.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2100,
+    "clstr_advantage_score": 10.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 13.1,
+    "ambassador_adv": 10.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 50.3,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Vaagdevi College of Engineering",
+    "alternative_names": [
+      "VCE Bollikunta"
+    ],
+    "aishe_code": "C-27415",
+    "district": "Warangal",
+    "city": "Warangal",
+    "full_address": "Bollikunta, Warangal - 506005",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "JNTU Hyderabad",
+    "official_website": "http://www.vaagdevi.edu.in",
+    "emails_found": [
+      "vaagdevice@gmail.com",
+      "principal@vaagdevi.edu.in"
+    ],
+    "domains_found": [
+      "gmail.com",
+      "vaagdevi.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official TS EAMCET directory & contact inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Admissions and student affairs route through vaagdevice@gmail.com; students receive no official student email domain.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3800,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 23.8,
+    "ambassador_adv": 12.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 70.1,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Jayamukhi Institute of Technological Sciences",
+    "alternative_names": [
+      "JITS Narsampet"
+    ],
+    "aishe_code": "C-27403",
+    "district": "Warangal",
+    "city": "Warangal",
+    "full_address": "Chennaraopet Road, Narsampet, Warangal - 506332",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "JNTU Hyderabad",
+    "official_website": "http://www.jits.in",
+    "emails_found": [
+      "jits_npt@yahoo.com",
+      "principal@jits.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "jits.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JNTUH affiliated college directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official administrative correspondence routes via Yahoo Mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2500,
+    "clstr_advantage_score": 10.5,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.0,
+    "strategic_fit_score": 4.5,
+    "pop_score": 15.6,
+    "ambassador_adv": 10.5,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.0,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 57.4,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Sumathi Reddy Institute of Technology for Women",
+    "alternative_names": [
+      "SRITW Warangal"
+    ],
+    "aishe_code": "C-27412",
+    "district": "Hanamkonda",
+    "city": "Hanamkonda",
+    "full_address": "Ananthasagar, Hasanparthy, Hanamkonda - 506371",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "JNTU Hyderabad",
+    "official_website": "http://www.sritw.org",
+    "emails_found": [
+      "sritw.wgl@gmail.com"
+    ],
+    "domains_found": [
+      "gmail.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official EAMCET list",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Uses Gmail for official institution communication; lacks student email accounts.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 1900,
+    "clstr_advantage_score": 10.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 4.5,
+    "pop_score": 11.9,
+    "ambassador_adv": 10.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 4.5,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 49.1,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  },
+  {
+    "college_name": "Malla Reddy Engineering College",
+    "alternative_names": [
+      "Malla Reddy Engineering College"
+    ],
+    "aishe_code": "C-19825",
+    "district": "Medchal-Malkajgiri",
+    "city": "Hyderabad",
+    "full_address": "Malla Reddy Engineering College, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.mrec.ac.in",
+    "emails_found": [
+      "mrec.principal@gmail.com",
+      "principal@mrec.ac.in"
+    ],
+    "domains_found": [
+      "mrec.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in",
+      "http://www.mrec.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4200,
+    "clstr_advantage_score": 15.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 15.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 97.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Malla Reddy College of Engineering and Technology",
+    "alternative_names": [
+      "Malla Reddy College of Engineering and Technology"
+    ],
+    "aishe_code": "C-19824",
+    "district": "Medchal-Malkajgiri",
+    "city": "Hyderabad",
+    "full_address": "Malla Reddy College of Engineering and Technology, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.mrcet.ac.in",
+    "emails_found": [
+      "mrcet2004@gmail.com",
+      "principal@mrcet.ac.in"
+    ],
+    "domains_found": [
+      "mrcet.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3800,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 23.8,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 95.8,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "CMR College of Engineering and Technology",
+    "alternative_names": [
+      "CMR College of Engineering and Technology"
+    ],
+    "aishe_code": "C-19808",
+    "district": "Medchal-Malkajgiri",
+    "city": "Hyderabad",
+    "full_address": "CMR College of Engineering and Technology, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.cmrcet.ac.in",
+    "emails_found": [
+      "principal@cmrcet.ac.in"
+    ],
+    "domains_found": [
+      "cmrcet.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 94.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "CMR Technical Campus",
+    "alternative_names": [
+      "CMR Technical Campus"
+    ],
+    "aishe_code": "C-19809",
+    "district": "Medchal-Malkajgiri",
+    "city": "Hyderabad",
+    "full_address": "CMR Technical Campus, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.cmrtc.ac.in",
+    "emails_found": [
+      "director@cmrtc.ac.in",
+      "cmrtc.principal@gmail.com"
+    ],
+    "domains_found": [
+      "cmrtc.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3200,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 20.0,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 91.0,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "St. Martin's Engineering College",
+    "alternative_names": [
+      "St. Martin's Engineering College"
+    ],
+    "aishe_code": "C-19864",
+    "district": "Medchal-Malkajgiri",
+    "city": "Hyderabad",
+    "full_address": "St. Martin's Engineering College, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.smec.ac.in",
+    "emails_found": [
+      "principal@smec.ac.in",
+      "smec.principal@gmail.com"
+    ],
+    "domains_found": [
+      "smec.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3400,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 21.2,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 92.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Narasimha Reddy Engineering College",
+    "alternative_names": [
+      "Narasimha Reddy Engineering College"
+    ],
+    "aishe_code": "C-19839",
+    "district": "Medchal-Malkajgiri",
+    "city": "Hyderabad",
+    "full_address": "Narasimha Reddy Engineering College, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.nrcm.org",
+    "emails_found": [
+      "nrcm.principal@gmail.com"
+    ],
+    "domains_found": [
+      "nrcm.org"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 13.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 86.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Scient Institute of Technology",
+    "alternative_names": [
+      "Scient Institute of Technology"
+    ],
+    "aishe_code": "C-19860",
+    "district": "Rangareddy",
+    "city": "Hyderabad",
+    "full_address": "Scient Institute of Technology, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.scient.ac.in",
+    "emails_found": [
+      "scient_inst_tech@yahoo.co.in"
+    ],
+    "domains_found": [
+      "scient.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2200,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 13.8,
+    "ambassador_adv": 13.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 83.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Guru Nanak Institute of Technology",
+    "alternative_names": [
+      "Guru Nanak Institute of Technology"
+    ],
+    "aishe_code": "C-19816",
+    "district": "Rangareddy",
+    "city": "Hyderabad",
+    "full_address": "Guru Nanak Institute of Technology, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.gnit.ac.in",
+    "emails_found": [
+      "principal.gnit@gniindia.org"
+    ],
+    "domains_found": [
+      "gnit.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3200,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 20.0,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 91.0,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Geethanjali College of Engineering and Technology",
+    "alternative_names": [
+      "Geethanjali College of Engineering and Technology"
+    ],
+    "aishe_code": "C-19815",
+    "district": "Medchal-Malkajgiri",
+    "city": "Hyderabad",
+    "full_address": "Geethanjali College of Engineering and Technology, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.geethanjaliinstitutions.com",
+    "emails_found": [
+      "info@gcet.edu.in",
+      "principal@gcet.edu.in"
+    ],
+    "domains_found": [
+      "geethanjaliinstitutions.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3400,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 21.2,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 92.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Sreenidhi Institute of Science and Technology",
+    "alternative_names": [
+      "Sreenidhi Institute of Science and Technology"
+    ],
+    "aishe_code": "C-19866",
+    "district": "Medchal-Malkajgiri",
+    "city": "Hyderabad",
+    "full_address": "Sreenidhi Institute of Science and Technology, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.sreenidhi.edu.in",
+    "emails_found": [
+      "principal@sreenidhi.edu.in"
+    ],
+    "domains_found": [
+      "sreenidhi.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4800,
+    "clstr_advantage_score": 15.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 15.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 97.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Aurora's Technological and Research Institute",
+    "alternative_names": [
+      "Aurora's Technological and Research Institute"
+    ],
+    "aishe_code": "C-19800",
+    "district": "Medchal-Malkajgiri",
+    "city": "Hyderabad",
+    "full_address": "Aurora's Technological and Research Institute, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.atri.edu.in",
+    "emails_found": [
+      "director@atri.edu.in"
+    ],
+    "domains_found": [
+      "atri.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 13.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 86.2,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Vidya Jyothi Institute of Technology",
+    "alternative_names": [
+      "Vidya Jyothi Institute of Technology"
+    ],
+    "aishe_code": "C-19875",
+    "district": "Rangareddy",
+    "city": "Hyderabad",
+    "full_address": "Vidya Jyothi Institute of Technology, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.vjit.ac.in",
+    "emails_found": [
+      "principal@vjit.ac.in"
+    ],
+    "domains_found": [
+      "vjit.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3800,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 23.8,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 95.8,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "J.B. Institute of Engineering and Technology",
+    "alternative_names": [
+      "J.B. Institute of Engineering and Technology"
+    ],
+    "aishe_code": "C-19819",
+    "district": "Rangareddy",
+    "city": "Hyderabad",
+    "full_address": "J.B. Institute of Engineering and Technology, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.jbiet.edu.in",
+    "emails_found": [
+      "principal@jbiet.edu.in"
+    ],
+    "domains_found": [
+      "jbiet.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 93.5,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Lords Institute of Engineering and Technology",
+    "alternative_names": [
+      "Lords Institute of Engineering and Technology"
+    ],
+    "aishe_code": "C-19822",
+    "district": "Rangareddy",
+    "city": "Hyderabad",
+    "full_address": "Lords Institute of Engineering and Technology, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.lords.ac.in",
+    "emails_found": [
+      "principal@lords.ac.in"
+    ],
+    "domains_found": [
+      "lords.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3000,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 18.8,
+    "ambassador_adv": 13.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 88.8,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Sridevi Women's Engineering College",
+    "alternative_names": [
+      "Sridevi Women's Engineering College"
+    ],
+    "aishe_code": "C-19867",
+    "district": "Rangareddy",
+    "city": "Hyderabad",
+    "full_address": "Sridevi Women's Engineering College, Hyderabad, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Women's Engineering College",
+    "official_website": "http://www.srideviengg.com",
+    "emails_found": [
+      "srideviengg@gmail.com"
+    ],
+    "domains_found": [
+      "srideviengg.com"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 14.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 15.0,
+    "nearby_colleges_score": 15.0,
+    "clstr_expansion_score": 86.7,
+    "priority_tier": "TIER_A",
+    "recommended_action": "Immediate campus ambassador onboarding & offline community launch"
+  },
+  {
+    "college_name": "Kakatiya Institute of Technology and Science",
+    "alternative_names": [
+      "Kakatiya Institute of Technology and Science"
+    ],
+    "aishe_code": "C-27407",
+    "district": "Hanamkonda",
+    "city": "Warangal",
+    "full_address": "Kakatiya Institute of Technology and Science, Warangal, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://www.kitsw.ac.in",
+    "emails_found": [
+      "principal@kitsw.ac.in"
+    ],
+    "domains_found": [
+      "kitsw.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 13.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 69.8,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Sree Chaitanya College of Engineering",
+    "alternative_names": [
+      "Sree Chaitanya College of Engineering"
+    ],
+    "aishe_code": "C-19859",
+    "district": "Karimnagar",
+    "city": "Karimnagar",
+    "full_address": "Sree Chaitanya College of Engineering, Karimnagar, Telangana",
+    "state_or_union_territory": "Telangana",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.scce.ac.in",
+    "emails_found": [
+      "scce.knr@gmail.com"
+    ],
+    "domains_found": [
+      "scce.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://eapcet.tsche.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 12.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 12.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 56.4,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  }
+]

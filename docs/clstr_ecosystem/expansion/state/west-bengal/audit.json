@@ -1,0 +1,242 @@
+[
+  {
+    "college_name": "Heritage Institute of Technology",
+    "alternative_names": [
+      "HIT Kolkata"
+    ],
+    "aishe_code": "C-6228",
+    "district": "Kolkata",
+    "city": "Kolkata",
+    "full_address": "Chowbaga Road, Anandapur, East Kolkata Township, Kolkata - 700107",
+    "state_or_union_territory": "West Bengal",
+    "affiliated_university": "Maulana Abul Kalam Azad University of Technology",
+    "official_website": "http://www.heritageit.edu",
+    "emails_found": [
+      "heritage_kolkata@yahoo.com",
+      "admin@heritageit.edu"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "heritageit.edu"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://makautwb.ac.in",
+      "http://www.heritageit.edu"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "MAKAUT affiliated college roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "College administration operates via Yahoo Mail; students are not provided individual institutional email inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4100,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 13.0,
+    "youth_eco": 9.5,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 75.5,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Dr. B.C. Roy Engineering College",
+    "alternative_names": [
+      "BCREC Durgapur"
+    ],
+    "aishe_code": "C-6224",
+    "district": "Paschim Bardhaman",
+    "city": "Durgapur",
+    "full_address": "Jemua Road, Fuljhore, Durgapur - 713206",
+    "state_or_union_territory": "West Bengal",
+    "affiliated_university": "Maulana Abul Kalam Azad University of Technology",
+    "official_website": "http://www.bcrec.ac.in",
+    "emails_found": [
+      "bcrec_durgapur@yahoo.com",
+      "info@bcrec.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "bcrec.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://makautwb.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "Official MAKAUT database audit",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Official communications route via Yahoo Mail; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3500,
+    "clstr_advantage_score": 11.5,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 21.9,
+    "ambassador_adv": 11.5,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 62.1,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  },
+  {
+    "college_name": "Institute of Engineering and Management",
+    "alternative_names": [
+      "Institute of Engineering and Management"
+    ],
+    "aishe_code": "C-6208",
+    "district": "North 24 Parganas",
+    "city": "Kolkata",
+    "full_address": "Institute of Engineering and Management, Kolkata, West Bengal",
+    "state_or_union_territory": "West Bengal",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://iem.edu.in",
+    "emails_found": [
+      "director@iemcal.com"
+    ],
+    "domains_found": [
+      "iem.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://wbjeeb.nic.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4200,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 76.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Techno Main Salt Lake",
+    "alternative_names": [
+      "Techno Main Salt Lake"
+    ],
+    "aishe_code": "C-6232",
+    "district": "North 24 Parganas",
+    "city": "Kolkata",
+    "full_address": "Techno Main Salt Lake, Kolkata, West Bengal",
+    "state_or_union_territory": "West Bengal",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "http://www.tict.edu.in",
+    "emails_found": [
+      "info@tict.edu.in"
+    ],
+    "domains_found": [
+      "tict.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://wbjeeb.nic.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4100,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 75.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Netaji Subhash Engineering College",
+    "alternative_names": [
+      "Netaji Subhash Engineering College"
+    ],
+    "aishe_code": "C-6221",
+    "district": "South 24 Parganas",
+    "city": "Kolkata",
+    "full_address": "Netaji Subhash Engineering College, Kolkata, West Bengal",
+    "state_or_union_territory": "West Bengal",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "http://www.nsec.ac.in",
+    "emails_found": [
+      "info@nsec.ac.in"
+    ],
+    "domains_found": [
+      "nsec.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://wbjeeb.nic.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 13.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 13.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 4.0,
+    "nearby_colleges_score": 5.0,
+    "clstr_expansion_score": 72.0,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  }
+]

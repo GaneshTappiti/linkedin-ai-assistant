@@ -1,0 +1,558 @@
+{
+  "config_version": "1.1.1",
+  "project": {
+    "name": "clstr.in",
+    "programs": [
+      "campus_ambassadors",
+      "marketing_team"
+    ],
+    "primary_application_url": "https://clstr.in/campus-ambassadors",
+    "primary_contact": {
+      "owner_name": "Ganesh",
+      "whatsapp": "9441467303",
+      "email": "clstr.network@gmail.com"
+    }
+  },
+  "automation_objective": "Identify, warm up, qualify, and convert high-quality student candidates from LinkedIn into clstr.in Campus Ambassadors or Marketing Team members.",
+  "eligibility_guardrails": {
+    "current_college_students_only": false,
+    "requires_college_email_for_activation": true,
+    "allowed_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "final_year_allowed": true,
+    "disqualify_if": [
+      "cannot_use_college_edu_email",
+      "passive_participation_only"
+    ]
+  },
+  "channels": [
+    "linkedin_dm"
+  ],
+  "candidate_sources": {
+    "preferred_search_keywords": [
+      "campus ambassador",
+      "student leader",
+      "club president",
+      "startup cell",
+      "marketing lead",
+      "event organizer",
+      "placement coordinator",
+      "NSS",
+      "IEEE",
+      "TEDx",
+      "student council",
+      "event coordinator",
+      "college student",
+      "campus lead",
+      "student activist"
+    ],
+    "location_hint": "India",
+    "role_specific_search": {
+      "campus_ambassador": {
+        "keywords": [
+          "campus ambassador",
+          "student council",
+          "club lead",
+          "event coordinator",
+          "community lead"
+        ],
+        "must_have_any": [
+          "college leadership role",
+          "event execution signal",
+          "campus community participation"
+        ]
+      },
+      "marketing_team_member": {
+        "keywords": [
+          "marketing lead",
+          "growth",
+          "social media manager",
+          "campaign strategist",
+          "content lead"
+        ],
+        "must_have_any": [
+          "campaign execution signal",
+          "content distribution signal",
+          "audience growth signal"
+        ]
+      }
+    }
+  },
+  "pipeline_strategy": {
+    "sequence": [
+      "search_best_engaged_profiles",
+      "evaluate_profile_capability_and_college_engagement",
+      "start_casual_conversation_about_clstr",
+      "offer_role_with_personalized_hype",
+      "share_contact_and_link_to_close"
+    ],
+    "hard_rules": [
+      "Do not pitch role before profile evaluation",
+      "Do not send role offer in first message",
+      "Always run discovery before role pitch",
+      "Always verify current college and year in discovery",
+      "Always verify college edu email availability before close",
+      "Never include owner contact details (WhatsApp/email) in s1_casual_opener, s2_discovery, or s3_role_pitch",
+      "Only include owner contact details in s4_close_and_convert",
+      "Do not send generic hype",
+      "Always include one profile-specific proof point in pitch",
+      "Always close with owner contact plus application link"
+    ]
+  },
+  "roles": {
+    "campus_ambassador": {
+      "summary": "College-level growth operator for community activation and peer onboarding.",
+      "weekly_commitment_hours": "3-5",
+      "selection_limit_per_college": "2-3",
+      "responsibilities": [
+        "Build and grow clstr.in student community in campus",
+        "Run activations, campaigns, and campus events",
+        "Connect students with alumni and opportunities",
+        "Submit weekly progress updates"
+      ],
+      "positioning_anchors": [
+        "ownership over passive volunteering",
+        "real leadership in campus ecosystem",
+        "measurable impact"
+      ]
+    },
+    "marketing_team_member": {
+      "summary": "Central growth team member driving outreach, campaigns, and measurable acquisition.",
+      "weekly_commitment_hours": "6-10",
+      "responsibilities": [
+        "Create and execute outreach strategy",
+        "Build campaign assets and messaging",
+        "Track funnel metrics and optimize conversion",
+        "Coordinate with ambassadors for college growth loops"
+      ],
+      "positioning_anchors": [
+        "core team ownership",
+        "real startup execution exposure",
+        "performance-linked growth path"
+      ]
+    }
+  },
+  "candidate_profile_schema": {
+    "required_fields": [
+      "full_name",
+      "linkedin_url",
+      "college_name",
+      "graduation_year",
+      "current_year",
+      "has_college_edu_email",
+      "headline",
+      "recent_activity_summary",
+      "leadership_signals",
+      "execution_signals",
+      "network_signals"
+    ],
+    "optional_fields": [
+      "phone",
+      "email",
+      "instagram_handle",
+      "mutual_connections_count",
+      "notes"
+    ]
+  },
+  "scoring": {
+    "max_total": 20,
+    "minimum_for_outreach": 9,
+    "minimum_for_role_offer": 14,
+    "dimensions": [
+      {
+        "key": "campus_influence",
+        "weight": 5,
+        "guide": "Club roles, coordinator positions, campus visibility"
+      },
+      {
+        "key": "execution_proof",
+        "weight": 5,
+        "guide": "Events/campaigns actually run, outcomes shown"
+      },
+      {
+        "key": "communication_quality",
+        "weight": 5,
+        "guide": "Clarity, consistency, writing quality"
+      },
+      {
+        "key": "network_strength",
+        "weight": 5,
+        "guide": "Peer engagement and influence in college circles"
+      },
+      {
+        "key": "college_engagement_proof",
+        "weight": 5,
+        "guide": "Measured participation or outcomes in candidate's college"
+      }
+    ],
+    "normalization": {
+      "method": "cap_to_20",
+      "notes": "When using 5 dimensions, normalize raw /25 score to /20 before banding"
+    },
+    "bands": [
+      {
+        "range": "15-20",
+        "label": "high_priority",
+        "action": "start_conversation_immediately"
+      },
+      {
+        "range": "11-14",
+        "label": "nurture",
+        "action": "send_soft_outreach_then_follow_up"
+      },
+      {
+        "range": "0-10",
+        "label": "defer",
+        "action": "skip_for_now"
+      }
+    ]
+  },
+  "conversation_workflow": {
+    "context_memory_gate": {
+      "enabled": true,
+      "rule": "Before generating any reply, fetch latest candidate context from backend and append last 10 conversation events.",
+      "block_reply_if_context_missing": true
+    },
+    "strict_sequence_enforced": true,
+    "enforcement": {
+      "outreach_gate": "Allow s1_casual_opener only when candidate_score >= 11",
+      "role_offer_gate": "Allow s3_role_pitch only when candidate_score >= 15",
+      "contact_sharing_gate": "Allow owner contact details only in s4_close_and_convert",
+      "reject_if_stage_template_mismatch": true
+    },
+    "stage_message_guardrails": {
+      "s1_casual_opener": {
+        "must_not_include": [
+          "9441467303",
+          "WhatsApp",
+          "clstr.network@gmail.com",
+          "Program link"
+        ]
+      },
+      "s2_discovery": {
+        "must_not_include": [
+          "9441467303",
+          "WhatsApp",
+          "clstr.network@gmail.com",
+          "Program link"
+        ]
+      },
+      "s3_role_pitch": {
+        "must_not_include": [
+          "9441467303",
+          "WhatsApp",
+          "clstr.network@gmail.com",
+          "Program link"
+        ],
+        "must_include_any": [
+          "specific_signal",
+          "college_engagement_proof"
+        ]
+      },
+      "s4_close_and_convert": {
+        "must_include": [
+          "https://forms.gle/2NYjiunqeUk3WUDh9",
+          "9441467303"
+        ]
+      }
+    },
+    "allowed_stage_transitions": {
+      "s0_search_and_score": [
+        "s1_casual_opener"
+      ],
+      "s1_casual_opener": [
+        "s2_discovery"
+      ],
+      "s2_discovery": [
+        "s3_role_pitch"
+      ],
+      "s3_role_pitch": [
+        "s4_close_and_convert"
+      ]
+    },
+    "stages": [
+      {
+        "id": "s0_search_and_score",
+        "goal": "Find high-potential profiles and complete capability + engagement scoring",
+        "entry_conditions": [
+          "candidate_state == new"
+        ],
+        "exit_conditions": [
+          "candidate_score_computed",
+          "candidate_state == scored"
+        ],
+        "timeout_hours": 24
+      },
+      {
+        "id": "s1_casual_opener",
+        "goal": "Start naturally without role pressure",
+        "entry_conditions": [
+          "candidate_state == scored",
+          "candidate_score >= 11"
+        ],
+        "exit_conditions": [
+          "candidate_reply_received"
+        ],
+        "timeout_hours": 48
+      },
+      {
+        "id": "s2_discovery",
+        "goal": "Understand interests, bandwidth, current college status, and edu email readiness",
+        "entry_conditions": [
+          "candidate_reply_received"
+        ],
+        "exit_conditions": [
+          "candidate_interest_positive",
+          "current_college_confirmed",
+          "college_year_confirmed",
+          "current_year in [2,3]",
+          "college_edu_email_available == true"
+        ],
+        "timeout_hours": 72
+      },
+      {
+        "id": "s3_role_pitch",
+        "goal": "Pitch correct role with personalized upside",
+        "entry_conditions": [
+          "candidate_interest_positive",
+          "current_college_confirmed",
+          "college_year_confirmed",
+          "current_year in [2,3]",
+          "college_edu_email_available == true",
+          "candidate_score >= 15"
+        ],
+        "exit_conditions": [
+          "candidate_requests_next_step_or_apply_link"
+        ],
+        "timeout_hours": 72
+      },
+      {
+        "id": "s4_close_and_convert",
+        "goal": "Share link + contact and secure commitment",
+        "entry_conditions": [
+          "candidate_requests_next_step_or_apply_link",
+          "college_edu_email_available == true"
+        ],
+        "exit_conditions": [
+          "application_submitted_or_call_scheduled"
+        ],
+        "timeout_hours": 96
+      }
+    ]
+  },
+  "message_templates": {
+    "casual_opener": "Hey {first_name}, saw your work at {college_name} — you're clearly active in building your campus community. I'm building clstr.in — India's verified campus network where students connect with batchmates, alumni mentors, events, and real opportunities in one place. We're bringing on strong campus leaders to shape how this rolls out across colleges. It'd be great to have you as an early voice from {college_name} — what's one thing students there struggle with the most right now?",
+    "discovery_prompt": "That is useful context. Quick check so I can map fit correctly: which college and year are you currently in, and can you use your college email ID for platform onboarding? We are currently onboarding only 2nd and 3rd year students. Also, what kind of work do you enjoy more right now - community building, marketing campaigns, or team leadership?",
+    "discovery_followup_commitment": "Perfect. Last check before role mapping: how many hours can you commit weekly for the next 8 weeks, and what is one campus activity you have executed recently?",
+    "role_pitch_campus_ambassador": "Based on your profile, you look strong for a Campus Ambassador leadership track at clstr.in. This is not passive promotion. You would own campus activations, student onboarding, and community momentum in your college with measurable outcomes.",
+    "role_pitch_marketing_team": "Based on your profile, you are a better fit for the core Marketing Team at clstr.in. You would own campaign execution, outreach systems, and growth metrics with direct responsibility for results.",
+    "role_pitch_high_hype_personalized": "{first_name}, one thing that stands out from your profile is {specific_signal}. That kind of execution and network strength is exactly what we need at clstr.in. If you are open, I want to offer you a role where you own outcomes, not just tasks.",
+    "close_message": "Great. Let us move forward. Fill this quick form and we will fast-track your review: https://forms.gle/2NYjiunqeUk3WUDh9 — takes 2 minutes. You can also reach me on WhatsApp: 9441467303 if you have questions before submitting.",
+    "follow_up_day_2": "Quick nudge, {first_name}. Wanted to check if you saw my note. I think your profile fits what we are building at clstr.in.",
+    "follow_up_day_5": "Last follow-up from my side, {first_name}. If now is not the right time, no problem. If you want to build seriously with clstr.in, I can share next steps today."
+  },
+  "personalization_rules": {
+    "required_inputs": [
+      "specific_signal",
+      "recent_execution_example",
+      "likely_role_fit",
+      "college_engagement_proof"
+    ],
+    "hype_guidelines": [
+      "Use evidence-based praise only",
+      "Tie praise to observed profile signals",
+      "Avoid fake urgency and exaggerated claims",
+      "Keep tone founder-level, direct, and respectful"
+    ],
+    "role_fit_logic": {
+      "campus_ambassador_if": [
+        "strong_campus_influence",
+        "event_or_community_execution",
+        "college_engagement_proof_present"
+      ],
+      "marketing_team_if": [
+        "strong_content_or_campaign_history",
+        "clear_growth_or_outreach_execution",
+        "network_strength_present"
+      ]
+    }
+  },
+  "qualification_questions": [
+    "Are you currently enrolled in a college?",
+    "What is your college name and current year?",
+    "Can you use your college edu email ID for onboarding?",
+    "What is one thing you have executed end-to-end in your campus or community?",
+    "What outcome did that produce (participation, signups, reach, or other measurable result)?",
+    "How many hours can you commit weekly for the next 8 weeks?",
+    "Which role do you want: Campus Ambassador or Marketing Team?",
+    "Why clstr.in, and why now?"
+  ],
+  "decision_engine": {
+    "accept_if": [
+      "score >= 15",
+      "current_college_confirmed",
+      "college_edu_email_available == true",
+      "clear_execution_proof_present",
+      "college_engagement_proof_present",
+      "weekly_commitment_confirmed",
+      "communication_quality >= 3"
+    ],
+    "nurture_if": [
+      "score between 11 and 14",
+      "intent positive but execution proof limited"
+    ],
+    "reject_if": [
+      "not_current_student",
+      "cannot_use_college_edu_email",
+      "final_year_student",
+      "current_year not in [2,3]",
+      "no_commitment",
+      "certificate_only_motivation",
+      "no_execution_proof_after_followups"
+    ]
+  },
+  "backend_context_persistence": {
+    "enabled": true,
+    "objective": "Persist candidate context after every message read and every message sent so future replies are context-aware.",
+    "backend_base_url_env": "CLSTR_AUTOMATION_BACKEND_URL",
+    "auth_token_env": "CLSTR_AUTOMATION_API_TOKEN",
+    "mandatory_write_events": [
+      "message_read",
+      "message_sent",
+      "candidate_profile_updated",
+      "score_updated",
+      "stage_transition",
+      "qualification_update"
+    ],
+    "mandatory_read_before_reply": [
+      "candidate_profile",
+      "score_breakdown",
+      "current_stage",
+      "last_10_conversation_events",
+      "selected_role",
+      "pending_follow_up"
+    ],
+    "apis": {
+      "upsert_candidate": {
+        "method": "POST",
+        "path": "/api/candidates/upsert"
+      },
+      "append_event": {
+        "method": "POST",
+        "path": "/api/candidates/{candidate_id}/events"
+      },
+      "get_context": {
+        "method": "GET",
+        "path": "/api/candidates/{candidate_id}/context"
+      },
+      "update_stage": {
+        "method": "POST",
+        "path": "/api/candidates/{candidate_id}/stage"
+      }
+    },
+    "event_payload_contract": {
+      "required_fields": [
+        "candidate_id",
+        "linkedin_url",
+        "event_type",
+        "direction",
+        "message_text",
+        "event_timestamp_utc",
+        "actor",
+        "channel",
+        "role_hint",
+        "state_after_event"
+      ],
+      "direction_values": [
+        "inbound",
+        "outbound",
+        "system"
+      ]
+    },
+    "idempotency": {
+      "enabled": true,
+      "idempotency_key_format": "{candidate_id}:{event_type}:{event_timestamp_utc}:{hash(message_text)}"
+    },
+    "retry_policy": {
+      "max_retries": 3,
+      "backoff_ms": 1000,
+      "on_failure": "queue_event_and_retry_later"
+    },
+    "safety_rules": [
+      "If backend write fails, mark candidate state as sync_pending.",
+      "Do not send role pitch if latest inbound message not persisted.",
+      "Do not send close message if selected_role is missing in context.",
+      "Block message send if outbound template contains owner contact details before s4_close_and_convert."
+    ]
+  },
+  "onboarding_handoff": {
+    "required_for_handoff": [
+      "candidate_profile",
+      "score_breakdown",
+      "conversation_log",
+      "selected_role",
+      "commitment_hours",
+      "next_call_time"
+    ],
+    "week_1_expectations": {
+      "campus_ambassador": [
+        "Define 1 college growth micro-plan",
+        "Run first activation",
+        "Submit weekly report"
+      ],
+      "marketing_team_member": [
+        "Build first outreach list",
+        "Run first campaign experiment",
+        "Submit KPI snapshot"
+      ]
+    }
+  },
+  "compliance_and_guardrails": {
+    "truthfulness": [
+      "Do not promise fixed pay if not approved",
+      "Do not promise equity unless authorized",
+      "Do not claim unavailable benefits"
+    ],
+    "tone": [
+      "casual but professional",
+      "respectful and non-spammy",
+      "avoid pressure language"
+    ],
+    "brand_constraints": [
+      "Mention only clstr.in"
+    ]
+  },
+  "reporting": {
+    "daily_targets": {
+      "profiles_reviewed": 20,
+      "dms_sent": 20,
+      "positive_replies_target": 6,
+      "qualified_target": 3,
+      "conversions_target": 1
+    },
+    "weekly_metrics": [
+      "response_rate",
+      "qualification_rate",
+      "apply_click_rate",
+      "application_submit_rate",
+      "role_wise_conversion_rate"
+    ]
+  },
+  "state_values": [
+    "new",
+    "scored",
+    "outreached",
+    "replied",
+    "discovering",
+    "pitched",
+    "qualified",
+    "converted",
+    "sync_pending",
+    "nurture",
+    "rejected"
+  ]
+}

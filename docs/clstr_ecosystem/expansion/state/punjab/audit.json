@@ -1,0 +1,192 @@
+[
+  {
+    "college_name": "Chandigarh Group of Colleges",
+    "alternative_names": [
+      "CGC Jhanjeri"
+    ],
+    "aishe_code": "C-48512",
+    "district": "SAS Nagar Mohali",
+    "city": "Mohali",
+    "full_address": "State Highway 12A, Jhanjeri, Mohali, Punjab - 140307",
+    "state_or_union_territory": "Punjab",
+    "affiliated_university": "I.K. Gujral Punjab Technical University",
+    "official_website": "http://www.cgc.ac.in",
+    "emails_found": [
+      "cgc_jhanjeri@yahoo.com",
+      "info@cgc.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "cgc.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://ptu.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "PTU affiliated colleges roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "College administration operates via Yahoo Mail; students are not provided individual institutional email inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4200,
+    "clstr_advantage_score": 12.5,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 9.0,
+    "operational_access_score": 5.0,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 12.5,
+    "youth_eco": 9.0,
+    "dig_adopt": 9.0,
+    "op_access": 5.0,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 72.3,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Chandigarh Group of Colleges (Landran)",
+    "alternative_names": [
+      "Chandigarh Group of Colleges (Landran)"
+    ],
+    "aishe_code": "C-10444",
+    "district": "Sahibzada Ajit Singh Nagar",
+    "city": "Mohali",
+    "full_address": "Chandigarh Group of Colleges (Landran), Mohali, Punjab",
+    "state_or_union_territory": "Punjab",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "https://www.cgc.edu.in",
+    "emails_found": [
+      "info@cgc.edu.in"
+    ],
+    "domains_found": [
+      "cgc.edu.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.ptu.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 5200,
+    "clstr_advantage_score": 14.5,
+    "youth_ecosystem_score": 9.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.5,
+    "youth_eco": 9.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 73.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Chandigarh Group of Colleges (Jhanjeri)",
+    "alternative_names": [
+      "Chandigarh Group of Colleges (Jhanjeri)"
+    ],
+    "aishe_code": "C-10445",
+    "district": "Sahibzada Ajit Singh Nagar",
+    "city": "Mohali",
+    "full_address": "Chandigarh Group of Colleges (Jhanjeri), Mohali, Punjab",
+    "state_or_union_territory": "Punjab",
+    "affiliated_university": "Private Engineering College",
+    "official_website": "https://www.cgc.ac.in",
+    "emails_found": [
+      "info@cgc.ac.in"
+    ],
+    "domains_found": [
+      "cgc.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.ptu.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 4400,
+    "clstr_advantage_score": 14.0,
+    "youth_ecosystem_score": 9.0,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 25.0,
+    "ambassador_adv": 14.0,
+    "youth_eco": 9.0,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 3.0,
+    "nearby_colleges_score": 3.8,
+    "clstr_expansion_score": 72.8,
+    "priority_tier": "TIER_B",
+    "recommended_action": "Secondary anchor campus; recruit cross-college ambassador"
+  },
+  {
+    "college_name": "Guru Nanak Dev Engineering College",
+    "alternative_names": [
+      "Guru Nanak Dev Engineering College"
+    ],
+    "aishe_code": "C-10332",
+    "district": "Ludhiana",
+    "city": "Ludhiana",
+    "full_address": "Guru Nanak Dev Engineering College, Ludhiana, Punjab",
+    "state_or_union_territory": "Punjab",
+    "affiliated_university": "Autonomous Engineering College",
+    "official_website": "https://gndec.ac.in",
+    "emails_found": [
+      "principal@gndec.ac.in"
+    ],
+    "domains_found": [
+      "gndec.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "https://www.ptu.ac.in"
+    ],
+    "source_type": "STATE_REGULATORY_COUNCIL",
+    "verification_date": "2026-09-11",
+    "verification_method": "AICTE / State Technical Directory",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Verified absence of institutional student inboxes; contact handled via public/commercial mail.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 3600,
+    "clstr_advantage_score": 13.0,
+    "youth_ecosystem_score": 8.5,
+    "digital_adoption_score": 8.5,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 22.5,
+    "ambassador_adv": 13.0,
+    "youth_eco": 8.5,
+    "dig_adopt": 8.5,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 64.2,
+    "priority_tier": "TIER_C",
+    "recommended_action": "Feed-driven viral acquisition; student creator partnership"
+  }
+]

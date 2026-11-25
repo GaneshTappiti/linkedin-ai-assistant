@@ -1,0 +1,294 @@
+{
+  "project": "Clstr Vizag Community",
+  "version": "2.0-master-consolidated",
+  "updated_at": "2026-08-21T11:00:00Z",
+  "source_documents": [
+    "Clstr_Community_Playbook_MASTER.docx",
+    "Clstr_Vizag_Community_Team_Playbook.docx",
+    "Clstr_Ambassador_Guidebook_v2.2.docx",
+    "Clstr_12_Month_Events_Plan_v2.docx",
+    "clstr-content-brain.pdf"
+  ],
+  "identity": {
+    "platform_motto": "Your college gets you a degree. Clstr gets you a city.",
+    "community_motto": "Find your team. Vizag is the campus.",
+    "definition": "A verified, cross-college student community for Visakhapatnam, built on two equal pillars: Collaborate (find people who complement your skills) and Socialize (meet people outside your own campus).",
+    "what_we_are_not": [
+      "Not a college club",
+      "Not a noisy WhatsApp group",
+      "Not a placement agency / job board",
+      "Not a media company"
+    ],
+    "expansion_sequencing": "Vizag first (proven small before scaled) -> Andhra Pradesh (12-18 months) -> India (multi-year with event licensing model)."
+  },
+  "competitive_landscape_and_moat": {
+    "competitor_analysis": [
+      {
+        "player": "Student Tribe",
+        "scale": "650k+ members, 500+ colleges nationally",
+        "lack_in_vizag": "No Vizag-specific hyper-local presence"
+      },
+      {
+        "player": "Under25",
+        "scale": "1.2M+ students reached, Collective Artists Network backed",
+        "lack_in_vizag": "Locally generic; needs celebrity budget; not Vizag-native"
+      },
+      {
+        "player": "Edygrad Student Community",
+        "scale": "Active in Vizag, runs bootcamps/hackathons",
+        "lack_in_vizag": "Domain-specific, not a persistent social+collab identity community"
+      },
+      {
+        "player": "GDG Vizag / E-Cell / TiE Vizag",
+        "scale": "Real tech/founder credibility",
+        "lack_in_vizag": "Single-domain (tech/business only), not cross-skill, zero social space"
+      },
+      {
+        "player": "BeInCareer",
+        "scale": "Vizag-native, 200k+ followers, AU Mega Walk-In Drives",
+        "lack_in_vizag": "Pure job listing aggregator; no community, no belonging mechanic, no cross-college identity"
+      },
+      {
+        "player": "College Confession Pages",
+        "scale": "High viral engagement",
+        "lack_in_vizag": "Anonymous, single-college, zero real-world connection or execution"
+      }
+    ],
+    "moat": "Hyper-local Vizag-first identity combined with serving the ~2/3 of students who are socially-driven first, not just the 1/3 collab-hungry segment. Real identity, cross-campus leverage, and physical+digital integration."
+  },
+  "target_audience_segments": {
+    "collab_hungry_pct": 35,
+    "collab_hungry_profiles": "Trapped coders needing designers, designers needing credit, solo creators, student founders running small businesses (thrift, baking, design, trading).",
+    "socially_hungry_pct": 45,
+    "socially_hungry_profiles": "Anxious freshers, commuter students, outstation/non-local students adjusting to Vizag, women navigating hostel curfews seeking safe community, sports/fitness enthusiasts.",
+    "career_skeptical_pct": 20,
+    "career_skeptical_profiles": "Final-years stressed about placements, skeptics burned by dead WhatsApp groups needing proof of real outcomes."
+  },
+  "tracks_and_groups": {
+    "guilds_skill_oriented": [
+      {
+        "name": "Build",
+        "focus": "Developers, engineers, product builders"
+      },
+      {
+        "name": "Design",
+        "focus": "UI/UX, graphic design, 3D, visual arts"
+      },
+      {
+        "name": "Create",
+        "focus": "Content creators, writers, video editors, podcasters"
+      },
+      {
+        "name": "Hustle",
+        "focus": "Aspiring founders, marketers, side-hustlers, traders"
+      },
+      {
+        "name": "Grow",
+        "focus": "Placement-focused, interview prep, career on-ramp"
+      }
+    ],
+    "circles_social_oriented": [
+      {
+        "name": "Foodies",
+        "focus": "Caf\u00e9 hunts, street food crawls, food reviews"
+      },
+      {
+        "name": "Music",
+        "focus": "Jam sessions, musicians, playlists"
+      },
+      {
+        "name": "Gaming",
+        "focus": "Esports, mobile gaming, PC gaming meetups"
+      },
+      {
+        "name": "Fitness & Sports",
+        "focus": "Cricket, football, beach sports, gym crew"
+      },
+      {
+        "name": "Travel & Explore",
+        "focus": "Treks (Simhachalam/Rushikonda), city discovery"
+      },
+      {
+        "name": "Beach Crew",
+        "focus": "Sunrise/sunset walks, beach cleanups, chill hangs"
+      },
+      {
+        "name": "Movies & Anime",
+        "focus": "Watch parties, film discussions, anime clubs"
+      },
+      {
+        "name": "New to Vizag",
+        "focus": "Dedicated support & orientation circle for outstation students"
+      }
+    ]
+  },
+  "ground_realities_and_logistics": {
+    "hostel_curfews": {
+      "gitam": "9:00 PM weekday / 9:30 PM weekend with biometric tracking",
+      "engineering_colleges": "6:00 - 7:00 PM strict curfew, especially for freshers and women hostels",
+      "permission_rules": "Written warden/parental permission required for outings"
+    },
+    "solutions_implemented": {
+      "two_track_timings": "Late afternoon (4:00 - 6:30 PM) for micro-events; Sunday daytime (10:00 AM - 5:00 PM) for major flagships",
+      "permission_slips": "Official-looking Clstr Event Confirmation Pass with venue, timings, and contact details for wardens/parents",
+      "pricing": "Rs 0 - 99 entry fees to remove financial friction"
+    }
+  },
+  "target_colleges_19": {
+    "P0_Home_Anchor": [
+      "Raghu Engineering College",
+      "Andhra University (AU)",
+      "GITAM"
+    ],
+    "P1_Early_Expansion": [
+      "MVGR",
+      "SRKR",
+      "VIIT",
+      "KL University Vizag",
+      "ANITS",
+      "RIT",
+      "NSRIT"
+    ],
+    "P2_Broader_Coverage": [
+      "GVP",
+      "BVRIT",
+      "Avanthi",
+      "Chaitanya",
+      "IIPE",
+      "Pydah",
+      "VIEW",
+      "Sri Chaitanya",
+      "DIET",
+      "Swarnandhra"
+    ]
+  },
+  "team_structure_two_layers": {
+    "layer_1_core_ops": [
+      {
+        "role": "Founder / CEO",
+        "name": "Tappiti (Dev) Ganesh",
+        "focus": "Vision, city-level partnerships, hiring, flagship MC"
+      },
+      {
+        "role": "Community / Collab Lead",
+        "hired_phase": "Phase 0 (Month 1 - Non-negotiable first hire)",
+        "focus": "Daily community pulse, Discord/feed management, Guild/Circle balance, ambassador check-ins"
+      },
+      {
+        "role": "Events & Logistics Coordinator",
+        "hired_phase": "Phase 0 (Month 2)",
+        "focus": "Run-of-show, venue booking, AV, catering, punctuality, budget tracker"
+      },
+      {
+        "role": "Brand & Content Lead",
+        "hired_phase": "Phase 0 (Month 2)",
+        "focus": "Social media, FOMO creation, daily posts, campus creator management"
+      },
+      {
+        "role": "Partnerships & Sponsorship Manager",
+        "hired_phase": "Phase 1 (Month 4 - Once track record exists)",
+        "focus": "Local brand sponsorships, corporate partnerships, stall sales, grant applications"
+      }
+    ],
+    "layer_2_volunteers": [
+      {
+        "role": "Campus Node Coordinators",
+        "count": "1 per college (promoted from top Campus Captain)",
+        "focus": "Permanent campus presence, cross-guild/circle activation"
+      },
+      {
+        "role": "Guild & Circle Leads",
+        "count": "5-8 leads",
+        "focus": "Domain group moderation, weekly prompts, challenges"
+      },
+      {
+        "role": "Community Hype & Content Creators",
+        "count": "3-5 students",
+        "focus": "Raw, phone-shot campus reels and meme content"
+      }
+    ]
+  },
+  "twelve_month_events_calendar": [
+    {
+      "month": 1,
+      "event": "Founding Night",
+      "type": "Invite-only, 60-80 ambassadors & student leaders",
+      "venue": "Raghu (Internal)"
+    },
+    {
+      "month": 2,
+      "event": "Campus Takeover #1",
+      "type": "First public cross-college social hangout",
+      "venue": "Rotates to non-Raghu college"
+    },
+    {
+      "month": 3,
+      "event": "Guild Mixer #1",
+      "type": "Collab-structured speed skill matching (Dev + Designer + Hustler)",
+      "ticket": "Rs 0-49"
+    },
+    {
+      "month": 4,
+      "event": "City Explore / Activity Day",
+      "type": "Beach cleanup, Simhachalam trek, mixed-college sports/cricket",
+      "ticket": "Rs 0"
+    },
+    {
+      "month": 5,
+      "event": "Creator Night",
+      "type": "Showcase & pairing for video editors, visual designers, podcasters",
+      "ticket": "Rs 49"
+    },
+    {
+      "month": 6,
+      "event": "Career Connect 01",
+      "type": "Curated startup & tech recruitment matching",
+      "ticket": "Company sponsored"
+    },
+    {
+      "month": 7,
+      "event": "Beach Day Flagship",
+      "type": "Massive social gathering, photo/reel engine, zero agenda",
+      "ticket": "Rs 0-49"
+    },
+    {
+      "month": 8,
+      "event": "Overseas Education Fair",
+      "type": "Verified study-abroad consultancies, stall sponsorships",
+      "ticket": "Flat sponsor"
+    },
+    {
+      "month": 9,
+      "event": "Build Sprint",
+      "type": "48-72hr hackathon (teams must span 2+ guilds and 2+ colleges)",
+      "ticket": "Sponsored"
+    },
+    {
+      "month": 10,
+      "event": "Career Connect 02",
+      "type": "Expanded second-edition placement and internship connect",
+      "ticket": "Company sponsored"
+    },
+    {
+      "month": 11,
+      "event": "Cultural Fest / Cross-College Showcase",
+      "type": "Music, dance, performance, Circle-driven flagship",
+      "ticket": "Rs 49-99"
+    },
+    {
+      "month": 12,
+      "event": "Clstr Crew Showcase",
+      "type": "Annual Demo Day + Collab Awards + Celebration Afterparty",
+      "ticket": "Flagship"
+    }
+  ],
+  "monetization_and_ethics": {
+    "core_rule": "NEVER sell student data or use per-lead contact bounty models. Sponsors pay for visibility, stalls, and stage presence only.",
+    "sponsorship_tiers": {
+      "title_sponsor": "Rs 15,000 - Rs 50,000 / event (logo, stage slot, social posts)",
+      "associate_sponsor": "Rs 5,000 - Rs 15,000 / event (banner, recap mention)",
+      "community_partner_annual": "Rs 50,000 - Rs 1,00,000 / year (all 12 events, website branding)",
+      "in_kind_sponsor": "Rs 0 cash (covers food, venue, printing, or photography)"
+    }
+  }
+}

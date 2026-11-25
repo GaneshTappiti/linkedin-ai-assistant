@@ -1,0 +1,404 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Dr. Lankapalli Bullayya College of Engineering"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Chaitanya Engineering College"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Sanketika Vidya Parishad Engineering College"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Sai Ganapathi Engineering College"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Viswanadha Institute of Technology and Management"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Al-Aman College of Engineering"
+    },
+    {
+      "city": "Anakapalli",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Avanthi Institute of Engineering and Technology"
+    },
+    {
+      "city": "Anakapalli",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Vizag Institute of Technology"
+    },
+    {
+      "city": "Vijayawada",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "SRK Institute of Technology"
+    },
+    {
+      "city": "Vijayawada",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Nova College of Engineering and Technology"
+    },
+    {
+      "city": "Vijayawada",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Vikas College of Engineering and Technology"
+    },
+    {
+      "city": "Vijayawada",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Nimra College of Engineering and Technology"
+    },
+    {
+      "city": "Vijayawada",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "MVR College of Engineering and Technology"
+    },
+    {
+      "city": "Machilipatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "DJR College of Engineering and Technology"
+    },
+    {
+      "city": "Guntur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Kallam Haranadhareddy Institute of Technology"
+    },
+    {
+      "city": "Guntur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Chalapathi Institute of Engineering and Technology"
+    },
+    {
+      "city": "Guntur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Chebrolu Engineering College"
+    },
+    {
+      "city": "Tenali",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Priyadarshini Institute of Technology and Science"
+    },
+    {
+      "city": "Bapatla",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Bapatla Engineering College"
+    },
+    {
+      "city": "Chirala",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Chirala Engineering College"
+    },
+    {
+      "city": "Macherla",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Newton's Institute of Engineering"
+    },
+    {
+      "city": "Sattenapalli",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Nalanda Institute of Engineering and Technology"
+    },
+    {
+      "city": "Tirupati",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Sri Venkateswara College of Engineering"
+    },
+    {
+      "city": "Tirupati",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Chadalawada Ramanamma Engineering College"
+    },
+    {
+      "city": "Puttur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Siddharth Institute of Engineering & Technology"
+    },
+    {
+      "city": "Tirupati",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Annamacharya Institute of Technology and Sciences"
+    },
+    {
+      "city": "Kuppam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Kuppam Engineering College"
+    },
+    {
+      "city": "Kakinada",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Kakinada Institute of Engineering & Technology"
+    },
+    {
+      "city": "Amalapuram",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "BVC Engineering College"
+    },
+    {
+      "city": "Rampachodavaram",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Lenora College of Engineering"
+    },
+    {
+      "city": "Rajahmundry",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "International School of Technology and Sciences for Women"
+    },
+    {
+      "city": "Nandyal",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Santhiram Engineering College"
+    },
+    {
+      "city": "Kurnool",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Dr. K.V. Subba Reddy Institute of Technology"
+    },
+    {
+      "city": "Yemmiganur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "St. Johns College of Engineering and Technology"
+    },
+    {
+      "city": "Anantapur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Intell Engineering College"
+    },
+    {
+      "city": "Anantapur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "PVKK Institute of Technology"
+    },
+    {
+      "city": "Hindupur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "BIT Institute of Technology"
+    },
+    {
+      "city": "Nellore",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Narayana Engineering College"
+    },
+    {
+      "city": "Gudur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Audisankara College of Engineering and Technology"
+    },
+    {
+      "city": "Nellore",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Priyadarshini College of Engineering"
+    },
+    {
+      "city": "Kadapa",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "KSRM College of Engineering"
+    },
+    {
+      "city": "Rajampet",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Annamacharya Institute of Technology and Sciences"
+    },
+    {
+      "city": "Proddatur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Vaagdevi Institute of Technology and Science"
+    },
+    {
+      "city": "Garividi",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Avanthi's St. Theressa Institute of Engineering and Technology"
+    },
+    {
+      "city": "Bobbili",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Gokul Group of Institutions"
+    },
+    {
+      "city": "Srikakulam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Sri Sivani College of Engineering"
+    },
+    {
+      "city": "Srikakulam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Sri Vaishnavi College of Engineering"
+    },
+    {
+      "city": "Parvathipuram",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Government Degree College, Parvathipuram"
+    },
+    {
+      "city": "Parvathipuram",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Sri Venkateswara Degree & Technical College"
+    },
+    {
+      "city": "Bhimavaram",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "DNR College of Engineering and Technology"
+    },
+    {
+      "city": "Bhimavaram",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Bhimavaram Institute of Engineering and Technology"
+    },
+    {
+      "city": "Eluru",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Sir C.R. Reddy College of Engineering"
+    },
+    {
+      "city": "Ongole",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "QIS College of Engineering and Technology"
+    },
+    {
+      "city": "Ongole",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "RISE Krishna Sai Gandhi Group of Institutions"
+    },
+    {
+      "city": "Ongole",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "PACE Institute of Technology and Sciences"
+    },
+    {
+      "city": "Chirala",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "St. Ann's College of Engineering and Technology"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Avanthi Institute of Engineering and Technology (Tagarapuvalasa)"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Vignan's Institute of Engineering for Women"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "BABA Institute of Technology and Sciences"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Sanketika Institute of Technology and Management"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Nadimpalli Satyanarayana Raju Institute of Technology"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Gonna Institute of Information Technology and Sciences"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Pydah Kaushik College of Engineering"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Avanthi's Research and Technological Academy"
+    },
+    {
+      "city": "Visakhapatnam",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Al-Ameer College of Engineering and Information Technology"
+    },
+    {
+      "city": "Anakapalli",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Dadi Institute of Engineering and Technology"
+    },
+    {
+      "city": "Anakapalli",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Indo American Institutions Technical Campus"
+    },
+    {
+      "city": "Anakapalli",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Avanthi Institute of Engineering and Technology (Makavarapalem)"
+    },
+    {
+      "city": "Vijayawada",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Dhanekula Institute of Engineering and Technology"
+    },
+    {
+      "city": "Vijayawada",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "DVR & Dr. HS MIC College of Technology"
+    },
+    {
+      "city": "Vijayawada",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Potti Sriramulu Chalavadi Mallikarjuna Rao College of Engineering and Technology"
+    },
+    {
+      "city": "Vijayawada",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Amrita Sai Institute of Science and Technology"
+    },
+    {
+      "city": "Vijayawada",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Usha Rama College of Engineering and Technology"
+    },
+    {
+      "city": "Vijayawada",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Andhra Loyola Institute of Engineering and Technology"
+    },
+    {
+      "city": "Guntur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Vasireddy Venkatadri Institute of Technology"
+    },
+    {
+      "city": "Guntur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Narasaraopeta Engineering College"
+    },
+    {
+      "city": "Guntur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "KKR & KSR Institute of Technology and Sciences"
+    },
+    {
+      "city": "Guntur",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Tirumala Engineering College"
+    },
+    {
+      "city": "Parvathipuram",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Government Degree & Engineering Extension Campus, Parvathipuram"
+    },
+    {
+      "city": "Parvathipuram",
+      "state_or_union_territory": "Andhra Pradesh",
+      "college_name": "Sri Venkateswara Technical Institute"
+    }
+  ]
+}

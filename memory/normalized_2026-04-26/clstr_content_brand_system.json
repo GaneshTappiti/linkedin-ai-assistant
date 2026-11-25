@@ -1,0 +1,49 @@
+{
+  "brand": "Clstr",
+  "document_title": "Brand & Content System",
+  "target_audience": "Indian College Students (Undergrad/Postgrad)",
+  "core_philosophy": {
+    "creed": "College isn't remembered because of classrooms. It's remembered because of people. The random conversations. The canteen. The festivals. The last bench. The hostel nights. The clubs. The friendships. The seniors. The memories. Clstr exists to preserve and grow those experiences. We are not building software. We are building belonging.",
+    "brand_motto": "We are the social layer of college life."
+  },
+  "brand_archetype_and_voice": {
+    "personality": "Your best friend, classmate, campus senior, hostel roommate, event organizer, meme page, and college photographer all at once.",
+    "tone": "Casual, natural conversation, humor, memes, emotion, storytelling, curiosity, FOMO, nostalgia, excitement.",
+    "forbidden_tones": "Corporate jargon, HR language, sales speak, feature dumping, tech jargon, advertisement tone."
+  },
+  "content_formula": {
+    "entertainment_pct": 70,
+    "community_pct": 20,
+    "product_pct": 10,
+    "rationale": "Students don't open Instagram to watch ads. They open it to laugh, relate, discover, and connect."
+  },
+  "golden_rules": {
+    "primary_rule": "Never create content that looks like marketing. If it looks like an ad, rewrite it. If it looks like a meme page, you're close. If it looks like a student made it, it's perfect.",
+    "the_content_test": [
+      "Would someone tag a friend?",
+      "Would someone send this to their class WhatsApp group?",
+      "Would someone comment 'This is literally us \ud83d\ude2d'?",
+      "Would this work even if the Clstr logo was removed?"
+    ],
+    "invisible_plumbing_rule": "Features are not what you post about. They are what the story happens inside. Lead with the emotion/story; mention the feature only if it strengthens the punchline."
+  },
+  "platform_playbook": {
+    "instagram_reels": "Relatability & audio trends. Hook in 1 second. No logo intros. Native student trends > branded videos.",
+    "instagram_carousels": "Tag-a-friend and saves. Confessions-style, polls-as-images, 'rate this canteen meal', campus survival tips.",
+    "instagram_stories_whatsapp_status": "Urgency and FOMO. Daily poll results, live event countdowns, repost-friendly bold text graphics.",
+    "youtube_shorts": "Day in my hostel life, mini-documentaries on campus events, mentorship/placement testimonials.",
+    "twitter_x": "Hot takes & campus debates ('Unpopular opinion: college X canteen > college Y canteen'), screenshot-style confession posts.",
+    "whatsapp_groups": "Peer-to-peer forwarding format. Memes, poll results, event reminders styled like a text from a friend."
+  },
+  "content_pillars": [
+    "Campus Memes & Humor",
+    "Hostel Life & Canteen Reviews",
+    "Freshers vs Seniors Dynamics",
+    "Campus Events & Fest FOMO",
+    "Hackathons & Team-Up Stories",
+    "Campus Love Stories & Confessions",
+    "Student Achievements & Hustles",
+    "Alumni Mentorship Stories",
+    "Student Opportunities & Placements"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Ahmedabad",
+      "state_or_union_territory": "Gujarat",
+      "college_name": "Silver Oak College of Engineering and Technology"
+    },
+    {
+      "city": "Surat",
+      "state_or_union_territory": "Gujarat",
+      "college_name": "Sarvajanik College of Engineering and Technology"
+    },
+    {
+      "city": "Ahmedabad",
+      "state_or_union_territory": "Gujarat",
+      "college_name": "L.J. Institute of Engineering and Technology"
+    },
+    {
+      "city": "Vadodara",
+      "state_or_union_territory": "Gujarat",
+      "college_name": "Parul Institute of Engineering and Technology"
+    }
+  ]
+}

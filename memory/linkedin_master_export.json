@@ -1,0 +1,170 @@
+{
+  "export_version": "1.2",
+  "generated_at": "2026-04-26T03:24:20Z",
+  "anonymized": true,
+  "source_profile": "https://www.linkedin.com/in/ganeshtappiti/",
+  "privacy": {
+    "email_redacted": true,
+    "removed_sensitive_fields": ["email"],
+    "retained_public_identifiers": ["public LinkedIn profile URL"]
+  },
+  "summary": {
+    "identity": {
+      "name": "Tappiti (Dev) Ganesh",
+      "headline": "Product Designer & Founder | Aspire Leaders Program Cohort 5 | Unstop Campus Ambassador |",
+      "location": "Visakhapatnam, Andhra Pradesh, India"
+    },
+    "network": {
+      "followers": "1,557",
+      "connections": "500+"
+    },
+    "analytics": {
+      "profile_views": "326",
+      "post_impressions_last_7_days": "1,232",
+      "search_appearances_last_7_days": "33"
+    },
+    "about": "I am Ganesh, a product-first builder and design-minded developer studying CSM at Raghu Engineering College. I enjoy creating practical tools, helping students turn ideas into real projects, and building things that solve problems with or without code."
+  },
+  "activity": {
+    "recent_posts_count": 10,
+    "recent_posts": [
+      {
+        "index": 1,
+        "timestamp": "5d",
+        "topic": "Security fundamentals while building fast",
+        "engagement": {"reactions": 33, "comments": 0, "reposts": 0, "impressions": 832}
+      },
+      {
+        "index": 2,
+        "timestamp": "1w",
+        "topic": "Layoffs to AI-enabled entrepreneurship transition",
+        "engagement": {"reactions": 28, "comments": 0, "reposts": 0, "impressions": 509}
+      },
+      {
+        "index": 3,
+        "timestamp": "1w",
+        "topic": "Vibe coding trade-offs and execution quality",
+        "engagement": {"reactions": 32, "comments": 0, "reposts": 0, "impressions": 645}
+      },
+      {
+        "index": 4,
+        "timestamp": "3w",
+        "topic": "Campus ambassador/operator recruitment for Clstr",
+        "engagement": {"reactions": 50, "comments": 0, "reposts": 0, "impressions": 1235}
+      },
+      {
+        "index": 5,
+        "timestamp": "1mo",
+        "topic": "Clstr featured in Top 10 startups (Vizag cluster)",
+        "engagement": {"reactions": 85, "comments": 2, "reposts": 3, "impressions": 2719}
+      },
+      {
+        "index": 6,
+        "timestamp": "1mo",
+        "topic": "CIC I3 conclave representation and ecosystem networking",
+        "engagement": {"reactions": 138, "comments": 0, "reposts": 0, "impressions": 3492}
+      },
+      {
+        "index": 8,
+        "timestamp": "1mo",
+        "topic": "PWA install flow to remove app-store friction",
+        "engagement": {"reactions": 46, "comments": 1, "reposts": 1, "impressions": 999}
+      },
+      {
+        "index": 10,
+        "timestamp": "1mo",
+        "topic": "Supabase outage response and resilience engineering",
+        "engagement": {"reactions": 34, "comments": 2, "reposts": 1, "impressions": 994}
+      }
+    ],
+    "videos_tab": {
+      "parsed_count": 2,
+      "items": [
+        {
+          "duration": "0:28",
+          "summary": "Motivational short on persistence and mastery.",
+          "tags": ["Motivation", "GrowthMindset", "Resilience"]
+        },
+        {
+          "duration": "0:34",
+          "summary": "Buildtrix.dev RAG prompt generation progress update.",
+          "tags": ["Buildtrix", "RAG", "NoCode", "AI"]
+        }
+      ]
+    },
+    "documents_tab": {
+      "parsed_count": 10,
+      "titles": [
+        "Buildtrix.dev The AI-Powered Innovation Studio",
+        "Selected",
+        "Oracle Certified AI Foundations Associate",
+        "Offer Letter",
+        "Selected for Cohort 4 of the 2025 Aspire Leaders Program",
+        "Selected as VENIX Campus Ambassador IIM Bangalore VCAP 2025",
+        "You're Overwhelmed | A Visual Thought on Mental Clutter",
+        "Innovation Ambassador Training Certified",
+        "Basic outline of the website designed in figma",
+        "Advanced Professional Photoshop Course to Become Expert"
+      ]
+    },
+    "comments_tab": {
+      "parsed_count": 8,
+      "status": "High-depth pass surfaced comment-linked activity entries.",
+      "source_file": "linkedin_high_depth_pass2.json"
+    },
+    "high_depth_pass_2": {
+      "all_tab_items": 14,
+      "comments_tab_items": 8,
+      "videos_tab_items": 0,
+      "documents_tab_items": 0,
+      "notes": [
+        "Pass-2 captured older timeline windows (2mo to 9mo).",
+        "Primary videos/documents entities remain sourced from linkedin_tab_crawl.json."
+      ]
+    }
+  },
+  "profile_details": {
+    "contact": {
+      "public_profile": "linkedin.com/in/ganeshtappiti",
+      "email": null,
+      "email_redacted": true
+    },
+    "experience_count": 7,
+    "education_count": 2,
+    "skills_sample_count": 12
+  },
+  "comparison": {
+    "core_identity": ["Product Designer", "Founder", "Campus Ambassador"],
+    "dominant_content_themes": [
+      "Startup execution and shipping",
+      "Clstr growth and campus network building",
+      "AI-enabled workflows and career transition",
+      "Resilience and operational response"
+    ],
+    "gaps": [
+      "Product design craft is underrepresented in recent content.",
+      "Some duplicate content patterns reduce variety."
+    ],
+    "top_posts_by_impressions": [
+      {"index": 6, "impressions": 3492, "theme": "Conclave + ecosystem representation"},
+      {"index": 5, "impressions": 2719, "theme": "Top 10 startup recognition"},
+      {"index": 4, "impressions": 1235, "theme": "Campus ambassador recruitment"}
+    ]
+  },
+  "prompts": [
+    "Write a weekly founder update with one metric and one question.",
+    "Generate a design+engineering breakdown with problem-decision-outcome format.",
+    "Create a campus growth story for Clstr with 3 tactical takeaways.",
+    "Turn infra incidents into concise resilience case studies.",
+    "Draft AI career-transition posts focused on execution over hype."
+  ],
+  "input_files": [
+    "linkedin_profile_snapshot.json",
+    "linkedin_recent_posts.json",
+    "linkedin_deep_sections.json",
+    "linkedin_comparison_report.json",
+    "linkedin_prompts.json",
+    "linkedin_tab_crawl.json",
+    "linkedin_high_depth_pass2.json"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "version": "1.0.0",
+  "description": "Execution log for Instagram → LinkedIn repurposing runs. Tracks all attempts, successes, and failures.",
+  "created_at": "2026-05-13T23:15:00+05:30",
+  "runs": [
+    {
+      "run_id": "run_20260517_0825",
+      "timestamp": "2026-05-17T08:25:00+05:30",
+      "status": "success",
+      "topic": "15 custom Claude Skills leaked on GitHub - customizing AI agents via terminal",
+      "post_id": 2
+    },
+    {
+      "run_id": "run_20260518_1244",
+      "timestamp": "2026-05-18T12:44:00+05:30",
+      "status": "success",
+      "topic": "Higgsfield MCP integration with Claude for AI video/image models",
+      "post_id": 3
+    },
+    {
+      "run_id": "run_20260528_1224",
+      "timestamp": "2026-05-28T12:24:00+05:30",
+      "status": "success",
+      "published_at": "2026-05-28T07:24:46Z",
+      "topic": "AI is making early hiring a structural disadvantage — solo builders with AI loops beat large teams",
+      "post_id": 5
+    },
+    {
+      "run_id": "run_20260628_1108",
+      "timestamp": "2026-06-28T11:08:43+05:30",
+      "status": "success",
+      "topic": "GPT-5.6 is here, and OpenAI split it into three durable tiers: Sol, Terra, and Luna.",
+      "post_id": 25
+    },
+    {
+      "run_id": "run_20260629_1306",
+      "timestamp": "2026-06-29T13:06:00+05:30",
+      "status": "success",
+      "topic": "Figma Motion launch at Config 2026 - animation timeline and AI prompts.",
+      "post_id": 26
+    },
+    {
+      "run_id": "run_20260630_1107",
+      "timestamp": "2026-06-30T11:07:25+05:30",
+      "status": "success",
+      "topic": "China released 4 free frontier AI models - GLM 5.2, MiniMax M3, Happy Horse, QwenPA.",
+      "post_id": 27
+    },
+    {
+      "run_id": "run_20260701_2211",
+      "timestamp": "2026-07-01T22:11:27+05:30",
+      "status": "success",
+      "topic": "Agent permission fatigue and tool hype vs developer habits.",
+      "post_id": 28
+    },
+    {
+      "run_id": "run_20260703_1518",
+      "timestamp": "2026-07-03T15:18:48+05:30",
+      "status": "success",
+      "topic": "Ornith 1.0 open-source AI coder model release with self-grading workspace capabilities.",
+      "post_id": 29
+    },
+    {
+      "run_id": "run_20260713_0806",
+      "timestamp": "2026-07-13T08:06:34+05:30",
+      "status": "success",
+      "topic": "xAI acquired Cursor - workflow ownership is the front door to AI distribution.",
+      "post_id": 32
+    },
+    {
+      "run_id": "run_20260713_0822",
+      "timestamp": "2026-07-13T08:22:09.657561",
+      "status": "success",
+      "topic": "Higgsfield MCP + Claude: AI app builders generating visual assets live",
+      "post_id": 33
+    },
+    {
+      "run_id": "run_20260722_0006",
+      "timestamp": "2026-07-22T00:06:15+05:30",
+      "status": "success",
+      "topic": "Free browser extension creates shared AI memory across ChatGPT, Claude, Gemini.",
+      "post_id": 37
+    }
+  ]
+}

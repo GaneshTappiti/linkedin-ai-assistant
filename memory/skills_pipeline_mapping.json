@@ -1,0 +1,190 @@
+{
+  "version": "1.0.0",
+  "description": "Maps agency-agents skills to each step of the Instagram → LinkedIn repurposing pipeline. Agent must activate the relevant skill before executing each step.",
+  "created_at": "2026-05-13T23:50:00+05:30",
+  "source_repo": "https://github.com/msitarzewski/agency-agents",
+  "note": "All skills below are already installed in the Antigravity skills directory. No additional installation needed.",
+
+  "pipeline_step_to_skill_mapping": {
+    "step_1_instagram_browsing": {
+      "primary_skill": "agency-instagram-curator",
+      "purpose": "Understand Instagram content formats, engagement patterns, and content analysis methodology",
+      "key_capabilities_used": [
+        "Multi-format mastery (Reels, Static, Carousel identification)",
+        "Algorithm analysis (what makes content perform on Instagram)",
+        "Community feedback patterns (comments, engagement signals)",
+        "Trend analysis for emerging content formats"
+      ]
+    },
+    "step_2_content_analysis": {
+      "primary_skill": "agency-content-creator",
+      "purpose": "Deep content analysis, core insight extraction, and narrative understanding",
+      "key_capabilities_used": [
+        "Content repurposing and platform-specific optimization",
+        "Brand storytelling and narrative development",
+        "Content performance analysis and pattern recognition",
+        "Audience-first planning and cross-platform adaptation"
+      ]
+    },
+    "step_3_linkedin_post_writing": {
+      "primary_skill": "agency-linkedin-content-creator",
+      "secondary_skills": ["agency-social-media-strategist", "agency-brand-guardian"],
+      "purpose": "Write high-performing LinkedIn posts using proven frameworks",
+      "key_capabilities_used": [
+        "Hook engineering with 3 variants (curiosity gap, bold claim, specific story)",
+        "Post construction by type (story, expertise, opinion, data)",
+        "Algorithm optimization (dwell time, save rate, early velocity, native content)",
+        "Voice profile calibration for Ganesh's authentic founder voice",
+        "Formatting rules (1 idea per paragraph, white space, 2-3 line max)",
+        "3-5 specific hashtags, no external links in body",
+        "CTA that invites reply, not broadcast"
+      ],
+      "hook_formulas_from_skill": {
+        "curiosity_gap": "I [did X] and [unexpected result happened].",
+        "bold_claim": "Your [assumption] is why you're not getting [desired outcome].",
+        "specific_story": "[Day], [time]. I'm about to [dramatic action].",
+        "contrarian": "Most people think [X]. It's not. Here's what actually works.",
+        "authority": "[Specific number/result]. Here's exactly how."
+      },
+      "post_types_from_skill": {
+        "story_post": "Specific moment → tension → resolution → transferable insight",
+        "expertise_post": "One thing most people get wrong → correct mental model → proof",
+        "opinion_post": "State take → acknowledge counterargument → defend → invite conversation",
+        "data_post": "Surprising number → why it matters → actionable implication"
+      }
+    },
+    "step_4_image_generation": {
+      "primary_skill": "agency-image-prompt-engineer",
+      "purpose": "Generate LinkedIn-native visual prompts when visual content is needed",
+      "key_capabilities_used": [
+        "Structured prompt construction (subject, environment, lighting, style, technical)",
+        "Professional photography terminology for AI models",
+        "Brand aesthetic alignment for LinkedIn-native visuals",
+        "Minimalist editorial style for founder/tech content"
+      ],
+      "linkedin_image_prompt_template": "[Subject/text] | Dark or clean background | Modern sans-serif typography | Subtle gradient or glow | Editorial composition | LinkedIn-native professional aesthetic | Minimal clutter | 1200x1200 or 1200x628 aspect ratio"
+    },
+    "step_5_brand_consistency": {
+      "primary_skill": "agency-brand-guardian",
+      "purpose": "Ensure every post aligns with Ganesh's brand identity and voice",
+      "key_capabilities_used": [
+        "Brand voice consistency checking",
+        "Messaging alignment across platforms",
+        "Quality gate before publishing"
+      ]
+    },
+    "step_6_social_strategy": {
+      "primary_skill": "agency-social-media-strategist",
+      "purpose": "Cross-platform content strategy and engagement optimization",
+      "key_capabilities_used": [
+        "LinkedIn algorithm optimization for organic reach",
+        "Content cascade: Instagram insight → LinkedIn-adapted version",
+        "Thought leadership positioning for founder audience",
+        "Pre-publish engagement warmup (comment on others' posts first)"
+      ]
+    },
+    "step_7_humanization": {
+      "primary_skill": "linkedin-humanizer",
+      "purpose": "Apply V3 humanizer overlay to AI-generated LinkedIn content",
+      "key_capabilities_used": [
+        "Vocab density control (avoid delve, showcase, paradigm, utilize, leveraging)",
+        "Em-dash cap enforcement (max 1 per 100 words)",
+        "Reveal-bridge blacklist filtering (synergy, game-changing, disruptive, AI-first)",
+        "Pass-2 rhythm rules (sentence variation, contractions, no monotone)",
+        "Pass-4 over-correction guard (prevents excessive humanization)"
+      ],
+      "references": ["memory/humanization_policy.json", "memory/sergebulaev_humanizer_rules.json"]
+    },
+    "step_8_post_writing": {
+      "primary_skill": "linkedin-post-writer",
+      "purpose": "Write LinkedIn posts using Ganesh's tuned H1-H21 hooks + V3 reference library",
+      "key_capabilities_used": [
+        "H1-H21 contrarian/curiosity/pattern interrupt hooks (Ganesh's tuned set)",
+        "sergebulaev_v3_reference F1-F20 formulas (parallel reference library)",
+        "goal_first_picker (select hook based on post goal)",
+        "2026 reach caveats (external links suppressed, AI penalty, max 3 hashtags)",
+        "voice calibration (21yo founder, direct, specific, no corporate fluff)",
+        "formatting rules (1-3 sentences/paragraph, 120-200 words, 1-2 emojis max)",
+        "no external links in body (links go in first comment)",
+        "end with specific engagement question"
+      ],
+      "references": ["memory/linkedin_post_writing_playbook.json", "memory/sergebulaev_hook_library.json"]
+    },
+    "step_9_content_calendar": {
+      "primary_skill": "linkedin-content-planner",
+      "purpose": "Generate 7-day content calendar from theme; runs via --plan flag",
+      "key_capabilities_used": [
+        "Produce linkedin_content_calendar.json with 7-day plan",
+        "Theme-to-topic assignment across 5 pillars",
+        "Pillar rotation (avoid repeat in last 3 posts)",
+        "Hook-type distribution (F1-F20 balanced across week)",
+        "Data caveats alignment (120-word opt, weekday-only, daily cap 1)",
+        "Output markdown table + comment targets + readiness check"
+      ],
+      "references": ["memory/linkedin_content_calendar.json", "memory/sergebulaev_hook_library.json"]
+    },
+    "step_10_comment_drafter": {
+      "primary_skill": "linkedin-comment-drafter",
+      "purpose": "Generate 1-3 comment drafts in Ganesh's voice (T1-T7 templates)",
+      "key_capabilities_used": [
+        "Paste LinkedIn post URL or text → 1-3 drafts",
+        "Ganesh voice matching (loads tone reference + humanization policy)",
+        "T1-T7 templates: data-agreement, tool question, hot-take challenge, personal connection, resource request, contrarian, validation",
+        "No browser, no auto-post — drafts only",
+        "Loads ganesh_real_tone_reference.md before output"
+      ],
+      "references": ["scripts/draft_linkedin_comment.py", "memory/sergebulaev_humanizer_rules.json", "memory/normalized_2026-04-26/ganesh_real_tone_reference.md"]
+    },
+    "step_11_hook_extractor": {
+      "primary_skill": "linkedin-hook-extractor",
+      "purpose": "Classify LinkedIn post hook to F1-F20 with confidence + structural breakdown",
+      "key_capabilities_used": [
+        "Paste LinkedIn post text → formula classification (F1-F20)",
+        "Confidence score (0-1) + structural breakdown",
+        "Blank template for detected formula",
+        "Loads sergebulaev_hook_library.json for template lookup",
+        "Loads ganesh_real_tone_reference.md for voice context"
+      ],
+      "references": ["scripts/extract_hook.py", "memory/sergebulaev_hook_library.json", "memory/normalized_2026-04-26/ganesh_real_tone_reference.md"]
+    }
+  },
+
+  "ganesh_voice_profile": {
+    "source": "agency-linkedin-content-creator skill + ganesh_real_tone_reference.md",
+    "on_voice": [
+      "Here's what most builders get wrong about shipping fast...",
+      "I almost killed our app's security to hit a deadline. Glad I didn't.",
+      "Three tools I use daily for building clstr.in. Not hype. Real stack.",
+      "Hot take: vibe coding works until it doesn't. And you won't know until production."
+    ],
+    "off_voice": [
+      "Excited to share my thoughts on the latest AI developments!",
+      "In today's fast-paced world, innovation is more important than ever.",
+      "Thrilled to announce that we've been working on something amazing.",
+      "Leadership is about empowering others to achieve their best."
+    ],
+    "tone_rules": [
+      "Direct. Specific. A little contrarian. Never cringe.",
+      "Sound like a 21-year-old founder, not a LinkedIn influencer.",
+      "Real stories > generic advice. Numbers > feelings.",
+      "Short sentences. White space. Breathing room.",
+      "End with a question or perspective, never a generic CTA."
+    ]
+  },
+
+  "engagement_playbook": {
+    "source": "agency-linkedin-content-creator + agency-social-media-strategist",
+    "pre_publish": "Spend 10-15 minutes leaving 3-5 substantive comments on relevant posts before publishing your own",
+    "post_publish": "Reply to every comment within the first 60 minutes — this is the algorithm's quality test",
+    "comment_quality": "Never 'Great post!' — always add a genuine extension of the idea or ask a real question",
+    "engagement_targets": "Comment on posts from people 1-2 levels above your audience size in your niche"
+  },
+
+  "algorithm_levers": {
+    "source": "agency-linkedin-content-creator skill",
+    "dwell_time": "Structure content to reward completion — long reads and carousel swipes are quality signals",
+    "save_rate": "Practical, reference-worthy content gets saved — saves outweigh likes in feed scoring",
+    "early_velocity": "First 60 minutes determine distribution — respond fast, respond substantively",
+    "native_content": "Native uploads get 3-5x more reach than posts with external links"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Kolkata",
+      "state_or_union_territory": "West Bengal",
+      "college_name": "Heritage Institute of Technology"
+    },
+    {
+      "city": "Durgapur",
+      "state_or_union_territory": "West Bengal",
+      "college_name": "Dr. B.C. Roy Engineering College"
+    },
+    {
+      "city": "Kolkata",
+      "state_or_union_territory": "West Bengal",
+      "college_name": "Institute of Engineering and Management"
+    },
+    {
+      "city": "Kolkata",
+      "state_or_union_territory": "West Bengal",
+      "college_name": "Techno Main Salt Lake"
+    },
+    {
+      "city": "Kolkata",
+      "state_or_union_territory": "West Bengal",
+      "college_name": "Netaji Subhash Engineering College"
+    }
+  ]
+}

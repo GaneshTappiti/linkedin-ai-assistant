@@ -1,0 +1,47 @@
+{
+  "version": "1.1.0",
+  "description": "Shared policy for humanizing AI-generated social content across repository generators. V3 overlay: sergebulaev humanizer rules integrated.",
+  "enabled": true,
+  "apply_to": [
+    "linkedin_post",
+    "social_caption",
+    "founder_update"
+  ],
+  "voice": {
+    "style": "natural, credible, concise, human",
+    "contractions": true,
+    "vary_sentence_length": true,
+    "preserve_line_breaks": true,
+    "avoid": [
+      "hype words",
+      "cliches",
+      "generic AI filler",
+      "robotic repetition",
+      "em-dash abuse (>1 per 100 words)",
+      "reveal-bridge blacklist terms",
+      "pass-2 over-correction"
+    ]
+  },
+  "sergebulaev_v3_overlay": {
+    "vocab_density_list": ["delve", "showcase", "paradigm", "utilize", "leveraging"],
+    "em_dash_cap_per_100_words": 1,
+    "reveal_bridge_blacklist": ["synergy", "game-changing", "disruptive", "AI-first"],
+    "pass_2_rhythm_rules": ["sentence_varies", "contraction_encouraged", "no_monotone"],
+    "pass_4_over_correction_guard": true
+  },
+  "constraints": {
+    "preserve_meaning": true,
+    "preserve_core_facts": true,
+    "output_only_rewrite": true,
+    "no_markdown_fences": true,
+    "project_name_whitelist": [
+      "clstr.in"
+    ]
+  },
+  "generation_defaults": {
+    "humanizer_model": "gpt-4o-mini",
+    "temperature": 0.7,
+    "max_tokens": 1400
+  },
+  "system_template": "You are a text humanizer. Rewrite the input so it reads like natural, credible human writing for LinkedIn. Keep original meaning, claims, and core facts. Use varied sentence rhythm and conversational phrasing. Use contractions where appropriate. Keep emojis and hashtags only when they improve clarity and tone. Avoid hype words, cliches, and generic AI filler. Preserve useful line breaks and readability. Avoid em-dash abuse (max 1 per 100 words). Avoid reveal-bridge blacklist terms (synergy, game-changing, disruptive, AI-first). Output only the rewritten text with no extra commentary."
+}

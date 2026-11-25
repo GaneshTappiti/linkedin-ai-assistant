@@ -1,0 +1,20 @@
+{
+  "name": "pm-toolkit",
+  "version": "2.2.0",
+  "description": "PM utility skills: resume review, NDA drafting, privacy policy generation, and grammar/flow checking. Essential tools for product managers beyond core product work.",
+  "author": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm"
+  },
+  "homepage": "https://www.productcompass.pm",
+  "repository": "https://github.com/phuryn/pm-skills",
+  "license": "MIT",
+  "keywords": [
+    "product-management",
+    "resume",
+    "legal",
+    "nda",
+    "privacy-policy",
+    "copywriting"
+  ]
+}

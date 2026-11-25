@@ -1,0 +1,28 @@
+I surveyed 280 student founders building on Indian campuses in May 2026.
+
+Here's the actual tech stack they're using to ship products right now
+
+📊 ChatGPT / Claude — 91%
+📊 Cursor / Windsurf — 84%
+📊 Notion / Google Docs — 78%
+📊 Figma / Canva — 72%
+📊 GitHub Copilot — 68%
+📊 Vercel / Railway — 61%
+📊 Firebase / Supabase — 54%
+📊 Stripe / Razorpay — 47%
+📊 LangChain / CrewAI — 38%
+📊 Framer / Webflow — 31%
+
+One thing became very obvious after going through this data:
+
+The gap between what colleges teach and what student founders actually use is massive.
+
+No college is teaching Cursor. No syllabus covers Supabase. Nobody's grading you on deploying to Vercel.
+
+But the students actually shipping products? They've already moved on.
+
+I see this every day building clstr.in — the ones who ship don't wait for permission from a curriculum.
+
+Are you building with what your college teaches or what the market actually uses?
+
+#BuildInPublic #StudentFounders #AITools

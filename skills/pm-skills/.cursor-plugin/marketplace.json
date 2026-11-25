@@ -1,0 +1,67 @@
+{
+  "name": "pm-skills",
+  "owner": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm"
+  },
+  "metadata": {
+    "description": "Structured AI workflows for better product decisions. 69 domain-specific skills and 42 chained workflows across 9 PM plugins — from discovery to strategy, execution, launch, growth, and shipping AI-built software.",
+    "version": "2.2.0"
+  },
+  "plugins": [
+    {
+      "name": "pm-product-discovery",
+      "source": "pm-product-discovery",
+      "description": "Product discovery skills for PMs: ideation, experiments, assumption testing, feature prioritization, and customer interview synthesis.",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-product-strategy",
+      "source": "pm-product-strategy",
+      "description": "Product strategy skills for PMs: vision, strategy canvas, value propositions, lean canvas, business model canvas, SWOT, PESTLE, Ansoff Matrix, Porter's Five Forces, and monetization.",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-execution",
+      "source": "pm-execution",
+      "description": "Execution and product management skills: PRDs, OKRs, roadmaps, sprints, pre-mortems, stakeholder maps, user stories, prioritization frameworks, and more.",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-market-research",
+      "source": "pm-market-research",
+      "description": "Market research skills for PMs: user personas, market segmentation, sentiment analysis, and competitive analysis.",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-data-analytics",
+      "source": "pm-data-analytics",
+      "description": "Data analytics skills for PMs: SQL query generation and cohort analysis. Analyze user data, generate queries, and identify retention patterns.",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-go-to-market",
+      "source": "pm-go-to-market",
+      "description": "Go-to-market skills for PMs: GTM strategy, growth loops, GTM motions, beachhead segments, and ideal customer profiles.",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-marketing-growth",
+      "source": "pm-marketing-growth",
+      "description": "Product marketing and growth skills: marketing ideas, value proposition statements, North Star metrics, product naming, and positioning.",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-toolkit",
+      "source": "pm-toolkit",
+      "description": "PM utility skills: resume review, NDA drafting, privacy policy generation, and grammar/flow checking. Essential tools for product managers beyond core product work.",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-ai-shipping",
+      "source": "pm-ai-shipping",
+      "description": "AI Shipping Kit — for PMs and founders accountable for AI-built code. Document a vibe-coded app, review it for correctness, security and performance defects, and produce a reviewer-ready shipping packet.",
+      "category": "product-management"
+    }
+  ]
+}

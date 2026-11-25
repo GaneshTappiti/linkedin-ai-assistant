@@ -1,0 +1,24 @@
+{
+  "colleges_without_official_email": [
+    {
+      "city": "Bhopal",
+      "state_or_union_territory": "Madhya Pradesh",
+      "college_name": "Lakshmi Narain College of Technology"
+    },
+    {
+      "city": "Indore",
+      "state_or_union_territory": "Madhya Pradesh",
+      "college_name": "Acropolis Institute of Technology and Research"
+    },
+    {
+      "city": "Bhopal",
+      "state_or_union_territory": "Madhya Pradesh",
+      "college_name": "Oriental Institute of Science and Technology"
+    },
+    {
+      "city": "Bhopal",
+      "state_or_union_territory": "Madhya Pradesh",
+      "college_name": "Technocrats Institute of Technology"
+    }
+  ]
+}

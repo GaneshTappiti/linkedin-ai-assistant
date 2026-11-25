@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "title": "Build the Student Layer of Vizag",
+    "created": 1787478693.975,
+    "last_updated": 1787479280.852,
+    "total_slides": 10
+  },
+  "slides": [
+    {
+      "id": "cover",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "student_city",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "not_another_club",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "community_product",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "clstr_layer",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "many_ways",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "campus_nodes",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "core_team",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "expectations",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "first_90_days",
+      "state": "edited",
+      "pageNum": 10
+    }
+  ],
+  "outline": [
+    {
+      "id": "cover",
+      "title": "Build the Student Layer of Vizag",
+      "summary": "Join the Clstr Core Team. Clstr is the student community; clstr.in is the layer that connects it.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "student_city",
+      "title": "Vizag Has Campuses. Students Need a City.",
+      "summary": "Explain the student problem: campus boundaries limit belonging, collaboration, experiences and opportunities.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "not_another_club",
+      "title": "Clstr Is Not Another Club",
+      "summary": "Show how Clstr differs from domain-specific communities by beginning with the wider identity of being a student in Vizag.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "community_product",
+      "title": "The Community Is the Product",
+      "summary": "Clarify that Clstr is a living community supported by technology, with belonging, building and growth as the core value.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "clstr_layer",
+      "title": "clstr.in Makes the Difference Real",
+      "summary": "Explain clstr.in as the persistent identity, discovery, continuity and measurement layer that differentiates the community.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "many_ways",
+      "title": "One Community. Many Ways to Belong.",
+      "summary": "Present the community paths: social hangouts, Circles, Guilds, Creator Space, Career Connect and events.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "campus_nodes",
+      "title": "We Are Building From Every Campus",
+      "summary": "Explain campus ambassadors as community nodes responsible for trusted distribution, insight, participation and continuity.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "core_team",
+      "title": "The Core Team Owns the Machine",
+      "summary": "Present the core-team functions and the expectation that members own outcomes rather than titles.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "expectations",
+      "title": "What We Expect From Core Team Members",
+      "summary": "Set clear standards for weekly contribution, honesty, student-first behavior, accountability and realistic rewards.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "first_90_days",
+      "title": "The First 90 Days Will Prove Who We Are",
+      "summary": "Show the 30/60/90-day execution plan and close with the invitation to join the Clstr Core Team.",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}

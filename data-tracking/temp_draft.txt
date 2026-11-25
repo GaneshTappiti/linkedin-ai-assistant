@@ -1,0 +1,28 @@
+The .edu email requirement is an American myth.
+
+In India, it locks out 2M+ college students.
+
+Silicon Valley assumes every undergrad gets a campus inbox on day one.
+That's false here.
+Over 78% of Indian private college students only have a personal Gmail.
+
+If you force an institutional domain, you lock out the hungriest student builders across Tier-2 and Tier-3 campuses before screen one.
+
+We hit that wall immediately.
+
+We couldn't drop verification either.
+Unverified campus networks turn into spam boards in 48 hours.
+We refused that.
+
+So we built three separate onboarding paths into clstr.in:
+
+→ Tier 1 (Direct Domain): Official college email verified via OTP in 20 seconds.
+→ Tier 2 (No-Edu Path): Personal Gmail signup + phone check via libphonenumber + matched against our 367KB registry of non-edu colleges, keeping accounts read-only while we review student IDs.
+→ Tier 2 (Spectator Mode): Freshers waiting for an ID card can explore campus clubs and fests without pretending to be verified.
+
+You don't solve trust in India by copying American product playbooks.
+You solve it by building for how our colleges actually work.
+
+If you're building for students here, how do you handle the identity gap?
+
+#BuildInPublic #Startups

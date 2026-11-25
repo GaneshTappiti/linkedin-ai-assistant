@@ -1,0 +1,222 @@
+{
+  "version": "1.1.0",
+  "last_synced_at": "2026-11-14T08:15:00+05:30",
+  "founder_profile": {
+    "full_name": "Tappiti (Dev) Ganesh",
+    "known_as": "Ganesh Tappiti",
+    "current_status": "Founder & CEO, Clstr | Product Designer & Full-Stack Builder",
+    "academics": {
+      "college": "Raghu Engineering College (Autonomous)",
+      "branch": "Computer Science & Management (CSM)",
+      "batch": "2023 - 2027",
+      "location": "Dakamarri / Visakhapatnam, Andhra Pradesh, India"
+    },
+    "credentials_and_leadership": [
+      "Aspire Leaders Program (Cohort 5)",
+      "Unstop Campus Ambassador",
+      "Lead of College Branding & Design Team (16 members)",
+      "Graphic Design Head & Photography Club Lead",
+      "Former Startup Club Coordinator"
+    ],
+    "core_skills": [
+      "Product Design & Systems (Figma, Adobe XD, Design Systems)",
+      "Full-Stack Web & Mobile (React, TypeScript, Tailwind CSS, Flutter, Firebase, Supabase, PostgreSQL RLS)",
+      "Advanced Prompt Engineering & Agent Systems",
+      "Campus Community Organizing & Event Operations"
+    ],
+    "values_and_working_style": [
+      "Emotional honesty: no corporate fluff, no fake bravado",
+      "Adversarial thinking: always ask 'what could go wrong?'",
+      "Privacy-first: zero student contact data brokering",
+      "Technical integrity: mobile-first, strict RLS, no client-side security shortcuts",
+      "Execution-first: stop endless strategy docs; measure retention, repeat attendees, and cash flow"
+    ]
+  },
+  "ventures": {
+    "clstr": {
+      "brand": "CLSTR",
+      "taglines": [
+        "Your college gets you a degree. Clstr gets you a city.",
+        "Find your people. Vizag is the campus."
+      ],
+      "trinity_architecture": {
+        "digital_core": {
+          "domain": "clstr.in",
+          "repo": "clstr.network",
+          "tech_stack": "React 18.3, Vite (SWC), Tailwind CSS 3.4, TanStack Query v5, Supabase (PostgreSQL RLS), Vercel CDN",
+          "purpose": "Verified social OS for college students. Campus feeds, direct messaging, verified clubs, CollabHub (hackathon/startup teams), mentor slots, and EcoCampus P2P marketplace.",
+          "verification_engine": {
+            "tier_1": "Institutional academic email OTP (.ac.in / .edu) with alias resolution (e.g., @au.edu.in = Andhra University).",
+            "tier_2": "Personal email + mobile OTP against audited no_edu_colleges database (covering 36 Indian states/UTs).",
+            "spectator_mode": "Allows browsing feeds and RSVPing to events while awaiting email provision; prevents posting, messaging, commenting, or selling via database RLS triggers."
+          }
+        },
+        "ground_community": {
+          "domain": "vizag.clstr.in",
+          "repo": "vizag.clstr-website",
+          "tech_stack": "TanStack Start (SSR), React 19, Tailwind CSS v4.2, Nitro, Lenis, Framer Motion, Cloudflare Workers",
+          "purpose": "Hyper-local offline student movement across 19 beachhead Visakhapatnam engineering colleges.",
+          "participation_tracks": {
+            "guilds": ["Code & AI Guild", "Design & UI/UX Guild", "Product & Founder Guild", "Creator Guild"],
+            "circles": ["Sunset Beach Socials (RK Beach/Rushikonda)", "Music & Jamming Circle", "Sports & Box Turf Circle", "Book & Philosophy Circle"]
+          },
+          "logistical_doctrines": {
+            "curfew_rule": "Over 65% of female hostel students in Vizag have 5:30 PM to 7:00 PM curfews. All public events run Sundays 1:30 PM - 5:30 PM; never past 6:00 PM.",
+            "neutral_venue_rotation": "Events rotate across neutral venues (Dr. L. Bullayya, A-Hub, public beaches) so Clstr is never seen as a single-college initiative."
+          }
+        },
+        "ticketing_engine": {
+          "domain": "spark.clstr.in",
+          "repo": "Ticket-Platform",
+          "tech_stack": "TanStack Start (SSR), React 19, Tailwind CSS v4.2, Web Workers, HTML5 Canvas QR, Vercel / Cloudflare",
+          "features": [
+            "Dynamic 60s rolling HMAC-SHA256 QR code preventing ticket screenshot fraud",
+            "Offline-first gate scanner using IndexedDB for zero-latency venue check-ins",
+            "Batch Web Worker PDF certificate generation and zip archiving",
+            "Automated ticket and certificate dispatch via WhatsApp Business API and Resend"
+          ],
+          "club_promise": "100% free for college student clubs and fest committees (the Trojan horse acquisition wedge)."
+        }
+      },
+      "traction_and_metrics_truth": {
+        "verified_users_total": "575 registered students (495 at Raghu beachhead anchor, 80 across 46 network colleges)",
+        "active_campus_nodes": 47,
+        "verified_colleges_count": 45,
+        "unverified_colleges_count": 2,
+        "flagged_colleges_count": 0,
+        "beachhead_anchor": "Raghu Engineering College (495 users, 86.1% local density)",
+        "top_satellite_colleges": [
+          "GITAM Deemed (12)",
+          "ANITS (10)",
+          "MVGR (5)",
+          "VIT Vellore (3)",
+          "GVPCE (3)",
+          "Vignan VIIT (3)",
+          "AKGEC Ghaziabad (2)",
+          "VIT-AP (2)",
+          "SRKREC (2)",
+          "NSRIT (2)"
+        ],
+        "active_colleges": [
+          "Raghu Engineering College",
+          "GITAM Deemed",
+          "ANITS",
+          "MVGR",
+          "GVPCE",
+          "Vignan (VIIT/VIEW)",
+          "NSRIT",
+          "SRKREC",
+          "Andhra University",
+          "VIT-AP",
+          "SRM AP",
+          "KL University",
+          "Lendi",
+          "VNIT Nagpur",
+          "NIT Durgapur",
+          "IIITDM Kancheepuram",
+          "BITS Pilani Digital",
+          "VIT Vellore",
+          "Shiv Nadar University",
+          "AKGEC",
+          "IEM Kolkata"
+        ],
+        "flagship_event_proof": {
+          "event_name": "Garba Night ('7 colleges. One circle.')",
+          "date": "October 17, 2026",
+          "venue": "Reagan Function Hall, Ram Nagar, Vizag",
+          "ticket_price_inr": 349,
+          "registrations_total": 88,
+          "paid_tickets": 81,
+          "free_tickets": 7,
+          "refunds": 0,
+          "gross_ticket_sales_inr": 33000,
+          "total_event_expenses_inr": 45000,
+          "net_loss_inr": 12000,
+          "critical_lesson": "Ran on Konfhub instead of Spark. Proved students will pay ₹349 for high-vibe cross-college connection, but future events must run on Spark and secure ₹15k title sponsors to ensure net positive cash flow."
+        }
+      },
+      "raghu_mou_v5_binding_rules": {
+        "incorporation": "Must incorporate as Pvt Ltd or LLP within 90 days of MOU execution (Section 14.1).",
+        "compliance_deliverables": "Deliver ToS, Privacy Policy, sub-processor list (Supabase AWS Mumbai, Vercel, Cloudflare, Resend), and independent security audit summary before mass student onboarding (Section 9.6).",
+        "insurance": "Procure cyber and public liability insurance within 6 months of incorporation (Section 14.4).",
+        "privacy_covenant": "Strictly no student data selling, no commercial lead brokering to coaching centers.",
+        "ticket_pricing_rule": "Zero profit markups on student ticket prices for partner campus events."
+      },
+      "business_model": {
+        "revenue_streams": [
+          {
+            "stream": "Flagship Experience Events",
+            "payer": "College students",
+            "pricing": "₹249 to ₹349 per ticket",
+            "margin": "Targeting 25-35% net margin with title sponsors covering fixed venue costs."
+          },
+          {
+            "stream": "Brand Experience Sponsorships",
+            "payer": "Local cafes, study-abroad consultants, coding academies, lifestyle brands",
+            "pricing": "₹10,000 to ₹25,000 flat fee per event",
+            "deliverable": "Physical stage mention, branded sampling stalls, logo on digital tickets. NEVER student phone lists."
+          },
+          {
+            "stream": "Commercial Spark Ticketing",
+            "payer": "External commercial event organizers (comedy clubs, music fests, box turf leagues)",
+            "pricing": "3.5% + ₹5 per ticket sold",
+            "deliverable": "Rolling QR ticketing, fraud protection, offline gate check-in."
+          },
+          {
+            "stream": "Sponsored Hackathon & Hiring Bounties",
+            "payer": "Tech employers and startups",
+            "pricing": "₹15,000 to ₹50,000 per track",
+            "deliverable": "Pre-vetted student candidate submissions with verified GitHub/portfolio."
+          }
+        ]
+      },
+      "behavioral_psychology_guardrails": {
+        "strictly_banned": [
+          "Anonymous campus feeds / Campus Lore / confessions (violates institutional trust and Raghu MOU)",
+          "Phantom curiosity notifications (invented 'someone viewed you' alerts)",
+          "Hostel/dorm location displays on event guest lists (safety hazard for female students with curfews)"
+        ],
+        "approved_mechanisms": [
+          "Real-inventory countdowns and scarcity meters in Spark checkout",
+          "Opt-in, connections-only attendee facepiles ('Who's Pulling Up')",
+          "Post-event 'Who You Met' reciprocal connection prompts 2 hours after event check-in",
+          "Hackathon team-up countdown alerts when registration deadlines approach"
+        ]
+      },
+      "expansion_roadmap": {
+        "phase_1": {
+          "territory": "Visakhapatnam (Launch Anchor)",
+          "colleges_target": 15,
+          "core_student_population": 30600,
+          "gate_condition": "5 of 15 colleges hit 5-Point Activation Floor for 2 consecutive 6-week cycles, ≥30% repeat event attendance, 2 paid sponsors, and company incorporated."
+        },
+        "phase_2": {
+          "territory": "AP Coastal Tech Corridor (Vizag ↔ Vijayawada ↔ Guntur)",
+          "colleges_target": 33,
+          "student_population": 75200,
+          "advantage": "Shared JNTUK / Acharya Nagarjuna University exam schedules and 4-hour railway transit."
+        },
+        "phase_3": {
+          "territory": "Top 5 Engineering States (Hyd Outer Ring, Chennai/Coimbatore, Pune Outer Ring, Bengaluru Suburbs)",
+          "colleges_target": 65,
+          "student_population": 216000
+        },
+        "phase_4": {
+          "territory": "Pan-India 36 States & UTs (1,200+ Colleges using 367KB no_edu_colleges database)",
+          "colleges_target": 1200,
+          "student_population": 2500000
+        }
+      }
+    },
+    "scollab": {
+      "vision": "AI-powered academic hub with institutional verification, smart textbook PDF retrieval, study rooms, and performance analytics.",
+      "goal": "Y Combinator application",
+      "stage": "MVP validation"
+    },
+    "buildtrix": {
+      "vision": "AI-powered MVP builder for non-technical startup founders (2-week sprint roadmaps, investor pitch scripts, validation testing).",
+      "stage": "MVP complete, submitted to YUKTI"
+    }
+  }
+}
+

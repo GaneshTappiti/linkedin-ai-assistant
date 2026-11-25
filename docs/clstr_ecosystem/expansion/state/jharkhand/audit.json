@@ -1,0 +1,51 @@
+[
+  {
+    "college_name": "Cambridge Institute of Technology",
+    "alternative_names": [
+      "CIT Tatisilwai Ranchi"
+    ],
+    "aishe_code": "C-14510",
+    "district": "Ranchi",
+    "city": "Ranchi",
+    "full_address": "Tatisilwai, Ranchi, Jharkhand - 835103",
+    "state_or_union_territory": "Jharkhand",
+    "affiliated_university": "Jharkhand University of Technology",
+    "official_website": "http://www.citranchi.ac.in",
+    "emails_found": [
+      "cit_ranchi@yahoo.com",
+      "principal@citranchi.ac.in"
+    ],
+    "domains_found": [
+      "yahoo.com",
+      "citranchi.ac.in"
+    ],
+    "domain_classification": "PUBLIC_EMAIL_ONLY",
+    "source_urls": [
+      "http://jutranchi.ac.in"
+    ],
+    "source_type": "UNIVERSITY_AFFILIATION_PORTAL",
+    "verification_date": "2026-09-11",
+    "verification_method": "JUT Ranchi affiliated roster inspection",
+    "confidence_level": "HIGH",
+    "reason_for_inclusion": "Administrative operations handled via Yahoo Mail; students lack institutional inboxes.",
+    "duplicate_status": "UNIQUE",
+    "student_population": 2600,
+    "clstr_advantage_score": 11.0,
+    "youth_ecosystem_score": 8.0,
+    "digital_adoption_score": 8.0,
+    "operational_access_score": 4.5,
+    "strategic_fit_score": 5.0,
+    "pop_score": 16.2,
+    "ambassador_adv": 11.0,
+    "youth_eco": 8.0,
+    "dig_adopt": 8.0,
+    "op_access": 4.5,
+    "strat_fit": 5.0,
+    "is_target": true,
+    "city_density_score": 1.0,
+    "nearby_colleges_score": 1.2,
+    "clstr_expansion_score": 54.9,
+    "priority_tier": "TIER_D",
+    "recommended_action": "Digital marketing & inter-college event invitations"
+  }
+]
